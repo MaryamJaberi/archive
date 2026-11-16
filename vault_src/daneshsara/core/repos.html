@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>مخزن‌های تازه | هستهٔ مشترک | دانش‌سرا</title>
+<meta name="description" content="شش مخزن بازساخته با تاریخچهٔ پاک: چه عوض شد، چه چیزی از مخزن بیرون رفت، و چه قدم‌هایی مانده.">
+<link rel="stylesheet" href="design/tokens.css">
+<link rel="stylesheet" href="design/tokens.css">
+</head>
+<body>
+<main class="wrap">
+<h1>مخزن‌های تازه (آبان ۱۴۰۵ / نوامبر ۲۰۲۶)</h1>
+<p class="lead">شش مخزن از نو ساخته شد: تاریخچهٔ تک‌کامیتی، بدون کلید و بدون بسته‌های ساخته‌شده، با قواعد دسترسی بازنویسی‌شده. مخزن‌های قدیمی پاک می‌شوند.</p>
+
+<h2>نقشهٔ مخزن‌ها</h2>
+<table>
+<thead><tr><th>قدیمی</th><th>تازه</th><th>فایل</th></tr></thead>
+<tbody>
+<tr><td>ganjoor-no</td><td>ganjoor-no-new</td><td>۲۷</td></tr>
+<tr><td>Dour</td><td>Dour-new</td><td>۴۵</td></tr>
+<tr><td>Mafia</td><td>Mafia-new</td><td>۸۷</td></tr>
+<tr><td>simorgh</td><td>simorgh-new</td><td>۵۲</td></tr>
+<tr><td>Language-Learning-Party-Game</td><td>Language-Learning-Party-Game-new</td><td>۳۳۶</td></tr>
+<tr><td>earth-through-time + chrono-atlas</td><td>earth-through-time-new</td><td>۸۱</td></tr>
+</tbody>
+</table>
+
+<h2>چه چیزی از مخزن‌ها بیرون رفت</h2>
+<ul>
+<li><b>کلید امضای اندروید</b> — release.key، release.crt و release.keystore در مخزن عمومی بودند، همراه با رمزهایشان در build.gradle. هر سه از مخزن و از تاریخچه بیرون رفتند و در .gitignore نشستند.</li>
+<li><b>رمزهای امضا</b> — از build.gradle به key.properties منتقل شدند (در مخزن نیست). ساخت debug دیگر با کلید release امضا نمی‌شود.</li>
+<li><b>بسته‌های ساخته‌شده</b> — پنج فایل APK/AAB/idsig از public/downloads برداشته شد.</li>
+<li><b>نشانی شخصی</b> — فهرست ادمین از متغیر محیطی VITE_ADMIN_EMAILS خوانده می‌شود؛ صادرات فهرست درایو (با نام، نشانی و شناسه‌های درایو) حذف شد.</li>
+<li><b>قواعد فایراستور</b> — ادمین با custom claim تعیین می‌شود، نه با ایمیل نوشته‌شده در قاعده. اتاق‌ها فقط برای میزبان و بازیکنان همان اتاق نوشتنی‌اند. صف جور کردن بازی از «همه بنویسند» به «هر کس بلیت خودش» تغییر کرد.</li>
+</ul>
+
+<h2>کلید لو‌رفته: پاک‌کردن کافی نیست</h2>
+<p class="note">کلید امضای اندروید مدتی عمومی بوده است. تنها راه درست <b>عوض کردن کلید</b> است: اگر اپ در Play منتشر شده، از Play Console → Setup → App integrity درخواست key upgrade؛ اگر منتشر نشده، کلید تازه بساز و هر بستهٔ ساخته‌شده با کلید قدیمی را دور بینداز. روش کامل در SECURITY.md همان مخزن نوشته شده.</p>
+
+<h2>دو مخزن که یکی شدند</h2>
+<p>chrono-atlas یک نمونهٔ React بود که هیچ‌وقت ساخته و منتشر نشد (نشانی‌اش همیشه ۴۰۴ می‌داد). داده‌هایش به JSON تبدیل و در <code>data/atlas/</code> مخزن تازه گذاشته شد تا سایت زنده بتواند بدون React از آن استفاده کند؛ خود کد در <code>prototype/</code> به‌عنوان مرجع طراحی ماند. رابط آن نمونه «۲۸ دوره و ۹۸ رویداد» می‌گفت در حالی که داده‌اش ۹ سلسله دارد — این عدد پشتوانه ندارد و در README همان پوشه هشدار داده شده.</p>
+
+<h2>چه چیزی هنوز در مخزن عمومی است و عمدی است</h2>
+<ul>
+<li><b>کلیدهای وب فایربیس</b> (firebase-applet-config.json) — شناسهٔ عمومی‌اند، نه رمز. چیزی که از داده محافظت می‌کند قواعد فایراستور است.</li>
+<li><b>نشانی تماس در صفحهٔ حریم خصوصی</b> — در privacy.html و server.ts مانده؛ یک سیاست حریم خصوصی به یک راه تماس واقعی نیاز دارد. اگر نشانی دیگری می‌خواهی، بگو تا عوض شود.</li>
+<li><b>نام سازنده</b> در گنجور نو — امضای خودت روی کار خودت است، همان که در پورتفولیو هم هست.</li>
+</ul>
+
+<h2>قدم‌های مانده</h2>
+<ol>
+<li>مخزن‌های قدیمی را پاک کن (شش مخزن + chrono-atlas).</li>
+<li>هر مخزن تازه را به نام قدیمی تغییر نام بده. گیت‌هاب از نشانی -new به نام تازه هدایت می‌کند، پس پیوندهای پورتفولیو در هر دو حالت کار می‌کنند.</li>
+<li>برای مخزن‌هایی که سایت زنده داشتند (ganjoor-no، earth-through-time) GitHub Pages را دوباره روشن کن: Settings → Pages → Branch: main.</li>
+<li>کلید امضا را عوض کن (بالا).</li>
+</ol>
+</main>
+</body>
+</html>

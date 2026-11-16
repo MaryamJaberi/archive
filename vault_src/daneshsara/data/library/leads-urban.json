@@ -1,0 +1,30 @@
+{
+ "topic": "شهرسازی، حاشیه‌نشینی، خطر زلزله، خانه‌های خالی",
+ "received": "2026-11-15",
+ "verified": [
+  {
+   "title": "Fathollahi et al. 2020, Prevalence of Non-Engineered Buildings and Population at Risk… Farahzad, Tehran. Iranian J Public Health 49(1):114–124",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7152627/",
+   "access": "free",
+   "note": "۱۶۰ ساختمان، ۲۰۹ خانوار، ۹۵۷ نفر؛ هیچ ساختمانِ مهندسی‌ساز؛ ۹۴٫۳٪ خانوارها آمادگیِ صفر"
+  },
+  {
+   "title": "Kamranzad, Memarian & Zare 2020, Earthquake Risk Assessment for Tehran, Iran. ISPRS IJGI 9(7):430",
+   "url": "https://www.mdpi.com/2220-9964/9/7/430",
+   "access": "free"
+  },
+  {
+   "title": "Bastani et al. 2024, Assessing the resilience of informal urban settlements against earthquakes: Mashhad. Natural Hazards 120(5):4507–4526",
+   "url": "https://link.springer.com/article/10.1007/s11069-023-06381-4",
+   "access": "abstract free"
+  }
+ ],
+ "unverified": [
+  "Ghaedrahmati & Rezapour, Vacant Housing in Tehran (Cities 2026) — پیدا نشد",
+  "گزارش‌های report.mrc.ir — سایت به‌روی ابزار من بسته؛ PDF لازم",
+  "Tabriz WASPAS/ELECTRE, District 20 Tehran, Sepehr 2025 — هنوز چک نشده",
+  "UN-Habitat / World Bank Iran informal settlements — هنوز چک نشده",
+  "Arefi 2018 Springer — کتاب"
+ ],
+ "caution": "یکی از فهرست‌ها Sci-Hub را پیشنهاد کرده؛ استفاده نمی‌کنیم."
+}

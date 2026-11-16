@@ -1,0 +1,205 @@
+{
+ "id": "simorgh:library-transition",
+ "kind": "concept",
+ "title": {
+  "fa": "کتابخانه: گذار از اینجا به آنجا",
+  "en": "Library: transition from here to there",
+  "nl": "Library: transition from here to there"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "منابعِ تجربی و نظریِ گذار؛ شامل دادهٔ NAVCO، قاعدهٔ ۳٫۵ درصد و نقدِ پژوهشگرِ ایرانی.",
+  "en": "Library: transition from here to there",
+  "nl": "Library: transition from here to there"
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "O'Donnell & Schmitter (1986) Transitions from Authoritarian Rule: هسته: چارچوبِ تندرو/میانه‌رو در هر دو اردوگاه و منطقِ «پیمان»؛ ستون‌فقراتِ هر تحلیلِ گذار.",
+    "en": "O'Donnell & Schmitter (1986) Transitions from Authoritarian Rule: why it is on the shelf (Persian text).",
+    "nl": "O'Donnell & Schmitter (1986) Transitions from Authoritarian Rule: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:a4e411ed75"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Chenoweth & Stephan (2011) Why Civil Resistance Works: هسته: دادهٔ NAVCO، ۳۲۳ خیزشِ ۱۹۰۰ تا ۲۰۰۶، ۵۳٪ در برابر ۲۶٪؛ مهم‌ترین منبعِ تجربیِ «قدمِ تو».",
+    "en": "Chenoweth & Stephan (2011) Why Civil Resistance Works: why it is on the shelf (Persian text).",
+    "nl": "Chenoweth & Stephan (2011) Why Civil Resistance Works: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:41c1e6a2e7"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Chenoweth (2021) Civil Resistance: What Everyone Needs to Know: هسته: نسخهٔ کوتاه‌تر و بدونِ پنهان‌کردنِ افتِ نرخِ موفقیت؛ هر که فقط «۳٫۵٪» را نقل می‌کند این را نخوانده.",
+    "en": "Chenoweth (2021) Civil Resistance: What Everyone Needs to Know: why it is on the shelf (Persian text).",
+    "nl": "Chenoweth (2021) Civil Resistance: What Everyone Needs to Know: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:040033aaf5"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Kadivar (2022) Popular Politics and the Path to Durable Democracy: هسته: جنبش‌های طولانی و سازمان‌یافته دموکراسیِ بادوام‌تری می‌سازند؛ نویسنده ایرانی است.",
+    "en": "Kadivar (2022) Popular Politics and the Path to Durable Democracy: why it is on the shelf (Persian text).",
+    "nl": "Kadivar (2022) Popular Politics and the Path to Durable Democracy: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:f1a8df8bf8"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Linz & Stepan (1996) Problems of Democratic Transition and Consolidation: گذار از سلطانیسم؛ بدترین حالت برای گذارِ نرم.",
+    "en": "Linz & Stepan (1996) Problems of Democratic Transition and Consolidation: why it is on the shelf (Persian text).",
+    "nl": "Linz & Stepan (1996) Problems of Democratic Transition and Consolidation: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:a597d77f9e"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Przeworski (1991) Democracy and the Market: دموکراسی به‌مثابهٔ «عدم‌قطعیتِ نهادینه‌شده».",
+    "en": "Przeworski (1991) Democracy and the Market: why it is on the shelf (Persian text).",
+    "nl": "Przeworski (1991) Democracy and the Market: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:c86f32c081"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Huntington (1991) The Third Wave: تیپولوژی: دگرگونی از بالا، جایگزینی از پایین، گذارِ توافقی؛ «سه راه» را می‌شود روی آن نگاشت.",
+    "en": "Huntington (1991) The Third Wave: why it is on the shelf (Persian text).",
+    "nl": "Huntington (1991) The Third Wave: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:d72e4f416e"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Sharp, From Dictatorship to Democracy: عملیاتی‌ترین متنِ فهرست؛ واژگانِ مشترکِ بخشی از مخاطب.",
+    "en": "Sharp, From Dictatorship to Democracy: why it is on the shelf (Persian text).",
+    "nl": "Sharp, From Dictatorship to Democracy: why it is on the shelf (Persian text)."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Nepstad (2011) Nonviolent Revolutions: هسته: چرا ارتش در بعضی انقلاب‌ها کنار کشید و در بعضی نه؛ مستقیم‌ترین منبع برای «ستون‌ها».",
+    "en": "Nepstad: why militaries defected in some revolutions and not others.",
+    "nl": "Nepstad: why militaries defected in some revolutions and not others."
+   },
+   "sources": [
+    "src:9ce61897e7"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Helvey (2004) On Strategic Nonviolent Conflict: مفهومِ «ستون‌های پشتیبانی» به زبانِ عملیاتی.",
+    "en": "Helvey: pillars of support in operational language.",
+    "nl": "Helvey: pillars of support in operational language."
+   },
+   "sources": [
+    "src:458bea7f0f"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Hirschman (1970) Exit, Voice, and Loyalty: چرا مهاجرت صدا را ضعیف می‌کند.",
+    "en": "Hirschman: why emigration weakens voice.",
+    "nl": "Hirschman: why emigration weakens voice."
+   },
+   "sources": [
+    "src:6ec0c8ba1e"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Downes & Monten (2013) Forced to Be Free?: نقدِ ما: تغییرِ تحمیل‌شده از بیرون به‌ندرت دموکراسی می‌سازد.",
+    "en": "Downes and Monten: foreign-imposed regime change rarely democratises.",
+    "nl": "Downes and Monten: foreign-imposed regime change rarely democratises."
+   },
+   "sources": [
+    "src:5077e79964"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "Feldstein (2021) The Rise of Digital Repression: چرا نرخِ موفقیتِ خیزش‌ها افت کرده.",
+    "en": "Feldstein: why uprising success rates fell.",
+    "nl": "Feldstein: why uprising success rates fell."
+   },
+   "sources": [
+    "src:4d809f4a2a"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "OHCHR (2009) Rule-of-Law Tools: Amnesties: مرزِ عفو در حقوقِ بین‌الملل؛ پایهٔ اصلاحِ پَرِ سوم.",
+    "en": "OHCHR: the limits of amnesty in international law.",
+    "nl": "OHCHR: the limits of amnesty in international law."
+   },
+   "sources": [
+    "src:7272339677"
+   ],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:library-honesty",
+   "rel": "see-also",
+   "note": {
+    "fa": "این فهرست چه نیست",
+    "en": "What this list is not",
+    "nl": "What this list is not"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:040033aaf5",
+  "src:41c1e6a2e7",
+  "src:458bea7f0f",
+  "src:4d809f4a2a",
+  "src:5077e79964",
+  "src:6ec0c8ba1e",
+  "src:7272339677",
+  "src:9ce61897e7",
+  "src:a4e411ed75",
+  "src:a597d77f9e",
+  "src:c86f32c081",
+  "src:d72e4f416e",
+  "src:f1a8df8bf8"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

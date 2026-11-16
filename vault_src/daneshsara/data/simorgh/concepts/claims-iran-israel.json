@@ -1,0 +1,171 @@
+{
+ "id": "simorgh:claims-iran-israel",
+ "kind": "concept",
+ "title": {
+  "fa": "ادعاهای ایران و اسرائیل",
+  "en": "Claims: Iran and Israel",
+  "nl": "Claims: Iran and Israel"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "11 ادعای منبع‌دار از مجموعهٔ ۸۴ادعایی، هر کدام با مقدار، دوره، ردهٔ اعتبار (۱ داده/سند، ۲ پژوهش، ۳ برآورد یا مدل) و شرطی که آن را باطل می‌کند. ادعایی که نتواند بگوید چه چیز ردش می‌کند ادعا نیست.",
+  "en": "11 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it.",
+  "nl": "11 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "دشمنیِ رسمیِ دو دولت ۴۷ سال عمر دارد؛ رابطه حدودِ ۲۶۰۰ سال — یعنی دشمنی کمتر از دو درصدِ عمرِ رابطه است. (۴۷ در برابر ۲۶۰۰ سال (۱٫۸٪)؛ ≈۵۳۷ پ.م تا امروز؛ ردهٔ 1؛ محاسبهٔ گاه‌شماری). شرطِ ابطال: تعریفِ دیگری از «شروعِ رابطه» که مبنا را جابه‌جا کند. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim 47-2600: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim 47-2600: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پیش از ۱۳۵۷ نزدیک به ۱۰۰٬۰۰۰ یهودی در ایران زندگی می‌کردند؛ امروز برآوردها ۸٬۵۰۰ تا ۹٬۱۰۰ نفر است. (≈۱۰۰٬۰۰۰ ← ۸٬۵۰۰–۹٬۱۰۰؛ ۱۳۵۷ ← امروز؛ ردهٔ 3؛ برآورد). شرطِ ابطال: برآوردِ نهادیِ مستقل (انجمنِ کلیمیانِ تهران، سرشماری، یا جمعیت‌شناسیِ یهودی) که عددِ امروز را بیرون از ۸٬۵۰۰–۹٬۱۰۰ یا عددِ پیش از ۱۳۵۷ را زیرِ ۸۰٬۰۰۰ بدهد. یادداشت: برآوردها بازه‌اند، نه عددِ دقیق. خودِ متنِ «دو ایران» می‌گوید این رقم باید با احتیاط نقل شود. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim jews-population: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim jews-population: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "۲۰۰٬۰۰۰ تا ۲۵۰٬۰۰۰ اسرائیلی تبارِ ایرانی دارند — کامل یا از یک سو. (۲۰۰٬۰۰۰–۲۵۰٬۰۰۰؛ امروز؛ ردهٔ 3؛ برآورد). شرطِ ابطال: دادهٔ رسمیِ اسرائیل دربارهٔ کشورِ خاستگاه با ارقامِ متفاوت. یادداشت: بازهٔ تخمین؛ در «دو ایران» صریحاً جزوِ ارقامِ محتاطانه‌خوان آمده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim israeli-iranian-descent: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim israeli-iranian-descent: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "روایتِ مشهور می‌گوید سرداری ۱۵۰۰ گذرنامه صادر کرد. موزه این عدد را تأیید نمی‌کند و «به‌طرزِ باورنکردنی بزرگ» می‌خواند؛ آنچه سند دارد فهرستی از ۹۱ نفر در مِیِ ۱۹۴۳ است. (۹۱ مستند، نه ۱۵۰۰؛ ۱۹۴۰–۱۹۴۴؛ ردهٔ 1؛ سندِ نهادی). شرطِ ابطال: سندِ تازه‌ای که شمارِ بزرگ‌تری را مستند کند. تا آن زمان عددِ کوچک‌ترِ مستند معتبر است. یادداشت: این جایی است که پروژه عددِ محبوبِ خودش را رد کرده — و همان قاعده را که بر دیگران می‌گذارد بر خودش اجرا کرده.",
+    "en": "Claim sardari: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim sardari: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:0cbc172c87"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "استوانهٔ کوروش «نخستین منشورِ حقوقِ بشر» نیست؛ یک کتیبهٔ استانداردِ شاهانهٔ بین‌النهرینی است و خوانشِ حقوق‌بشری عمدتاً ساختهٔ دههٔ ۱۹۵۰–۱۹۷۰ و جشن‌های ۲۵۰۰ ساله است. (رد شد؛ ≈۵۳۹ پ.م / خوانشِ قرنِ بیستم؛ ردهٔ 1؛ سندِ نهادی). شرطِ ابطال: خوانشِ متن‌شناسانهٔ تازه‌ای که قالبِ کتیبه را استثنایی نشان دهد. یادداشت: سیاستِ تحملِ کوروش واقعی بود، ولی ابزارِ حکمرانی بود نه اعلامیهٔ اخلاقی. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim cyrus-cylinder: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim cyrus-cylinder: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "تلمودِ بابلی — بنیادی‌ترین متنِ یهودیتِ ربانی پس از تورات — در خاکِ ساسانی نوشته شد، با وام‌واژه‌های فارسیِ میانه و ردِ حقوقِ ساسانی. (کیفی؛ ≈قرن ۳–۶ م؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: زبان‌شناسیِ تاریخی که وام‌واژه‌ها را از مسیرِ دیگری توضیح دهد. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim talmud: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim talmud: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ایران در ۱۹۴۷ به تقسیمِ فلسطین رأیِ مخالف داد، اما در ۶ مارسِ ۱۹۵۰ اسرائیل را عملاً به‌رسمیت شناخت. (۶ مارس ۱۹۵۰؛ ۱۹۴۷ · ۱۹۵۰؛ ردهٔ 1؛ سندِ تاریخی). شرطِ ابطال: سندِ دیپلماتیکِ متفاوت دربارهٔ تاریخ یا ماهیتِ شناسایی.",
+    "en": "Claim recognition-1950: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim recognition-1950: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:44045bd6bb"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "صادرات از ۲۲٫۳ میلیون دلار در ۱۹۷۰ به ۱۰۳٫۲ میلیون دلار در ۱۹۷۷ رسید؛ خطِ لولهٔ ایلات–اشکلون پس از بسته‌شدنِ سوئز در ۱۹۶۷ مشترکاً ساخته شد. (۲۲٫۳م$ ← ۱۰۳٫۲م$؛ ۱۹۷۰–۱۹۷۷؛ ردهٔ 1؛ آمارِ تاریخی). شرطِ ابطال: آمارِ رسمیِ تجارتِ خارجیِ اسرائیل یا منبعِ اولیهٔ دیگری که برای ۱۹۷۰ یا ۱۹۷۷ عددی بیش از ۲۰٪ متفاوت بدهد.",
+    "en": "Claim trade-1970s: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim trade-1970s: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:44045bd6bb"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "در ۲۰۲۳ صدها هزار اسرائیلی علیهِ طرحِ تغییرِ قوهٔ قضائیه به خیابان آمدند — بیش از ۲۰۰٬۰۰۰ نفر در یک رویداد. (>۲۰۰٬۰۰۰ در یک رویداد؛ ۲۰۲۳؛ ردهٔ 3؛ گزارشِ خبری). شرطِ ابطال: برآوردهای جمعیتیِ مستقل از آن تجمع‌ها با ارقامِ به‌مراتب کمتر. (محلِ نزاع) یادداشت: قیدِ روشی: آن جنبش اصلاحی بود نه براندازانه، پس «قاعدهٔ ۳٫۵٪» به آن منتقل نمی‌شود. مقایسه از این جهت نامعتبر است. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim israel-2023: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim israel-2023: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "این خصومت — برخلاف تقریباً هر منازعهٔ دیگرِ خاورمیانه — هیچ ریشهٔ مادی ندارد: نه مرزِ مشترک، نه جنگِ سرزمینی، نه آوارگی، نه رقابت بر سرِ آب. (کیفی؛ ۱۳۵۷ به بعد؛ ردهٔ 3؛ استدلالِ این پروژه). شرطِ ابطال: نشان‌دادنِ یک منفعتِ مادیِ ساختاری که خصومت را مستقل از تصمیمِ سیاسی نگه می‌دارد. یادداشت: نتیجه‌ای که از آن می‌گیرد: چیزی که ریشهٔ مادی ندارد، با تغییرِ سیاست برمی‌گردد. این یک استنتاج است، نه یک یافته. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim no-material-root: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim no-material-root: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "«تا ۱۹۷۹ تقریباً بی‌وقفه مثبت» اغراق است: در صفوی و اوایلِ قاجار موجِ تغییرِ دینِ اجباری، محله‌های جدا و احکامِ نجاست هست. قابِ درست «بهتر از اروپای هم‌دوره» است. (تصحیحِ ادعا؛ ۱۵۰۱–۱۹۲۵؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: تاریخِ اجتماعی‌ای که آن دوره‌ها را استثناهای کوچک نشان دهد. یادداشت: این تصحیحی است که متنِ تازه بر صفحهٔ قدیمیِ خودِ سایت تحمیل کرد. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim not-always-good: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim not-always-good: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "جدولِ ۸۴ ادعا (ابزار)",
+    "en": "84-claim table (tool)",
+    "nl": "84-claim table (tool)"
+   }
+  },
+  {
+   "to": "simorgh:audit",
+   "rel": "see-also",
+   "note": {
+    "fa": "ممیزیِ ضعف‌ها",
+    "en": "Audit of weaknesses",
+    "nl": "Audit of weaknesses"
+   }
+  },
+  {
+   "to": "simorgh:inspect-claim",
+   "rel": "see-also",
+   "note": {
+    "fa": "وارسیِ یک ادعا",
+    "en": "Inspect a claim",
+    "nl": "Inspect a claim"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:0cbc172c87",
+  "src:44045bd6bb"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>نقشهٔ خرابی‌ها | دانش‌سرا</title>
+<meta name="description" content="روز بعد: هر خرابی و مشکلی که باید رسیدگی شود، با عکس، ویدیو و متن روی نقشه؛ با قاعده‌های ایمنی.">
+<link rel="stylesheet" href="../core/design/tokens.css">
+<!-- Hand-written page (no generator). Set MYMAP below to the Google My Maps embed link once the shared map exists. -->
+<style>
+:root{--water:#2f7fb8;--power:#c98a12;--build:#b5523b;--road:#6b6b6b;--health:#c2335a;--school:#6a4fb3;--heritage:#8a6d3b;--env:#3f8a4f;--urgent:#d0451b}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--water:#6fb2e3;--power:#e5b04a;--build:#e08a74;--road:#a8a8a8;--health:#ec7896;--school:#a993ea;--heritage:#c9a46a;--env:#7cc58b;--urgent:#f08060}}
+:root[data-theme="dark"]{--water:#6fb2e3;--power:#e5b04a;--build:#e08a74;--road:#a8a8a8;--health:#ec7896;--school:#a993ea;--heritage:#c9a46a;--env:#7cc58b;--urgent:#f08060}
+body{background:var(--paper);color:var(--ink)}
+.wrap{max-width:1040px;margin:0 auto;padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px))}
+main{padding-block:var(--s5,20px) var(--s10,56px)}
+h1{font-size:var(--h1,2rem);margin:12px 0 6px;line-height:1.3;text-wrap:balance}
+h2{font-size:var(--h3,1.25rem);margin:36px 0 10px;text-wrap:balance}
+.lead{color:var(--ink-2);max-width:62ch;line-height:1.9;margin:0}
+.state{display:flex;gap:12px;align-items:flex-start;margin:18px 0;padding:14px 16px;border-radius:16px;border:1px solid var(--line-strong);background:var(--surface)}
+.state b{display:block}.state p{margin:4px 0 0;color:var(--ink-2);line-height:1.8}
+.dot{flex:none;width:14px;height:14px;border-radius:50%;margin-top:6px;background:var(--warn,#c98a12)}
+.mapbox{position:relative;border-radius:18px;overflow:hidden;border:1px solid var(--line-strong);background:var(--surface);aspect-ratio:4/3;max-height:560px;width:100%;max-width:100%}
+.mapbox iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.mapnote{font-size:.85rem;color:var(--ink-3);margin:8px 0 0}
+.legend{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 0;padding:0;list-style:none}
+.legend li{display:flex;align-items:center;gap:6px;padding:4px 12px;border-radius:99px;border:1px solid var(--line);background:var(--surface);font-size:.88rem}
+.legend i{width:12px;height:12px;border-radius:50%;display:inline-block}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px;padding:0;margin:0;list-style:none;counter-reset:s}
+.steps li{position:relative;padding:16px 16px 14px;border-radius:16px;border:1px solid var(--line);background:var(--surface);line-height:1.8;min-width:0}
+.steps li::before{counter-increment:s;content:counter(s,persian);display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--primary);color:var(--paper);font-weight:700;margin-bottom:8px}
+.steps b{display:block;margin-bottom:2px}.steps span{color:var(--ink-2);font-size:.92rem}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+.card{padding:16px;border-radius:16px;border:1px solid var(--line);background:var(--surface);min-width:0}
+.card h3{margin:0 0 6px;font-size:1.02rem}
+.card ul{margin:0;padding-inline-start:18px;line-height:1.9;color:var(--ink-2)}
+.no h3{color:var(--err,#b3261e)}.yes h3{color:var(--primary)}
+.phase{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}
+.phase .card b{display:inline-block;font-size:.8rem;padding:2px 10px;border-radius:99px;border:1px solid var(--line-strong);margin-bottom:6px}
+.phase .now b{border-color:var(--warn,#c98a12)}.phase .day b{border-color:var(--primary)}
+.admin{border-style:dashed}
+.admin ol{margin:0;padding-inline-start:20px;line-height:1.9;color:var(--ink-2)}
+.go{display:flex;flex-wrap:wrap;gap:8px;margin-top:28px}
+.go a{padding:8px 16px;border-radius:99px;border:1px solid var(--line-strong);text-decoration:none;color:var(--ink);background:var(--surface)}
+code{font-size:.85em;direction:ltr;unicode-bidi:isolate}
+</style>
+</head>
+<body>
+<main class="wrap">
+<h1>نقشهٔ خرابی‌ها و مشکل‌ها</h1>
+<p class="lead">هر خرابی یا مشکلی که باید رسیدگی شود، با یک عکس، یک ویدیوی کوتاه یا چند خط متن، روی نقشه. تا تیم‌های امداد، شورای محله و متخصص‌ها بدانند کجا اول بروند.</p>
+
+<div class="state"><span class="dot" aria-hidden="true"></span><div><b>فعلاً فقط برای آماده‌سازی</b><p>دریافتِ گزارش از مردمِ داخلِ ایران روزِ بعد باز می‌شود، نه امروز: عکسی که جای دقیق دارد می‌تواند عکاس را لو بدهد. تا آن روز نقشه فقط از منبع‌های عمومی و از بیرونِ ایران پر می‌شود.</p></div></div>
+
+<div class="mapbox"><iframe id="map" title="نقشهٔ خرابی‌ها" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></div>
+<p class="mapnote" id="mapnote"></p>
+<ul class="legend" aria-label="لایه‌های نقشه">
+<li><i style="background:var(--urgent)"></i>نیاز فوری (غذا، دارو، سرپناه)</li>
+<li><i style="background:var(--health)"></i>بیمارستان و درمانگاه</li>
+<li><i style="background:var(--water)"></i>آب و فاضلاب</li>
+<li><i style="background:var(--power)"></i>برق و گاز</li>
+<li><i style="background:var(--build)"></i>ساختمانِ آسیب‌دیده و خطرِ ریزش</li>
+<li><i style="background:var(--road)"></i>جاده و پل</li>
+<li><i style="background:var(--school)"></i>مدرسه</li>
+<li><i style="background:var(--heritage)"></i>میراث و موزه</li>
+<li><i style="background:var(--env)"></i>آلودگی و محیط‌زیست</li>
+</ul>
+
+<h2>چطور یک گزارش بفرستید</h2>
+<ol class="steps">
+<li><b>اول جانِ خودتان</b><span>جایی که آتش، ریزش یا آدمِ مسلح هست نمانید. هیچ عکسی ارزشِ خطر ندارد.</span></li>
+<li><b>از خرابی عکس بگیرید، نه از آدم</b><span>چهره، پلاکِ ماشین و پلاکِ خانه در قاب نباشد. ویدیو کوتاه، زیرِ ۳۰ ثانیه.</span></li>
+<li><b>از عکس اسکرین‌شات بگیرید</b><span>اسکرین‌شات جای دقیقِ عکس (اطلاعاتِ پنهانِ فایل) را با خودش نمی‌برد. همان اسکرین‌شات را بفرستید.</span></li>
+<li><b>جا را تقریبی بگویید</b><span>نام محله و خیابان یا یک نشانهٔ نزدیک کافی است، نه پلاک. روی نقشه هم نقطه تقریبی گذاشته می‌شود.</span></li>
+<li><b>نوع و فوریت را بگویید</b><span>یکی از نُه لایهٔ بالا، و اینکه آیا جانی در خطر است. چند خط متن کافی است.</span></li>
+<li><b>تیم بررسی می‌کند، بعد منتشر می‌شود</b><span>دست‌کم دو نفر هر گزارش را می‌بینند، چهره‌ها را محو می‌کنند و فایلِ اصلی را پس از انتشار پاک می‌کنند.</span></li>
+</ol>
+
+<h2>چه چیزی روی نقشه می‌آید و چه چیزی نه</h2>
+<div class="two">
+<div class="card yes"><h3>بله</h3><ul>
+<li>لولهٔ ترکیده، برقِ قطع، ساختمانِ ترک‌خورده</li>
+<li>جاده یا پلِ بسته، مدرسه یا درمانگاهِ آسیب‌دیده</li>
+<li>میراث و موزهٔ در خطر، آلودگی، آتش</li>
+<li>نیازِ فوریِ یک محله: آب، غذا، دارو، سرپناه</li>
+</ul></div>
+<div class="card no"><h3>نه</h3><ul>
+<li>چهره، نام، شماره یا نشانیِ دقیقِ هر کس</li>
+<li>تصویرِ زخمی یا کشته</li>
+<li>محلِ نیروهای مسلح یا تأسیساتِ امنیتی</li>
+<li>اینکه «چه کسی» خراب کرد: این نقشهٔ رسیدگی است، نه نقشهٔ مقصر. مستندسازیِ نقضِ حقوق کارِ نهادهای حقوقِ بشری است.</li>
+</ul></div>
+</div>
+
+<h2>کِی باز می‌شود</h2>
+<div class="phase">
+<div class="card now"><b>امروز</b><h3>آماده‌سازی</h3><ul><li>لایه‌ها و تیمِ بررسی ساخته می‌شود</li><li>فقط داده از منبع‌های عمومی و ایرانیانِ بیرون</li><li>هیچ گزارشی از داخل خواسته نمی‌شود</li></ul></div>
+<div class="card day"><b>روز بعد</b><h3>باز برای همه</h3><ul><li>دریافتِ گزارش از مردم</li><li>بررسی پیش از انتشار</li><li>تحویلِ هر لایه به نهادِ مسئولش (آب، برق، شهرداری، هلال‌احمر)</li></ul></div>
+<div class="card"><b>سال اول</b><h3>از نقشه به برنامه</h3><ul><li>هر نقطه یک کارِ باز در «میز کار»</li><li>نشانِ «رسیدگی شد» روی نقطه</li><li>دادهٔ باز برای بازسازی</li></ul></div>
+</div>
+
+<h2>برای ویراستار: راه‌اندازی</h2>
+<div class="card admin"><ol>
+<li>در <b>Google My Maps</b> یک نقشهٔ تازه بساز و برای هر نُه لایهٔ بالا یک لایه با همان رنگ.</li>
+<li>Share ← «هر کس پیوند را دارد می‌تواند ببیند». ویرایش فقط برای تیمِ بررسی؛ هرگز ویرایشِ باز.</li>
+<li>از منوی نقشه <b>Embed on my site</b> را بزن و پیوند را بفرست تا این‌جا جای نقشهٔ ساده بنشیند.</li>
+<li>برای دریافتِ گزارش در روزِ بعد، فرمی بی‌نیاز به حساب کاربری. بارگذاریِ فایل در Google Forms ورود با حسابِ گوگل می‌خواهد و نام را ثبت می‌کند؛ برای همین برای مقیاسِ بزرگ <b>Ushahidi</b> (نرم‌افزارِ آزادِ نقشهٔ بحران، با گزارشِ بی‌نام از وب و پیامک و صفِ بررسی) بهتر است.</li>
+<li>پیش از باز کردن: یک متخصصِ امنیت این صفحه و فرم را ببیند (در «چیزهایی که باید بگیریم» ثبت است).</li>
+</ol></div>
+
+<div class="go"><a href="day.html">← روز بعد: چه کسی چه کار کند</a><a href="work.html">میز کار متخصص‌ها</a><a href="index.html">ساخت ایران</a></div>
+</main>
+<script>
+/* Google My Maps embed link (https://www.google.com/maps/d/embed?mid=…). Empty = a plain map of Iran. */
+const MYMAP = "";
+const m = document.getElementById("map"), note = document.getElementById("mapnote");
+if (MYMAP) { m.src = MYMAP; note.textContent = "نقشهٔ مشترک؛ هر نقطه را بزنید تا عکس و توضیحش را ببینید."; }
+else { m.src = "https://www.google.com/maps?q=Iran&z=5&output=embed"; note.textContent = "نقشهٔ مشترک هنوز ساخته نشده؛ فعلاً نقشهٔ سادهٔ ایران نشان داده می‌شود."; }
+</script>
+<script src="../core/nav.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+{
+ "id": "simorgh:library-collapse",
+ "kind": "concept",
+ "title": {
+  "fa": "کتابخانه: چرا حکومت‌ها ناگهان می‌افتند",
+  "en": "Library: why regimes fall suddenly",
+  "nl": "Library: why regimes fall suddenly"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "پنج منبعِ هستهٔ نظریِ ادعای اصلی: همه می‌دانند، هیچ‌کس نمی‌گوید، تا لحظه‌ای که همه هم‌زمان می‌گویند.",
+  "en": "Library: why regimes fall suddenly",
+  "nl": "Library: why regimes fall suddenly"
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "Kuran (1995) Private Truths, Public Lies: هسته: نظریهٔ «پنهان‌سازیِ ترجیح»؛ اگر یک کتاب اضافه شود این است.",
+    "en": "Kuran (1995) Private Truths, Public Lies: why it is on the shelf (Persian text).",
+    "nl": "Kuran (1995) Private Truths, Public Lies: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:436510de26"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Kuran (1991) «Now Out of Never»: هسته: چرا فروپاشیِ ۱۹۸۹ را هیچ‌کس ندید؛ کوتاه و بهترین پاسخ به ژانرِ «تاریخِ سقوط را می‌گویم».",
+    "en": "Kuran (1991) «Now Out of Never»: why it is on the shelf (Persian text).",
+    "nl": "Kuran (1991) «Now Out of Never»: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:8d71ed0d5f"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Kurzman (2004) The Unthinkable Revolution in Iran: هسته: تا هفته‌های آخر ۵۷ حتی آنان که در خیابان بودند شدنی نمی‌دانستند.",
+    "en": "Kurzman (2004) The Unthinkable Revolution in Iran: why it is on the shelf (Persian text).",
+    "nl": "Kurzman (2004) The Unthinkable Revolution in Iran: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:435917f7dd"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Lohmann (1994) The Dynamics of Informational Cascades: تظاهراتِ دوشنبه‌های لایپزیگ به‌مثابهٔ آبشار اطلاعاتی؛ مدلِ کمیِ همان استعارهٔ میز.",
+    "en": "Lohmann (1994) The Dynamics of Informational Cascades: why it is on the shelf (Persian text).",
+    "nl": "Lohmann (1994) The Dynamics of Informational Cascades: why it is on the shelf (Persian text)."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Olson (1965) The Logic of Collective Action: مسئلهٔ سواریِ مجانی: چرا اکثریتِ ناراضی لزوماً حرکت نمی‌کند.",
+    "en": "Olson (1965) The Logic of Collective Action: why it is on the shelf (Persian text).",
+    "nl": "Olson (1965) The Logic of Collective Action: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:a659e764c0"
+   ],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:library-honesty",
+   "rel": "see-also",
+   "note": {
+    "fa": "این فهرست چه نیست",
+    "en": "What this list is not",
+    "nl": "What this list is not"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:435917f7dd",
+  "src:436510de26",
+  "src:8d71ed0d5f",
+  "src:a659e764c0"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

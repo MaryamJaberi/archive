@@ -1,0 +1,319 @@
+{
+ "id": "simorgh:step-cards",
+ "kind": "concept",
+ "title": {
+  "fa": "قدمِ تو: 23 کارت، کوچک‌ترین قدمِ هر آدم",
+  "en": "Your step: 23 cards, the smallest step for each person",
+  "nl": "Your step: 23 cards, the smallest step for each person"
+ },
+ "aliases": [],
+ "parent": "simorgh:action",
+ "field": "simorgh:action",
+ "summary": {
+  "fa": "صفحه‌ای که نمی‌گوید چه کار کنید؛ می‌گوید در ۳۲۳ خیزشِ ثبت‌شده چه کار کرد و چه نکرد، و برای هر جورِ آدمی یک کارت دارد با کارهای مرتب‌شده از کم‌خطر به پرخطر. همین‌جا فقط کم‌خطرترینِ هر کارت آمده؛ هیچ‌کس مجبور نیست، و کسی که داخلِ ایران است فقط قدم‌های کم‌خطر را ببیند.",
+  "en": "A page that does not tell you what to do; it says what worked and failed in 323 recorded uprisings, with a card for each kind of person, steps ordered from low to high risk. Only the lowest-risk step of each card is quoted here; nobody is obliged, and anyone inside Iran should see only low-risk steps.",
+  "nl": "A page that does not tell you what to do; it says what worked and failed in 323 recorded uprisings, with a card for each kind of person, steps ordered from low to high risk. Only the lowest-risk step of each card is quoted here; nobody is obliged, and anyone inside Iran should see only low-risk steps."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "شما تنها نیستید (ریاضی است نه دلداری): جایی که حرفِ راست خرج دارد همه حرفشان را می‌خورند، هرکس سکوت می‌بیند و فکر می‌کند تنهاست؛ تعداد از شدت مهم‌تر است (۵۳٪ در برابر ۲۶٪)؛ لحظهٔ تعیین‌کننده لحظهٔ ریزش است (سرباز، کارمند، قاضی، مدیر)؛ و هیچ تضمینی نیست: نرخِ موفقیت در دههٔ اخیر افت کرده چون حکومت‌ها یاد گرفته‌اند.",
+    "en": "You are not alone (arithmetic, not consolation); numbers matter more than intensity; the decisive moment is defection; and there is no guarantee, since success rates have fallen.",
+    "nl": "You are not alone (arithmetic, not consolation); numbers matter more than intensity; the decisive moment is defection; and there is no guarantee, since success rates have fallen."
+   },
+   "sources": [
+    "src:41c1e6a2e7",
+    "src:040033aaf5",
+    "src:436510de26"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کوچک‌ترین قدمِ ممکن: یک حرفِ راست به یک نفر که به شما اعتماد دارد؛ استعاره نیست، عیناً همان سازوکارِ شکستنِ تحریفِ ترجیحات است.",
+    "en": "The smallest possible step: one true word to one person who trusts you; exactly the mechanism that breaks preference falsification.",
+    "nl": "The smallest possible step: one true word to one person who trusts you; exactly the mechanism that breaks preference falsification."
+   },
+   "sources": [
+    "src:436510de26"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بخشِ «خطر»: همین حالا در ایران مردم اعدام می‌شوند؛ هر عددِ صفحه میانگینِ ۳۲۳ مورد است و شما یک نفرید. همین‌جا هم نقدها آمده‌اند: رژیم‌های زادهٔ انقلاب دیر می‌میرند، خطرناک‌ترین نقطه وسطِ راه است، عراقِ ۲۰۰۳، «جامعهٔ کوتاه‌مدت»، و نرخِ موفقیتِ کاهنده.",
+    "en": "The \"risk\" section: people are being executed in Iran right now; every number is an average of 323 cases and you are one person. The critiques too: revolutionary regimes die late, the middle of the road is most dangerous, Iraq 2003, the short-term society, and falling success rates.",
+    "nl": "The \"risk\" section: people are being executed in Iran right now; every number is an average of 323 cases and you are one person. The critiques too: revolutionary regimes die late, the middle of the road is most dangerous, Iraq 2003, the short-term society, and falling success rates."
+   },
+   "sources": [
+    "src:89f0e30575",
+    "src:7fffecad9e",
+    "src:b76e3ec683",
+    "src:f24faf8755"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "کاسب و بازاری: در مشروطه و در ۵۷، بستنِ بازار یکی از دو سه چیزی بود که واقعاً کار کرد. نخستین و کم‌خطرترین قدم: بدانید کدام همسایه‌ها با شما می‌بندند. همین دانستن، خودش نصفِ کار است.",
+    "en": "Card: کاسب و بازاری. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: کاسب و بازاری. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارگر — به‌ویژه نفت، گاز، پتروشیمی، بندر: این را باید بی‌تعارف گفت: در ۵۷، آنچه کمرِ دولت را شکست تظاهراتِ خیابان نبود، نخستین و کم‌خطرترین قدم: صندوقِ اعتصاب. پژوهش می‌گوید مهم‌ترین چیزی که تعیین می‌کند اعتصاب چند روز دوام می‌آورد،",
+    "en": "Card: کارگر — به‌ویژه نفت، گاز، پتروشیمی، بندر. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: کارگر — به‌ویژه نفت، گاز، پتروشیمی، بندر. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "معلم: شوراهای صنفیِ معلمان در ده سال گذشته پیوسته‌ترین تشکلِ سازمان‌یافتهٔ ایران بوده‌اند. نخستین و کم‌خطرترین قدم: لازم نیست چیزی بسازید؛ آنچه هست را پیدا کنید و زنده نگه دارید.",
+    "en": "Card: معلم. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: معلم. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پرستار، پزشک، کادرِ درمان: بیمارستان جایی است که خشونت قابلِ انکار نیست. و ادبیاتِ عدالتِ انتقالی نخستین و کم‌خطرترین قدم: ثبتِ دقیقِ نوعِ جراحت در پروندهٔ پزشکی — کارِ حرفه‌ایِ شماست و همان است که بعداً سند می‌شود.",
+    "en": "Card: پرستار، پزشک، کادرِ درمان. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: پرستار، پزشک، کادرِ درمان. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دانشجو: صادقانه: جنبشِ دانشجویی به‌تنهایی هرگز در ایران حکومتی را عوض نکرده. نخستین و کم‌خطرترین قدم: حلقهٔ بیرون از دانشگاه: کارگر، معلم، کاسب. این دقیقاً همان حلقهٔ مفقوده در هر بارِ قبل بود.",
+    "en": "Card: دانشجو. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: دانشجو. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "راننده — کامیون، تاکسی، اتوبوس، پیک: اعتصاب‌های کامیون‌داران در ۱۳۹۷ و ۱۳۹۸ از مؤثرترین حرکت‌های یک دههٔ اخیر بودند، نخستین و کم‌خطرترین قدم: پخش‌بودن، سپرِ شماست. تجمع نکنید تا سرکوب‌پذیر شوید.",
+    "en": "Card: راننده — کامیون، تاکسی، اتوبوس، پیک. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: راننده — کامیون، تاکسی، اتوبوس، پیک. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارمندِ دولت: دولت با ساختمان و مهر کار نمی‌کند؛ با این کار می‌کند که هر روز صبح آدم‌ها سرِ کار می‌آیند نخستین و کم‌خطرترین قدم: دقیقاً طبقِ آیین‌نامه کار کنید. هیچ اداره‌ای با اجرای کاملِ آیین‌نامه‌اش کار نمی‌کند.",
+    "en": "Card: کارمندِ دولت. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: کارمندِ دولت. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سرباز، پلیس، نیروی امنیتی: این کارت مهم‌ترینِ این صفحه است و بی‌تعارف نوشته شده. همهٔ پژوهش‌ها روی یک چیز نخستین و کم‌خطرترین قدم: خانوادهٔ خودتان هم در همان کوچه است. این را پژوهش می‌گوید، نه شعار: همین پیوند است که",
+    "en": "Card: سرباز، پلیس، نیروی امنیتی. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: سرباز، پلیس، نیروی امنیتی. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کسی که پول دارد: ادبیاتِ گذار می‌گوید ریزشِ نخبگانِ اقتصادی یکی از نشانه‌های اصلیِ پایانِ یک نظام است. نخستین و کم‌خطرترین قدم: هزینهٔ وکیل برای کسی که وکیل ندارد.",
+    "en": "Card: کسی که پول دارد. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: کسی که پول دارد. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کسی که دستش تنگ است: رک بگویم: شما بیشترین خطر و کمترین پشتوانه را دارید، و هیچ صفحه‌ای حق ندارد نخستین و کم‌خطرترین قدم: بدانید در کوچهٔ شما امشب نانِ چه کسی کم است.",
+    "en": "Card: کسی که دستش تنگ است. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: کسی که دستش تنگ است. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کسی که خواندن و نوشتن برایش سخت است: این کارت معمولاً در چنین متن‌هایی نوشته نمی‌شود، و باید نوشته شود. نخستین و کم‌خطرترین قدم: آنچه با چشمِ خودتان دیده‌اید را دقیق تعریف کنید — نه بیشتر، نه کمتر. دقت، اعتبار می‌سازد.",
+    "en": "Card: کسی که خواندن و نوشتن برایش سخت است. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: کسی که خواندن و نوشتن برایش سخت است. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "زنِ خانه: خانه جایی است که آن «پنهان‌کردنِ حرف» اولین بار می‌شکند. پژوهشِ کدیور دربارهٔ ۱۴۰۱ نخستین و کم‌خطرترین قدم: گفتنِ حرفِ واقعی سرِ سفره. این دقیقاً همان سازوکار است، نه استعاره.",
+    "en": "Card: زنِ خانه. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: زنِ خانه. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "اهلِ منبر، مسجد، هیئت: این کارت هم معمولاً حذف می‌شود و نباید بشود. از نظرِ تاریخی، نخستین و کم‌خطرترین قدم: تأیید نکردن. سکوت از یک منبر، بلند شنیده می‌شود.",
+    "en": "Card: اهلِ منبر، مسجد، هیئت. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: اهلِ منبر، مسجد، هیئت. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "وکیل و حقوق‌دان: ادبیاتِ عدالتِ انتقالی — الستر، هاینر، تایتل — روی یک نکته اصرار دارد: نخستین و کم‌خطرترین قدم: ثبت، حتی وقتی پرونده باخته است. سند برای بعد است.",
+    "en": "Card: وکیل و حقوق‌دان. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: وکیل و حقوق‌دان. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "هنرمند، نویسنده، موزیسین: اگر مسئله این است که همه فکر می‌کنند تنهایند، پس چیزی که این را می‌شکند نخستین و کم‌خطرترین قدم: ساختنِ چیزی که بشود بدونِ توضیح فهمید — تصویر، آهنگ، شعرِ کوتاه.",
+    "en": "Card: هنرمند، نویسنده، موزیسین. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: هنرمند، نویسنده، موزیسین. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مهاجر و خارج‌نشین: این را باید کمی ناخوشایند نوشت: پژوهش می‌گوید فشارِ بیرونی به‌ندرت تغییر می‌سازد نخستین و کم‌خطرترین قدم: مستندسازی و بایگانی. آنچه اینجا نگه داشته می‌شود، آنجا پاک می‌شود.",
+    "en": "Card: مهاجر و خارج‌نشین. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: مهاجر و خارج‌نشین. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "متخصص و تحصیل‌کرده: همایون کاتوزیان به ایران می‌گوید «جامعهٔ کوتاه‌مدت»: هر دوره از صفر شروع می‌کند، نخستین و کم‌خطرترین قدم: بنویسید یک وزارتخانه، یک بیمارستان، یک شبکهٔ برق واقعاً چطور کار می‌کند.",
+    "en": "Card: متخصص و تحصیل‌کرده. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: متخصص و تحصیل‌کرده. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "اقتصاددان، حسابدار، اهلِ بانک و بودجه: برآوردِ همین پروژه می‌گوید گسستِ سریع و بی‌برنامه با افتِ ۱۵ تا ۲۵ درصدیِ تولید همراه است. بخشِ بزرگی از این هزینه به روزهای اول برمی‌گردد: حقوقی که پرداخت نمی‌شود و پولی که فرو می‌ریزد. کارِ شما این است که آن روزها از پیش فکرشده  نخستین و کم‌خطرترین قدم: عددِ واقعی را نگه دارید: آنچه در کارتان می‌بینید و در آمارِ رسمی نیست.",
+    "en": "Card: اقتصاددان، حسابدار، اهلِ بانک و بودجه. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: اقتصاددان، حسابدار، اهلِ بانک و بودجه. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مهندس و تکنیسینِ آب، برق، گاز و مخابرات: در عراقِ ۲۰۰۳ دولت را خالی شدنِ یک‌بارهٔ دستگاه از بین برد. شبکه‌ای که شما سرپا نگه می‌دارید همان چیزی است که نمی‌گذارد روزِ بعد به هرج‌ومرج برسد. ماندنِ شما سرِ کار، خودش قدم است. نخستین و کم‌خطرترین قدم: بدانید شبکهٔ شما بدونِ کدام آدم‌ها و کدام قطعه‌ها می‌خوابد.",
+    "en": "Card: مهندس و تکنیسینِ آب، برق، گاز و مخابرات. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: مهندس و تکنیسینِ آب، برق، گاز و مخابرات. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "امدادگر، آتش‌نشان، هلال‌احمری، کوهنورد: پژوهش می‌گوید دموکراسی‌هایی دوام آورده‌اند که از دلِ سازمان‌یافتگیِ طولانی بیرون آمده‌اند، نه از یک روزِ پرشور. شما از معدود کسانی هستید که بلدند آدم‌ها را در لحظهٔ سخت سازمان بدهند. نخستین و کم‌خطرترین قدم: کمک‌های اولیه را به پنج نفر در محله یاد بدهید.",
+    "en": "Card: امدادگر، آتش‌نشان، هلال‌احمری، کوهنورد. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: امدادگر، آتش‌نشان، هلال‌احمری، کوهنورد. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "برنامه‌نویس، اهلِ شبکه و امنیت: برای هماهنگی، دانستن کافی نیست؛ هر کس باید بداند که بقیه هم می‌دانند. ابزارِ این دانشِ مشترک را شما می‌سازید و نگه می‌دارید. ولی اولین کارِ شما ساختن نیست، محافظت است. نخستین و کم‌خطرترین قدم: به سه نفرِ نزدیکتان کمک کنید تلفنشان را امن‌تر کنند، با راهنمای نهادهای متخصص، نه با سلیقهٔ خودتان.",
+    "en": "Card: برنامه‌نویس، اهلِ شبکه و امنیت. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: برنامه‌نویس، اهلِ شبکه و امنیت. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "روان‌شناس، مشاور، مددکار: ادبیاتِ عدالتِ انتقالی می‌گوید آنچه در زمانِ سرکوب حفظ شود، دامنهٔ انتخابِ فردا را می‌سازد. بخشی از آن، حافظهٔ آدم‌هاست، و شما کنارِ آن حافظه می‌نشینید: زخمی که شنیده نشود، فردا به انتقام بدل می‌شود. نخستین و کم‌خطرترین قدم: همان کاری را بکنید که بلدید: شنیدن.",
+    "en": "Card: روان‌شناس، مشاور، مددکار. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: روان‌شناس، مشاور، مددکار. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کسی که نمی‌خواهد، یا می‌ترسد: این کارت جدی است، تعارف نیست. همان قاعدهٔ ۳٫۵ درصد یعنی ۹۶٫۵ درصد شرکت نکردند نخستین و کم‌خطرترین قدم: هیچ‌کاری نکردن یک انتخابِ مشروع است و این صفحه آن را محترم می‌شمارد.",
+    "en": "Card: کسی که نمی‌خواهد، یا می‌ترسد. Research hook and lowest-risk first step as in the Persian text.",
+    "nl": "Card: کسی که نمی‌خواهد، یا می‌ترسد. Research hook and lowest-risk first step as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:birds-30",
+   "rel": "see-also",
+   "note": {
+    "fa": "سی مرغ",
+    "en": "Thirty birds",
+    "nl": "Thirty birds"
+   }
+  },
+  {
+   "to": "simorgh:population-groups",
+   "rel": "see-also",
+   "note": {
+    "fa": "بیست گروه",
+    "en": "Twenty groups",
+    "nl": "Twenty groups"
+   }
+  },
+  {
+   "to": "simorgh:claims-resistance",
+   "rel": "see-also",
+   "note": {
+    "fa": "ادعاهای مقاومت",
+    "en": "Resistance claims",
+    "nl": "Resistance claims"
+   }
+  },
+  {
+   "to": "simorgh:safety-first",
+   "rel": "see-also",
+   "note": {
+    "fa": "اول ایمنی",
+    "en": "Safety first",
+    "nl": "Safety first"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:040033aaf5",
+  "src:41c1e6a2e7",
+  "src:436510de26",
+  "src:7fffecad9e",
+  "src:89f0e30575",
+  "src:b76e3ec683",
+  "src:f24faf8755"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

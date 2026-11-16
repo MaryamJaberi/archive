@@ -1,0 +1,280 @@
+{
+ "id": "simorgh:problems-map",
+ "kind": "concept",
+ "title": {
+  "fa": "نقشهٔ مشکل‌ها: ۲۴ مشکل روی دو محور",
+  "en": "Problem map: 24 problems on two axes",
+  "nl": "Problem map: 24 problems on two axes"
+ },
+ "aliases": [],
+ "parent": "simorgh:project",
+ "field": "simorgh:project",
+ "summary": {
+  "fa": "هر مشکل جایی روی دو محور می‌افتد: فراوانی (چه نسبتی درگیرند) و شدتِ زیسته (چقدر زندگیِ روزمره را مختل می‌کند)؛ جایی که می‌افتد تعیین می‌کند چه پاسخی به دردش می‌خورد. این نقشه برای آموزشِ چارچوب است و ادعای عددی نمی‌کند؛ «مهم‌ترین مشکل» پرسشِ بدی است.",
+  "en": "Each problem falls on two axes: frequency and lived severity; where it falls determines what response suits it. The map teaches a framework and makes no numerical claim; \"the most important problem\" is a bad question.",
+  "nl": "Each problem falls on two axes: frequency and lived severity; where it falls determines what response suits it. The map teaches a framework and makes no numerical claim; \"the most important problem\" is a bad question."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "چهار ربع و چهار جورِ پاسخ: شایع و سنگین ← اولویتِ اضطراریِ سیاستِ کلان؛ نادر اما ویرانگر ← چترِ حمایت و آمادگیِ بحران، هدفمند؛ شایع و آزارنده ← اصلاحِ روزمره و خدماتِ عمومی؛ کم‌شیوع و خفیف ← پایش، منابع را این‌جا انبار نکنید.",
+    "en": "Four quadrants, four kinds of response.",
+    "nl": "Four quadrants, four kinds of response."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "فشار معیشت و تورم (ساختاری؛ فراوانی 92، شدت 72): شایع‌ترین و یکی از سنگین‌ترین‌ها؛ در آمارِ رسمی هم کاملاً دیده می‌شود.",
+    "en": "Problem tavarom: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem tavarom: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بیکاری و شغل ناپایدار (فردی؛ فراوانی 78، شدت 68): با اشتغالِ غیررسمیِ بالا، «شاغل بودن» تضمینِ امنیت نیست.",
+    "en": "Problem bikari: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem bikari: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "هزینهٔ مسکن (خانوار؛ فراوانی 84، شدت 70): برای خانوارِ شهری بزرگ‌ترین قلمِ هزینه.",
+    "en": "Problem maskan: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem maskan: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کیفیت پایین مسکن (محله؛ فراوانی 72، شدت 55): ",
+    "en": "Problem keyfiat: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem keyfiat: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "هزینهٔ درمان (خانوار؛ فراوانی 70، شدت 74): ",
+    "en": "Problem darman: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem darman: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بدهی خانوار (خانوار؛ فراوانی 58، شدت 68)، کم‌ثبت در دادهٔ رسمی: در زندگی زیاد است ولی در دادهٔ رسمی کم ثبت می‌شود.",
+    "en": "Problem bedehi: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem bedehi: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "آلودگی هوا (محله؛ فراوانی 80، شدت 44): ",
+    "en": "Problem aloodegi: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem aloodegi: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ترافیک و زمان تلف‌شده (ساختاری؛ فراوانی 91، شدت 33): ",
+    "en": "Problem terafik: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem terafik: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "صف و بوروکراسی (ساختاری؛ فراوانی 83، شدت 19): ",
+    "en": "Problem boroukrasi: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem boroukrasi: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سلامت روان روزمره (فردی؛ فراوانی 76، شدت 36)، کم‌ثبت در دادهٔ رسمی: پنهان‌تر: بیشتر از آنچه ثبت می‌شود تجربه می‌شود.",
+    "en": "Problem ravan: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem ravan: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "تنهایی و انزوا (فردی؛ فراوانی 64، شدت 44)، کم‌ثبت در دادهٔ رسمی: ",
+    "en": "Problem tanhaee: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem tanhaee: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "خشونت خانگی (خانوار؛ فراوانی 46، شدت 88)، کم‌ثبت در دادهٔ رسمی: نمونهٔ روشنِ «کم‌ثبت، پرشدت»: در آمارِ رسمی به‌شدت کمتر از واقعیت دیده می‌شود.",
+    "en": "Problem khoshoonat: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem khoshoonat: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "فرسودگی مراقبت (خانوار؛ فراوانی 45، شدت 65)، کم‌ثبت در دادهٔ رسمی: کارِ مراقبتیِ بی‌مزد، عمدتاً بر دوشِ زنان و عمدتاً نامرئی در آمار.",
+    "en": "Problem farsoodegi: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem farsoodegi: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بیماری مزمن (فردی؛ فراوانی 51، شدت 72): ",
+    "en": "Problem bimari: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem bimari: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "معلولیت بدون حمایت (ساختاری؛ فراوانی 36، شدت 66): ",
+    "en": "Problem maloliat: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem maloliat: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "اعتیاد شدید (خانوار؛ فراوانی 27، شدت 77): ",
+    "en": "Problem etiad: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem etiad: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بی‌خانمانی (فردی؛ فراوانی 18، شدت 80): ",
+    "en": "Problem bikhanemani: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem bikhanemani: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "فاجعه و بحران حاد (ساختاری؛ فراوانی 16، شدت 92): نادر ولی ویرانگر — پاسخش آمادگی است، نه سیاستِ روزمره.",
+    "en": "Problem bohran: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem bohran: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ترک تحصیل (خانوار؛ فراوانی 60، شدت 38): ",
+    "en": "Problem tark: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem tark: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نابرابری فرصت شغلی (ساختاری؛ فراوانی 46، شدت 30): ",
+    "en": "Problem nabarabari: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem nabarabari: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "شکاف دیجیتال (محله؛ فراوانی 38، شدت 22): ",
+    "en": "Problem digital: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem digital: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "طرد اجتماعی اقلیت (ساختاری؛ فراوانی 34، شدت 44)، کم‌ثبت در دادهٔ رسمی: برای گروهِ هدف بسیار سنگین است، حتی وقتی سهمِ جمعیتی‌اش کوچک است.",
+    "en": "Problem tard: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem tard: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بی‌ثباتی وضعِ اقامت (فردی؛ فراوانی 24، شدت 60)، کم‌ثبت در دادهٔ رسمی: ",
+    "en": "Problem mohajer: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem mohajer: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "تنهاییِ سالمندی و مراقبت (خانوار؛ فراوانی 40، شدت 51)، کم‌ثبت در دادهٔ رسمی: با سالمندیِ پنج‌برابریِ نرخِ رشدِ جمعیت، سهمِ این نقطه بالا می‌رود.",
+    "en": "Problem salmand: position on the two axes and note, as in the Persian text.",
+    "nl": "Problem salmand: position on the two axes and note, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:population-groups",
+   "rel": "see-also",
+   "note": {
+    "fa": "بیست گروه",
+    "en": "Twenty groups",
+    "nl": "Twenty groups"
+   }
+  },
+  {
+   "to": "simorgh:ruins-ledger",
+   "rel": "see-also",
+   "note": {
+    "fa": "دفترِ ویرانی‌ها",
+    "en": "Ruins ledger",
+    "nl": "Ruins ledger"
+   }
+  },
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "دیتاست",
+    "en": "Dataset",
+    "nl": "Dataset"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

@@ -1,0 +1,64 @@
+{
+ "id": "simorgh:timeline-tool",
+ "kind": "concept",
+ "title": {
+  "fa": "خطِ زمان: ۸۴ ادعا روی زمان",
+  "en": "Timeline: the 84 claims on time",
+  "nl": "Timeline: the 84 claims on time"
+ },
+ "aliases": [],
+ "parent": "simorgh:history",
+ "field": "simorgh:history",
+ "summary": {
+  "fa": "همان ۸۴ ادعا این بار روی محور زمان در سه بازه که عرضِ برابر ندارند (۲۲۵۰ سال، ۴۰۰ سال، ۱۳۰ سال)؛ چگالیِ رویداد در بازه‌ها قابل‌مقایسه نیست.",
+  "en": "The same 84 claims on a time axis in three spans of unequal width (2,250, 400 and 130 years); event density is not comparable across spans.",
+  "nl": "The same 84 claims on a time axis in three spans of unequal width (2,250, 400 and 130 years); event density is not comparable across spans."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "بازه‌ها: «باستان تا صفویه» (۵ ادعا)، «چهار قرنِ ساخته‌شدن» (۱۱ ادعا) و دورهٔ معاصر؛ هر ردیف ردهٔ اعتبار و پیوند به سطرِ کاملِ ادعا دارد.",
+    "en": "Spans: ancient to Safavid (5 claims), four centuries of making (11 claims), and the contemporary period; each row has a tier and a link to the full claim row.",
+    "nl": "Spans: ancient to Safavid (5 claims), four centuries of making (11 claims), and the contemporary period; each row has a tier and a link to the full claim row."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "هشدار مقیاس: روی یک محورِ خطی کلِ دورهٔ معاصر یک خطِ نازک می‌شد.",
+    "en": "Scale warning: on one linear axis the whole contemporary period would be a thin line.",
+    "nl": "Scale warning: on one linear axis the whole contemporary period would be a thin line."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "دیتاست",
+    "en": "Dataset",
+    "nl": "Dataset"
+   }
+  },
+  {
+   "to": "simorgh:seven-nights",
+   "rel": "see-also",
+   "note": {
+    "fa": "هفت شب",
+    "en": "Seven nights",
+    "nl": "Seven nights"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

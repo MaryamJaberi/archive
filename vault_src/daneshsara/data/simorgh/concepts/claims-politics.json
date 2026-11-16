@@ -1,0 +1,159 @@
+{
+ "id": "simorgh:claims-politics",
+ "kind": "concept",
+ "title": {
+  "fa": "ادعاهای سیاست و افکار عمومی",
+  "en": "Claims: politics and public opinion",
+  "nl": "Claims: politics and public opinion"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "8 ادعای منبع‌دار از مجموعهٔ ۸۴ادعایی، هر کدام با مقدار، دوره، ردهٔ اعتبار (۱ داده/سند، ۲ پژوهش، ۳ برآورد یا مدل) و شرطی که آن را باطل می‌کند. ادعایی که نتواند بگوید چه چیز ردش می‌کند ادعا نیست.",
+  "en": "8 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it.",
+  "nl": "8 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "۷۲٫۹٪ موافقِ جدایی نهادِ دین از حکومت — بر پایهٔ پیمایشِ خودِ دستگاهِ حاکم، که در هشت سال از ۳۰٫۷٪ به اینجا رسیده. (۳۰٫۷٪ ← ۷۲٫۹٪؛ ≈۸ سال؛ ردهٔ 1؛ پیمایش). شرطِ ابطال: متنِ اصلیِ پیمایش که پرسش را جورِ دیگری صورت‌بندی کرده باشد، یا نمونه‌گیریِ غیرِ نماینده. (محلِ نزاع) یادداشت: قوی‌ترین عددِ پروژه از این نظر که از منبعِ مخالف می‌آید. ولی تفسیرش محدود است: این پشتیبانی از براندازی یا از هیچ آلترناتیوِ مشخصی نیست. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim secularism-survey: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim secularism-survey: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "ائتلافِ حاکم ۱۰–۱۵٪ و اکثریتِ مقابل ۸۰–۸۵٪ — ولی این برآوردِ کیفیِ دو تحلیل‌گر است، نه یافتهٔ پیمایشی. (۱۰–۱۵٪ در برابر ۸۰–۸۵٪؛ ≈۱۴۰۴؛ ردهٔ 3؛ برآوردِ کیفی). شرطِ ابطال: هر پیمایشِ مستقلِ قابلِ اتکا — که وجود ندارد. تا آن زمان این عدد احرازشدنی نیست. (محلِ نزاع) یادداشت: خودِ سند می‌گوید آنچه با داده قابلِ دفاع است این است: «اکثریتی بزرگ، جایی میان دوسوم تا سه‌چهارم». استدلال به بازهٔ محافظه‌کارانه هم مقاوم است. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim coalition-size: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim coalition-size: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "این یک بازیِ مجموع‌صفر نیست؛ یک بازیِ هماهنگی با تعادل‌های چندگانه است — پس تقاضا اشباع است و منابع باید صرفِ ساختنِ باورِ مشترک شود. (کیفی؛ —؛ ردهٔ 2؛ چارچوبِ نظری). شرطِ ابطال: شواهدی که نشان دهد مسئله همچنان متقاعدکردنِ مردم دربارهٔ وضعِ موجود است، نه نبودِ گزینهٔ بعدی.",
+    "en": "Claim coordination-game: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim coordination-game: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:436510de26",
+    "src:e0cb8fb11f"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نظام‌هایی که از دلِ یک انقلابِ اجتماعیِ واقعی بیرون آمده‌اند — با حزب و ارتشِ خودساخته — به‌طرزِ غیرعادی بادوام‌اند. سپاه، ارتشِ شاه نیست. (کیفی؛ —؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: موردِ کافیِ رژیم‌های انقلابی که با فشارِ مدنی فروپاشیده‌اند. (محلِ نزاع) یادداشت: این نقدی است بر خودِ این پروژه: قیاسِ ایرانِ امروز با اروپای شرقیِ ۱۹۸۹ را زیرِ سؤال می‌برد.",
+    "en": "Claim revolutionary-durability: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim revolutionary-durability: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:89f0e30575"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "در ۲۰۰۳ انحلالِ یک‌بارهٔ ارتش و دستگاهِ حزبی، دولت را از بین برد — نه پاکش کرد و نه دموکراسی آورد. (کیفی؛ ۲۰۰۳؛ ردهٔ 2؛ موردِ تاریخی). شرطِ ابطال: ارزیابی‌ای که انحلالِ یک‌بارهٔ نهادهای امنیتی را در جایی موفق نشان دهد. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim iraq-2003: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim iraq-2003: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "«هر نهادی تا وقتی بیرون از قدرت است متحدِ مردم است» صورتِ دیگری از قانونِ آهنینِ الیگارشیِ میخلز است — و نقض دارد. (کیفی؛ —؛ ردهٔ 2؛ چارچوبِ نظری). شرطِ ابطال: همان دو نقضِ موردی که در متن آمده — و هر موردِ سومی مثلِ آن‌ها. (محلِ نزاع) یادداشت: خودِ متنِ «دو ایران» این قاعده را به‌خاطرِ جبرگرایی نقد می‌کند.",
+    "en": "Claim michels: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim michels: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:486ebb0384"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "ادبیاتِ عدالتِ انتقالی بر یک نکته هم‌صداست: آنچه در زمانِ سرکوب ثبت و نگه‌داری شود، دامنهٔ حقیقت‌یابی و دادرسیِ پس از گذار را تعیین می‌کند. (کیفی؛ گذارهای ۱۹۸۰–۲۰۰۰؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: گذارهایی که در آن‌ها، با وجودِ نبودِ سوابقِ دورهٔ سرکوب، حقیقت‌یابی یا دادرسی به همان اندازه پیش رفته باشد. یادداشت: این جمع‌بندیِ ما از سه کتاب است، نه یافتهٔ کمّیِ یکی از آن‌ها؛ هیچ‌کدام برای «سقفِ عدالتِ فردا» عددی نمی‌دهند.",
+    "en": "Claim transitional-justice: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim transitional-justice: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:b16fff45ff",
+    "src:611b119f9f",
+    "src:bb9258a7c8"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "در مطالعهٔ تطبیقیِ گذار از اقتدارگرایی، گذاری پیدا نشد که آغازش — مستقیم یا غیرمستقیم — پیامدِ شکافی مهم درونِ خودِ رژیم نباشد. (کیفی؛ گذارهای ۱۹۷۴–۱۹۸۶؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: گذاری مستند که بی‌هیچ شکافِ درونیِ رژیم آغاز شده باشد. (محلِ نزاع) یادداشت: اودانل و اشمیتر از شکافِ «درونِ رژیم» حرف می‌زنند، نه مشخصاً ریزشِ نخبگانِ اقتصادی که کارت می‌گوید. ادعای دومِ کارت — «بیشترین اثر به‌ازای هر ریال در دفاعِ حقوقی و خانوادهٔ زندانی است» — در هیچ گزارشی پیدا نشد؛ تا منبع پیدا شود باید نرم یا حذف شود.",
+    "en": "Claim elite-split: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim elite-split: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:a4e411ed75"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "جدولِ ۸۴ ادعا (ابزار)",
+    "en": "84-claim table (tool)",
+    "nl": "84-claim table (tool)"
+   }
+  },
+  {
+   "to": "simorgh:audit",
+   "rel": "see-also",
+   "note": {
+    "fa": "ممیزیِ ضعف‌ها",
+    "en": "Audit of weaknesses",
+    "nl": "Audit of weaknesses"
+   }
+  },
+  {
+   "to": "simorgh:inspect-claim",
+   "rel": "see-also",
+   "note": {
+    "fa": "وارسیِ یک ادعا",
+    "en": "Inspect a claim",
+    "nl": "Inspect a claim"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:436510de26",
+  "src:486ebb0384",
+  "src:611b119f9f",
+  "src:89f0e30575",
+  "src:a4e411ed75",
+  "src:b16fff45ff",
+  "src:bb9258a7c8",
+  "src:e0cb8fb11f"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

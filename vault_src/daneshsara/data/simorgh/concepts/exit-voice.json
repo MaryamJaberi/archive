@@ -1,0 +1,127 @@
+{
+ "id": "simorgh:exit-voice",
+ "kind": "concept",
+ "title": {
+  "fa": "خروج، صدا، وفاداری: حرکتی که بازی نداشت",
+  "en": "Exit, voice, loyalty: the move the game lacked",
+  "nl": "Exit, voice, loyalty: the move the game lacked"
+ },
+ "aliases": [],
+ "parent": "simorgh:game",
+ "field": "simorgh:game",
+ "summary": {
+  "fa": "در بازیِ نسخهٔ یک کسی از میز بلند نمی‌شد؛ در ایران «خروج» بزرگ‌ترین حرکتِ پنهان است. نظریه (هیرشمن) در ویکی جامعه‌شناسی است؛ اینجا معنایش برای بازی و برنامه.",
+  "en": "In version one nobody left the table; in Iran exit is the largest hidden move. The theory (Hirschman) is in the sociology wiki; here, its meaning for the game and the plan.",
+  "nl": "In version one nobody left the table; in Iran exit is the largest hidden move. The theory (Hirschman) is in the sociology wiki; here, its meaning for the game and the plan."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "واقعیتِ ۱۴۰۵: به گزارشِ رویترز، خانواده‌ها هزینهٔ تحصیل را می‌بُرند و تحصیل در خارج برای بسیاری ناممکن شده؛ یعنی خروج هم گران شده. نتیجهٔ دوگانه: کسانی که نمی‌توانند بروند، یا به صدا رو می‌آورند یا به درماندگی.",
+    "en": "2026 reality: per Reuters families cut education spending and study abroad is out of reach for many, so exit has become costly too. Double result: those who cannot leave turn either to voice or to helplessness.",
+    "nl": "2026 reality: per Reuters families cut education spending and study abroad is out of reach for many, so exit has become costly too. Double result: those who cannot leave turn either to voice or to helplessness."
+   },
+   "sources": [
+    "src:7af62df15e"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "عددِ کلیدی از گمان (تیر ۱۴۰۵): ۳۲٪ می‌خواهند قانونی بروند ولی امکانش را ندارند. این «خروجِ بسته» بزرگ‌ترین گروهِ میزِ امروز است: آدم‌هایی که دیگر وفادار نیستند، نمی‌توانند بروند، و هنوز صدا هم نشده‌اند. هیرشمن پیش‌بینی می‌کند وقتی خروج بسته می‌شود فشار به سمتِ صدا می‌رود؛ اما فقط اگر صدا هزینهٔ تحمل‌پذیر داشته باشد، که دوباره ما را به صندوق و ضمانت برمی‌گرداند.",
+    "en": "Key GAMAAN figure: 32 percent want to leave legally but cannot. This \"blocked exit\" is the largest group at today's table: no longer loyal, unable to leave, not yet voice. Hirschman predicts pressure shifts to voice when exit closes, but only if voice has bearable cost, which leads back to the fund and the guarantee.",
+    "nl": "Key GAMAAN figure: 32 percent want to leave legally but cannot. This \"blocked exit\" is the largest group at today's table: no longer loyal, unable to leave, not yet voice. Hirschman predicts pressure shifts to voice when exit closes, but only if voice has bearable cost, which leads back to the fund and the guarantee."
+   },
+   "sources": [
+    "src:6c0a6f1ef3",
+    "src:6ec0c8ba1e"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "دیاسپورا (۴ تا ۸ میلیون، برآورد) خروج‌کرده‌هایی‌اند که هنوز می‌توانند «صدا» باشند، اما فقط در چند کارِ مشخص مؤثرند: مستندسازی و آرشیو، کمکِ حقوقی و صندوقِ شفاف با حسابرسیِ مستقل، فشارِ سیاستی در اروپا با منبعِ معتبر، و مهارت برای «روز بعد». فشارِ بیرونیِ بی‌هماهنگ گاهی حرکتِ داخل را بی‌اعتبار می‌کند.",
+    "en": "The diaspora (4 to 8 million, estimate) are exiters who can still be voice, effective only in specific jobs: documentation, legal aid and transparent audited funds, policy pressure in Europe with credible sources, and skills for the day after.",
+    "nl": "The diaspora (4 to 8 million, estimate) are exiters who can still be voice, effective only in specific jobs: documentation, legal aid and transparent audited funds, policy pressure in Europe with credible sources, and skills for the day after."
+   },
+   "sources": [
+    "src:41c1e6a2e7"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "در قواعدِ نسخهٔ ۲ «کارتِ خروج» اضافه شد: بازیکنی که می‌رود از شمارِ شهر کم می‌شود ولی یک «صدای بیرونی» با اثرِ محدود می‌گیرد؛ هر خروج آستانهٔ شهر را سخت‌تر می‌کند.",
+    "en": "Rules v2 add an exit card: a leaving player is subtracted from the city but gets a limited \"outside voice\"; each exit makes the city's threshold harder.",
+    "nl": "Rules v2 add an exit card: a leaving player is subtracted from the city but gets a limited \"outside voice\"; each exit makes the city's threshold harder."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:game-rules-v2",
+   "rel": "see-also",
+   "note": {
+    "fa": "قواعد نسخهٔ ۲",
+    "en": "Rules v2",
+    "nl": "Rules v2"
+   }
+  },
+  {
+   "to": "simorgh:game-reality-map",
+   "rel": "see-also",
+   "note": {
+    "fa": "جدولِ تطبیق",
+    "en": "Game-to-reality map",
+    "nl": "Game-to-reality map"
+   }
+  },
+  {
+   "to": "soc:preference-falsification",
+   "rel": "see-also",
+   "note": {
+    "fa": "تحریف ترجیحات",
+    "en": "Preference falsification",
+    "nl": "Preference falsification"
+   }
+  },
+  {
+   "to": "simorgh:gamaan-2026",
+   "rel": "see-also",
+   "note": {
+    "fa": "پیمایشِ گمان (گزارش کامل)",
+    "en": "GAMAAN full report",
+    "nl": "GAMAAN full report"
+   }
+  },
+  {
+   "to": "soc:exit-voice-loyalty",
+   "rel": "see-also",
+   "note": {
+    "fa": "نظریه: خروج، صدا، وفاداری",
+    "en": "Theory: exit, voice, loyalty",
+    "nl": "Theory: exit, voice, loyalty"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:41c1e6a2e7",
+  "src:6c0a6f1ef3",
+  "src:6ec0c8ba1e",
+  "src:7af62df15e"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

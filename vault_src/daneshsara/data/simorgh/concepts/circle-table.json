@@ -1,0 +1,100 @@
+{
+ "id": "simorgh:circle-table",
+ "kind": "concept",
+ "title": {
+  "fa": "میزِ دایره‌ای: برگهٔ جلسهٔ یک‌ساعته",
+  "en": "Circle table: one-hour meeting sheet",
+  "nl": "Circle table: one-hour meeting sheet"
+ },
+ "aliases": [],
+ "parent": "simorgh:project",
+ "field": "simorgh:project",
+ "summary": {
+  "fa": "برگه‌ای نُه‌بخشی برای یک جلسهٔ یک‌ساعته؛ هر خط پیشنهاد است نه تصمیم و هر کس روی خطی که با آن موافق نیست می‌زند تا خط بخورد. بخش‌ها: ما چه هستیم و نیستیم، دنبال چه هستیم، از این حلقه چه می‌خواهم، محصول در دو سبد، بازاریابی، سرمایه، جاهای خالی، ده پرسش، جمع‌بست.",
+  "en": "A nine-part sheet for a one-hour meeting; every line is a proposal, not a decision, and anyone who disagrees strikes it. Sections: what we are and are not, what we seek, what I want from this circle, product in two baskets, marketing, capital, empty seats, ten questions, wrap-up.",
+  "nl": "A nine-part sheet for a one-hour meeting; every line is a proposal, not a decision, and anyone who disagrees strikes it. Sections: what we are and are not, what we seek, what I want from this circle, product in two baskets, marketing, capital, empty seats, ten questions, wrap-up."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "هستیم: دانش‌سرایی منبع‌دار به زبانِ ساده، بازیِ تمرینِ اعتماد، نقشهٔ «روزِ بعد» (آب، برق، نان، عدالت)، شبکه‌ای که هر نفر یک قدمِ کوچک برمی‌دارد، شفاف در روش و پول.",
+    "en": "We are: a sourced knowledge commons, a trust game, a day-after map, a network where each person takes one small step, transparent in method and money.",
+    "nl": "We are: a sourced knowledge commons, a trust game, a day-after map, a network where each person takes one small step, transparent in method and money."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نیستیم: حزب یا گروهِ سیاسی با رهبر؛ سازمانِ مخفی؛ رسانهٔ خبری؛ دادگاه (به هیچ آدمِ واقعی برچسب نمی‌زنیم و پرونده نمی‌سازیم)؛ دولتِ در تبعید.",
+    "en": "We are not: a party with a leader; a secret organisation; a news outlet; a court (no real person is labelled and no file kept); a government in exile.",
+    "nl": "We are not: a party with a leader; a secret organisation; a news outlet; a court (no real person is labelled and no file kept); a government in exile."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دنبالش نیستیم: خشونت و انتقام؛ قدرت یا مقام؛ رشدِ سریع به بهای امنیتِ آدم‌ها؛ پولی با شرطِ سیاسی؛ هیچ کارِ پرخطر از کسی که داخلِ ایران است.",
+    "en": "Not seeking: violence or revenge; power or office; fast growth at the cost of people's safety; money with political conditions; any high-risk act from someone inside Iran.",
+    "nl": "Not seeking: violence or revenge; power or office; fast growth at the cost of people's safety; money with political conditions; any high-risk act from someone inside Iran."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "خواسته‌ها از حلقه: نقدِ صریح، هر نفر مسئولِ یک چیز، هر کار روی سایت ثبت شود، آهسته اما پیوسته، «نه» گفتنِ راحت؛ و نخواستن: تأییدِ تعارفی، نامِ یا عکسِ کسی بی‌اجازه، و حرف‌زدن دربارهٔ حلقه بیرون از آن تا راهنمای امنیت آماده شود.",
+    "en": "What is asked of the circle: frank critique, one responsibility each, all work recorded on the site, slow but steady, easy to say no; and what is not wanted: polite approval, anyone's name or photo without consent, talk about the circle outside it until the security guide is ready.",
+    "nl": "What is asked of the circle: frank critique, one responsibility each, all work recorded on the site, slow but steady, easy to say no; and what is not wanted: polite approval, anyone's name or photo without consent, talk about the circle outside it until the security guide is ready."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سه محصولی که زودتر پول می‌شوند: سنجشِ سلامتِ سازمان (پرسش‌نامهٔ بی‌نام، گزارش، کارگاه؛ نمونه آماده)، کارگاهِ بازیِ جدی برای تیم‌ها، و خدماتِ طراحیِ محصول و پژوهشِ کاربر برای شرکت‌های اروپایی.",
+    "en": "Three products nearest to money: organisational wellbeing assessment, serious-game workshops for teams, and product design and user-research services for European firms.",
+    "nl": "Three products nearest to money: organisational wellbeing assessment, serious-game workshops for teams, and product design and user-research services for European firms."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:products-19",
+   "rel": "see-also",
+   "note": {
+    "fa": "نوزده محصول",
+    "en": "Nineteen products",
+    "nl": "Nineteen products"
+   }
+  },
+  {
+   "to": "simorgh:master-plan",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقشهٔ کلان",
+    "en": "Master plan",
+    "nl": "Master plan"
+   }
+  },
+  {
+   "to": "simorgh:roles-47",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقش‌ها",
+    "en": "Roles",
+    "nl": "Roles"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

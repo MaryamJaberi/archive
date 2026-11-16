@@ -1,0 +1,91 @@
+{
+ "id": "simorgh:birds-1",
+ "kind": "concept",
+ "title": {
+  "fa": "مرغ‌ها: نگهبانان جان",
+  "en": "Birds: نگهبانان جان",
+  "nl": "Birds: نگهبانان جان"
+ },
+ "aliases": [],
+ "parent": "simorgh:action",
+ "field": "simorgh:action",
+ "summary": {
+  "fa": "پنج مرغِ گروهِ «نگهبانان جان» با مأموریت و قدمِ هرکدام.",
+  "en": "The five birds of the group \"نگهبانان جان\" with the mission and step of each.",
+  "nl": "The five birds of the group \"نگهبانان جان\" with the mission and step of each."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "پزشک و پرستار: مأموریت: هیچ بیماری در روزهای گذار بی‌درمان نماند. قدمِ امروز: فهرست داروهای حیاتی محله‌ات را بشناس. روزِ آزادی: اورژانس جشن‌ها و درمانگاه باز. پس از آن: شبکهٔ درمان محله و بازگرداندن پزشکان مهاجر.",
+    "en": "Bird پزشک و پرستار: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird پزشک و پرستار: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "روان‌یار و سوگ‌یار: مأموریت: کسی با سوگ و تروما تنها نماند. قدمِ امروز: شنیدن بدون داوری را تمرین کن. روزِ آزادی: کنار خانواده‌های داغدار و زندانیان آزادشده. پس از آن: گروه‌های همیاری سوگ در هر شهر.",
+    "en": "Bird روان‌یار و سوگ‌یار: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird روان‌یار و سوگ‌یار: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "امداد و بحران: مأموریت: آب، برق، غذا و دارو قطع نشود. قدمِ امروز: کمک‌های اولیه یاد بگیر. روزِ آزادی: کمک‌های اولیه در میدان‌ها؛ خدمات سر کار بمانند. پس از آن: ستاد بحران محله‌ای برای زلزله و قطعی.",
+    "en": "Bird امداد و بحران: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird امداد و بحران: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "همراه کودک: مأموریت: هیچ کودکی قربانی گذار نشود. قدمِ امروز: نشانه‌های کودک‌آزاری را بشناس. روزِ آزادی: فضای امن کودکان در جشن‌ها؛ کودکان گم‌شده. پس از آن: پایان ازدواج و کار کودک؛ تغذیهٔ مدرسه.",
+    "en": "Bird همراه کودک: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird همراه کودک: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "همراه رهایی از اعتیاد: مأموریت: درمان به جای زندان. قدمِ امروز: اعتیاد را بیماری ببین نه جرم. روزِ آزادی: مراکز کاهش آسیب باز بمانند. پس از آن: شبکهٔ درمان و کار برای بهبودیافتگان.",
+    "en": "Bird همراه رهایی از اعتیاد: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird همراه رهایی از اعتیاد: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "soc:collective-trauma-justice-revenge",
+   "rel": "see-also",
+   "note": {
+    "fa": "دادخواهی بدون انتقام",
+    "en": "دادخواهی بدون انتقام",
+    "nl": "دادخواهی بدون انتقام"
+   }
+  },
+  {
+   "to": "simorgh:birds-30",
+   "rel": "see-also",
+   "note": {
+    "fa": "سی مرغ",
+    "en": "Thirty birds",
+    "nl": "Thirty birds"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

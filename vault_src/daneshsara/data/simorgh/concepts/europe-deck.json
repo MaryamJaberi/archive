@@ -1,0 +1,64 @@
+{
+ "id": "simorgh:europe-deck",
+ "kind": "concept",
+ "title": {
+  "fa": "ارائهٔ اروپا، فایل‌های پرسش‌وپاسخ و دانلودها",
+  "en": "Europe deck, Q&A files and downloads",
+  "nl": "Europe deck, Q&A files and downloads"
+ },
+ "aliases": [],
+ "parent": "simorgh:strategy",
+ "field": "simorgh:strategy",
+ "summary": {
+  "fa": "ارائه‌ای دوزبانه برای مخاطبِ اروپایی (حالتِ اسلاید، ۲۲ اسلایدِ PPTX)، دو فایلِ پرسش‌وپاسخ (دربارهٔ سایت و دربارهٔ ارائه) و صفحهٔ دانلودها که فایل‌های باز را یک‌جا می‌دهد.",
+  "en": "A bilingual deck for a European audience (slide mode, 22-slide PPTX), two Q&A files (about the site and about the deck) and a downloads page that gives the open files in one place.",
+  "nl": "A bilingual deck for a European audience (slide mode, 22-slide PPTX), two Q&A files (about the site and about the deck) and a downloads page that gives the open files in one place."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "ارائه: همان استدلال با زبانِ سیاستِ اروپایی و منبع‌های ICCT و دیگران؛ جملهٔ اجباریِ دربارهٔ ایران و اسرائیل در هر نسخه می‌ماند.",
+    "en": "The deck: the same argument in European policy language with ICCT and other sources; the mandatory Iran-Israel sentence stays in every version.",
+    "nl": "The deck: the same argument in European policy language with ICCT and other sources; the mandatory Iran-Israel sentence stays in every version."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "فایل‌ها: par-simorgh-deck.pptx (۲۲ اسلاید)، QA-site و QA-simorgh-europe، claims-dataset.json، problems-dataset.json، و ابزارِ voice2text که در مرورگر کار می‌کند و صدا را به جایی نمی‌فرستد.",
+    "en": "Files: the PPTX deck, the two Q&A documents, the two datasets, and the voice2text tool that runs in the browser and sends audio nowhere.",
+    "nl": "Files: the PPTX deck, the two Q&A documents, the two datasets, and the voice2text tool that runs in the browser and sends audio nowhere."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:tools-directory",
+   "rel": "see-also",
+   "note": {
+    "fa": "فهرست ابزارها",
+    "en": "Tools directory",
+    "nl": "Tools directory"
+   }
+  },
+  {
+   "to": "tarikh:iran-and-jews",
+   "rel": "see-also",
+   "note": {
+    "fa": "ایران و اسرائیل",
+    "en": "Iran and Israel",
+    "nl": "Iran and Israel"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

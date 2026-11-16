@@ -1,0 +1,46 @@
+{
+ "id": "iran:emigration",
+ "domain": "soc",
+ "question": {
+  "fa": "چند پزشک و پرستار از ایران می‌روند؟",
+  "en": "How many doctors and nurses are leaving Iran?"
+ },
+ "finding": {
+  "fa": "عدد رسمی یکپارچه‌ای وجود ندارد. گزارش‌های سال ۱۴۰۲: رئیس سازمان نظام پرستاری گفت ماهانه ۱۰۰ تا ۱۵۰ پرستار مهاجرت می‌کنند؛ یک روزنامهٔ داخلی شمار پزشکان و متخصصانی را که در ۲۰۲۲ رفتند ۶٬۵۰۰ نفر نوشت؛ و مدیر رصدخانهٔ مهاجرت ایران گفت نیمی از دانشجویان و دانش‌آموختگان تصمیم به رفتن گرفته‌اند. دادهٔ تازه دربارهٔ «خواستِ» رفتن (نه رفتن): در پیمایشِ گمان (تیر ۱۴۰۵) ۴۶٪ نمی‌خواهند بروند و ۴۳٪ به نوعی می‌خواهند: ۳۲٪ می‌خواهند قانونی بروند ولی امکانش را ندارند، ۶٪ در حالِ برنامه‌ریزی‌اند و ۵٪ به پناهندگی فکر می‌کنند؛ ۱۱٪ نمی‌دانند.",
+  "en": "There is no single official figure. Reports from 2023: the head of the nursing organisation said 100 to 150 nurses emigrate each month; a domestic newspaper put the number of doctors and specialists who left in 2022 at 6,500; and the director of the Iran Migration Observatory said half of students and graduates had decided to leave. New data on the wish to leave (not leaving): in GAMAAN (June 2026) 46% do not want to leave and 43% do in some form: 32% want to leave legally but lack the means, 6% are planning, 5% consider asylum; 11% unsure."
+ },
+ "year": 2026,
+ "method": "statements by officials and a newspaper figure, collected in a news report; no systematic count",
+ "grade": "D",
+ "contested": true,
+ "source": [
+  {
+   "title": "Scollon, M. (20 September 2023). As ‘Misery’ Rises In Iran, So Does People’s Determination To Move Abroad. RFE/RL.",
+   "url": "https://www.rferl.org/a/32601696.html"
+  },
+  {
+   "title": "GAMAAN (2026). Iranians’ Attitudes Toward the 2026 Protests and War: Survey Report.",
+   "url": "https://gamaan.org/wp-content/uploads/2026/07/GAMAAN-2026-Protests-and-War-Survey-Report-Final-English.pdf"
+  }
+ ],
+ "critique": "این‌ها گفته‌های پراکنده‌اند، نه شمارش: روش هیچ‌کدام منتشر نشده و «تصمیم به رفتن» با رفتن یکی نیست. ایران آمار خروج دائمی منتشر نمی‌کند و کشورهای مقصد هم هر کدام جداگانه می‌شمارند. تنها نتیجهٔ مطمئن جهت است، نه اندازه؛ برای همین ردهٔ D. عددِ گمان «خواست» را می‌سنجد نه رفتن را، و نمونه‌اش آنلاین است؛ اما نشان می‌دهد بزرگ‌ترین گروه کسانی‌اند که می‌خواهند بروند و نمی‌توانند.",
+ "viz": {
+  "kind": "none",
+  "note": {
+   "fa": "عددها با هم قابل‌مقایسه نیستند و روش ندارند؛ نموداری کشیده نشده است."
+  }
+ },
+ "roots": {
+  "fa": "تورم و دستمزد پایین، ناامیدی از آینده، محدودیت‌های اجتماعی، و بازار کار باز برای کادر درمان در کشورهای دیگر."
+ },
+ "now": {
+  "fa": "هر پزشک و پرستاری که می‌رود سال‌ها آموزش را با خود می‌برد. همین شبکهٔ بیرون از کشور می‌تواند سرمایهٔ بازسازی باشد، اگر راه بازگشت و همکاری باز شود."
+ },
+ "fields": [],
+ "concepts": [
+  "soc:migration-theories"
+ ],
+ "capability": [
+  10
+ ]
+}

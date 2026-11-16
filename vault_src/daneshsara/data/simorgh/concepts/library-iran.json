@@ -1,0 +1,124 @@
+{
+ "id": "simorgh:library-iran",
+ "kind": "concept",
+ "title": {
+  "fa": "کتابخانه: ایران، تاریخ، ساختار، سپاه",
+  "en": "Library: Iran, history, structure, the Guards",
+  "nl": "Library: Iran, history, structure, the Guards"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "منابعِ فهمِ ایران؛ شامل نقدِ «جامعهٔ کوتاه‌مدت» به خوش‌بینیِ مجموعه.",
+  "en": "Library: Iran, history, structure, the Guards",
+  "nl": "Library: Iran, history, structure, the Guards"
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "Abrahamian (1982) Iran Between Two Revolutions: هسته: مرجعِ پایه؛ بدونِ آن بخشِ تاریخیِ هر تحلیل روی هوا می‌ماند.",
+    "en": "Abrahamian (1982) Iran Between Two Revolutions: why it is on the shelf (Persian text).",
+    "nl": "Abrahamian (1982) Iran Between Two Revolutions: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:3c12f4366b"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Parsa (2016) Democracy in Iran: هسته: همان پرسشِ مجموعه با روشِ جامعه‌شناسیِ تطبیقی؛ اصلاحِ درون‌سیستمی بن‌بست است.",
+    "en": "Parsa (2016) Democracy in Iran: why it is on the shelf (Persian text).",
+    "nl": "Parsa (2016) Democracy in Iran: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:7cca0195a6"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Harris (2017) A Social Revolution: هسته: دولتِ رفاه و طبقهٔ متوسطِ تازه؛ وفاداری‌ها هیچ‌وقت ساده نبوده‌اند.",
+    "en": "Harris (2017) A Social Revolution: why it is on the shelf (Persian text).",
+    "nl": "Harris (2017) A Social Revolution: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:7f733b3f0a"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Ostovar (2016) Vanguard of the Imam: تاریخِ نهادیِ سپاه؛ مرجعِ استانداردِ انگلیسی.",
+    "en": "Ostovar (2016) Vanguard of the Imam: why it is on the shelf (Persian text).",
+    "nl": "Ostovar (2016) Vanguard of the Imam: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:55fb1755fa"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Abrahamian (1999) Tortured Confessions: تاریخِ «اعترافِ اجباری» در ایران.",
+    "en": "Abrahamian (1999) Tortured Confessions: why it is on the shelf (Persian text).",
+    "nl": "Abrahamian (1999) Tortured Confessions: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:f7a51da2b0"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Afary (1996) The Iranian Constitutional Revolution, 1906–1911: ریشهٔ مشروطه با تناقض‌هایش، نه نسخهٔ آرمانی‌شده.",
+    "en": "Afary (1996) The Iranian Constitutional Revolution, 1906–1911: why it is on the shelf (Persian text).",
+    "nl": "Afary (1996) The Iranian Constitutional Revolution, 1906–1911: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:00c70f86c1"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Katouzian، «جامعهٔ کوتاه‌مدت»: نقدِ ما: اگر در ایران هر دوره میراثِ دورهٔ قبل را پاک می‌کند، عوض‌شدنِ حکومت چیزی را تضمین نمی‌کند.",
+    "en": "Katouzian، «جامعهٔ کوتاه‌مدت»: why it is on the shelf (Persian text).",
+    "nl": "Katouzian، «جامعهٔ کوتاه‌مدت»: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:f24faf8755"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:library-honesty",
+   "rel": "see-also",
+   "note": {
+    "fa": "این فهرست چه نیست",
+    "en": "What this list is not",
+    "nl": "What this list is not"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:00c70f86c1",
+  "src:3c12f4366b",
+  "src:55fb1755fa",
+  "src:7cca0195a6",
+  "src:7f733b3f0a",
+  "src:f24faf8755",
+  "src:f7a51da2b0"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

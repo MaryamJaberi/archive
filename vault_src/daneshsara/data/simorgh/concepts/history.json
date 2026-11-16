@@ -1,0 +1,26 @@
+{
+ "id": "simorgh:history",
+ "kind": "field",
+ "title": {
+  "fa": "تاریخ و ریشه‌ها",
+  "en": "History and roots",
+  "nl": "History and roots"
+ },
+ "aliases": [],
+ "parent": "simorgh:simorgh",
+ "field": null,
+ "summary": {
+  "fa": "دو ایران، پانصد سالِ بالا رفتنِ روحانیت، ۱۳۵۷ و ایران و اسرائیل در بلندمدت.",
+  "en": "Two Irans, five centuries of clerical rise, 1979, and Iran and Israel in the long run.",
+  "nl": "Two Irans, five centuries of clerical rise, 1979, and Iran and Israel in the long run."
+ },
+ "points": [],
+ "links": [],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

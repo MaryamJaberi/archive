@@ -1,0 +1,192 @@
+{
+ "id": "soc:preference-falsification",
+ "kind": "concept",
+ "title": {
+  "fa": "تحریف ترجیحات و غافلگیری انقلاب‌ها",
+  "en": "Preference falsification and the surprise of revolutions",
+  "nl": "Voorkeursvervalsing en de verrassing van revoluties"
+ },
+ "aliases": [],
+ "parent": "soc:collective",
+ "field": "soc:collective",
+ "summary": {
+  "fa": "وقتی ابراز مخالفت هزینه دارد، مردم در جمع چیزی می‌گویند که باور ندارند؛ پس هیچ‌کس نمی‌داند چند نفر مثل او فکر می‌کنند، حتی حکومت. یک جرقهٔ کوچک می‌تواند آستانه‌های پنهان را پشت سر هم بیندازد و رژیمی که دیروز پایدار می‌نمود امروز فرو بریزد. برای همین انقلاب‌ها، از جمله ۱۳۵۷، همیشه «تصورناپذیر» بوده‌اند.",
+  "en": "When expressing dissent is costly, people say in public what they do not believe; so no one knows how many think like them, not even the regime. A small spark can trip hidden thresholds in a cascade, and a regime that looked stable yesterday collapses today. That is why revolutions, including 1979, were always \"unthinkable\".",
+  "nl": "Wanneer afwijkende meningen uiten kostbaar is, zeggen mensen in het openbaar wat ze niet geloven; dus weet niemand hoeveel anderen zo denken, zelfs het regime niet. Een kleine vonk kan verborgen drempels in een cascade doen omslaan, en een regime dat gisteren stabiel leek, stort vandaag in. Daarom waren revoluties, ook die van 1979, altijd \"ondenkbaar\"."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "کوران (۱۹۹۱): هر فرد آستانه‌ای دارد («وقتی این‌قدر نفر بیرون باشند، من هم می‌آیم»)؛ توزیع این آستانه‌ها پنهان است، پس هم ثبات ظاهری و هم فروپاشی ناگهانی هر دو قابل توضیح‌اند و پیش‌بینی ساختاری ناممکن است.",
+    "en": "Kuran (1991): each person has a threshold (\"when this many are out, I join\"); the distribution of thresholds is hidden, so both apparent stability and sudden collapse are explicable and structural prediction is impossible.",
+    "nl": "Kuran (1991): each person has a threshold (\"when this many are out, I join\"); the distribution of thresholds is hidden, so both apparent stability and sudden collapse are explicable and structural prediction is impossible."
+   },
+   "sources": [
+    "src:8d71ed0d5f"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کرزمن (۲۰۰۴): انقلاب ایران را نه ساختارها (اقتصاد، دولت، دین) که «تجربهٔ زیستهٔ» مردم توضیح می‌دهد: تا پاییز ۱۳۵۷ اکثریت انقلاب را ممکن نمی‌دانستند و درست وقتی ممکن شد که مردم دیدند دیگران هم به خیابان آمده‌اند. ناجنبش‌های بیات و آبشار کوران در همین‌جا به هم می‌رسند.",
+    "en": "Kurzman (2004): the Iranian revolution is explained less by structures (economy, state, religion) than by people's \"lived experience\": until autumn 1978 most thought revolution impossible, and it became possible exactly when people saw others in the street. Bayat's nonmovements and Kuran's cascade meet here.",
+    "nl": "Kurzman (2004): the Iranian revolution is explained less by structures (economy, state, religion) than by people's \"lived experience\": until autumn 1978 most thought revolution impossible, and it became possible exactly when people saw others in the street. Bayat's nonmovements and Kuran's cascade meet here."
+   },
+   "sources": [
+    "src:435917f7dd"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نشانه‌ای از ترجیح پنهان در ایران: در نظرسنجی ناشناس آنلاین گمان (تیر ۱۴۰۵) حدود ۷۰٪ تغییر نظام یا گذار ساختاری را شرط تغییر دانستند، و یک چهارم پاسخ‌دهندگان حاضر نشدند حتی در نظرسنجی ناشناس بگویند در اعتراض‌های دی ۱۴۰۴ بوده‌اند یا نه. فاصلهٔ این ارقام با تصویر رسمی همان شکافی است که کوران توصیف می‌کند.",
+    "en": "A sign of hidden preference in Iran: in GAMAAN’s anonymous online survey (June 2026) about 70% named regime change or structural transition as the condition for change, and a quarter of respondents would not say even anonymously whether they joined the January 2026 protests. The gap between these figures and the official picture is the one Kuran describes.",
+    "nl": "A sign of hidden preference in Iran: in GAMAAN’s anonymous online survey (June 2026) about 70% named regime change or structural transition as the condition for change, and a quarter of respondents would not say even anonymously whether they joined the January 2026 protests. The gap between these figures and the official picture is the one Kuran describes."
+   },
+   "sources": [
+    "src:6c0a6f1ef3",
+    "src:8d71ed0d5f"
+   ],
+   "flags": [
+    "contested"
+   ]
+  },
+  {
+   "text": {
+    "fa": "دروغ، خودسانسوری یا ترجیح‌نمایی؟ کوران در کتاب ۱۹۹۵ سه چیز را جدا می‌کند. خودسانسوری ساکت ماندن است. ترجیح‌نمایی یک گام جلوتر است: وانمود به خواستن چیزی که نمی‌خواهی، تا دیگران دربارهٔ تو جور دیگری فکر کنند. او عبارت مخالفان اروپای شرقی را وام می‌گیرد: «زیستن در دروغ»، یعنی دروغی که بارش بر دوش خود آدم می‌ماند (ص ۳ تا ۵ کتاب).",
+    "en": "Lying, self-censorship or preference falsification? In the 1995 book Kuran separates three things. Self-censorship is keeping quiet. Preference falsification goes a step further: pretending to want what you do not, so that others think differently of you. He borrows the East European dissidents’ phrase “living a lie”, a lie whose weight stays on the liar (book pp. 3–5).",
+    "nl": "Lying, self-censorship or preference falsification? In the 1995 book Kuran separates three things. Self-censorship is keeping quiet. Preference falsification goes a step further: pretending to want what you do not, so that others think differently of you. He borrows the East European dissidents’ phrase “living a lie”, a lie whose weight stays on the liar (book pp. 3–5)."
+   },
+   "sources": [
+    "src:436510de26"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سه سود که با هم می‌کشند: هر بار که نظری را در جمع می‌گوییم سه چیز به دست می‌آوریم یا از دست می‌دهیم. سود ذاتی (آنچه جامعه سرانجام تصمیم می‌گیرد)، سود آبرویی (پاداش و تنبیه دیگران) و سود ابرازی (آرامشِ خودت بودن). چون یک نفر به‌تنهایی بر تصمیم جامعه اثری ندارد، سود ذاتی تقریباً صاف است و میدان به دو تای دیگر می‌رسد. در نمونهٔ عددی کتاب، کسی که در دل ۲۰ می‌خواهد در جمع ۷۰ یا ۷۵ می‌گوید (ص ۲۶ تا ۳۷).",
+    "en": "Three payoffs pulling against each other: each time we voice a view in public we gain or lose three things. Intrinsic utility (what society finally decides), reputational utility (others’ rewards and punishments) and expressive utility (the ease of being oneself). Since one person alone has no effect on society’s decision, intrinsic utility is nearly flat and the field is left to the other two. In the book’s numerical example, someone who privately wants 20 says 70 or 75 in public (pp. 26–37).",
+    "nl": "Three payoffs pulling against each other: each time we voice a view in public we gain or lose three things. Intrinsic utility (what society finally decides), reputational utility (others’ rewards and punishments) and expressive utility (the ease of being oneself). Since one person alone has no effect on society’s decision, intrinsic utility is nearly flat and the field is left to the other two. In the book’s numerical example, someone who privately wants 20 says 70 or 75 in public (pp. 26–37)."
+   },
+   "sources": [
+    "src:436510de26"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "فشار خودش را بازتولید می‌کند: چون همه می‌دانند حرف ارزان است، برای باورپذیر بودن باید کاری کرد: تشویق هم‌نظران و اخم به دگراندیشان. کوران مثل قدیمی را بازنویسی می‌کند: «در رُم، به آنان که رُمی می‌نمایند پاداش بده و آنان را که نمی‌نمایند تنبیه کن.» پس حتی کسی که در دل مخالف است، با همین نمایش، فشار را بر دیگران بیشتر می‌کند (ص ۶۱ و ۶۲).",
+    "en": "Pressure reproduces itself: because everyone knows talk is cheap, being believed takes action: approving the like-minded and frowning at dissenters. Kuran rewrites the old maxim: “When in Rome, reward those appearing Roman and punish those appearing un-Roman.” So even a private opponent, by this display, raises the pressure on others (pp. 61–62).",
+    "nl": "Pressure reproduces itself: because everyone knows talk is cheap, being believed takes action: approving the like-minded and frowning at dissenters. Kuran rewrites the old maxim: “When in Rome, reward those appearing Roman and punish those appearing un-Roman.” So even a private opponent, by this display, raises the pressure on others (pp. 61–62)."
+   },
+   "sources": [
+    "src:436510de26"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "چند تعادل، نه یکی: افکار عمومی می‌تواند در بیش از یک نقطه پایدار بماند. در نمودار کتاب، با همان مردم و همان باورهای درونی، هم ۲۰ درصد پشتیبانی آشکار پایدار است و هم ۱۰۰ درصد؛ نقطهٔ میانی مثل توپی بر قلهٔ تپه است و با نسیمی به یکی از دو سو می‌غلتد. پس اتفاق نظرِ ظاهری چیزی دربارهٔ باور واقعی مردم نمی‌گوید و جابه‌جایی کوچک در انتظارها می‌تواند همه‌چیز را برگرداند (ص ۶۹ و ۷۰).",
+    "en": "Several equilibria, not one: public opinion can rest stable at more than one point. In the book’s diagram, with the same people and the same private beliefs, both 20 per cent and 100 per cent public support are stable; the middle point is like a ball on a hilltop that a breath of air sends rolling to one side. So apparent unanimity says nothing about what people really believe, and a small shift in expectations can overturn everything (pp. 69–70).",
+    "nl": "Several equilibria, not one: public opinion can rest stable at more than one point. In the book’s diagram, with the same people and the same private beliefs, both 20 per cent and 100 per cent public support are stable; the middle point is like a ball on a hilltop that a breath of air sends rolling to one side. So apparent unanimity says nothing about what people really believe, and a small shift in expectations can overturn everything (pp. 69–70)."
+   },
+   "sources": [
+    "src:436510de26"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "چرا فریب می‌خوریم: ما اثر فشار را دست‌کم می‌گیریم و رفتار دیگران را به شخصیتشان نسبت می‌دهیم (خطای بنیادین اسناد). کوران آزمایش‌هایی را می‌آورد که در آنها حتی کسانی که خودشان زیر همان فشار بوده‌اند، فرمان‌بریِ دیگران را به عیب منش نسبت دادند. نتیجه این است که رأی یکپارچه یا سکوت همگانی را نشانهٔ رضایت می‌گیریم (ص ۸۱ و ۸۲).",
+    "en": "Why we are fooled: we underrate the force of pressure and ascribe others’ conduct to their character (the fundamental attribution error). Kuran cites experiments in which even people who had been under the same pressure put others’ obedience down to flaws of character. The upshot is that we read a unanimous vote or a general silence as consent (pp. 81–82).",
+    "nl": "Why we are fooled: we underrate the force of pressure and ascribe others’ conduct to their character (the fundamental attribution error). Kuran cites experiments in which even people who had been under the same pressure put others’ obedience down to flaws of character. The upshot is that we read a unanimous vote or a general silence as consent (pp. 81–82)."
+   },
+   "sources": [
+    "src:436510de26"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "برای سیمرغ: از این پنج نکته یک دستور کار درمی‌آید. نخست، «چند نفریم» را باید بتوان بی‌خطر نشان داد، چون همین دانسته تعادل را جابه‌جا می‌کند. دوم، کسی را که در جمع همراهی کرده به‌خاطر آن سرزنش نکن؛ او زیر همان فشاری بوده که تو. سوم، سود ابرازی واقعی است: جایی که آدم بتواند بی‌هزینه خودش باشد، خودش ارزش دارد. از متن انگلیسی، پیشگفتار و فصل‌های ۱ تا ۴ (تا ص ۸۴) در دست بود و خوانده شد؛ فصل‌های ۵ تا ۱۹ (از جمله فصل انقلاب‌های پیش‌بینی‌نشده) هنوز نه.",
+    "en": "For Simorgh: these five points yield a working rule. First, it must be possible to show “how many we are” safely, because that knowledge is what moves the equilibrium. Second, do not blame someone for having gone along in public; they were under the same pressure as you. Third, expressive utility is real: a place where a person can be themselves at no cost has value in itself. Of the English text, the preface and chapters 1–4 (to p. 84) were available and read; chapters 5–19 (including the one on unforeseen revolutions) were not.",
+    "nl": "For Simorgh: these five points yield a working rule. First, it must be possible to show “how many we are” safely, because that knowledge is what moves the equilibrium. Second, do not blame someone for having gone along in public; they were under the same pressure as you. Third, expressive utility is real: a place where a person can be themselves at no cost has value in itself. Of the English text, the preface and chapters 1–4 (to p. 84) were available and read; chapters 5–19 (including the one on unforeseen revolutions) were not."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "soc:social-movements",
+   "rel": "explains",
+   "note": {
+    "fa": "پویایی بسیج",
+    "en": "The dynamics of mobilisation",
+    "nl": "The dynamics of mobilisation"
+   }
+  },
+  {
+   "to": "psy:norm-psychology",
+   "rel": "bridges",
+   "note": {
+    "fa": "روان‌شناسی هنجار و ناآگاهی جمعی",
+    "en": "Norm psychology and pluralistic ignorance",
+    "nl": "Norm psychology and pluralistic ignorance"
+   }
+  },
+  {
+   "to": "psy:conspiracy",
+   "rel": "see-also",
+   "note": {
+    "fa": "باور و اطلاعات در جامعهٔ بسته",
+    "en": "Belief and information in a closed society",
+    "nl": "Belief and information in a closed society"
+   }
+  },
+  {
+   "to": "soc:threshold-models-of-collective-behaviour",
+   "rel": "see-also",
+   "note": {
+    "fa": "مدل آستانهٔ گرانووتر",
+    "en": "Granovetter's threshold model",
+    "nl": "Het drempelmodel van Granovetter"
+   }
+  },
+  {
+   "to": "soc:coordination-focal-points",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقطهٔ کانونی و دانش مشترک",
+    "en": "Focal points and common knowledge",
+    "nl": "Focal points and common knowledge"
+   }
+  },
+  {
+   "to": "soc:security-defection-credible-commitment",
+   "rel": "see-also",
+   "note": {
+    "fa": "ریزش نیروهای امنیتی",
+    "en": "Security-force defection",
+    "nl": "Security-force defection"
+   }
+  }
+ ],
+ "people": [
+  "core:timur-kuran",
+  "core:charles-kurzman"
+ ],
+ "sources": [
+  "src:435917f7dd",
+  "src:8d71ed0d5f",
+  "src:6c0a6f1ef3",
+  "src:436510de26"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": "iran:political-attitudes-2026",
+ "wikidata": null,
+ "status": "draft"
+}

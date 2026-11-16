@@ -1,0 +1,217 @@
+{
+ "id": "simorgh:products-19",
+ "kind": "concept",
+ "title": {
+  "fa": "نوزده محصول: اول آنچه پول می‌سازد",
+  "en": "Nineteen products: money-makers first",
+  "nl": "Nineteen products: money-makers first"
+ },
+ "aliases": [],
+ "parent": "simorgh:project",
+ "field": "simorgh:project",
+ "summary": {
+  "fa": "کسب‌وکارِ پروژه دو سبد دارد: سبدِ یک (سیمرغ: دانش‌سرا، بازی، «سهم من»، نقشهٔ روز بعد) رایگان و بازمتن است؛ سبدِ دو محصول‌هایی در اروپاست که پول در می‌آورند، شبکه می‌سازند و خرجِ سبدِ یک را می‌دهند. هر محصول با مشتری، مدلِ درآمد، سرعت و قدمِ بعد.",
+  "en": "Two baskets: basket one (Simorgh: Daneshsara, the game, My share, the next-day map) is free and open; basket two is products in Europe that earn, build a network and pay for basket one. Each product with customer, revenue model, speed and next step.",
+  "nl": "Two baskets: basket one (Simorgh: Daneshsara, the game, My share, the next-day map) is free and open; basket two is products in Europe that earn, build a network and pay for basket one. Each product with customer, revenue model, speed and next step."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "خدمات طراحی محصول و پژوهش کاربر: مشتری: استارتاپ‌ها و شرکت‌های اروپایی؛ مدل: پروژه‌ای یا ساعتی؛ جامعه: جامعهٔ فناوری اروپا؛ سرعت: زود؛ وضع: new. قدمِ بعد: مهارت خودت است و سرمایه نمی‌خواهد: یک صفحهٔ خدمات روی سایت شخصی‌ات و سه پیام به آشناها",
+    "en": "خدمات طراحی محصول و پژوهش کاربر: customer, model, speed and next step, as in the Persian text.",
+    "nl": "خدمات طراحی محصول و پژوهش کاربر: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سنجش سلامت سازمان: مشتری: مدیران منابع انسانی؛ مدل: هزینهٔ سنجش + کارگاه؛ جامعه: روان‌شناسان، مدیران؛ سرعت: زود؛ وضع: have. قدمِ بعد: نمونه آماده است: یک اجرای آزمایشی ارزان یا رایگان در یک شرکت آشنا برای گرفتن نخستین نتیجه و توصیه‌نامه",
+    "en": "سنجش سلامت سازمان: customer, model, speed and next step, as in the Persian text.",
+    "nl": "سنجش سلامت سازمان: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارگاه بازی جدی برای تیم‌ها: مشتری: شرکت‌ها، دانشگاه‌ها؛ مدل: هزینهٔ کارگاه؛ جامعه: مدیران، آموزش‌دهنده‌ها؛ سرعت: زود؛ وضع: new. قدمِ بعد: با سنجش سازمان یک بسته می‌شود: کارگاه ۹۰ دقیقه‌ای اعتماد و تصمیم با آزمایشگاه‌ها و میز خدا",
+    "en": "کارگاه بازی جدی برای تیم‌ها: customer, model, speed and next step, as in the Persian text.",
+    "nl": "کارگاه بازی جدی برای تیم‌ها: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارگاه آرت‌تراپی: مشتری: افراد و سازمان‌ها؛ مدل: بلیت هر جلسه؛ جامعه: هنرمندان و درمانگران؛ سرعت: زود؛ وضع: new. قدمِ بعد: جلسه‌های آزمایشی را قبلاً برگزار کرده‌ای: یک تاریخ ثابت ماهانه با بلیت",
+    "en": "کارگاه آرت‌تراپی: customer, model, speed and next step, as in the Persian text.",
+    "nl": "کارگاه آرت‌تراپی: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بازار هنر ایرانی: مشتری: کلکسیونرها، طراحان داخلی؛ مدل: کمیسیون و امانی؛ جامعه: هنرمندان داخل ایران؛ سرعت: زود؛ وضع: have. قدمِ بعد: اجرای آزمایشی با پنج هنرمند و بیست اثر؛ اول روی اتسی که فروشگاه نمی‌خواهد",
+    "en": "بازار هنر ایرانی: customer, model, speed and next step, as in the Persian text.",
+    "nl": "بازار هنر ایرانی: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "چاپ شعر و خوشنویسی: مشتری: خریداران اتسی؛ مدل: حاشیهٔ سود؛ جامعه: طراحان و خوشنویسان؛ سرعت: زود؛ وضع: new. قدمِ بعد: ده طرح چاپ‌به‌سفارش، بدون انبار",
+    "en": "چاپ شعر و خوشنویسی: customer, model, speed and next step, as in the Persian text.",
+    "nl": "چاپ شعر و خوشنویسی: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "آموزش کار با هوش مصنوعی به فارسی: مشتری: فارسی‌زبانان اروپا؛ مدل: هزینهٔ دوره؛ جامعه: نسل جوان‌تر؛ سرعت: میان؛ وضع: new. قدمِ بعد: ",
+    "en": "آموزش کار با هوش مصنوعی به فارسی: customer, model, speed and next step, as in the Persian text.",
+    "nl": "آموزش کار با هوش مصنوعی به فارسی: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دوره‌های گروهی دانش‌سرا: مشتری: فارسی‌زبانان جهان؛ مدل: هر قدر می‌توانی بپرداز؛ جامعه: یادگیرندگانی که مرغ می‌شوند؛ سرعت: میان؛ وضع: new. قدمِ بعد: ",
+    "en": "دوره‌های گروهی دانش‌سرا: customer, model, speed and next step, as in the Persian text.",
+    "nl": "دوره‌های گروهی دانش‌سرا: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نسخهٔ چاپی بازی سیمرغ: مشتری: ایرانیان اروپا، کافه‌های بازی؛ مدل: پیش‌فروش؛ جامعه: همان مردمی که دعوت می‌شوند؛ سرعت: میان؛ وضع: new. قدمِ بعد: ",
+    "en": "نسخهٔ چاپی بازی سیمرغ: customer, model, speed and next step, as in the Persian text.",
+    "nl": "نسخهٔ چاپی بازی سیمرغ: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "فارسی برای کودکان مهاجر: مشتری: خانواده‌های ایرانی؛ مدل: اشتراک؛ جامعه: والدین، آموزگاران داخل ایران؛ سرعت: میان؛ وضع: new. قدمِ بعد: ",
+    "en": "فارسی برای کودکان مهاجر: customer, model, speed and next step, as in the Persian text.",
+    "nl": "فارسی برای کودکان مهاجر: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "هلندی برای تازه‌واردها (بازی «دور: زبان»): مشتری: تازه‌واردها، آموزشگاه‌ها؛ مدل: فروش و مجوز؛ جامعه: تازه‌واردهای ایرانی؛ سرعت: میان؛ وضع: new. قدمِ بعد: ",
+    "en": "هلندی برای تازه‌واردها (بازی «دور: زبان»): customer, model, speed and next step, as in the Persian text.",
+    "nl": "هلندی برای تازه‌واردها (بازی «دور: زبان»): customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ترجمه و مشاورهٔ فرهنگی: مشتری: نهادهای پناهندگی، بیمارستان‌ها؛ مدل: پروژه‌ای؛ جامعه: نهادهای هلندی؛ سرعت: میان؛ وضع: new. قدمِ بعد: ",
+    "en": "ترجمه و مشاورهٔ فرهنگی: customer, model, speed and next step, as in the Persian text.",
+    "nl": "ترجمه و مشاورهٔ فرهنگی: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "داشبورد و تحلیل داده برای سازمان‌های مدنی: مشتری: سازمان‌های غیردولتی؛ مدل: پروژه‌ای؛ جامعه: نهادهای حقوق بشری؛ سرعت: میان؛ وضع: new. قدمِ بعد: ",
+    "en": "داشبورد و تحلیل داده برای سازمان‌های مدنی: customer, model, speed and next step, as in the Persian text.",
+    "nl": "داشبورد و تحلیل داده برای سازمان‌های مدنی: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "غرفهٔ خوراکی ایرانی: مشتری: بازارها و جشنواره‌ها؛ مدل: حاشیهٔ سود؛ جامعه: محله و رویدادها؛ سرعت: میان؛ وضع: new. قدمِ بعد: ",
+    "en": "غرفهٔ خوراکی ایرانی: customer, model, speed and next step, as in the Persian text.",
+    "nl": "غرفهٔ خوراکی ایرانی: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "روان‌درمانی آنلاین به فارسی: مشتری: فارسی‌زبانان اروپا؛ مدل: کمیسیون جلسه؛ جامعه: درمانگران همکار؛ سرعت: دیر؛ وضع: new. قدمِ بعد: ",
+    "en": "روان‌درمانی آنلاین به فارسی: customer, model, speed and next step, as in the Persian text.",
+    "nl": "روان‌درمانی آنلاین به فارسی: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پادکست و ویدیوی دانش‌سرا: مشتری: شنوندگان فارسی‌زبان؛ مدل: حامی مالی و عضویت؛ جامعه: مخاطب عمومی؛ سرعت: دیر؛ وضع: new. قدمِ بعد: ",
+    "en": "پادکست و ویدیوی دانش‌سرا: customer, model, speed and next step, as in the Persian text.",
+    "nl": "پادکست و ویدیوی دانش‌سرا: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "«همراه»: همراه کار و یادگیری: مشتری: دانشجوها، فریلنسرها؛ مدل: اشتراک؛ جامعه: داوطلبان همراه؛ سرعت: دیر؛ وضع: new. قدمِ بعد: ",
+    "en": "«همراه»: همراه کار و یادگیری: customer, model, speed and next step, as in the Persian text.",
+    "nl": "«همراه»: همراه کار و یادگیری: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "صنایع دستی و فرش: مشتری: خریداران اروپایی؛ مدل: حاشیهٔ سود؛ جامعه: صنعتگران روستایی؛ سرعت: دیر؛ وضع: new. قدمِ بعد: ",
+    "en": "صنایع دستی و فرش: customer, model, speed and next step, as in the Persian text.",
+    "nl": "صنایع دستی و فرش: customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "تور فرهنگی ایران (پس از آزادی): مشتری: گردشگران اروپایی؛ مدل: هزینهٔ تور؛ جامعه: راهنماهای محلی؛ سرعت: دیر؛ وضع: new. قدمِ بعد: ",
+    "en": "تور فرهنگی ایران (پس از آزادی): customer, model, speed and next step, as in the Persian text.",
+    "nl": "تور فرهنگی ایران (پس از آزادی): customer, model, speed and next step, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:circle-table",
+   "rel": "see-also",
+   "note": {
+    "fa": "میزِ دایره‌ای",
+    "en": "Circle table",
+    "nl": "Circle table"
+   }
+  },
+  {
+   "to": "simorgh:master-plan",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقشهٔ کلان",
+    "en": "Master plan",
+    "nl": "Master plan"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

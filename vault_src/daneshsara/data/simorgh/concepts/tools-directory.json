@@ -1,0 +1,236 @@
+{
+ "id": "simorgh:tools-directory",
+ "kind": "concept",
+ "title": {
+  "fa": "فهرستِ همهٔ ابزارها و جایی که هرکدام زندگی می‌کند",
+  "en": "Directory of all tools and where each lives",
+  "nl": "Directory of all tools and where each lives"
+ },
+ "aliases": [],
+ "parent": "simorgh:project",
+ "field": "simorgh:project",
+ "summary": {
+  "fa": "هیچ ابزاری حذف نشده؛ اینجا همه با یک جمله و جای زندگی‌شان آمده‌اند. ابزارها در دو جا هستند: صفحه‌های عمومیِ «پَرِ سیمرغ» و لایهٔ خصوصیِ گاوصندوق.",
+  "en": "No tool was removed; all appear here with one line and where they live. They are in two places: the public Par-e Simorgh pages and the private vault layer.",
+  "nl": "No tool was removed; all appear here with one line and where they live. They are in two places: the public Par-e Simorgh pages and the private vault layer."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "ابزارهای صفحهٔ عمومی: نقشهٔ استدلال (argmap)؛ وارسیِ یک ادعا (inspect، چهار گام)؛ سلامتِ دیتاست (health، شمارندهٔ زنده)؛ وضعیتِ اسناد (status)؛ ممیزی (audit)؛ جدولِ داده (data، ۸۴ ادعا)؛ نقشهٔ مشکل‌ها (problems، ۲۴ مشکل)؛ خطِ زمان (timeline)؛ کتابخانه (library)؛ دو ایران (two-irans)؛ ایران و اسرائیل (shared)؛ قدمِ تو (gam، ۲۳ کارت)؛ سندِ راهبردی (sanad-rahbordi) و نسخهٔ کوتاهش (eraee-rahbordi)؛ بازیِ کامل (game، ۱۲ جلد)؛ نقش‌ها (roles، ۴۷ نقش)؛ ارائهٔ اروپا (europe)؛ دانلودها (downloads)؛ voice2text (در مرورگر، صدا را نمی‌فرستد).",
+    "en": "Public-page tools as listed.",
+    "nl": "Public-page tools as listed."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ابزارهای لایهٔ خصوصی (گاوصندوق): نقشهٔ کلان (plan)، سی مرغ (birds)، میزِ دایره‌ای (circle)، بازیِ ده‌نوبتی (sim)، حدسِ پانزده گذار (transitions)، چرا؟ (why، علمِ ۴۷ نقش)، و دفترِ پروژه که هر روز تغییرها را ثبت می‌کند.",
+    "en": "Private-layer tools as listed.",
+    "nl": "Private-layer tools as listed."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سهم من: همین صفحه: دو پرسش، سه قدم [آماده]",
+    "en": "سهم من: status as in the Persian text.",
+    "nl": "سهم من: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دفتر پروژه: خودکار: هر روز چه تغییر کرد و چه مانده [آماده]",
+    "en": "دفتر پروژه: status as in the Persian text.",
+    "nl": "دفتر پروژه: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "قدمِ تو (۲۳ کارت): کوچک‌ترین قدم برای هر قشر [آماده]",
+    "en": "قدمِ تو (۲۳ کارت): status as in the Persian text.",
+    "nl": "قدمِ تو (۲۳ کارت): status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "میز مافیای ایران و ۴۷ نقش: نقش‌ها و ماتریس تصمیم [آماده]",
+    "en": "میز مافیای ایران و ۴۷ نقش: status as in the Persian text.",
+    "nl": "میز مافیای ایران و ۴۷ نقش: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ریشه‌یابی آسیب: زنجیره‌ها و نقطه‌های عطف [آماده]",
+    "en": "ریشه‌یابی آسیب: status as in the Persian text.",
+    "nl": "ریشه‌یابی آسیب: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "آزمایشگاه‌ها: آستانه، کالای عمومی، دوراهی زندانی [آماده]",
+    "en": "آزمایشگاه‌ها: status as in the Persian text.",
+    "nl": "آزمایشگاه‌ها: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارت‌های «چرا؟» برای نقش‌ها: هر نقش به مفهوم علمی و منبعش [آماده]",
+    "en": "کارت‌های «چرا؟» برای نقش‌ها: status as in the Persian text.",
+    "nl": "کارت‌های «چرا؟» برای نقش‌ها: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارت‌های سی مرغ: هدف، کار امن امروز، نقش روز آزادی [آماده]",
+    "en": "کارت‌های سی مرغ: status as in the Persian text.",
+    "nl": "کارت‌های سی مرغ: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بپرس از دانش‌سرا: پرسش بپرس، مدخل‌ها را بگیر؛ بی‌سرور [آماده]",
+    "en": "بپرس از دانش‌سرا: status as in the Persian text.",
+    "nl": "بپرس از دانش‌سرا: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نقشهٔ بزرگ با نوار زمان: ویرانی‌ها و تاریخ روی نقشهٔ ایران [نیست]",
+    "en": "نقشهٔ بزرگ با نوار زمان: status as in the Persian text.",
+    "nl": "نقشهٔ بزرگ با نوار زمان: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "شبیه‌سازی مافیای میلیونی: شهر و مافیا با میلیون‌ها بازیکن [نیست]",
+    "en": "شبیه‌سازی مافیای میلیونی: status as in the Persian text.",
+    "nl": "شبیه‌سازی مافیای میلیونی: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "صفحه‌های دفتر ویرانی‌ها: یک صفحه برای هر حوزه با داده [نیمه]",
+    "en": "صفحه‌های دفتر ویرانی‌ها: status as in the Persian text.",
+    "nl": "صفحه‌های دفتر ویرانی‌ها: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "صندلی‌های خالی متخصص: هر متخصص بداند کجا لازم است [آماده]",
+    "en": "صندلی‌های خالی متخصص: status as in the Persian text.",
+    "nl": "صندلی‌های خالی متخصص: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دستیار گفتگو: فقط از مدخل‌های منبع‌دار جواب می‌دهد [نیست]",
+    "en": "دستیار گفتگو: status as in the Persian text.",
+    "nl": "دستیار گفتگو: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "داشبورد شفافیت مالی: هر یورو از کجا آمد و کجا رفت [نیست]",
+    "en": "داشبورد شفافیت مالی: status as in the Persian text.",
+    "nl": "داشبورد شفافیت مالی: status as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "ابزارِ تازه در لایهٔ خصوصی: «نبضِ میز» (poll)، تنها پرسشِ ماهانه از مردم با جدولِ تفسیر؛ با انتشارِ سیمرغ باز می‌شود. و «نقشهٔ خرابی‌ها» در بخشِ روزِ بعد (ساخت ایران).",
+    "en": "New private-layer tools: the pulse poll and the damage map.",
+    "nl": "New private-layer tools: the pulse poll and the damage map."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:page-map",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقشهٔ صفحه‌ها",
+    "en": "Page map",
+    "nl": "Page map"
+   }
+  },
+  {
+   "to": "simorgh:threshold-simulator",
+   "rel": "see-also",
+   "note": {
+    "fa": "شبیه‌ساز آستانه",
+    "en": "Threshold simulator",
+    "nl": "Threshold simulator"
+   }
+  },
+  {
+   "to": "simorgh:ten-turn-game",
+   "rel": "see-also",
+   "note": {
+    "fa": "بازیِ ده‌نوبتی",
+    "en": "Ten-turn game",
+    "nl": "Ten-turn game"
+   }
+  },
+  {
+   "to": "simorgh:pulse-poll",
+   "rel": "see-also",
+   "note": {
+    "fa": "نبضِ میز (صفحهٔ poll)",
+    "en": "Pulse poll page",
+    "nl": "Pulse poll page"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

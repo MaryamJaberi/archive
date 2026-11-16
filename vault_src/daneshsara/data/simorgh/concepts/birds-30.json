@@ -1,0 +1,145 @@
+{
+ "id": "simorgh:birds-30",
+ "kind": "concept",
+ "title": {
+  "fa": "سی مرغ: شش گروه، پنج نقش",
+  "en": "Thirty birds: six groups of five roles",
+  "nl": "Thirty birds: six groups of five roles"
+ },
+ "aliases": [],
+ "parent": "simorgh:action",
+ "field": "simorgh:action",
+ "summary": {
+  "fa": "هر مرغ یک نقشِ مسئول برای روز آزادی و پس از آن است: نگهبانانِ جان، نگهبانانِ سرزمین، سازندگانِ نهاد، سازندگانِ دانایی، سازندگانِ پیوند و گروهِ ششم. هر مرغ یک «مأموریت»، یک «قدمِ امروز»، یک نقشِ روزِ آزادی و یک افقِ بلندمدت دارد. نقش‌ها جایگاه‌اند، نه فهرستِ آدم‌ها.",
+  "en": "Each bird is a responsible role for liberation day and after: guardians of life, guardians of land, builders of institutions, builders of knowledge, builders of ties, and a sixth group. Each has a mission, a step for today, a liberation-day role and a long-term horizon. Roles are places, not lists of people.",
+  "nl": "Each bird is a responsible role for liberation day and after: guardians of life, guardians of land, builders of institutions, builders of knowledge, builders of ties, and a sixth group. Each has a mission, a step for today, a liberation-day role and a long-term horizon. Roles are places, not lists of people."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "نگهبانان جان: پزشک و پرستار، روان‌یار و سوگ‌یار، امداد و بحران، همراه کودک، همراه رهایی از اعتیاد",
+    "en": "Group: نگهبانان جان.",
+    "nl": "Group: نگهبانان جان."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نگهبانان سرزمین: آب‌بان، نگهبان طبیعت و جنگل، کشاورزی پایدار، انرژی پاک، نگهبان میراث",
+    "en": "Group: نگهبانان سرزمین.",
+    "nl": "Group: نگهبانان سرزمین."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سازندگان نهاد: دادرسی و حقوق، انتخابات و قانون اساسی، اقتصاد و بودجه، دولت دیجیتال، امنیت پاسخگو",
+    "en": "Group: سازندگان نهاد.",
+    "nl": "Group: سازندگان نهاد."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سازندگان دانایی: آموزگار سوادآموزی، پژوهشگر و داده، راستی‌آزما، رسانه و روایت، مترجم",
+    "en": "Group: سازندگان دانایی.",
+    "nl": "Group: سازندگان دانایی."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سازندگان پیوند: میانجی، ضامن اعتماد، همسایه‌یار محله، پل ایرانیان خارج، جشن‌ساز و فرهنگ",
+    "en": "Group: سازندگان پیوند.",
+    "nl": "Group: سازندگان پیوند."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سازندگان شهر و کار: شهرساز و مسکن، حمل‌ونقل، نوسازی صنعت، کارآفرین و سرمایه‌گذار، پاک‌سازی و داوطلبی",
+    "en": "Group: سازندگان شهر و کار.",
+    "nl": "Group: سازندگان شهر و کار."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:birds-1",
+   "rel": "see-also",
+   "note": {
+    "fa": "نگهبانان جان",
+    "en": "نگهبانان جان",
+    "nl": "نگهبانان جان"
+   }
+  },
+  {
+   "to": "simorgh:birds-2",
+   "rel": "see-also",
+   "note": {
+    "fa": "نگهبانان سرزمین",
+    "en": "نگهبانان سرزمین",
+    "nl": "نگهبانان سرزمین"
+   }
+  },
+  {
+   "to": "simorgh:birds-3",
+   "rel": "see-also",
+   "note": {
+    "fa": "سازندگان نهاد",
+    "en": "سازندگان نهاد",
+    "nl": "سازندگان نهاد"
+   }
+  },
+  {
+   "to": "simorgh:birds-4",
+   "rel": "see-also",
+   "note": {
+    "fa": "سازندگان دانایی",
+    "en": "سازندگان دانایی",
+    "nl": "سازندگان دانایی"
+   }
+  },
+  {
+   "to": "simorgh:birds-5",
+   "rel": "see-also",
+   "note": {
+    "fa": "سازندگان پیوند",
+    "en": "سازندگان پیوند",
+    "nl": "سازندگان پیوند"
+   }
+  },
+  {
+   "to": "simorgh:birds-6",
+   "rel": "see-also",
+   "note": {
+    "fa": "سازندگان شهر و کار",
+    "en": "سازندگان شهر و کار",
+    "nl": "سازندگان شهر و کار"
+   }
+  },
+  {
+   "to": "simorgh:liberation-day",
+   "rel": "see-also",
+   "note": {
+    "fa": "روز آزادی",
+    "en": "Liberation day",
+    "nl": "Liberation day"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

@@ -1,0 +1,11 @@
+"""Kuran 1989, Sparks and prairie fires (read in full): what it changes for the poll and the indicators."""
+from common import *
+from d_review import addp, addl
+SP = src('Kuran, Timur (1989). Sparks')
+addp('pulse-poll', P('کوران (۱۹۸۹) خودش هشدار داده: اعلامِ «پتانسیل بالاست» می‌تواند یا موج را راه بیندازد یا حکومت را به اقدامِ پیشگیرانه وادارد. برای همین نبضِ میز عدد را خام و بی‌فراخوان منتشر می‌کند، همراهِ جدولِ تفسیر، و هرگز «آستانه رسید، بیایید» نمی‌گوید.',
+  'Kuran (1989) warns that announcing "potential is high" can trigger a wave or provoke pre-emption. So the pulse poll publishes the raw figure with its interpretation table and never says "the threshold is reached, come out".', s=[SP]))
+addp('threshold-indicators', P('از مدلِ کوران (۱۹۸۹): سه نوع نشانگر را جدا بخوان. نارضایتیِ خصوصی (مثل پیمایشِ گمان) فقط زمینه است؛ ضعفِ تواناییِ حکومت در پاداش و تنبیه (شکاف در ستون‌ها، تردید در به‌کارگیریِ زور) هم زمینه است هم جرقه؛ جهشِ «انتظار» از اندازهٔ مخالفان فقط وقتی جرقه است که زمینه آماده باشد. باز شدنِ ناگهانیِ فضا هم، طبقِ تجربهٔ ۱۳۵۶ و هشدارِ توکویل، خودش نشانگرِ خطر برای حکومت است.',
+  'From Kuran (1989): read three kinds of indicator separately. Private discontent only sets the stage; weakening of the regime\'s capacity to reward and punish both sets the stage and can trigger; a jump in expected opposition size triggers only if the stage is set. Sudden liberalisation is itself a danger sign for a regime (1977, Tocqueville).', s=[SP]))
+addp('why-not-january', P('کوران (۱۹۸۹): بعد از هر انقلاب، حکومتِ تازه می‌داند حمایتِ ظاهری از خودش هم سست است و برای همین سرکوب و تلقین می‌کند، حتی علیه همراهانِ دیروز. همین منطق دربارهٔ هر «روزِ بعد» صدق می‌کند: اگر گذار با زور یا ترس پیش برود، چرخه تکرار می‌شود؛ پس عدالتِ انتقالی و آزادیِ بیان از روزِ اول شرطِ شکستنِ این چرخه است.',
+  'Kuran (1989): after a revolution the new regime knows its outward support is also brittle, so it represses and indoctrinates, even yesterday\'s allies. Any "day after" faces the same logic; transitional justice and free speech from day one are what break the cycle.', s=[SP]))
+addl('threshold-indicators', L('soc:preference-falsification', 'تحریفِ ترجیحات (کوران)', 'Preference falsification'))

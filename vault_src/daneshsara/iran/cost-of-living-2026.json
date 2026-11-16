@@ -1,0 +1,67 @@
+{
+ "id": "iran:cost-of-living-2026",
+ "domain": "soc",
+ "question": {
+  "fa": "در جنگ و محاصرهٔ ۱۴۰۵ دستمزد و هزینهٔ زندگی چقدر از هم فاصله گرفته‌اند؟",
+  "en": "How far apart are wages and living costs under the 2026 war and blockade?"
+ },
+ "finding": {
+  "fa": "به گزارشِ رویترز (۶ آبان ۱۴۰۵) بر پایهٔ آمارِ رسمی: تورمِ سالانه ۷۳٫۶٪، خوراکی و نوشیدنی ۱۲۱٫۸٪، اجاره ۳۲٫۸٪ و مسکن و آب و سوخت حدود ۳۸٪ (شهریور ۱۴۰۵). حداقلِ هزینهٔ زندگیِ خانوادهٔ سه‌نفرهٔ کارگری حدود ۳۳۶ دلار در ماه و میانگینِ دستمزد حدود ۹۲ دلار به نرخِ بازارِ آزاد؛ ریال در یک سال بیش از نصفِ ارزشش را از دست داد. بیکاریِ رسمی ۹٫۱٪ (بهار ۱۴۰۵، ۱٫۸ واحد بیشتر از سالِ پیش)، نرخِ مشارکت ۴۰٫۷٪، و نزدیک به یک‌چهارمِ ۱۵ تا ۲۴ساله‌ها بیکار. زمینه: حملهٔ آمریکا و اسرائیل از ۹ اسفند ۱۴۰۴، بستنِ هرمز و محاصرهٔ بنادر، و گسترشِ تحریم‌ها در ۲ شهریور ۱۴۰۵.",
+  "en": "Per Reuters (28 October 2026) from official data: annual inflation 73.6%, food and beverages 121.8%, rent 32.8%, housing, utilities and fuel about 38% (September 2026). Minimum living cost for a working family of three about $336 a month against an average wage of about $92 at the free-market rate; the rial lost more than half its value in a year. Official unemployment 9.1% (spring 2026, up 1.8 points), participation 40.7%, nearly a quarter of 15-24 year-olds unemployed. Context: US and Israeli strikes from 28 February 2026, Hormuz closure and port blockade, sanctions widened on 24 August 2026."
+ },
+ "year": 2026,
+ "method": "official statistics (Statistical Centre, state media) as reported by Reuters; free-market exchange rate for dollar conversions",
+ "grade": "B",
+ "contested": false,
+ "source": [
+  {
+   "title": "Hafezi, P. (28 October 2026). Iranians cut essentials and put dreams on hold as war-hit economy bites. Reuters, via Al-Monitor.",
+   "url": "https://www.al-monitor.com/originals/2026/10/iranians-cut-essentials-and-put-dreams-hold-war-hit-economy-bites"
+  }
+ ],
+ "critique": "عددها رسمی‌اند و احتمالاً کم‌برآورد؛ تبدیل به دلار با نرخِ آزاد انجام شده که هر هفته عوض می‌شود. نسبتِ دستمزد به هزینه (حدود ۱ به ۳٫۷) جهت را مطمئن نشان می‌دهد، نه رقمِ دقیق را.",
+ "viz": {
+  "kind": "bars",
+  "unit": {
+   "fa": "درصد تغییرِ سالانه"
+  },
+  "label": {
+   "fa": "گرانیِ سالانه به تفکیک، شهریور ۱۴۰۵"
+  },
+  "bars": [
+   {
+    "fa": "خوراکی و نوشیدنی",
+    "v": 121.8,
+    "self": true
+   },
+   {
+    "fa": "تورمِ کل",
+    "v": 73.6
+   },
+   {
+    "fa": "مسکن، آب و سوخت",
+    "v": 38
+   },
+   {
+    "fa": "اجاره",
+    "v": 32.8
+   }
+  ],
+  "note": {
+   "fa": "یک سال پیش و یک سال بعد از آغازِ جنگ؛ خوراکی بیش از دو برابر شده."
+  }
+ },
+ "roots": {
+  "fa": "جنگ و محاصره درآمدِ ارزی را بریده، کسریِ بودجه با چاپِ پول پر می‌شود و ریال سقوط می‌کند."
+ },
+ "now": {
+  "fa": "برای بیشترِ مزدبگیران هر روز نکارکردن یعنی گرسنگی؛ هر برنامه‌ای که به اعتصاب تکیه دارد بدونِ صندوقِ پشتیبان شدنی نیست."
+ },
+ "fields": [],
+ "concepts": [
+  "soc:collective-action"
+ ],
+ "capability": [
+  10
+ ]
+}

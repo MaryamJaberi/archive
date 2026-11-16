@@ -1,0 +1,151 @@
+{
+ "id": "simorgh:three-paths",
+ "kind": "concept",
+ "title": {
+  "fa": "سه راه و راهِ صفر",
+  "en": "Three paths and path zero",
+  "nl": "Three paths and path zero"
+ },
+ "aliases": [],
+ "parent": "simorgh:strategy",
+ "field": "simorgh:strategy",
+ "summary": {
+  "fa": "سه شاخهٔ ممکن، هرکدام در جای دیگری از جهان اجرا شده و نتیجه‌اش را می‌دانیم؛ پیش‌بینی نیستند. تفاوتشان در «حق بودن» نیست، در هزینه است. ماندن هم راهی است («راه صفر») و قیمتش کمتر نیست، فقط آهسته‌تر پرداخت می‌شود.",
+  "en": "Three possible branches, each run elsewhere in the world with known outcomes; not predictions. They differ in cost, not in being right. Staying is also a path (\"path zero\") and costs no less, only more slowly.",
+  "nl": "Three possible branches, each run elsewhere in the world with known outcomes; not predictions. They differ in cost, not in being right. Staying is also a path (\"path zero\") and costs no less, only more slowly."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "راهِ یکم (توصیه‌شده)، گذارِ میثاقی: الگوها آفریقای جنوبی ۱۹۹۰–۹۴، لهستان ۱۹۸۹، شیلی ۱۹۸۸–۹۰؛ سازوکار میثاقِ حداقلیِ پیشینی، عفوِ مشروط در برابرِ اعترافِ کامل، تاریخِ مشخصِ رأی‌گیری و حفظِ زیرساخت و بوروکراسی. خطرِ اصلی: اجماعِ نخبگانی حاصل نشود، همان ✗ امروز.",
+    "en": "Path 1 (recommended), covenantal transition: models South Africa 1990-94, Poland 1989, Chile 1988-90; mechanism: a prior minimal covenant, conditional amnesty for full confession, a fixed vote date, infrastructure and bureaucracy kept. Main risk: no elite consensus, today's \"no\".",
+    "nl": "Path 1 (recommended), covenantal transition: models South Africa 1990-94, Poland 1989, Chile 1988-90; mechanism: a prior minimal covenant, conditional amnesty for full confession, a fixed vote date, infrastructure and bureaucracy kept. Main risk: no elite consensus, today's \"no\"."
+   },
+   "sources": [
+    "src:a4e411ed75",
+    "src:89f0e30575"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "راهِ دوم، گسستِ سریع: الگوها صربستان ۲۰۰۰، تونس ۲۰۱۱ و، با احتیاطِ فراوان، سوریهٔ اخیر؛ سریع‌تر اما فردای بی‌نقشه. هشدارِ متن: قیاس با سوریه خوش‌بینانه است و تجربهٔ آن هنوز شکل می‌گیرد.",
+    "en": "Path 2, rapid rupture: models Serbia 2000, Tunisia 2011 and, with great caution, recent Syria; faster but a tomorrow without a plan.",
+    "nl": "Path 2, rapid rupture: models Serbia 2000, Tunisia 2011 and, with great caution, recent Syria; faster but a tomorrow without a plan."
+   },
+   "sources": [
+    "src:d72e4f416e"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "راهِ سوم (پرهیز)، چرخهٔ خشونت: لیبی ۲۰۱۱، سوریه ۲۰۱۱–۲۴، عراق ۲۰۰۳؛ سقوط با انتقام، تجزیهٔ اقتدار، بازیگرِ مسلحِ محلی و بعد خارجی. خطری که همهٔ طرف‌ها می‌بینند: درغلتیدن به اقتدارگراییِ تازه.",
+    "en": "Path 3 (avoid), cycle of violence: Libya 2011, Syria 2011-24, Iraq 2003; fall with revenge, fragmenting authority, local then foreign armed actors.",
+    "nl": "Path 3 (avoid), cycle of violence: Libya 2011, Syria 2011-24, Iraq 2003; fall with revenge, fragmenting authority, local then foreign armed actors."
+   },
+   "sources": [
+    "src:7fffecad9e",
+    "src:b76e3ec683"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "راهِ صفر، ادامهٔ وضع موجود: باروریِ زیر ۱٫۵، جمعیتِ دانشجویی از ۴٫۸ به ۳٫۱۸ میلیون، سالمندی با پنج برابرِ نرخِ رشدِ کل و خروجِ سالانهٔ مغزها؛ گران‌ترین سناریو نیست اما تنها سناریویی است که در آن هیچ‌کس نمی‌برد.",
+    "en": "Path zero, status quo: fertility under 1.5, student population from 4.8 to 3.18 million, ageing at five times the overall growth and yearly brain drain; not the costliest but the only one where nobody wins.",
+    "nl": "Path zero, status quo: fertility under 1.5, student population from 4.8 to 3.18 million, ageing at five times the overall growth and yearly brain drain; not the costliest but the only one where nobody wins."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "راهِ بیرونی (که در نسخهٔ اول نبود و جنگ آن را واقعی کرد): تغییر با فشار یا حملهٔ نظامیِ خارجی. ۳۰٪ پاسخ‌دهندگانِ گمان آن را مؤثر می‌دانند. پژوهشِ داونز و مونتن نشان می‌دهد تغییرِ نظامِ تحمیل‌شده از بیرون به‌ندرت به دموکراسی می‌رسد، مگر در کشورهایی که پیش‌شرط‌های داخلی (ثروتِ بالا، همگونی، تجربهٔ دموکراسی) داشتند؛ و هزینهٔ مشروعیت دارد: پیمایش نشان می‌دهد جامعه دربارهٔ جنگ دو نیمه است. این راه را نمی‌شود «انتخاب» کرد، اما باید برایش آماده بود: اگر رأس بیفتد و فرایندِ تأسیس ساخته نشده باشد، نتیجه به راهِ دوم یا سوم می‌لغزد.",
+    "en": "The outside path (absent in version 1, made real by the war): change through foreign pressure or military action. 30 percent of GAMAAN respondents see it as effective. Research shows foreign-imposed regime change rarely leads to democracy except where domestic preconditions existed, and it carries a legitimacy cost. It cannot be chosen, but one must be ready: if the top falls without a founding process, the result slides toward path two or three.",
+    "nl": "The outside path (absent in version 1, made real by the war): change through foreign pressure or military action. 30 percent of GAMAAN respondents see it as effective. Research shows foreign-imposed regime change rarely leads to democracy except where domestic preconditions existed, and it carries a legitimacy cost. It cannot be chosen, but one must be ready: if the top falls without a founding process, the result slides toward path two or three."
+   },
+   "sources": [
+    "src:5077e79964",
+    "src:6c0a6f1ef3",
+    "src:b76e3ec683"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:covenantal-transition",
+   "rel": "see-also",
+   "note": {
+    "fa": "گذارِ میثاقی و برنامهٔ ۹۰/۹/۶۰۰",
+    "en": "Covenantal transition and the 90/9/600 plan",
+    "nl": "Covenantal transition and the 90/9/600 plan"
+   }
+  },
+  {
+   "to": "simorgh:cost-model",
+   "rel": "see-also",
+   "note": {
+    "fa": "برآوردِ هزینه",
+    "en": "Cost model",
+    "nl": "Cost model"
+   }
+  },
+  {
+   "to": "simorgh:claims-model",
+   "rel": "see-also",
+   "note": {
+    "fa": "ادعاهای مدل",
+    "en": "Model claims",
+    "nl": "Model claims"
+   }
+  },
+  {
+   "to": "simorgh:pre-mortem",
+   "rel": "see-also",
+   "note": {
+    "fa": "پیش‌مرگ: اگر شکست بخوریم چرا",
+    "en": "Pre-mortem",
+    "nl": "Pre-mortem"
+   }
+  },
+  {
+   "to": "soc:foreign-imposed-regime-change",
+   "rel": "see-also",
+   "note": {
+    "fa": "نظریه در ویکی جامعه‌شناسی",
+    "en": "Theory in the sociology wiki",
+    "nl": "Theory in the sociology wiki"
+   }
+  },
+  {
+   "to": "soc:pacted-transitions",
+   "rel": "see-also",
+   "note": {
+    "fa": "نظریه در ویکی جامعه‌شناسی",
+    "en": "Theory in the sociology wiki",
+    "nl": "Theory in the sociology wiki"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:5077e79964",
+  "src:6c0a6f1ef3",
+  "src:7fffecad9e",
+  "src:89f0e30575",
+  "src:a4e411ed75",
+  "src:b76e3ec683",
+  "src:d72e4f416e"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

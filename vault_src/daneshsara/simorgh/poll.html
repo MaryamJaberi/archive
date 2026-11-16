@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>نبض میز | سیمرغ</title>
+<meta name="description" content="تنها پرسشی که سیمرغ از مردم می‌پرسد: فکر می‌کنید چند درصد مثل شما فکر می‌کنند؟ با جدول تفسیرِ هر نتیجه.">
+<link rel="stylesheet" href="../core/design/tokens.css">
+<!-- Hand-written page. Votes are collected on Telegram/X/CryptPad; only monthly totals go into RESULTS below. -->
+<style>
+body{background:var(--paper);color:var(--ink)}
+.wrap{max-width:980px;margin:0 auto;padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px))}
+main{padding-block:20px 56px}
+h1{font-size:var(--h1,2rem);margin:12px 0 6px;line-height:1.3;text-wrap:balance}
+h2{font-size:var(--h3,1.25rem);margin:36px 0 10px;text-wrap:balance}
+.lead{color:var(--ink-2);max-width:62ch;line-height:1.9;margin:0}
+.q{margin:20px 0;padding:22px 20px;border-radius:20px;border:2px solid var(--primary);background:var(--surface)}
+.q p{font-size:1.25rem;font-weight:700;line-height:1.8;margin:0 0 14px;text-wrap:balance}
+.opts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px}
+.opts span{padding:12px;border-radius:12px;border:1px solid var(--line-strong);text-align:center;background:var(--paper)}
+.where{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.where a,.where span{padding:8px 16px;border-radius:99px;border:1px solid var(--line-strong);text-decoration:none;color:var(--ink);background:var(--paper);font-size:.92rem}
+.where span{opacity:.6}
+.safe{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;padding:0;margin:0;list-style:none}
+.safe li{padding:14px 16px;border-radius:16px;border:1px solid var(--line);background:var(--surface);line-height:1.8;min-width:0}
+.safe b{display:block}
+.groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+.card{padding:16px;border-radius:16px;border:1px solid var(--line);background:var(--surface);line-height:1.85;min-width:0}
+.card h3{margin:0 0 6px;font-size:1.02rem}.card p{margin:0;color:var(--ink-2)}
+details{margin-top:12px;border:1px solid var(--line-strong);border-radius:16px;background:var(--surface)}
+summary{cursor:pointer;padding:14px 16px;font-weight:700}
+.tbl{overflow-x:auto;padding:0 12px 14px}
+table{border-collapse:collapse;width:100%;min-width:640px;font-size:.92rem;line-height:1.8}
+th,td{border-bottom:1px solid var(--line);padding:10px 8px;text-align:right;vertical-align:top}
+th{color:var(--ink-3);font-weight:600}
+td:first-child{font-weight:700;white-space:nowrap}
+.res{padding:18px;border-radius:18px;border:1px solid var(--line-strong);background:var(--surface)}
+.bars{display:grid;gap:8px;margin:10px 0}
+.bar{display:grid;grid-template-columns:7.5rem minmax(0,1fr) 3.5rem;gap:8px;align-items:center;font-size:.92rem}
+.bar i{display:block;height:18px;border-radius:6px;background:var(--primary)}
+.bar .t{background:var(--line);border-radius:6px;overflow:hidden}
+.meaning{margin:10px 0 0;padding:12px 14px;border-radius:12px;background:var(--paper);line-height:1.9}
+.states{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px;margin:12px 0}
+.st{padding:10px;border-radius:12px;color:#fff;min-height:84px;display:flex;flex-direction:column;justify-content:space-between;font-size:.86rem;line-height:1.6}
+.st b{font-size:.95rem}.st small{opacity:.9}
+.k0{background:#8a3b2e}.k1{background:#b8792a}.k2{background:#2e7d6b}.k3{background:#3b5f9e}
+.flags{display:grid;gap:6px;margin:10px 0;padding:0;list-style:none}
+.flags li{padding:8px 12px;border-radius:10px;border:1px solid var(--line);background:var(--paper);font-size:.9rem;line-height:1.7}
+.formula{direction:ltr;unicode-bidi:isolate;font-family:ui-monospace,monospace;font-size:.85rem;background:var(--paper);padding:8px 12px;border-radius:8px;display:inline-block}
+.muted{color:var(--ink-3);font-size:.88rem}
+.go{display:flex;flex-wrap:wrap;gap:8px;margin-top:28px}
+.go a{padding:8px 16px;border-radius:99px;border:1px solid var(--line-strong);text-decoration:none;color:var(--ink);background:var(--surface)}
+</style>
+</head>
+<body>
+<main class="wrap">
+<h1>نبضِ میز</h1>
+<p class="lead">سیمرغ از مردم فقط یک چیز می‌پرسد، ماهی یک بار. نه نظرتان را، فقط حدستان را. جوابِ همه با هم نشان می‌دهد ما چقدر از هم بی‌خبریم.</p>
+
+<div class="q">
+<p>دربارهٔ اینکه حکومتِ فعلیِ ایران بماند یا تغییر کند، فکر می‌کنید چند درصدِ مردمِ ایران مثلِ شما فکر می‌کنند؟</p>
+<div class="opts"><span>کمتر از ۲۵٪</span><span>۲۵ تا ۵۰٪</span><span>۵۰ تا ۷۵٪</span><span>بیشتر از ۷۵٪</span></div>
+<div class="where" id="where"></div>
+</div>
+
+<h2>چرا رأی‌دادن به این پرسش برای هیچ‌کس اتهام نیست</h2>
+<ul class="safe">
+<li><b>حدس است، نه نظر</b>هر گزینه را هم موافقِ حکومت می‌تواند بزند هم مخالفش. از رأیِ شما نمی‌شود فهمید کدام طرفید.</li>
+<li><b>ناشناس</b>در نظرسنجیِ کانالِ تلگرام نه مدیرِ کانال می‌بیند کی چه زده نه دیگران. در X هم رأی به کسی نشان داده نمی‌شود.</li>
+<li><b>فقط رأی بدهید</b>زیرِ پست نظرِ سیاسیِ خودتان را ننویسید و از رأیتان اسکرین‌شات نگیرید.</li>
+<li><b>چیزی نگه نمی‌داریم</b>این صفحه فقط جمعِ رأی‌ها را در هر ماه دارد؛ هیچ نام، حساب یا نشانی‌ای.</li>
+</ul>
+
+<h2>بازیِ حدس: چرا حدسِ راست کم‌ضررترین حرکت برای هر گروه است</h2>
+<p class="lead">این پرسش یک بازی است و قاعده‌هایش علنی است، جدولِ تفسیر هم. سه قاعده آن را طوری می‌سازد که برای هر گروه، بهترین پاسخ به حرکتِ بقیه همان حدسِ راست باشد؛ یعنی تعادلِ نش در راستگویی.</p>
+<ul class="safe">
+<li><b>۱. پیامِ ثابت</b>هر نتیجه‌ای بیاید، یک پیام منتشر می‌شود: «این حدسِ شما بود، این عددِ مستقل است». نتیجه پیام را عوض نمی‌کند، پس دست‌کاری در رأی هیچ پیامی نمی‌خرد.</li>
+<li><b>۲. امتیازِ درست‌حدس‌زدن</b>بعد از هر پیمایشِ مستقل اعلام می‌شود چند درصد درست حدس زدند. تنها راهِ «بُردن» در این بازی حدسِ واقعی است.</li>
+<li><b>۳. یک رأی، هیچ اثر</b>در میانِ هزاران رأی، رأیِ هیچ‌کس نتیجه را تعیین نمی‌کند؛ پس دروغ‌گفتن برای هیچ فردی سودی ندارد و تنها چیزی که می‌ماند درست‌بودن است. رأیِ سازمان‌یافته را مقایسهٔ تلگرام و X و قاعدهٔ «دو قله» نشان می‌دهد.</li>
+</ul>
+<div class="tbl"><table>
+<thead><tr><th>گروه</th><th>اگر عمداً کم بزند</th><th>اگر عمداً زیاد بزند</th><th>اگر راست بزند</th></tr></thead>
+<tbody>
+<tr><td>خواهانِ تغییر</td><td>پیام همان است؛ فقط امتیازِ درست‌حدس‌زدن را می‌بازد</td><td>پیام همان است؛ امتیاز را می‌بازد</td><td>اگر خودش را کم دیده، همین شمرده می‌شود و فاصله با عددِ مستقل دیده می‌شود: کم‌ضررترین</td></tr>
+<tr><td>موافقِ وضعِ موجود</td><td>پیام همان است؛ امتیاز را می‌بازد</td><td>پیام همان است؛ امتیاز را می‌بازد</td><td>تصویرِ درستی از جایگاهِ گروهش می‌گیرد: کم‌ضررترین</td></tr>
+<tr><td>مردد</td><td>امتیاز را می‌بازد</td><td>امتیاز را می‌بازد</td><td>اگر جواب‌ها پخش باشد، خودِ خلأ دیده می‌شود: کم‌ضررترین</td></tr>
+</tbody></table></div>
+<p class="muted">پشتوانهٔ نظری: سازوکارهایی که راستگویی را «سازگار با انگیزه» می‌کنند، مثل قاعده‌های امتیازدهیِ درست برای پیش‌بینی و «سرمِ حقیقتِ بیزی» پرلک (۲۰۰۴). نسخهٔ ما ساده‌ترین شکل است: امتیاز در برابرِ یک عددِ مستقل که رأی‌ها آن را نمی‌سازند.</p>
+
+<h2>نتیجه: هر کانال یک ایالت</h2>
+<p class="lead">هر کانال یا حسابی که پرسش را اجرا می‌کند یک «ایالت» است و جدا شمرده می‌شود. رنگِ هر خانه پرطرفدارترین گزینهٔ آن ایالت است و کم‌رنگی یعنی اعتبارِ کمتر. جمعِ کل با فرمولی ساخته می‌شود که همین‌جا نوشته شده.</p>
+<div class="res" id="res"></div>
+<h2>دفترِ تقلب: حرکتِ بعدیِ تقلب چیست و چطور خنثی می‌شود</h2>
+<p class="lead">این یک بازی است: هر بار حرکتِ بعدیِ تقلب را پیدا می‌کنیم و با داده خنثی‌اش می‌کنیم. همهٔ قاعده‌ها علنی است، چون تقلبی که دیده شود دیگر کار نمی‌کند.</p>
+<div class="tbl"><table><thead><tr><th>حرکتِ تقلب</th><th>ردی که در داده می‌گذارد</th><th>پاسخِ ما</th><th>وضع</th></tr></thead><tbody id="ledger"></tbody></table></div>
+
+<details open>
+<summary>جدولِ تفسیر: هر نتیجه چه معنایی می‌تواند داشته باشد</summary>
+<div class="tbl"><table>
+<thead><tr><th>بیشترِ رأی‌ها</th><th>محتمل‌ترین معنی</th><th>معنیِ دیگرِ ممکن</th><th>برای تحلیل</th></tr></thead>
+<tbody id="tbody"></tbody>
+</table>
+<p class="muted">برای مقایسه: پیمایشِ گمان (تیر ۱۴۰۵، ۳۱٬۴۵۰ پاسخ‌دهنده در ایران، نمونهٔ آنلاین) حدود ۷۰٪ را خواهانِ تغییرِ نظام یا گذار، و حدود ۹ تا ۱۹٪ را طرفدارِ اصولِ حکومت یا اصلاح از درون یافت. نتیجهٔ این نظرسنجی نظرِ کسانی است که رأی داده‌اند، نه همهٔ ایرانیان؛ و نمی‌دانیم هر رأی‌دهنده خودش چه نظری دارد.</p></div>
+</details>
+
+<div class="go"><a href="entries.html#pulse-poll">در ویکیِ سیمرغ</a><a href="entries.html#threshold-indicators">نشانگرهای آستانه</a><a href="index.html">درگاهِ سیمرغ</a></div>
+</main>
+<script>
+/* Where the poll runs. Fill in links when Simorgh launches; empty = "not open yet". */
+const WHERE = [["کانالِ تلگرام", ""], ["X (توییتر)", ""], ["فرمِ رمزگذاری‌شدهٔ CryptPad", ""]];
+/* One entry per month; each state = one official channel/account running the poll. Totals only, no voter data.
+   {month:"…", states:[{name:"…", platform:"تلگرام", n:4210, pct:[a,b,c,d], hourly:[…votes per hour…], early:[a,b,c,d], late:[a,b,c,d]}]} */
+const MONTHS = [];
+/* The independent figure the guesses are scored against (not built from votes). */
+const TRUTH = {band: 2, text: "حدود ۷۰٪ (پیمایشِ گمان، تیر ۱۴۰۵)"};
+const LEDGER = [{"id": "c01", "move": "ارتشِ ربات در یک پلتفرم", "trace": "هجومِ ناگهانیِ رأی در یک یا دو ساعت، معمولاً در ساعت‌های غیرعادی", "counter": "شمارشِ ساعتی؛ پرچمِ «هجوم» وقتی یک ساعت بیش از ۳۵٪ کلِ رأی‌ها را دارد؛ وزنِ ایالت کم می‌شود", "status": "در صفحه"}, {"id": "c02", "move": "بسیج‌کردنِ یک گروهِ سازمان‌یافته (فرستادنِ پیوند به اعضا)", "trace": "رأی‌های دیرتر با رأی‌های اولِ همان ایالت فرق دارند", "counter": "مقایسهٔ نیمهٔ اول و دوم؛ پرچمِ «تغییر در میانه» وقتی فاصلهٔ دو توزیع بیش از ۰٫۲ است", "status": "در صفحه"}, {"id": "c03", "move": "تصاحبِ یک کانال یا حساب", "trace": "ایالتی که با همهٔ بقیه نمی‌خواند", "counter": "پرچمِ «ناهمخوان» وقتی فاصله از میانهٔ بقیه بیش از ۰٫۳ است؛ نتیجه جدا نشان داده می‌شود نه حذف", "status": "در صفحه"}, {"id": "c04", "move": "نظرسنجیِ جعلی با همان متن برای گل‌آلود کردن", "trace": "نتیجه‌هایی که در فهرستِ رسمی نیستند", "counter": "فهرستِ ایالت‌های رسمی فقط روی همین صفحه؛ هر نتیجهٔ بیرون از آن نادیده", "status": "در صفحه"}, {"id": "c05", "move": "جعلِ اسکرین‌شاتِ نتیجه", "trace": "عددی که با دادهٔ منتشرشده نمی‌خواند", "counter": "نتیجهٔ رسمی فقط این‌جا؛ اثرِ انگشتِ دادهٔ هر ماه کنارش", "status": "در صفحه"}, {"id": "c06", "move": "ترساندن برای کم کردنِ شمارِ رأی", "trace": "افتِ شمار بی‌تغییرِ توزیع", "counter": "زیرِ ۳۰۰ رأی منتشر نمی‌شود؛ ارزش در روندِ چندماهه است", "status": "در صفحه"}, {"id": "c07", "move": "بی‌اعتبار کردنِ عددِ مستقلِ مرجع", "trace": "حمله به پیمایشِ مرجع به‌جای نتیجه", "counter": "بیش از یک مرجعِ مستقل؛ محدودیتِ هر مرجع کنارش گفته شود", "status": "باز"}, {"id": "c08", "move": "خواستن از مردم که رأیشان را نشان دهند", "trace": "در داده دیده نمی‌شود", "counter": "قاعدهٔ «از رأیتان اسکرین‌شات نگیرید» و پرسشی که هیچ جوابش اتهام نیست", "status": "در صفحه"}, {"id": "c09", "move": "تفسیرِ وارونهٔ نتیجه در رسانه", "trace": "در داده دیده نمی‌شود", "counter": "پیامِ ثابت و جدولِ تفسیرِ علنی هم‌زمان با نتیجه", "status": "در صفحه"}, {"id": "c10", "move": "نسخهٔ جعلیِ «تله»: نظرسنجیِ هم‌شکل که برای رأی دادن شماره تلفن یا ورود با حساب می‌خواهد، تا رأی‌دهنده‌ها شناسایی شوند", "trace": "در داده دیده نمی‌شود", "counter": "پیشنهاد آبی لازم است", "status": "باز", "severity": "زیاد", "feasibility": "متوسط"}, {"id": "c11", "move": "کسی از خودِ تیم، پیش از ثبت، عددِ یک ایالت را جابه‌جا می‌کند", "trace": "جمعِ شمارش‌های ساعتی با جمعِ کل، یا با عددی که خودِ پلتفرم در پایانِ رأی‌گیری نشان داد، نمی‌خواند", "counter": "پیشنهاد آبی لازم است", "status": "باز", "severity": "زیاد", "feasibility": "کم"}, {"id": "c12", "move": "هوادارانِ خوش‌نیت فراخوان می‌دهند «همه کم بزنید تا تکانِ افشا بزرگ‌تر شود»", "trace": "از یک ساعتِ مشخص به بعد، در چند ایالت هم‌زمان، سهمِ «کمتر از ۲۵٪» بالا می‌رود (برخلافِ ربات که معمولاً در یک ایالت است)", "counter": "پیشنهاد آبی لازم است", "status": "باز", "severity": "متوسط", "feasibility": "زیاد"}, {"id": "c13", "move": "پلتفرم نظرسنجی را حذف یا پنهان می‌کند (خودش، یا پس از گزارش‌دادنِ انبوه)", "trace": "شمارشِ ساعتی ناگهان صفر می‌شود؛ رأیِ کل کم می‌ماند", "counter": "پیشنهاد آبی لازم است", "status": "باز", "severity": "متوسط", "feasibility": "متوسط"}, {"id": "c14", "move": "قطعِ اینترنت در هفتهٔ رأی‌گیری، تا فقط بیرونی‌ها و کاربرانِ فیلترشکن رأی بدهند", "trace": "افتِ رأی در ایالت‌هایی که مخاطبشان داخلِ ایران است و نه در بقیه؛ توزیع به سمتِ مخاطبِ بیرون کج می‌شود", "counter": "پیشنهاد آبی لازم است", "status": "باز", "severity": "زیاد", "feasibility": "زیاد"}, {"id": "c15", "move": "یک جناحِ مخالف نظرسنجی را «مالِ خودش» معرفی می‌کند و جناح‌های دیگر تحریمش می‌کنند", "trace": "شمارِ رأی در ایالت‌های نزدیک به جناح‌های دیگر افت می‌کند و نتیجه‌ها یک‌دست‌تر از معمول می‌شوند", "counter": "پیشنهاد آبی لازم است", "status": "باز", "severity": "متوسط", "feasibility": "زیاد"}];
+const B = ["کمتر از ۲۵٪", "۲۵ تا ۵۰٪", "۵۰ تا ۷۵٪", "بیشتر از ۷۵٪"];
+const ROWS = [
+ ["۵۰ تا ۷۵٪", "تخمینِ مردم به واقعیت نزدیک است و می‌دانند اکثریت‌اند. ترس از تنهایی دیگر مانعِ اصلی نیست.", "—", "کارِ بعدی صندوق و ضمانت است، نه قانع‌کردن."],
+ ["بیشتر از ۷۵٪", "خواهانِ تغییر خودشان را بزرگ‌تر از واقع می‌بینند.", "طرفدارانِ حکومت گروهِ خودشان را بزرگ می‌بینند.", "خطرِ خوش‌بینی؛ هنوز یک‌سوم همراه نیستند."],
+ ["۲۵ تا ۵۰٪", "خواهانِ تغییر خودشان را نزدیکِ نصف ولی نه اکثریت می‌بینند؛ نادانیِ جمعیِ ملایم.", "مرددها و اصلاح‌طلبان.", "پَرِ یکم نیمه‌سوخته."],
+ ["کمتر از ۲۵٪", "خواهانِ تغییر خودشان را اقلیتِ کوچک می‌بینند؛ نادانیِ جمعیِ کامل. سکوت از همین‌جا می‌آید.", "طرفدارانِ حکومت تخمینِ واقع‌بینانه زده‌اند.", "پَرِ یکم خیس؛ افشای فاصله بیشترین اثر را دارد."],
+ ["دو قله (کمتر از ۲۵٪ و بیشتر از ۷۵٪)", "دو جمعیت با دو تصویرِ کاملاً متفاوت از جامعه.", "رأیِ سازمان‌یافته یا ربات.", "بررسیِ بازنشرها و مقایسهٔ تلگرام و X."],
+ ["پخش و تقریباً برابر", "هیچ تصویرِ مشترکی از جامعه نیست؛ خودِ این خلأ یافته است.", "—", "بیشترین نیاز به عددِ مستقل و منظم."],
+ ["رأیِ کم (کمتر از ۳۰۰)", "نمونه برای نتیجه کافی نیست.", "ترس یا بی‌اعتمادی.", "منتشر نمی‌شود؛ ماهِ بعد تکرار."],
+];
+const fa = n => String(n).replace(/\d/g, d => "۰۱۲۳۴۵۶۷۸۹"[d]);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+document.getElementById("tbody").innerHTML = ROWS.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join("")}</tr>`).join("");
+document.getElementById("where").innerHTML = WHERE.map(([t, u]) => u ? `<a href="${esc(u)}" rel="noopener">${esc(t)} ↗</a>` : `<span>${esc(t)}: هنوز باز نیست</span>`).join("");
+function read(r) {
+  const p = r.pct, mx = Math.max(...p), mn = Math.min(...p);
+  if (r.n < 300) return ROWS[6];
+  if (p[0] >= 30 && p[3] >= 30) return ROWS[4];
+  if (mx - mn < 10) return ROWS[5];
+  return ROWS[[3, 2, 0, 1][p.indexOf(mx)]];
+}
+const tv = (a, b) => a.reduce((s, x, i) => s + Math.abs(x - b[i]), 0) / 200;   // total-variation distance of two % vectors
+function audit(states) {
+  return states.map((s, i) => {
+    const f = [];
+    if (s.n < 300) f.push("کمتر از ۳۰۰ رأی");
+    if (s.hourly && s.hourly.length > 3) { const t = s.hourly.reduce((x, y) => x + y, 0); if (Math.max(...s.hourly.slice(3)) / t > .35) f.push("هجومِ ناگهانی در یک ساعت"); }
+    if (s.early && s.late && tv(s.early, s.late) > .2) f.push("رأی‌های آخر با رأی‌های اول فرق دارند");
+    const others = states.filter((_, j) => j !== i);
+    if (others.length >= 2) { const med = [0,1,2,3].map(k => others.map(o => o.pct[k]).sort((x, y) => x - y)[Math.floor(others.length / 2)]); if (tv(s.pct, med) > .3) f.push("ناهمخوان با بقیهٔ ایالت‌ها"); }
+    const cred = s.n < 300 ? 0 : Math.max(.1, 1 - .3 * f.length);
+    return {...s, flags: f, cred};
+  });
+}
+function combine(st) {
+  const w = st.map(s => s.cred * Math.sqrt(s.n)), W = w.reduce((x, y) => x + y, 0) || 1;
+  return [0,1,2,3].map(k => Math.round(st.reduce((x, s, i) => x + w[i] * s.pct[k], 0) / W));
+}
+document.getElementById("ledger").innerHTML = LEDGER.map(r => `<tr><td>${esc(r.move)}</td><td>${esc(r.trace)}</td><td>${esc(r.counter)}</td><td>${esc(r.status)}${r.severity ? `<br><small class="muted">شدت ${esc(r.severity)} · شدنی ${esc(r.feasibility)}</small>` : ""}</td></tr>`).join("");
+const res = document.getElementById("res");
+if (!MONTHS.length) {
+  res.innerHTML = `<p class="muted">نظرسنجی هنوز باز نشده؛ با انتشارِ سیمرغ شروع می‌شود. نقشهٔ ایالت‌ها، جمعِ وزن‌دار، پرچم‌های تقلب و معنای هر ماه همین‌جا می‌آید.</p>`;
+} else {
+  const M = MONTHS[MONTHS.length - 1], st = audit(M.states), c = combine(st), N = st.reduce((x, s) => x + s.n, 0), m = read({n: N, pct: c});
+  const prev = MONTHS.length > 1 ? combine(audit(MONTHS[MONTHS.length - 2].states)) : null;
+  res.innerHTML = `<b>${esc(M.month)} · ${fa(st.length)} ایالت · ${fa(N.toLocaleString("en"))} رأی</b>
+  <div class="states">${st.map(s => `<div class="st k${s.pct.indexOf(Math.max(...s.pct))}" style="opacity:${(.35 + .65 * s.cred).toFixed(2)}"><b>${esc(s.name)}</b><small>${esc(s.platform)} · ${fa(s.n.toLocaleString("en"))} رأی${s.flags.length ? " · ⚑" + fa(s.flags.length) : ""}</small></div>`).join("")}</div>
+  <p class="muted">رنگ: <span style="color:#8a3b2e">■</span> کمتر از ۲۵٪ <span style="color:#b8792a">■</span> ۲۵ تا ۵۰٪ <span style="color:#2e7d6b">■</span> ۵۰ تا ۷۵٪ <span style="color:#3b5f9e">■</span> بیشتر از ۷۵٪</p>
+  <h3>جمعِ وزن‌دار</h3>
+  <div class="bars">${B.map((b, i) => `<div class="bar"><span>${b}</span><span class="t"><i style="width:${c[i]}%"></i></span><span>${fa(c[i])}٪</span></div>`).join("")}</div>
+  <p class="muted">وزنِ هر ایالت = اعتبار × رادیکالِ شمارِ رأی. <span class="formula">w = cred × √n ; cred = 1 − 0.3 × flags (min 0.1; n&lt;300 → 0)</span> رادیکال نمی‌گذارد یک ایالتِ خیلی بزرگ بقیه را ببلعد.</p>
+  <div class="meaning"><b>پیامِ ثابت:</b> این حدسِ شما بود؛ عددِ مستقل ${esc(TRUTH.text)} است. <b>${fa(c[TRUTH.band])}٪ درست حدس زدند.</b><br><span class="muted">تحلیل از روی جدول: ${esc(m[0])}، ${esc(m[1])}</span></div>
+  ${prev ? `<p class="muted">ماهِ پیش سهمِ «۵۰٪ به بالا» ${fa(prev[2] + prev[3])}٪ بود؛ این ماه ${fa(c[2] + c[3])}٪.</p>` : ""}
+  <h3>پرچم‌های تقلب در این ماه</h3>
+  <ul class="flags">${st.filter(s => s.flags.length).map(s => `<li><b>${esc(s.name)}:</b> ${s.flags.map(esc).join("، ")} (اعتبار ${fa(Math.round(s.cred * 100))}٪)</li>`).join("") || "<li>هیچ پرچمی نیامد.</li>"}</ul>`;
+}
+</script>
+<script src="../core/nav.js" defer></script>
+</body>
+</html>

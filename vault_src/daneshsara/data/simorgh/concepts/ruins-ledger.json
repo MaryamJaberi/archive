@@ -1,0 +1,249 @@
+{
+ "id": "simorgh:ruins-ledger",
+ "kind": "concept",
+ "title": {
+  "fa": "دفترِ ویرانی‌ها: نوزده حوزه",
+  "en": "Ruins ledger: nineteen domains",
+  "nl": "Ruins ledger: nineteen domains"
+ },
+ "aliases": [],
+ "parent": "simorgh:project",
+ "field": "simorgh:project",
+ "summary": {
+  "fa": "دفتری که ویرانیِ هر حوزه را (آب، خاک و طبیعت، و دیگران) فهرست می‌کند و می‌گوید در دانش‌سرا چقدر پشتوانه دارد. قاعده: بی‌منبع نوشته نمی‌شود.",
+  "en": "A ledger listing the ruin in each domain (water, soil and nature, and others) and how much backing Daneshsara has. Rule: nothing is written without a source.",
+  "nl": "A ledger listing the ruin in each domain (water, soil and nature, and others) and how much backing Daneshsara has. Rule: nothing is written without a source."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "آب [نیمه]: ورشکستگی آبی؛ فرونشست دشت‌ها (تندترین: دشت رفسنجان، بیش از ۳۵ سانتی‌متر در سال)؛ خشکی دریاچهٔ ارومیه و تالاب‌ها؛ چاه‌های غیرمجاز؛ سدسازی بی‌رویه؛ انتقال آب بین‌حوضه‌ای؛ کم‌آبی شهرها در تابستان",
+    "en": "آب: items and coverage, as in the Persian text.",
+    "nl": "آب: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "خاک و طبیعت [نیمه]: نابودی جنگل‌های زاگرس و هیرکانی؛ بیابان‌زایی و ریزگرد؛ فرسایش خاک؛ شکار و انقراض (یوزپلنگ آسیایی)؛ زباله و پسماند؛ آلودگی خلیج فارس و دریای خزر",
+    "en": "خاک و طبیعت: items and coverage, as in the Persian text.",
+    "nl": "خاک و طبیعت: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "هوا و انرژی [نیمه]: آلودگی هوای شهرها؛ مازوت‌سوزی نیروگاه‌ها؛ قطعی برق و گاز؛ یارانهٔ سوخت و قاچاق؛ سوزاندن گاز همراه نفت؛ آلودگی ناشی از حمله به تأسیسات سوخت در جنگ (باران سیاه)",
+    "en": "هوا و انرژی: items and coverage, as in the Persian text.",
+    "nl": "هوا و انرژی: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "روستاها و مناطق محروم [نیمه]: خالی شدن روستاها؛ نبود مدرسه، درمانگاه و جاده؛ بیکاری؛ استان‌های مرزی محروم؛ زیرساخت آب آشامیدنی",
+    "en": "روستاها و مناطق محروم: items and coverage, as in the Persian text.",
+    "nl": "روستاها و مناطق محروم: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "شهرها [نیمه]: ساخت‌وساز ناایمن و خطر زلزله؛ حاشیه‌نشینی؛ حمل‌ونقل عمومی ناکافی؛ خودروهای ناایمن و فرسوده؛ بافت فرسوده؛ آثار تاریخی آسیب‌دیده در جنگ ۱۴۰۴",
+    "en": "شهرها: items and coverage, as in the Persian text.",
+    "nl": "شهرها: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "اقتصاد [نیمه]: تورم مزمن و سقوط ریال؛ بیکاری جوانان و فارغ‌التحصیلان؛ اقتصاد رانتی و بنیادهای بی‌حساب‌رسی؛ فساد و قاچاق؛ فرار سرمایه؛ صنعت فرسوده؛ تحریم‌ها",
+    "en": "اقتصاد: items and coverage, as in the Persian text.",
+    "nl": "اقتصاد: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "فقر و شکاف طبقاتی [نیمه]: فقر و سوءتغذیه؛ امتیاز وابستگان قدرت؛ نابرابری منطقه‌ای؛ مسکن دست‌نیافتنی؛ بیمهٔ ناکافی",
+    "en": "فقر و شکاف طبقاتی: items and coverage, as in the Persian text.",
+    "nl": "فقر و شکاف طبقاتی: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "آموزش [نیمه]: بی‌سوادی و کم‌سوادی؛ بازماندن دختران روستایی و کودکان مهاجر از مدرسه؛ کتاب درسی ایدئولوژیک؛ حقوق پایین و کمبود معلم؛ گزینش و دانشجویان ستاره‌دار؛ مهاجرت نخبگان",
+    "en": "آموزش: items and coverage, as in the Persian text.",
+    "nl": "آموزش: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "سلامت [دارد]: مهاجرت پزشکان و پرستاران؛ کمبود دارو؛ اعتیاد؛ سلامت روان؛ بیماری‌های ناشی از آلودگی؛ بیماری‌های ژنتیکی و ازدواج خویشاوندی",
+    "en": "سلامت: items and coverage, as in the Persian text.",
+    "nl": "سلامت: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کودک و خانواده [دارد]: تجربه‌های ناگوار کودکی؛ ازدواج کودک؛ کار کودک؛ کودک‌آزاری؛ خشونت خانگی؛ کودکان بی‌شناسنامه؛ به کارگیری نوجوانان در نیروهای نظامی",
+    "en": "کودک و خانواده: items and coverage, as in the Persian text.",
+    "nl": "کودک و خانواده: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "زنان [نیمه]: تبعیض در قانون (ارث، دیه، شهادت، حضانت، اجازهٔ سفر)؛ حجاب اجباری و سرکوب؛ خشونت علیه زنان؛ مشارکت اقتصادی پایین",
+    "en": "زنان: items and coverage, as in the Persian text.",
+    "nl": "زنان: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "اقلیت‌ها [نیمه]: تبعیض قومی و زبانی؛ تبعیض دینی (بهاییان، اهل سنت، دراویش، نوکیشان مسیحی و دیگران)؛ دگرباشان جنسی؛ مهاجران افغانستانی و بازگرداندن اجباری",
+    "en": "اقلیت‌ها: items and coverage, as in the Persian text.",
+    "nl": "اقلیت‌ها: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "حقوق بشر و دادخواهی [نیمه]: اعدام‌ها؛ زندانیان سیاسی؛ شکنجه و اعتراف اجباری؛ کشتار ۱۳۶۷؛ کشته‌شدگان اعتراض‌ها (۱۳۸۸، ۱۳۹۶، ۱۳۹۸، ۱۴۰۱، دی ۱۴۰۴)؛ خانواده‌های دادخواه",
+    "en": "حقوق بشر و دادخواهی: items and coverage, as in the Persian text.",
+    "nl": "حقوق بشر و دادخواهی: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "آزادی و اطلاعات [نیمه]: سانسور و فیلترینگ؛ قطع اینترنت؛ انحصار رسانهٔ دولتی؛ زندانی شدن روزنامه‌نگاران؛ نظارت دیجیتال",
+    "en": "آزادی و اطلاعات: items and coverage, as in the Persian text.",
+    "nl": "آزادی و اطلاعات: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "جامعه و اعتماد [دارد]: اعتماد اجتماعی پایین؛ خودکشی؛ مهاجرت گسترده؛ آنومی؛ قطبی‌شدن",
+    "en": "جامعه و اعتماد: items and coverage, as in the Persian text.",
+    "nl": "جامعه و اعتماد: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نهادها و حکمرانی [نیمه]: نهادهای انتصابی؛ نظارت استصوابی؛ قوهٔ قضائیهٔ وابسته؛ سپاه در اقتصاد و سیاست؛ بسیج مسلح؛ اداره‌های فاسد و ناکارآمد",
+    "en": "نهادها و حکمرانی: items and coverage, as in the Persian text.",
+    "nl": "نهادها و حکمرانی: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "روابط خارجی و حقوق بین‌الملل [ندارد]: تحریم‌های آمریکا، اروپا و بازگشت تحریم‌های سازمان ملل؛ جنگ ۱۴۰۴–۱۴۰۵ و خسارت‌هایش؛ هزینهٔ گروه‌های نیابتی؛ دارایی‌های بلوکه؛ پروندهٔ هسته‌ای؛ اعتبار پایین گذرنامه",
+    "en": "روابط خارجی و حقوق بین‌الملل: items and coverage, as in the Persian text.",
+    "nl": "روابط خارجی و حقوق بین‌الملل: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "میراث و فرهنگ [نیمه]: آثار آسیب‌دیده (کاخ گلستان، فلک‌الافلاک، بناهای اصفهان)؛ تخریب گورستان‌های جمعی؛ هنرمندان ممنوع‌کار؛ موسیقی و رقص ممنوع",
+    "en": "میراث و فرهنگ: items and coverage, as in the Persian text.",
+    "nl": "میراث و فرهنگ: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "روان جمعی [نیمه]: تروما و سوگ جمعی؛ ترس و پنهان‌کاری؛ درماندگی آموخته؛ بی‌اعتمادی به نهادها",
+    "en": "روان جمعی: items and coverage, as in the Persian text.",
+    "nl": "روان جمعی: items and coverage, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:population-groups",
+   "rel": "see-also",
+   "note": {
+    "fa": "بیست گروه",
+    "en": "Twenty groups",
+    "nl": "Twenty groups"
+   }
+  },
+  {
+   "to": "simorgh:master-plan",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقشهٔ کلان",
+    "en": "Master plan",
+    "nl": "Master plan"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

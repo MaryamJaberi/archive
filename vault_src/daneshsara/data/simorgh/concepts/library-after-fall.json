@@ -1,0 +1,99 @@
+{
+ "id": "simorgh:library-after-fall",
+ "kind": "concept",
+ "title": {
+  "fa": "کتابخانه: بعد از سقوط",
+  "en": "Library: after the fall",
+  "nl": "Library: after the fall"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "فوری‌ترین بخش: بیشترِ منابع می‌گویند خطرِ اصلی بعد از سقوط است، نه پیش از آن.",
+  "en": "Library: after the fall",
+  "nl": "Library: after the fall"
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "Walter (2022) How Civil Wars Start: نقدِ ما: خطرناک‌ترین وضعیت میانه است، همان‌جا که هر گذار از آن می‌گذرد؛ هر برآوردِ هزینه‌ای که این را حساب نکند کم‌برآورد است.",
+    "en": "Walter (2022) How Civil Wars Start: why it is on the shelf (Persian text).",
+    "nl": "Walter (2022) How Civil Wars Start: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:7fffecad9e"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "Dodge (2012) Iraq: From War to a New Authoritarianism: نقدِ ما: انحلالِ یک‌بارهٔ ارتش و دستگاهِ حزبی در ۲۰۰۳ دولت را از بین برد؛ هشدار به هر طرحِ «انحلالِ سپاه».",
+    "en": "Dodge (2012) Iraq: From War to a New Authoritarianism: why it is on the shelf (Persian text).",
+    "nl": "Dodge (2012) Iraq: From War to a New Authoritarianism: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:b76e3ec683"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "Elster (2004) Closing the Books: هسته: عدالتِ انتقالی در بسترِ تاریخی؛ چه کسی محاکمه شود، چه کسی عفو.",
+    "en": "Elster (2004) Closing the Books: why it is on the shelf (Persian text).",
+    "nl": "Elster (2004) Closing the Books: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:b16fff45ff"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Hayner (2001) Unspeakable Truths: کمیسیون‌های حقیقت: چه برمی‌آید و چه برنمی‌آید.",
+    "en": "Hayner (2001) Unspeakable Truths: why it is on the shelf (Persian text).",
+    "nl": "Hayner (2001) Unspeakable Truths: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:611b119f9f"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "همه‌پرسیِ شیلی ۱۹۸۸ (کارزارِ «نه»): الگوی عملیاتیِ رفراندوم زیرِ حکومتِ اقتدارگرا؛ نزدیک‌ترین نمونه به آنچه مجموعه پیشنهاد می‌دهد.",
+    "en": "همه‌پرسیِ شیلی ۱۹۸۸ (کارزارِ «نه»): why it is on the shelf (Persian text).",
+    "nl": "همه‌پرسیِ شیلی ۱۹۸۸ (کارزارِ «نه»): why it is on the shelf (Persian text)."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:library-honesty",
+   "rel": "see-also",
+   "note": {
+    "fa": "این فهرست چه نیست",
+    "en": "What this list is not",
+    "nl": "What this list is not"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:611b119f9f",
+  "src:7fffecad9e",
+  "src:b16fff45ff",
+  "src:b76e3ec683"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}
