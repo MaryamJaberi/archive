@@ -1,0 +1,190 @@
+{
+ "id": "simorgh:audit",
+ "kind": "concept",
+ "title": {
+  "fa": "ممیزیِ ضعف‌ها: آنچه اگر ننویسیم منتقد پیدا می‌کند",
+  "en": "Audit of weaknesses",
+  "nl": "Audit of weaknesses"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "پروژه ضعف‌های خودش را علنی فهرست کرده، چون اگر خودش نگوید اولین منتقدِ جدی پیدایش می‌کند. یافته‌های اصلی در یک نگاه.",
+  "en": "The project lists its own weaknesses openly, since otherwise the first serious critic will find them. Main findings at a glance.",
+  "nl": "The project lists its own weaknesses openly, since otherwise the first serious critic will find them. Main findings at a glance."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "۱۴ ادعا (۱۸٪) به یک ارجاعِ جمعی بند است: کلِ بلوکِ اقتصادی و جمعیتی به یک گزارشِ مدوّن وصل است که خودش به مرکز آمار، مرکز پژوهش‌های مجلس، بانک جهانی و پیمایش‌ها تکیه می‌کند؛ پس این ادعاها مستقل از هم تأیید نشده‌اند.",
+    "en": "14 claims (18 percent) rest on one collective reference: the whole economic and demographic block hangs on one compiled report; they are not independently confirmed.",
+    "nl": "14 claims (18 percent) rest on one collective reference: the whole economic and demographic block hangs on one compiled report; they are not independently confirmed."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "متنِ اصلی پیش از جنگِ ۱۴۰۴–۱۴۰۵ نوشته شده و بخشی از اعداد پیش از جنگ‌اند؛ باید با دادهٔ تازه دوباره سنجیده شوند.",
+    "en": "The core text predates the 2025-26 war and some numbers are pre-war; they must be re-checked against new data.",
+    "nl": "The core text predates the 2025-26 war and some numbers are pre-war; they must be re-checked against new data."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "«۲۶۰۰ در برابر ۲۷۰۰ سال» در دو جا فرق می‌کند چون نقطهٔ آغازشان فرق دارد (اسارتِ بابل در برابر نخستین پیوندها)؛ باید هر جا یکی بماند و نقطهٔ آغاز گفته شود.",
+    "en": "\"2600 versus 2700 years\" differs because the origin points differ; one should remain and its start be stated.",
+    "nl": "\"2600 versus 2700 years\" differs because the origin points differ; one should remain and its start be stated."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "«۸۰ تا ۹۰ درصدِ مسئله» (اثرِ موضع‌گیریِ صریح نسبت به رفتارِ هواداران) عددی بدونِ روش است و فقط به‌عنوانِ داوریِ کیفیِ نقل‌شده در منبع آمده.",
+    "en": "\"80 to 90 percent of the problem\" is a number without method, quoted only as a qualitative judgement from the source.",
+    "nl": "\"80 to 90 percent of the problem\" is a number without method, quoted only as a qualitative judgement from the source."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "رقمِ ≈۵۰ میلیارد دلارِ سالانهِ فرار مغزها منبعِ اولیه ندارد و فقط به‌صورت «برآوردِ منسوب به بانکِ جهانی» نقل شده؛ مقایسه‌اش با صادراتِ نفتِ ۲۰۱۹ هم‌جنس نیست و در میزِ نقد هم همین گفته شد.",
+    "en": "The ≈50 billion dollars a year brain-drain figure has no primary source and is quoted as \"attributed to the World Bank\"; comparing it with 2019 oil exports is not like for like.",
+    "nl": "The ≈50 billion dollars a year brain-drain figure has no primary source and is quoted as \"attributed to the World Bank\"; comparing it with 2019 oil exports is not like for like."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "۱۰ از ۱۸ کارتِ قدمِ تو (در نسخهٔ آن زمان) پشتوانهٔ دیتاست نداشتند؛ حالا کارت‌ها ۲۳ تا هستند و باید دوباره سنجیده شوند.",
+    "en": "10 of 18 \"your step\" cards lacked dataset backing at the time; there are now 23 cards and they must be re-checked.",
+    "nl": "10 of 18 \"your step\" cards lacked dataset backing at the time; there are now 23 cards and they must be re-checked."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ناهمخوانیِ شمارش: صفحه‌ها گاهی ۷۶ و گاهی ۸۴ ادعا می‌گویند؛ شمارهٔ درست ۸۴ است.",
+    "en": "Count mismatch: some pages say 76 claims, others 84; 84 is correct.",
+    "nl": "Count mismatch: some pages say 76 claims, others 84; 84 is correct."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "یافته‌های بازبینیِ آبان ۱۴۰۵ (اصلاح‌شده): (۱) شرطِ بردِ «یک روزِ واحد» با پژوهش ناسازگار بود و به «هماهنگیِ پایدار با یک لحظهٔ کانونی» تغییر کرد؛ (۲) «حذف» در بازی ابهام داشت و حالا صریحاً «پس‌گرفتنِ همکاری» است؛ (۳) حرکتِ «خروج» در بازی نبود و اضافه شد؛ (۴) عفوِ مشروط مرزِ جنایت‌های جمعی را نداشت و حالا دارد؛ (۵) راهِ بیرونی (جنگ) در سه راه نبود و اضافه شد؛ (۶) برآوردِ ۱۰ تا ۱۵٪ حالا لنگرِ پیمایشی دارد؛ (۷) شمارش‌های ۲۷/۳۷/۴۷/۳۰ توضیح داده شد.",
+    "en": "November 2026 review findings (fixed): one-day win condition, ambiguous elimination, missing exit move, amnesty limits, missing outside path, survey anchor, clarified counts.",
+    "nl": "November 2026 review findings (fixed): one-day win condition, ambiguous elimination, missing exit move, amnesty limits, missing outside path, survey anchor, clarified counts."
+   },
+   "sources": [
+    "src:f1a8df8bf8",
+    "src:7272339677",
+    "src:6c0a6f1ef3"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "یافته‌های بازبینی که هنوز باز است: جدول‌های هزینه پیش از جنگ‌اند و باید بازسازی شوند؛ «۸۰ تا ۹۰ درصدِ مسئله» هنوز روش ندارد؛ و تحلیلِ «چرا دی ۱۴۰۴ کافی نبود» تفسیر است و با دادهٔ بیشتر (مثلاً دربارهٔ ریزشِ نیروها) باید آزموده شود.",
+    "en": "Still open: pre-war cost tables, the 80-90 percent figure, and the January analysis is interpretive.",
+    "nl": "Still open: pre-war cost tables, the 80-90 percent figure, and the January analysis is interpretive."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "محدودیتِ پیمایش که در بازبینیِ پیشین کم گفته شده بود: نمونهٔ خامِ گمان ۷۷٪ مرد بود، حجمِ مؤثر پس از وزن‌دهی حدود ۶٬۲۱۱ است، و وزن‌دهی بر پایهٔ گرایشِ سیاسی نیست. هر جا عددِ گمان آمده، این محدودیت هم باید باشد.",
+    "en": "Survey limits under-stated before: raw GAMAAN sample 77 percent male, effective size about 6,211, no weighting on political orientation.",
+    "nl": "Survey limits under-stated before: raw GAMAAN sample 77 percent male, effective size about 6,211, no weighting on political orientation."
+   },
+   "sources": [
+    "src:6c0a6f1ef3"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "دیتاست",
+    "en": "Dataset",
+    "nl": "Dataset"
+   }
+  },
+  {
+   "to": "simorgh:dataset-health",
+   "rel": "see-also",
+   "note": {
+    "fa": "سلامتِ دیتاست",
+    "en": "Dataset health",
+    "nl": "Dataset health"
+   }
+  },
+  {
+   "to": "simorgh:nine-faction-critique",
+   "rel": "see-also",
+   "note": {
+    "fa": "میزِ نقد",
+    "en": "Critique table",
+    "nl": "Critique table"
+   }
+  },
+  {
+   "to": "simorgh:current-situation",
+   "rel": "see-also",
+   "note": {
+    "fa": "وضعیتِ امروز",
+    "en": "Situation now",
+    "nl": "Situation now"
+   }
+  },
+  {
+   "to": "simorgh:why-not-january",
+   "rel": "see-also",
+   "note": {
+    "fa": "چرا ۱۴ میلیون کافی نبود",
+    "en": "Why 14 million was not enough",
+    "nl": "Why 14 million was not enough"
+   }
+  },
+  {
+   "to": "simorgh:gamaan-2026",
+   "rel": "see-also",
+   "note": {
+    "fa": "پیمایشِ گمان (گزارش کامل)",
+    "en": "GAMAAN full report",
+    "nl": "GAMAAN full report"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:6c0a6f1ef3",
+  "src:7272339677",
+  "src:f1a8df8bf8"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

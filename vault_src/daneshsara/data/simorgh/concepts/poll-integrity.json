@@ -1,0 +1,86 @@
+{
+ "id": "simorgh:poll-integrity",
+ "kind": "concept",
+ "title": {
+  "fa": "شمارشِ شفاف و بازیِ ضدِ تقلب",
+  "en": "Transparent counting and the anti-cheating game",
+  "nl": "Transparent counting and the anti-cheating game"
+ },
+ "aliases": [],
+ "parent": "simorgh:strategy",
+ "field": "simorgh:strategy",
+ "summary": {
+  "fa": "هر کانال یا حسابی که پرسشِ «نبضِ میز» را اجرا می‌کند یک «ایالت» است: جدا شمرده می‌شود، روی نقشهٔ ایالت‌ها با رنگِ پرطرفدارترین گزینه و کم‌رنگیِ متناسب با اعتبار دیده می‌شود، و جمعِ کل با فرمولی علنی ساخته می‌شود. کنارش دفترِ تقلب است: هر حرکتِ تقلبیِ ممکن، ردی که در داده می‌گذارد و پاسخِ ما. دو ایجنت روی آن کار می‌کنند: قرمز حرکتِ بعدی را پیدا می‌کند، آبی خنثی‌اش می‌کند.",
+  "en": "Each channel running the poll is a \"state\": counted separately, shown on a state map coloured by its leading option and faded by credibility, combined by a public formula. Beside it, a cheating ledger of moves, traces and counters, worked on by a red and a blue agent.",
+  "nl": "Each channel running the poll is a \"state\": counted separately, shown on a state map coloured by its leading option and faded by credibility, combined by a public formula. Beside it, a cheating ledger of moves, traces and counters, worked on by a red and a blue agent."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "وزنِ هر ایالت: اعتبار × رادیکالِ شمارِ رأی. اعتبار با هر پرچم ۰٫۳ کم می‌شود (کف ۰٫۱) و زیرِ ۳۰۰ رأی صفر است. رادیکال نمی‌گذارد یک ایالتِ خیلی بزرگ بقیه را ببلعد. این همان منطقِ وزن‌دهیِ نمونه است که پیمایش‌های جدی به کار می‌برند، با این تفاوت که این‌جا وزن به اعتبار بسته است نه به سن و جنس، چون از رأی‌دهنده هیچ داده‌ای نمی‌گیریم.",
+    "en": "State weight = credibility × square root of votes; credibility drops 0.3 per flag (floor 0.1), zero under 300 votes.",
+    "nl": "State weight = credibility × square root of votes; credibility drops 0.3 per flag (floor 0.1), zero under 300 votes."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "سه نشانهٔ آماریِ تقلب، فقط از جمعِ رأی‌ها: (۱) هجومِ ناگهانی: یک ساعت بیش از ۳۵٪ کلِ رأی‌ها (شمارشِ ساعتی)؛ (۲) رأی‌های آخر با رأی‌های اول فرق دارند (فاصلهٔ دو توزیع بیش از ۰٫۲)، نشانهٔ بسیجِ یک گروه؛ (۳) ایالتی که با میانهٔ بقیه بیش از ۰٫۳ فاصله دارد، نشانهٔ تصاحب یا تفاوتِ واقعیِ مخاطب. هیچ ایالتی حذف نمی‌شود؛ فقط پرچم و وزنِ کمتر می‌گیرد و همه چیز نشان داده می‌شود.",
+    "en": "Three statistical traces from totals only: hourly burst, early-late drift, divergence from the other states; nothing is deleted, only flagged and down-weighted.",
+    "nl": "Three statistical traces from totals only: hourly burst, early-late drift, divergence from the other states; nothing is deleted, only flagged and down-weighted."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "دفترِ تقلب با نُه حرکتِ آغازین: ارتشِ ربات، بسیجِ گروهِ سازمان‌یافته، تصاحبِ کانال، نظرسنجیِ جعلی، جعلِ اسکرین‌شات، ترساندن، بی‌اعتبار کردنِ مرجع، خواستنِ نمایشِ رأی، تفسیرِ وارونه. هر کدام با ردش در داده و پاسخش. همهٔ قاعده‌ها علنی است، چون تقلبی که دیده شود دیگر کار نمی‌کند.",
+    "en": "The ledger starts with nine moves, each with its trace and counter; all rules are public.",
+    "nl": "The ledger starts with nine moves, each with its trace and counter; all rules are public."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:pulse-poll",
+   "rel": "see-also",
+   "note": {
+    "fa": "نبضِ میز",
+    "en": "Pulse poll",
+    "nl": "Pulse poll"
+   }
+  },
+  {
+   "to": "simorgh:pre-mortem",
+   "rel": "see-also",
+   "note": {
+    "fa": "پیش‌مرگ",
+    "en": "Pre-mortem",
+    "nl": "Pre-mortem"
+   }
+  },
+  {
+   "to": "soc:preference-falsification",
+   "rel": "see-also",
+   "note": {
+    "fa": "بازیِ انتظار (کوران)",
+    "en": "Expectations game",
+    "nl": "Expectations game"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

@@ -1,0 +1,26 @@
+{
+ "id": "simorgh:strategy",
+ "kind": "field",
+ "title": {
+  "fa": "راهبرد و گزینه‌ها",
+  "en": "Strategy and options",
+  "nl": "Strategy and options"
+ },
+ "aliases": [],
+ "parent": "simorgh:simorgh",
+ "field": null,
+ "summary": {
+  "fa": "سه راه و قیمتشان، برنامهٔ ۹۰/۹/۶۰۰، نقدِ نُه جناح، و سند راهبردی.",
+  "en": "Three paths and their price, the 90/9/600 plan, the nine-faction critique, and the strategy paper.",
+  "nl": "Three paths and their price, the 90/9/600 plan, the nine-faction critique, and the strategy paper."
+ },
+ "points": [],
+ "links": [],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

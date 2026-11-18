@@ -1,0 +1,64 @@
+{
+ "id": "simorgh:ten-turn-game",
+ "kind": "concept",
+ "title": {
+  "fa": "بازیِ ده‌نوبتی و حدسِ گذارها",
+  "en": "The ten-turn game and the transitions guess",
+  "nl": "The ten-turn game and the transitions guess"
+ },
+ "aliases": [],
+ "parent": "simorgh:game",
+ "field": "simorgh:game",
+ "summary": {
+  "fa": "دو بازیِ کوچک که می‌شود امتحان کرد: یک بازیِ ده‌نوبتیِ آستانه، و ابزاری که از تو می‌خواهد پانزده گذارِ جهانی را حدس بزنی تا ببینی شهودت با تاریخ کجا جور نیست.",
+  "en": "Two small games to try: a ten-turn threshold game, and a tool that makes you guess fifteen world transitions to see where your intuition and history part.",
+  "nl": "Two small games to try: a ten-turn threshold game, and a tool that makes you guess fifteen world transitions to see where your intuition and history part."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "بازیِ ده‌نوبتی (sim): هر نوبت یک تصمیم دربارهٔ هماهنگی و هزینه؛ هدفش حس‌کردنِ منطقِ آستانه است، نه پیش‌بینی.",
+    "en": "The ten-turn game: each turn a decision about coordination and cost; it is to feel the threshold logic, not to predict.",
+    "nl": "The ten-turn game: each turn a decision about coordination and cost; it is to feel the threshold logic, not to predict."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پانزده گذار (transitions): حدس بزن و ببین؛ مناسبِ یک شبِ دورهمی و میزِ دایره‌ای.",
+    "en": "Fifteen transitions: guess and see; suited to an evening gathering and the circle table.",
+    "nl": "Fifteen transitions: guess and see; suited to an evening gathering and the circle table."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:threshold-simulator",
+   "rel": "see-also",
+   "note": {
+    "fa": "شبیه‌ساز آستانه",
+    "en": "Threshold simulator",
+    "nl": "Threshold simulator"
+   }
+  },
+  {
+   "to": "simorgh:circle-table",
+   "rel": "see-also",
+   "note": {
+    "fa": "میزِ دایره‌ای",
+    "en": "Circle table",
+    "nl": "Circle table"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

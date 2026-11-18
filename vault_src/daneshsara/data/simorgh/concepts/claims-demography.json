@@ -1,0 +1,134 @@
+{
+ "id": "simorgh:claims-demography",
+ "kind": "concept",
+ "title": {
+  "fa": "ادعاهای جمعیت و ساختار",
+  "en": "Claims: demography and structure",
+  "nl": "Claims: demography and structure"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "7 ادعای منبع‌دار از مجموعهٔ ۸۴ادعایی، هر کدام با مقدار، دوره، ردهٔ اعتبار (۱ داده/سند، ۲ پژوهش، ۳ برآورد یا مدل) و شرطی که آن را باطل می‌کند. ادعایی که نتواند بگوید چه چیز ردش می‌کند ادعا نیست.",
+  "en": "7 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it.",
+  "nl": "7 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "باروری ۱٫۳۵ تا ۱٫۷ — زیرِ سطحِ جانشینی. (۱٫۳۵–۱٫۷؛ ≈۱۴۰۲–۱۴۰۵؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: سریِ رسمیِ باروریِ کل با رقمِ بالاتر از ۲٫۱. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim fertility: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim fertility: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "جمعیتِ دانشجویی از اوجِ ۴٫۸ میلیون به حدودِ ۳٫۱۸ میلیون سقوط کرده. (۴٫۸م ← ۳٫۱۸م؛ ≈۱۳۹۴–۱۴۰۳؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: آمارِ مؤسسهٔ پژوهش و برنامه‌ریزی آموزش عالی با روندِ متفاوت. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim students: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim students: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "سالمندی با پنج برابرِ نرخِ رشدِ کلِ جمعیت پیش می‌رود. (۵× نرخِ رشدِ کل؛ ≈۱۴۰۰ به بعد؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: هرمِ سنیِ رسمی که این نسبت را تأیید نکند. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim aging: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim aging: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "بزرگ‌ترین کوهورتِ تاریخِ ایران در دههٔ ۶۰ متولد شد — ۱٫۹ تا ۲٫۵ میلیون تولد در سال. (۱٫۹–۲٫۵ میلیون/سال؛ دههٔ ۱۳۶۰؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: سریِ سالانهٔ ثبتِ احوال یا سرشماری‌های ۱۳۶۵ و ۱۳۷۵ که اوجِ تولد را بیرون از دههٔ ۶۰ یا زیرِ ۱٫۹ میلیون در سال نشان دهد. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim cohort: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim cohort: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "شهرنشینی ۷۷٪ — یکی از سه تعدیلی که مدلِ هزینهٔ این پروژه بر آن سوار است. (۷۷٪؛ ≈۱۴۰۰؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: سرشماری یا برآوردِ رسمیِ تازه‌تر (مرکز آمار یا بانک جهانی) که سهمِ جمعیتِ شهری را بیرون از بازهٔ ۷۵–۷۹٪ بگذارد. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim urbanization: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim urbanization: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "جمعیتِ مبنای همهٔ مدل‌های هزینهٔ این پروژه: ۸۷ میلیون نفر. (۸۷ میلیون؛ ≈۱۴۰۳؛ ردهٔ 3؛ مبنای مدل). شرطِ ابطال: برآوردِ جمعیتیِ به‌مراتب متفاوت، که کلِ جدولِ هزینه را مقیاس می‌دهد. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim population: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim population: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "حدودِ ۸۹٪ بزرگسالانِ ایران (۱۵ سال به بالا) خواندن و نوشتن می‌دانند — یعنی تقریباً یک نفر از هر نُه بزرگسال نمی‌داند؛ در جوانانِ ۱۵ تا ۲۴ سال این نرخ نزدیکِ ۹۹٪ است. (۸۸٫۹٪؛ ۲۰۲۳؛ ردهٔ 1؛ اندازه‌گیری). شرطِ ابطال: سریِ تازه‌ترِ یونسکو یا سرشماریِ رسمی که نرخِ سوادِ بزرگسالان را بیرون از بازهٔ ۸۷–۹۱٪ بدهد. یادداشت: سواد در این تعریف یعنی خواندنِ یک جملهٔ سادهٔ روزمره. «سختی در خواندن» که کارت از آن حرف می‌زند گروهِ بزرگ‌تری است و عددِ جدا ندارد. شکاف در سنینِ بالا و میانِ زنان بیشتر است.",
+    "en": "Claim literacy: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim literacy: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:b05b23c7d2"
+   ],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "جدولِ ۸۴ ادعا (ابزار)",
+    "en": "84-claim table (tool)",
+    "nl": "84-claim table (tool)"
+   }
+  },
+  {
+   "to": "simorgh:audit",
+   "rel": "see-also",
+   "note": {
+    "fa": "ممیزیِ ضعف‌ها",
+    "en": "Audit of weaknesses",
+    "nl": "Audit of weaknesses"
+   }
+  },
+  {
+   "to": "simorgh:inspect-claim",
+   "rel": "see-also",
+   "note": {
+    "fa": "وارسیِ یک ادعا",
+    "en": "Inspect a claim",
+    "nl": "Inspect a claim"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:b05b23c7d2"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

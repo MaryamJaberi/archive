@@ -1,0 +1,220 @@
+{
+ "id": "simorgh:why-not-january",
+ "kind": "concept",
+ "title": {
+  "fa": "چرا ۱۴ میلیون نفر در خیابان کافی نبود",
+  "en": "Why 14 million in the streets was not enough",
+  "nl": "Why 14 million in the streets was not enough"
+ },
+ "aliases": [],
+ "parent": "simorgh:strategy",
+ "field": "simorgh:strategy",
+ "summary": {
+  "fa": "در دی ۱۴۰۴ اگر عددِ پیمایش درست باشد، چند برابرِ «۳٫۵ درصد» به خیابان آمدند، و نظام نیفتاد. این مهم‌ترین آزمونِ واقعیِ منطقِ بازی است: کدام پَر سوخت و کدام نسوخت؟ این مدخل یک تحلیل است، نه حکم.",
+  "en": "In January 2026, if the survey is right, several times \"3.5 percent\" took to the streets, and the regime did not fall. This is the most important real test of the game's logic: which feather burned and which did not? This entry is an analysis, not a verdict.",
+  "nl": "In January 2026, if the survey is right, several times \"3.5 percent\" took to the streets, and the regime did not fall. This is the most important real test of the game's logic: which feather burned and which did not? This entry is an analysis, not a verdict."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "عدد: حدود ۲۵٪ پاسخ‌دهندگانِ گمان (نزدیک به ۱۴ میلیون) مشارکت را گزارش کردند؛ ۳٫۵٪ جمعیت حدود ۳ میلیون است. گمان خودش می‌گوید مشارکت ممکن است فعالیت‌های متفاوت در چند روز را بپوشاند و ۲۵٪ پاسخ نداده‌اند.",
+    "en": "The number: about 25 percent of GAMAAN respondents (about 14 million) reported taking part; 3.5 percent of the population is about 3 million. GAMAAN itself notes participation may cover varied activity over several days and 25 percent declined to answer.",
+    "nl": "The number: about 25 percent of GAMAAN respondents (about 14 million) reported taking part; 3.5 percent of the population is about 3 million. GAMAAN itself notes participation may cover varied activity over several days and 25 percent declined to answer."
+   },
+   "sources": [
+    "src:6c0a6f1ef3"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "از گزارشِ کاملِ گمان: ۵۵٪ شرکت‌کنندگان فراخوانِ رضا پهلوی و ۱۹٪ همبستگی با بازاریان را در تصمیمشان مؤثر دانستند؛ پس نقطهٔ کانونیِ زمانی و شروعِ صنفی هر دو وجود داشت. قطعیِ ۸۸روزهٔ اینترنت (به گفتهٔ گزارش، طولانی‌ترین قطعیِ سراسریِ ثبت‌شده) نشان می‌دهد چرا هماهنگیِ بعد از روزِ اول شکست: نشانه‌ای که فقط آنلاین زندگی می‌کند، با کلیدِ قطع خاموش می‌شود.",
+    "en": "From the full GAMAAN report: 55 percent of participants named Reza Pahlavi's call and 19 percent solidarity with bazaaris as influential; so a timing focal point and a trade-based start both existed. The 88-day internet shutdown shows why coordination after day one failed: a signal that lives only online is switched off with a key.",
+    "nl": "From the full GAMAAN report: 55 percent of participants named Reza Pahlavi's call and 19 percent solidarity with bazaaris as influential; so a timing focal point and a trade-based start both existed. The 88-day internet shutdown shows why coordination after day one failed: a signal that lives only online is switched off with a key."
+   },
+   "sources": [
+    "src:6c0a6f1ef3",
+    "src:4d809f4a2a"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "درسِ اول: «قاعدهٔ ۳٫۵ درصد» یک مشاهدهٔ تاریخی است، نه قانون؛ و خودِ چنووث می‌گوید نرخِ موفقیت در دههٔ اخیر افت کرده، چون حکومت‌ها یاد گرفته‌اند (قطعِ اینترنت، نظارتِ دیجیتال، خسته‌کردن). یعنی تعداد شرطِ لازم است، نه کافی.",
+    "en": "Lesson one: the 3.5 percent rule is a historical observation, not a law; Chenoweth herself says success rates have fallen as regimes learned. Numbers are necessary, not sufficient.",
+    "nl": "Lesson one: the 3.5 percent rule is a historical observation, not a law; Chenoweth herself says success rates have fallen as regimes learned. Numbers are necessary, not sufficient."
+   },
+   "sources": [
+    "src:040033aaf5",
+    "src:4d809f4a2a"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "درسِ دوم، در زبانِ بازی: پَرِ یکم (ترسِ خصوصی) تا حدِ زیادی سوخت؛ مردم دیدند چند نفرند. اما پَرِ دوم (صندوق و اعتصابِ پایدار) و پَرِ سوم (متنِ ضمانت برای جزءِ دوم و سومِ حاکمیت) نسوختند. آستانه یک هم‌زمانی است، و هم‌زمانی رخ نداد.",
+    "en": "Lesson two, in game terms: feather one largely burned; people saw how many they were. But feather two (fund and sustained strike) and feather three (a guarantee text for the second and third tier) did not. The threshold is a simultaneity, and it did not happen.",
+    "nl": "Lesson two, in game terms: feather one largely burned; people saw how many they were. But feather two (fund and sustained strike) and feather three (a guarantee text for the second and third tier) did not. The threshold is a simultaneity, and it did not happen."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "درسِ سوم: لحظهٔ تعیین‌کننده لحظهٔ ریزشِ نیروهای نگه‌دارنده است، و ریزشِ گسترده گزارش نشد. پژوهش می‌گوید ریزش وقتی رخ می‌دهد که نیروها آینده‌شان را امن ببینند و حرکت خشونت‌پرهیز و گسترده بماند.",
+    "en": "Lesson three: the decisive moment is defection of the supporting forces, and broad defection was not reported. Research says defection happens when forces see a safe future and the movement stays nonviolent and broad.",
+    "nl": "Lesson three: the decisive moment is defection of the supporting forces, and broad defection was not reported. Research says defection happens when forces see a safe future and the movement stays nonviolent and broad."
+   },
+   "sources": [
+    "src:9ce61897e7",
+    "src:41c1e6a2e7"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "درسِ چهارم: حرکت کوتاه و انفجاری بود. کدیور نشان می‌دهد جنبش‌های طولانی و سازمان‌یافته هم بیشتر می‌برند و هم بعد دموکراسیِ بادوام‌تری می‌سازند. تشکل‌هایی مثل شوراهای صنفیِ معلمان سرمایه‌ای‌اند که باید پیش از موجِ بعد ساخته شود.",
+    "en": "Lesson four: the wave was short and explosive. Kadivar shows long, organised movements win more and build more durable democracies.",
+    "nl": "Lesson four: the wave was short and explosive. Kadivar shows long, organised movements win more and build more durable democracies."
+   },
+   "sources": [
+    "src:f1a8df8bf8"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نتیجه برای برنامه: کارِ اصلیِ ۹۰ روز و ۹ ماه دقیقاً همان دو پَرِ نسوخته است: صندوق و ضمانت؛ نه فراخوانِ خیابانیِ تازه.",
+    "en": "Consequence for the plan: the core work of the 90 days and 9 months is exactly the two unburned feathers, the fund and the guarantee; not a new street call.",
+    "nl": "Consequence for the plan: the core work of the 90 days and 9 months is exactly the two unburned feathers, the fund and the guarantee; not a new street call."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مقایسه با ۱۳۵۷: آن بار اعتصابِ سراسری ماه‌ها ادامه داشت (از شهریور تا بهمن)، کارگران پس از هر بازگرداندنِ اجباری دوباره اعتصاب کردند، و شبکهٔ مسجد و بازار هماهنگی را بدونِ نیاز به رسانهٔ آزاد نگه داشت. در دی ۱۴۰۴ هیچ‌کدام از این سه نبود: اعتصابِ پایدار، صندوق، و شبکهٔ آفلاین.",
+    "en": "Compared with 1979: then the general strike lasted months, workers struck again after each forced return, and the mosque-bazaar network sustained coordination without free media. In January 2026 none of the three existed.",
+    "nl": "Compared with 1979: then the general strike lasted months, workers struck again after each forced return, and the mosque-bazaar network sustained coordination without free media. In January 2026 none of the three existed."
+   },
+   "sources": [
+    "src:41c1e6a2e7",
+    "src:435917f7dd"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "از کوران: سرکوبِ دی ۱۴۰۴ فقط کسانی را که گرفت ساکت نکرد؛ انتظارِ بقیه را عوض کرد. این همان «موجِ وارونه» است که کوران در هندِ ۱۹۷۵ نشان می‌دهد، و قطعِ ۸۸روزهٔ اینترنت راهِ دیدنِ اینکه «دیگران هنوز هستند» را هم بست. ترجیحِ درونی اما در پیمایشِ شش ماه بعد عوض نشده بود؛ یعنی تعادل جابه‌جا نشد، فقط پنهان شد.",
+    "en": "From Kuran: the January 2026 crackdown changed everyone else's expectations, the reverse bandwagon Kuran shows for India 1975, and the 88-day shutdown removed the means of seeing that others were still there. Private preferences had not changed six months later; the equilibrium hid rather than moved.",
+    "nl": "From Kuran: the January 2026 crackdown changed everyone else's expectations, the reverse bandwagon Kuran shows for India 1975, and the 88-day shutdown removed the means of seeing that others were still there. Private preferences had not changed six months later; the equilibrium hid rather than moved."
+   },
+   "sources": [
+    "src:436510de26",
+    "src:6c0a6f1ef3"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "کوران (۱۹۸۹): بعد از هر انقلاب، حکومتِ تازه می‌داند حمایتِ ظاهری از خودش هم سست است و برای همین سرکوب و تلقین می‌کند، حتی علیه همراهانِ دیروز. همین منطق دربارهٔ هر «روزِ بعد» صدق می‌کند: اگر گذار با زور یا ترس پیش برود، چرخه تکرار می‌شود؛ پس عدالتِ انتقالی و آزادیِ بیان از روزِ اول شرطِ شکستنِ این چرخه است.",
+    "en": "Kuran (1989): after a revolution the new regime knows its outward support is also brittle, so it represses and indoctrinates, even yesterday's allies. Any \"day after\" faces the same logic; transitional justice and free speech from day one are what break the cycle.",
+    "nl": "Kuran (1989): after a revolution the new regime knows its outward support is also brittle, so it represses and indoctrinates, even yesterday's allies. Any \"day after\" faces the same logic; transitional justice and free speech from day one are what break the cycle."
+   },
+   "sources": [
+    "src:b71c8c0eee"
+   ],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:three-feathers",
+   "rel": "see-also",
+   "note": {
+    "fa": "سه پَر",
+    "en": "Three feathers",
+    "nl": "Three feathers"
+   }
+  },
+  {
+   "to": "simorgh:pillars-of-support",
+   "rel": "see-also",
+   "note": {
+    "fa": "ستون‌ها",
+    "en": "Pillars",
+    "nl": "Pillars"
+   }
+  },
+  {
+   "to": "simorgh:covenantal-transition",
+   "rel": "see-also",
+   "note": {
+    "fa": "برنامهٔ ۹۰/۹/۶۰۰",
+    "en": "90/9/600",
+    "nl": "90/9/600"
+   }
+  },
+  {
+   "to": "simorgh:claims-resistance",
+   "rel": "see-also",
+   "note": {
+    "fa": "ادعاهای مقاومت",
+    "en": "Resistance claims",
+    "nl": "Resistance claims"
+   }
+  },
+  {
+   "to": "simorgh:gamaan-2026",
+   "rel": "see-also",
+   "note": {
+    "fa": "پیمایشِ گمان (گزارش کامل)",
+    "en": "GAMAAN full report",
+    "nl": "GAMAAN full report"
+   }
+  },
+  {
+   "to": "soc:digital-repression",
+   "rel": "see-also",
+   "note": {
+    "fa": "نظریه در ویکی جامعه‌شناسی",
+    "en": "Theory in the sociology wiki",
+    "nl": "Theory in the sociology wiki"
+   }
+  },
+  {
+   "to": "soc:civil-resistance-success-rates",
+   "rel": "see-also",
+   "note": {
+    "fa": "نظریه در ویکی جامعه‌شناسی",
+    "en": "Theory in the sociology wiki",
+    "nl": "Theory in the sociology wiki"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:040033aaf5",
+  "src:41c1e6a2e7",
+  "src:435917f7dd",
+  "src:4d809f4a2a",
+  "src:6c0a6f1ef3",
+  "src:9ce61897e7",
+  "src:f1a8df8bf8",
+  "src:436510de26",
+  "src:b71c8c0eee"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

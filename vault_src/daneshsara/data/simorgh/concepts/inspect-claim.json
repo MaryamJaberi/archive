@@ -1,0 +1,55 @@
+{
+ "id": "simorgh:inspect-claim",
+ "kind": "concept",
+ "title": {
+  "fa": "وارسیِ یک ادعا در چهار گام",
+  "en": "Inspecting a claim in four steps",
+  "nl": "Inspecting a claim in four steps"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "ابزاری که هر ادعا را در چهار گام می‌گذراند: چه می‌گوید، از کجاست، چه چیز ردش می‌کند، و چقدر می‌شود بر آن تکیه کرد.",
+  "en": "A tool that walks any claim through four steps: what it says, where it comes from, what would refute it, and how far it can be relied on.",
+  "nl": "A tool that walks any claim through four steps: what it says, where it comes from, what would refute it, and how far it can be relied on."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "چهار گام: متنِ ادعا، منبع و ردهٔ اعتبار، شرطِ ابطال، و حکمِ تکیه‌پذیری.",
+    "en": "Four steps: statement, source and tier, falsifier, reliability verdict.",
+    "nl": "Four steps: statement, source and tier, falsifier, reliability verdict."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "دیتاست",
+    "en": "Dataset",
+    "nl": "Dataset"
+   }
+  },
+  {
+   "to": "simorgh:argmap",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقشهٔ استدلال",
+    "en": "Argument map",
+    "nl": "Argument map"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

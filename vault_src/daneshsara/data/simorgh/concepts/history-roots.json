@@ -1,0 +1,124 @@
+{
+ "id": "simorgh:history-roots",
+ "kind": "concept",
+ "title": {
+  "fa": "ریشه‌های تاریخیِ میز (در ویکی تاریخ)",
+  "en": "Historical roots of the table (in the history wiki)",
+  "nl": "Historical roots of the table (in the history wiki)"
+ },
+ "aliases": [],
+ "parent": "simorgh:history",
+ "field": "simorgh:history",
+ "summary": {
+  "fa": "روایت‌های تاریخیِ پروژه (ایران چطور شیعه شد، هشت پلهٔ قدرتِ روحانیت، دفترِ مناقشه‌ها، ایران و یهودیان، و درس‌های ۱۳۵۷) تاریخ‌اند، نه بازی؛ برای همین به ویکی تاریخ رفته‌اند. اینجا فقط می‌گوید هرکدام برای میز چه معنایی دارد.",
+  "en": "The project's historical accounts are history, not game, so they moved to the history wiki. This entry only says what each means for the table.",
+  "nl": "The project's historical accounts are history, not game, so they moved to the history wiki. This entry only says what each means for the table."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "ایران چطور شیعه شد و هشت پلهٔ قدرتِ روحانیت ← برای میز: «مافیا» ساختاری پانصدساله است با پول، پیرو و سلسله‌مراتبِ خودش؛ با یک موج نمی‌رود و جانشینش هم باید نهاد باشد، نه یک نفر.",
+    "en": "Shi'ism and the eight steps: the \"Mafia\" is a five-century structure with its own money, followers and hierarchy; it does not go with one wave and its successor must be an institution, not a person.",
+    "nl": "Shi'ism and the eight steps: the \"Mafia\" is a five-century structure with its own money, followers and hierarchy; it does not go with one wave and its successor must be an institution, not a person."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دفترِ مناقشه‌ها ← برای میز: روایتِ تاریخیِ پروژه تفسیر است و نقطه‌های ضعفش علنی است؛ هر کارتِ بازی که به تاریخ تکیه دارد باید به این دفتر ارجاع دهد.",
+    "en": "Dispute ledger: the project's historical account is interpretation with public weak points.",
+    "nl": "Dispute ledger: the project's historical account is interpretation with public weak points."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ایران و یهودیان ← برای میز و ارائهٔ اروپا: دشمنیِ دو دولت ۴۷ سال است و پیوندِ دو سرزمین ۲۶۰۰ سال؛ جملهٔ اجباری «این دربارهٔ یک دولت است، نه یک دین و نه یک جامعه» در ارائهٔ اروپا می‌ماند.",
+    "en": "Iran and the Jews: the mandatory sentence stays in the Europe deck.",
+    "nl": "Iran and the Jews: the mandatory sentence stays in the Europe deck."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "درس برای برنامهٔ سیمرغ، هر چهار تا مستقیم: میثاقِ مکتوب پیش از سقوط، نه بعد (پاسخ به ۲)؛ «معیارِ عمومی برای هر مدعیِ رهبری» و تاریخِ همه‌پرسیِ تغییرناپذیر (پاسخ به ۱ و ۳)؛ انضباطِ خشونت‌پرهیز که بهانهٔ تصفیه ندهد (پاسخ به ۴)؛ و نهادهایی که بعد از روزِ سقوط هم کار کنند (شبکهٔ جایگزین). چنووت و استفان یادآوری می‌کنند که ایران استثناست: بیشترِ کارزارهای خشونت‌پرهیز، حتی شکست‌خورده‌ها، بعدها به دموکراسی نزدیک‌ترند تا کارزارهای مسلح.",
+    "en": "Lessons for the Simorgh plan: a written covenant before the fall; a public standard for any claimant to leadership and a fixed referendum date; nonviolent discipline that gives no pretext for purges; institutions that keep working after the fall. Iran is the exception: most nonviolent campaigns, even failed ones, end closer to democracy than armed ones.",
+    "nl": "Lessons for the Simorgh plan: a written covenant before the fall; a public standard for any claimant to leadership and a fixed referendum date; nonviolent discipline that gives no pretext for purges; institutions that keep working after the fall. Iran is the exception: most nonviolent campaigns, even failed ones, end closer to democracy than armed ones."
+   },
+   "sources": [
+    "src:41c1e6a2e7"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "tarikh:shiism-becomes-iranian",
+   "rel": "see-also",
+   "note": {
+    "fa": "ایران چطور شیعه شد",
+    "en": "How Iran became Shia",
+    "nl": "How Iran became Shia"
+   }
+  },
+  {
+   "to": "tarikh:clerical-rise-eight-steps",
+   "rel": "see-also",
+   "note": {
+    "fa": "هشت پله",
+    "en": "Eight steps",
+    "nl": "Eight steps"
+   }
+  },
+  {
+   "to": "tarikh:two-irans-dispute-ledger",
+   "rel": "see-also",
+   "note": {
+    "fa": "دفترِ مناقشه‌ها",
+    "en": "Dispute ledger",
+    "nl": "Dispute ledger"
+   }
+  },
+  {
+   "to": "tarikh:iran-and-jews",
+   "rel": "see-also",
+   "note": {
+    "fa": "ایران و یهودیان",
+    "en": "Iran and the Jews",
+    "nl": "Iran and the Jews"
+   }
+  },
+  {
+   "to": "tarikh:revolution-1979",
+   "rel": "see-also",
+   "note": {
+    "fa": "انقلاب ۱۳۵۷",
+    "en": "1979 revolution",
+    "nl": "1979 revolution"
+   }
+  },
+  {
+   "to": "simorgh:seven-nights",
+   "rel": "see-also",
+   "note": {
+    "fa": "هفت شب",
+    "en": "Seven nights",
+    "nl": "Seven nights"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:41c1e6a2e7"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

@@ -1,0 +1,7 @@
+const {chromium}=require('playwright');const http=require('http'),fs=require('fs'),path=require('path');const ROOT='/home/claude/maryamjaberi.github.io';
+const T={'.html':'text/html; charset=utf-8','.js':'text/javascript','.css':'text/css','.json':'application/json','.svg':'image/svg+xml','.woff2':'font/woff2','.png':'image/png'};
+const srv=http.createServer((q,s)=>{let f=path.join(ROOT,decodeURIComponent(q.url.split('?')[0]));if(fs.existsSync(f)&&fs.statSync(f).isDirectory())f=path.join(f,'index.html');if(!fs.existsSync(f)){s.writeHead(404);return s.end()}s.writeHead(200,{'Content-Type':T[path.extname(f)]||'application/octet-stream'});fs.createReadStream(f).pipe(s)}).listen(8794);
+(async()=>{const b=await chromium.launch();const [u,w,shot]=process.argv.slice(2);const p=await b.newPage({viewport:{width:+w||390,height:844}});await p.route(/^https?:\/\/(?!localhost)/,r=>r.abort());
+await p.goto('http://localhost:8794/'+u,{waitUntil:'load'});await p.waitForTimeout(1200);
+const wide=await p.evaluate(()=>{const W=innerWidth;return [...document.querySelectorAll('body *')].filter(e=>{const r=e.getBoundingClientRect();return r.right>W+2||r.left<-2}).slice(0,8).map(e=>e.tagName+'.'+(e.className&&e.className.baseVal!==undefined?e.className.baseVal:e.className)+'#'+e.id+' w='+Math.round(e.getBoundingClientRect().width)+' parentOverflow='+getComputedStyle(e.parentElement).overflowX)});
+console.log('overflow',await p.evaluate(()=>document.documentElement.scrollWidth-innerWidth),wide);if(shot)await p.screenshot({path:shot});await b.close();srv.close()})();

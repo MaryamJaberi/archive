@@ -1,0 +1,311 @@
+{
+ "id": "simorgh:sciences-26",
+ "kind": "concept",
+ "title": {
+  "fa": "بیست‌وشش علم: چه داریم، چه نیمه داریم، چه نداریم",
+  "en": "Twenty-six sciences: what we have, partly have, lack",
+  "nl": "Twenty-six sciences: what we have, partly have, lack"
+ },
+ "aliases": [],
+ "parent": "simorgh:project",
+ "field": "simorgh:project",
+ "summary": {
+  "fa": "بازی روی علم بنا شده؛ این مدخل می‌گوید برای هر علم چه چیزی لازم است و چقدر از آن در دانش‌سرا پوشش داده شده است (دارد، نیمه، ندارد).",
+  "en": "The game rests on science; this entry says what each science is needed for and how much Daneshsara covers it (have, partly, none).",
+  "nl": "The game rests on science; this entry says what each science is needed for and how much Daneshsara covers it (have, partly, none)."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "روان‌شناسی [دارد]: ترس، درماندگی آموخته، تروما و سه‌گانهٔ تاریک: چرا آدم‌ها سکوت می‌کنند یا همدست می‌شوند",
+    "en": "روان‌شناسی: coverage status and use, as in the Persian text.",
+    "nl": "روان‌شناسی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "جامعه‌شناسی [دارد]: کنش جمعی، اعتماد، نابرابری، آنومی و ریشه‌های آسیب",
+    "en": "جامعه‌شناسی: coverage status and use, as in the Persian text.",
+    "nl": "جامعه‌شناسی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "فلسفه [دارد]: مشروعیت، عدالت، دادخواهی و بخشش: شهر برای چه می‌جنگد",
+    "en": "فلسفه: coverage status and use, as in the Persian text.",
+    "nl": "فلسفه: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "تبار و ژنتیک [دارد]: همهٔ ایرانیان از یک آمیختگی بلندند؛ پاسخ علمی به تفرقهٔ نژادی",
+    "en": "تبار و ژنتیک: coverage status and use, as in the Persian text.",
+    "nl": "تبار و ژنتیک: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "تاریخ و ایران‌شناسی [نیمه]: مشروطه، ۱۳۳۲، ۱۳۵۷ و همهٔ گذارهای گذشته",
+    "en": "تاریخ و ایران‌شناسی: coverage status and use, as in the Persian text.",
+    "nl": "تاریخ و ایران‌شناسی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "نظریهٔ بازی [نیمه]: هماهنگی، آستانه، تعهد باورپذیر، چانه‌زنی",
+    "en": "نظریهٔ بازی: coverage status and use, as in the Persian text.",
+    "nl": "نظریهٔ بازی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "زبان‌شناسی [نیمه]: زبان‌های ایران، زبان تبلیغ، آموزش به زبان مادری",
+    "en": "زبان‌شناسی: coverage status and use, as in the Persian text.",
+    "nl": "زبان‌شناسی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "علوم سیاسی [نیمه]: گذار از استبداد، قانون اساسی، انتخابات، تمرکززدایی؛ کتاب‌های پایه (لینز و استپان، اودانل و اشمیتر، چنووت و استفان، راهِ باریک) رسیده و در صفِ خواندن است",
+    "en": "علوم سیاسی: coverage status and use, as in the Persian text.",
+    "nl": "علوم سیاسی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "اقتصاد [نیمه]: رانت نفت، تورم، تحریم، ساختن اقتصاد پس از گذار",
+    "en": "اقتصاد: coverage status and use, as in the Persian text.",
+    "nl": "اقتصاد: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "حقوق و عدالت انتقالی [نیمه]: دادرسی بی‌انتقام، هیئت حقیقت‌یاب، حقوق بشر",
+    "en": "حقوق و عدالت انتقالی: coverage status and use, as in the Persian text.",
+    "nl": "حقوق و عدالت انتقالی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "حقوق بین‌الملل [ندارد]: تحریم‌ها، قراردادها، دعاوی و دارایی‌های بلوکه",
+    "en": "حقوق بین‌الملل: coverage status and use, as in the Persian text.",
+    "nl": "حقوق بین‌الملل: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "محیط زیست و آب [نیمه]: ورشکستگی آبی، فرونشست، ریزگرد، آلودگی جنگ",
+    "en": "محیط زیست و آب: coverage status and use, as in the Persian text.",
+    "nl": "محیط زیست و آب: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "سلامت عمومی [نیمه]: اعتیاد، سلامت روان، نظام درمان در بحران",
+    "en": "سلامت عمومی: coverage status and use, as in the Persian text.",
+    "nl": "سلامت عمومی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "آموزش [نیمه]: سوادآموزی، کتاب درسی، جایگاه معلم",
+    "en": "آموزش: coverage status and use, as in the Persian text.",
+    "nl": "آموزش: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "ارتباطات و رسانه [ندارد]: شایعه، راستی‌آزمایی، نبرد بر سر روایت",
+    "en": "ارتباطات و رسانه: coverage status and use, as in the Persian text.",
+    "nl": "ارتباطات و رسانه: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "امنیت دیجیتال [نیمه]: شبکهٔ امن معتمدین، اینترنت در قطعی، شناسهٔ دیجیتال",
+    "en": "امنیت دیجیتال: coverage status and use, as in the Persian text.",
+    "nl": "امنیت دیجیتال: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "شهرسازی و مسکن [ندارد]: حاشیه‌نشینی، ساخت‌وساز ناایمن، زلزله",
+    "en": "شهرسازی و مسکن: coverage status and use, as in the Persian text.",
+    "nl": "شهرسازی و مسکن: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "انرژی [نیمه]: قطعی برق، یارانهٔ سوخت، انرژی خورشیدی",
+    "en": "انرژی: coverage status and use, as in the Persian text.",
+    "nl": "انرژی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "کشاورزی و غذا [ندارد]: امنیت غذایی و آب کشاورزی",
+    "en": "کشاورزی و غذا: coverage status and use, as in the Persian text.",
+    "nl": "کشاورزی و غذا: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "مدیریت بحران [ندارد]: زلزله، جنگ، همه‌گیری، قطع خدمات",
+    "en": "مدیریت بحران: coverage status and use, as in the Persian text.",
+    "nl": "مدیریت بحران: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "آمار و علم داده [نیمه]: آمار رسمی قابل اعتماد، سرشماری تازه",
+    "en": "آمار و علم داده: coverage status and use, as in the Persian text.",
+    "nl": "آمار و علم داده: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "انسان‌شناسی [نیمه]: اقوام، عشایر و فرهنگ‌های محلی",
+    "en": "انسان‌شناسی: coverage status and use, as in the Persian text.",
+    "nl": "انسان‌شناسی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "مدیریت و روان‌شناسی سازمانی [نیمه]: ساختن سازمان‌های تازه و شایسته‌سالاری",
+    "en": "مدیریت و روان‌شناسی سازمانی: coverage status and use, as in the Persian text.",
+    "nl": "مدیریت و روان‌شناسی سازمانی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "علم پیچیدگی [دارد]: چرا تغییرهای بزرگ ناگهانی رخ می‌دهند",
+    "en": "علم پیچیدگی: coverage status and use, as in the Persian text.",
+    "nl": "علم پیچیدگی: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "استدلال با مشابهت [دارد]: آموختن از گذار اسپانیا، لهستان، آفریقای جنوبی، شیلی؛ و درس منفی عراق و لیبی",
+    "en": "استدلال با مشابهت: coverage status and use, as in the Persian text.",
+    "nl": "استدلال با مشابهت: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "هنر و فرهنگ [نیمه]: حافظهٔ جمعی، یادبود، جشن",
+    "en": "هنر و فرهنگ: coverage status and use, as in the Persian text.",
+    "nl": "هنر و فرهنگ: coverage status and use, as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:master-plan",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقشهٔ کلان",
+    "en": "Master plan",
+    "nl": "Master plan"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

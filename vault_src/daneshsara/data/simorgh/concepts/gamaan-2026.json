@@ -1,0 +1,118 @@
+{
+ "id": "simorgh:gamaan-2026",
+ "kind": "concept",
+ "title": {
+  "fa": "پیمایشِ گمان ۱۴۰۵: معنایش برای میز",
+  "en": "The 2026 GAMAAN survey: what it means for the table",
+  "nl": "The 2026 GAMAAN survey: what it means for the table"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "بزرگ‌ترین منبعِ عددیِ موجود دربارهٔ اینکه مردمِ داخلِ ایران پس از دی ۱۴۰۴ و جنگِ ۳۹روزه چه فکر می‌کنند. این مدخل یافته‌ها را با معنایشان برای بازی و راهبرد کنارِ هم می‌گذارد، و محدودیتِ روش را هم کامل می‌گوید.",
+  "en": "The largest numerical source on what people inside Iran think after January 2026 and the 39-day war; findings beside their meaning for the game and strategy, with the method's limits in full.",
+  "nl": "The largest numerical source on what people inside Iran think after January 2026 and the 39-day war; findings beside their meaning for the game and strategy, with the method's limits in full."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "عددهای این پیمایش (گرایش، نظامِ دلخواه، شعارها، پرچم، نگرانی‌ها، مهاجرت، قطعِ اینترنت) در لایهٔ ایران ثبت‌اند؛ اینجا فقط معنایشان برای بازی آمده.",
+    "en": "The survey's numbers live in the Iran layer; here only their meaning for the game.",
+    "nl": "The survey's numbers live in the Iran layer; here only their meaning for the game."
+   },
+   "sources": [
+    "src:6c0a6f1ef3"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "محدودیت‌هایی که باید همیشه کنارِ عددها بیاید: نمونهٔ خام ۷۷٪ مرد بود و با وزن‌دهی به ۵۲٪ رسید؛ حجمِ مؤثرِ نمونه پس از وزن‌دهی حدود ۶٬۲۱۱ است؛ وزن‌دهی بر پایهٔ گرایشِ سیاسی نیست، پس اگر کاربرانِ فیلترشکن سیاسی‌تر یا مخالف‌تر از بقیه باشند، عددها به آن سمت کج می‌شوند. نمونه‌گیری احتمالاتی نیست.",
+    "en": "Limits that must travel with the numbers: raw sample 77 percent male, weighted to 52; effective sample about 6,211; no weighting on political orientation, so a more oppositional VPN population would bias results; non-probability sampling.",
+    "nl": "Limits that must travel with the numbers: raw sample 77 percent male, weighted to 52; effective sample about 6,211; no weighting on political orientation, so a more oppositional VPN population would bias results; non-probability sampling."
+   },
+   "sources": [
+    "src:6c0a6f1ef3"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "برای منطقِ بازی: بیش از نیمی از شرکت‌کنندگان یک فراخوانِ مشخص را در تصمیمشان مؤثر دانستند؛ یعنی در دی ۱۴۰۴ یک «نقطهٔ کانونی» برای زمان وجود داشت. آنچه نبود، طبقِ تحلیلِ این ویکی، صندوق و متنِ ضمانت بود. این داوریِ ماست، نه یافتهٔ گمان.",
+    "en": "For the game's logic: more than half of participants named a specific call as influential, so in January 2026 a focal point for timing existed; what was missing, in this wiki's analysis, was the fund and the guarantee. Our judgement, not a GAMAAN finding.",
+    "nl": "For the game's logic: more than half of participants named a specific call as influential, so in January 2026 a focal point for timing existed; what was missing, in this wiki's analysis, was the fund and the guarantee. Our judgement, not a GAMAAN finding."
+   },
+   "sources": [
+    "src:6c0a6f1ef3",
+    "src:e0cb8fb11f"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "برای میثاق: نشانه‌ای که تقریباً همه پایش می‌ایستند «ایران» است، نه یک چهره یا یک فرمِ حکومت. این با قاعدهٔ «ایران پَر نیست؛ تنها میثاقِ پیشینیِ مشترک است» جور است. «نه به اعدام» (۸۱٪) هم نزدیک‌ترین شعار به پَرِ سوم است.",
+    "en": "For the covenant: the symbol nearly everyone stands behind is \"Iran\", not a face or a form of government, which fits the rule that Iran is the only shared prior covenant. \"No to execution\" (81) is the slogan closest to feather three.",
+    "nl": "For the covenant: the symbol nearly everyone stands behind is \"Iran\", not a face or a form of government, which fits the rule that Iran is the only shared prior covenant. \"No to execution\" (81) is the slogan closest to feather three."
+   },
+   "sources": [
+    "src:6c0a6f1ef3"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:current-situation",
+   "rel": "see-also",
+   "note": {
+    "fa": "وضعیتِ امروز",
+    "en": "Situation now",
+    "nl": "Situation now"
+   }
+  },
+  {
+   "to": "simorgh:why-not-january",
+   "rel": "see-also",
+   "note": {
+    "fa": "چرا ۱۴ میلیون کافی نبود",
+    "en": "Why 14 million was not enough",
+    "nl": "Why 14 million was not enough"
+   }
+  },
+  {
+   "to": "simorgh:exit-voice",
+   "rel": "see-also",
+   "note": {
+    "fa": "خروج، صدا، وفاداری",
+    "en": "Exit, voice, loyalty",
+    "nl": "Exit, voice, loyalty"
+   }
+  },
+  {
+   "to": "simorgh:claims-politics",
+   "rel": "see-also",
+   "note": {
+    "fa": "ادعاهای سیاست",
+    "en": "Politics claims",
+    "nl": "Politics claims"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:6c0a6f1ef3",
+  "src:e0cb8fb11f"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": "iran:political-attitudes-2026",
+ "wikidata": null,
+ "status": "draft"
+}

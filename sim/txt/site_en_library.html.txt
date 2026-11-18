@@ -1,0 +1,269 @@
+Library — Par-e Simorgh
+- 
+- 
+- 
+- 
+- 
+ Library
+# How do we know?
+ Everything claimed in this collection comes from somewhere.
+ This page lists those places — grouped by which claim each one is attached
+ to, not alphabetically. The ones marked in red contradict us;
+ they are deliberately shelved next to the rest.
+ Why suddenly?
+ Transition
+ Iran
+ After the fall
+## The three marks
+### What they mean
+ - Core — if you only read a few, read these.
+ - Against us — this source weakens or refutes the claim of this
+ collection.
+ - Data — a dataset or a numerical report, not a book.
+### One warning
+ - Most of these have never been translated into Persian. That is itself
+ one of the problems.
+ - The note under each entry is a guide to choosing, not a summary of the
+ book.
+ - None of these rules on Iran today. They are tools for thinking, not verdicts.
+## Why governments fall suddenly
+ The theoretical core of this collection's central claim: everyone knows,
+ nobody says it, until the moment everyone says it at once.
+ Private Truths, Public Lies Timur Kuran · 1995
+ Core
+ The theory of preference falsification. What this collection describes
+ intuitively is given its precise form here. If one book is to be added,
+ it is this one.
+ “Now Out of Never” Timur Kuran · paper · 1991
+ Core
+ Why nobody saw the 1989 collapse in Eastern Europe coming — not the
+ intelligence services, not the academy, not the protesters themselves. It is short,
+ and it is the best scientific answer to the entire genre of
+ “I will tell you the date of the fall”.
+ The Unthinkable Revolution in Iran Charles Kurzman · 2004
+ Core
+ The same argument, but about 1979 itself: until the final weeks, even
+ the people in the streets did not think it was possible.
+ The most direct reply to anyone offering a precise date.
+ “The Dynamics of Informational Cascades” Susanne Lohmann · paper · 1994
+ The Monday demonstrations in Leipzig as an informational cascade —
+ the quantitative model of the thing we describe with the metaphor of a table.
+ The Logic of Collective Action Mancur Olson · 1965
+ The free-rider problem: why a dissatisfied majority does not
+ necessarily move. The basis of any serious discussion of “why don't people rise”.
+## Game theory and the structure of power
+ This collection presents itself as “a proposal in the form of game
+ theory”. These are the standard works behind that claim.
+ The Dictator's Handbook Bueno de Mesquita & Smith · 2011
+ Core
+ Selectorate theory: a ruler pays off the small essential group, not the
+ people. It explains directly why “the roles” and “where you sit at the table” is
+ the right question. The academic version is
+ The Logic of Political Survival (2003).
+ The Politics of Authoritarian Rule Milan Svolik · 2012
+ Core
+ Every dictator's two permanent problems: controlling the population,
+ and controlling the insiders. Given the present situation — a leadership
+ council, a weakened centre, internal rivalry — this is the most current book on
+ the list.
+ How Dictatorships Work Geddes, Wright, Frantz · 2018
+ Data
+ Data-driven: how authoritarian regimes since 1946 have actually
+ ended — coup, election, uprising, foreign pressure — and what each route led to.
+ The dataset is public.
+ Economic Origins of Dictatorship and Democracy Acemoglu & Robinson · 2006
+ The credible-commitment problem: why elites do not hand over power even
+ when it would be in their interest. The core of any negotiated transition.
+ The Narrow Corridor (2019) is the general-reader version.
+ The Strategy of Conflict Thomas Schelling · 1960
+ Bargaining, credible threats, focal points. If this collection really
+ is “game theory”, it is incomplete without Schelling.
+ Revolution and Dictatorship Levitsky & Way · 2022
+ Against us
+ This book refutes our claim. It argues that regimes born of
+ social revolution — with their own party and army and elites bound to a common
+ fate — are unusually durable. Which means comparing Iran with Eastern Europe in
+ 1989 may be fundamentally wrong.
+## Transition: getting from here to there
+ Transitions from Authoritarian Rule O'Donnell & Schmitter · 1986
+ Core
+ The hardliner/softliner frame on both sides, and the logic of the pact.
+ The spine of any analysis of transition — and effectively the map that our
+ “table” reconstructs.
+ Why Civil Resistance Works Chenoweth & Stephan · 2011
+ Core
+ The NAVCO data and the “3.5% rule”: 323 uprisings between 1900 and
+ 2006; nonviolent 53%, armed 26%.
+ The main empirical source behind “Your Card”.
+ Civil Resistance: What Everyone Needs to Know Erica Chenoweth · 2021
+ Core
+ The shorter, more current version — and more importantly, the author's
+ own explanation of why the success rate has fallen over the past decade.
+ Anyone quoting only “3.5%” has not read this.
+ Popular Politics and the Path to Durable Democracy Mohammad Ali Kadivar · 2022
+ Core
+ The key finding: long, organised movements build more durable
+ democracies than short explosive uprisings. The author is Iranian, and wrote in
+ MERIP in June 2026 specifically about post-war Iran.
+ Problems of Democratic Transition and Consolidation Linz & Stepan · 1996
+ How transition from “sultanism” differs from transition from military
+ or single-party rule — and why sultanism is the worst case for a soft transition.
+ Democracy and the Market Adam Przeworski · 1991
+ Democracy as institutionalised uncertainty. For understanding why,
+ in a referendum, the loser accepts the result at all.
+ The Third Wave Samuel Huntington · 1991
+ The classic typology: transformation from above, replacement from
+ below, or transplacement. This collection's “three paths” map directly onto it.
+ From Dictatorship to Democracy Gene Sharp
+ Its Persian translation has circulated hand to hand for years and is
+ effectively the shared vocabulary of part of the audience. The most operational
+ text on this list.
+## Iran: history, structure, the IRGC
+ Iran Between Two Revolutions Ervand Abrahamian · 1982
+ Core
+ The baseline reference. Without it, the historical part of any analysis
+ of Iran is standing on air. A History of Modern Iran (2008) is the shorter
+ version.
+ Democracy in Iran: Why It Failed and How It Might Succeed Misagh Parsa · 2016
+ Core
+ Exactly this collection's question, by comparative sociology and
+ independently of us. Its conclusion — that reform from within is a dead end —
+ runs the same way as ours, but the argument is stronger.
+ A Social Revolution Kevan Harris · 2017
+ Core
+ The welfare state, the new middle class, the support networks.
+ Of everything on this list, the most useful for understanding south Tehran —
+ it shows that loyalties were never as simple as assumed.
+ Vanguard of the Imam Afshon Ostovar · 2016
+ The institutional history of the IRGC; the standard English-language
+ reference. If the IRGC is the main player at the table, this book documents
+ that claim.
+ Iran Reframed Narges Bajoghli · 2019
+ Core
+ An ethnography of the IRGC's own media producers — how they build
+ narrative and what they are afraid of. Unmatched for the character book, because it
+ shows the player from inside rather than outside.
+ Captive Society Saeid Golkar · 2015
+ The Basij as a mechanism of social control — not a military force but a
+ neighbourhood network.
+ Tortured Confessions Ervand Abrahamian · 1999
+ The history of the forced confession in Iran. It connects directly to
+ the case of Rouhollah Zam and to every comparable case.
+ The Iranian Constitutional Revolution, 1906–1911 Janet Afary · 1996
+ The root of the “mashruteh” this collection keeps invoking — with all
+ its contradictions, rather than its idealised version.
+ “The short-term society” Homa Katouzian
+ Against us
+ A deep objection to this collection's optimism. If each era in
+ Iran erases its predecessor's legacy and starts from zero, then merely changing the
+ government guarantees nothing.
+ What Iranians Want Arash Azizi · 2024
+ A close account of “Woman, Life, Freedom” — a bridge between academic
+ history and the present.
+## After the fall — the most urgent part
+ Given the present situation this is no longer the “forward-looking”
+ section. Most of the sources here say the main danger comes after the fall,
+ not before it.
+ How Civil Wars Start Barbara Walter · 2022
+ Against us
+ The most dangerous condition is neither full autocracy nor
+ established democracy, but the middle — exactly where every transition passes.
+ Any “cost estimate” that fails to account for this is an underestimate.
+ Iraq: From War to a New Authoritarianism Toby Dodge · 2012
+ Against us
+ Iraq 2003: dissolving the army and the party apparatus at a stroke did
+ not cleanse the state, it destroyed it.
+ A direct warning to any plan that begins with “dissolve the IRGC”.
+ The Burning Shores Frederic Wehrey · 2018
+ Against us
+ Libya after 2011: the top falls with no institutional successor.
+ The nearest scenario to “the centre collapses but nothing is ready”.
+ Closing the Books Jon Elster · 2004
+ Core
+ Transitional justice in historical context: who is tried, who is
+ amnestied, and why the wrong choice at this stage burns the following era.
+ Unspeakable Truths Priscilla Hayner
+ Truth commissions: what they can do and — more importantly — what they
+ cannot.
+ Juan Carlos: Steering Spain from Dictatorship to Democracy Paul Preston
+ The one real case of “monarchy as a bridge to transition”. Since this
+ collection invokes the constitutional tradition, this case should be read both as
+ evidence and with all of its limits.
+ Chile's 1988 plebiscite the “No” campaign
+ The operational model of a referendum held under an
+ authoritarian government rather than after one. The closest historical analogue to
+ what this collection proposes.
+## Human rights, media and data
+ UN Independent International Fact-Finding Mission on Iran OHCHR
+ Data
+ The official, citable reference in any policy setting. The mandate was
+ extended in January 2026. When you are speaking to a European institution, this
+ document carries weight; a media report does not.
+ Transnational Repression Freedom House · annual report
+ Data
+ Transnational repression — precisely the argument that tells a European
+ audience “this is your own problem, not charity”.
+ ICCT The Hague · Crisis Group · ECFR
+ Data
+ Short policy analysis in the register a Brussels audience reads.
+ ICCT is the source used in the Europe talk.
+ Amnesty · HRW · Iran Human Rights · Boroumand Center · HRANA
+ Data
+ Case documentation and execution figures. For any numerical claim about
+ repression, the source should be one of these rather than a channel.
+ NetBlocks · IODA · Access Now
+ Data
+ Internet shutdowns, in near real time and chartable. Access Now also
+ runs a digital security helpline.
+ V-Dem · NAVCO · ACLED · UCDP
+ Data
+ Democracy indices, nonviolent campaigns, and protest and conflict data.
+ The inputs to any cost estimate that intends to be serious.
+ Twitter and Tear Gas Zeynep Tufekci · 2017
+ Why networked movements grow fast and break fast. The theoretical
+ explanation of why AmadNews was effective and why it was not enough.
+ MERIP · Amwaj.media · Bourse & Bazaar · Iran Primer
+ Specialist, current analysis. For daily monitoring, read the
+ Persian-language outlets alongside a note on their ownership and editorial
+ line — which is itself part of reading them properly.
+## Myth and literature
+ The narrative layer of this collection has sources too.
+ The Conference of the Birds Attar of Nishapur
+ Core
+ The Simorgh itself comes from here — thirty birds who set out
+ and discover at the end that the thing they were seeking was themselves.
+ The central metaphor of this entire collection.
+ Shahnameh Ferdowsi · Khaleghi-Motlagh edition
+ Core
+ The source of every symbol used here — Zahhak, Kaveh, Fereydun,
+ the Simorgh. Dick Davis's English translation for non-Persian readers.
+ Kelidar · The Colonel Mahmoud Dowlatabadi
+ Political history from below, in the voices of ordinary people.
+ The closest available model to what the novel in this collection does.
+ Savushun Simin Daneshvar
+ Occupation and collapse seen by a woman, from inside a house —
+ the angle that usually gets cut.
+ Prince Ehtejab Houshang Golshiri
+ The disintegration of a family as the disintegration of an order.
+ Encyclopaedia Iranica
+ Data
+ The precise reference for mythology — for when you want to be sure a
+ symbol has been used correctly.
+## And one last piece of honesty
+### What this list is not
+ - It is not complete. No list is.
+ - It is not neutral — it is arranged around this collection's claims, not around
+ the whole of Iranian studies.
+ - It is not a substitute for reading the sources. The notes are a guide to
+ choosing.
+### What is deliberately absent
+ - Channels that “predict the collapse”. No claim that supplies a date and
+ cannot be verified has entered this list.
+ - Any figure without a citable source.
+ - Any quotation attributed to a real person without documentation.
+ What is your card?
+ Iranians & Israelis
+ Back to the table
+ Par-e Simorgh — a collection about Iran today, told as a game and a myth.
+ No party, state or religious emblem appears anywhere here; every symbol is drawn from the Shahnameh and Iranian myth. No quotation is attributed to a real person without a source. Cost figures are models, not forecasts.
+ Press / or the “All content” button to search everything.

@@ -3,7 +3,7 @@
 set -e
 SC=/home/claude/work
 R=/home/claude/maryamjaberi.github.io/daneshsara
-cd $SC/mk && python3 -I build_all.py | head -1
+cd $SC/mk && python3 build_all.py | head -1
 cd $R
 sed -i "s/\['psy', 'soc', 'tabar', 'phil', 'tarikh'\]/['psy', 'soc', 'tabar', 'phil', 'tarikh', 'simorgh']/" build/validate.py
 sed -i 's/psy|soc|tabar|phil|tarikh|simorgh/psy|soc|tabar|phil|tarikh/g; s/psy|soc|tabar|phil|tarikh/psy|soc|tabar|phil|tarikh|simorgh/g' core/schema/concept.schema.json

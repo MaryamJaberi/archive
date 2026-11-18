@@ -1,0 +1,397 @@
+Your Card — Par-e Simorgh
+- 
+- 
+- 
+- 
+- 
+ Step five
+# What is your card?
+ This page does not tell you what to do. It tells you what worked and
+ what did not across 323 recorded uprisings — and then leaves the decisions
+ about your street, your household and your life to you.
+ Nobody but you knows your situation.
+ Which one am I?
+ The numbers
+ Read the risk section
+ ▶Read this page aloud
+ If reading is difficult for you, this button
+ reads the page out loud.
+## Four things the research says
+ These four come from academic work on hundreds of uprisings over the past
+ century. Under each one, the source is named, so you can go and check it yourself.
+### You are not alone — and this is arithmetic, not consolation
+ Where saying what you actually think carries a cost, everyone swallows it.
+ Then each person looks around, sees silence, and concludes they are alone.
+ Everyone makes the same mistake at the same time.
+ The result is that the state looks stronger than it is — including to itself.
+ And that is why collapses always appear “sudden”: nothing had changed, except
+ that people found out what everyone else already thought.
+ Timur Kuran, Private Truths, Public Lies (1995) — and his
+ paper on the 1989 collapse in Eastern Europe. Charles Kurzman, in
+ The Unthinkable Revolution in Iran (2004), shows that even in 1979 the
+ participants themselves did not think it was possible until the final weeks.
+### Numbers matter more than intensity
+ Across 323 uprisings recorded between 1900 and 2006, nonviolent campaigns reached
+ their stated goal roughly twice as often as armed ones.
+ The reason is not moral, it is practical: a nonviolent movement can include your
+ grandmother. An armed one cannot.
+ The easier it is to join, the larger the crowd; and it is size that decides
+ the outcome.
+ Erica Chenoweth and Maria Stephan, Why Civil Resistance Works
+ (2011), NAVCO dataset.
+### The decisive moment is the moment of defection
+ No government falls because of a demonstration. It falls when the people who
+ are supposed to hold it up stop holding it up — the conscript, the clerk,
+ the judge, the manager.
+ And the research says that defection happens far more often in nonviolent
+ movements, because when the crowd is unarmed, that soldier's own family can be
+ standing in it. Once someone is being shot at, they have nowhere left to go.
+ The same research; Chenoweth stresses that family and neighbourhood
+ ties between protesters and security forces are one of the main mechanisms.
+### And none of this is a guarantee
+ This has to be said, or the rest of the page becomes a lie.
+ The success rate of uprisings — nonviolent and armed alike — has fallen over
+ the past decade. Governments learned: digital surveillance, internet
+ shutdowns, infiltration, and simply outlasting people.
+ The “3.5% rule” is not a law of nature either. Chenoweth herself calls it
+ a descriptive statistic drawn from a historical sample, not a formula — and
+ says organisation, endurance and strategy matter at least as much as headcount.
+ Erica Chenoweth, later work; and
+ Civil Resistance: What Everyone Needs to Know (2021).
+## The numbers, plainly
+ Every figure here has a source and the source is named. Where we had no
+ figure, we wrote none — rather than inventing one.
+ Of 323 uprisings recorded between 1900 and 2006, 53% of nonviolent campaigns
+ and 26% of armed ones reached their stated goal.
+ | | Kind of uprising | Reached its goal
+ | Nonviolent | 53%
+ | Armed | 26%
+ Source: Chenoweth and Stephan, NAVCO dataset.
+ A thousand dots; 35 of them are filled in. That is three and a half per cent.
+ In the recorded history, no campaign that brought this share of a population into
+ sustained, active participation has failed.
+ This is a statistical observation, not a law.
+ 3.1 million
+ 3.5 per cent of Iran's population is roughly
+ three million one hundred thousand people. The city of Mashhad.
+ Or a third of Tehran.
+ Calculated on a population of about 90 million.
+ You can check the arithmetic yourself.
+ From the Constitutional Revolution to today, the interval between waves of
+ protest has kept shortening — from 72 years to two or four.
+ That is itself a data point: something is accumulating, even when each individual
+ wave “fails”.
+## Your card
+ Below there is a card for each kind of person. Each says
+ what the research says about your position, and then a few concrete things,
+ ordered from lower to higher risk. You do not have to do all of them.
+ You do not have to do any of them.
+ Shopkeeper
+ Worker
+ Teacher
+ Medical staff
+ Student
+ Driver
+ Civil servant
+ Conscript or police
+ Someone with money
+ Someone with little
+ Someone who finds reading hard
+ A woman at home
+ Clergy and mosque
+ Lawyer
+ Artist or writer
+ Émigré or diaspora
+ Professional or academic
+ Economist
+ Utilities engineer
+ Rescuer
+ Programmer
+ Psychologist or social worker
+ Someone unwilling, or afraid
+### Shopkeeper, bazaar trader
+ In the Constitutional Revolution and in 1979, closing the
+ bazaar was one of the two or three things that actually worked. The reason is
+ simple: you cannot arrest a lowered shutter, and you cannot recover revenue that
+ never arrived.
+ - Know which of your neighbours would close alongside you. That knowledge alone
+ is half the work.
+ - Closing an hour early is still closing, and easier to deny.
+ - Start small: one row of shops, not one city. History says the wave starts in
+ a row of shops.
+ Relative risk: low to moderate
+### Worker — especially oil, gas, petrochemicals, ports
+ This should be said without decoration: in 1979, what broke the state
+ was not the street demonstrations, it was the oil strike. The transition
+ research says the same thing — the main lever sits wherever the state's money
+ comes from.
+ - A strike fund. The research says the single biggest determinant of how many
+ days a strike survives is money, not enthusiasm. A small local fund,
+ set up beforehand.
+ - Working to rule before striking: lower risk, and it measures the collective's
+ real strength.
+ - Horizontal contact with the next workplace. A single-factory strike gets
+ broken; a chain of them does not.
+ Relative risk: high
+### Teacher
+ Teachers' guild councils have been the most continuously organised
+ body in Iran over the past decade. And Kadivar's finding matters here:
+ long, organised movements build more durable democracies than short explosive
+ uprisings. You already have structure — most people do not.
+ - You do not need to build anything; find what exists and keep it alive.
+ - Teachers carry moral standing. Attacking a teacher is expensive for a state,
+ and the state knows it.
+ - An experienced teacher staying healthy and out of prison is worth more than
+ a statement.
+ Relative risk: high
+### Nurse, doctor, medical staff
+ A hospital is where violence becomes undeniable. And the
+ transitional-justice literature is clear on one point:
+ what is recorded today determines what justice is possible tomorrow.
+ A file that is not created now cannot be created later.
+ - Recording the precise nature of an injury in the medical file — that is your
+ professional job, and it is what later becomes evidence.
+ - Not handing over patient information beyond what the law explicitly compels.
+ - Treating without asking who someone is. That is a professional position,
+ not a political one.
+ Relative risk: high
+### Student
+ Honestly: a student movement alone has never changed a government
+ in Iran. 1999, 2009 and 2022 all had brilliant beginnings and stayed alone.
+ The real value of a campus is signalling — showing everyone else they are
+ not alone.
+ - The circle beyond the campus: workers, teachers, shopkeepers. That is exactly
+ the missing link every previous time.
+ - Take the skill outward: translation, documentation, plain-language teaching
+ for someone with less schooling.
+ - Expulsion removes you from the field. Spend deliberately.
+ Relative risk: high
+### Driver — truck, taxi, bus, courier
+ The truckers' strikes of 2018 and 2019 were among the most effective
+ actions of the past decade, for one structural reason: dispersion.
+ Repressing one factory is easy; repressing ten thousand drivers on ten thousand
+ different roads is not.
+ - Dispersion is your shield. Do not gather into something repressible.
+ - “The vehicle is broken” is an entirely lawful sentence.
+ - You are the intercity information network — do not underrate that role.
+ Relative risk: moderate
+### Civil servant
+ A state does not run on buildings and stamps; it runs on the fact that
+ every morning people turn up and do the work. The civil-resistance
+ literature calls this administrative non-cooperation — and says it is nearly
+ unpunishable, because it looks like ordinary bureaucratic slowness.
+ - Work exactly to the regulation. No office anywhere functions when its own
+ rulebook is followed completely.
+ - Stop volunteering initiative. What is not your formal duty, do not do.
+ - Write nothing that could later be used against anyone.
+ Relative risk: low
+### Conscript, police, security forces
+ This is the most important card on the page and it is written plainly.
+ Every body of research agrees on one thing: the decisive decision in any
+ uprising belongs to whoever is holding the weapon. Not to the street.
+ And a second point, less often said: defection is almost never
+ heroic or public. In most recorded cases it is quiet — arriving late, aiming
+ high, not seeing, being unwell. Nobody is asking you to be a hero.
+ - Your own family is in that same street. This is research, not a slogan: that
+ tie is what has stayed the hand of security forces in most recorded cases.
+ - International and domestic law agree that a manifestly unlawful order does not
+ relieve you of responsibility. What is recorded today gets read tomorrow.
+ - Absence is also a decision. Leave, illness, transfer.
+ Relative risk: high — and only you know how high
+### Someone with money
+ The transition literature says the defection of economic elites
+ is one of the main signals that a system is ending. But the more practical point is
+ this: in human-rights reporting, the greatest effect per unit of money lies in
+ legal defence and in keeping a prisoner's family afloat — not in publicity.
+ - The cost of a lawyer for someone who has none.
+ - The household expenses of a family whose breadwinner is in prison. This is the
+ simplest and most effective thing available.
+ - Not moving the capital out is itself a decision — and it keeps a local economy
+ standing.
+ Relative risk: moderate
+### Someone whose money is tight
+ Bluntly: you carry the most risk and have the least cushion, and no web
+ page has any business telling you what to do. But read Kadivar's finding:
+ the movements that lasted were the ones with everyday networks of mutual
+ aid, not the ones with only street fervour. This is not the lesser
+ contribution; it is the thing that keeps a movement alive.
+ - Know whose bread is short on your street tonight.
+ - A small local fund — the kind that has always existed in Iran and carries no
+ political name.
+ - Staying, and staying well, is itself a contribution. Everyone who is here
+ tomorrow is part of tomorrow.
+ Relative risk: low
+### Someone who finds reading and writing hard
+ This card usually goes unwritten in documents like this, and it should
+ be written. Word of mouth is the oldest medium and the only one that cannot be
+ searched. No system can archive a sentence spoken in a courtyard.
+ - Describe what you saw with your own eyes accurately — no more, no less.
+ Accuracy is what builds credibility.
+ - Do not repeat what you know to be false. Not spreading something is also an
+ action.
+ - Ask someone you trust to read it aloud to you. This page has a
+ “read aloud” button.
+ Relative risk: low
+### A woman at home
+ The home is where that hiding of opinion breaks first. Kadivar's
+ research on 2022 shows it with data: one of the most lasting changes was a
+ shift in bargaining power inside the household itself — not on the street.
+ - Saying what you actually think at the dinner table. This is precisely the
+ mechanism, not a metaphor.
+ - A child who has heard the truth at home recognises a lie outside it.
+ - The women of a neighbourhood are a network. They always have been.
+ Relative risk: low
+### Clergy, mosque, religious gathering
+ This card is also usually cut, and should not be. Historically,
+ clerical dissent has cost a religious state more than any external
+ criticism, because it strikes at its legitimacy on its own ground.
+ - Withholding endorsement. Silence from a pulpit is heard loudly.
+ - Reading the funeral prayer for someone the state would rather went unmourned.
+ - Saying that religion does not belong to a government — which is a religious
+ statement, not a political one.
+ Relative risk: high
+### Lawyer, jurist
+ The transitional-justice literature — Elster, Hayner, Teitel —
+ insists on one point: the files built today set the ceiling of tomorrow's
+ justice. Whatever is not recorded cannot later be proven, whatever government
+ arrives.
+ - Record, even when the case is lost. The document is for later.
+ - Free representation for someone who has no one.
+ - Teaching ordinary people the plain basics of detention rights — low risk and
+ very effective.
+ Relative risk: high
+### Artist, writer, musician
+ If the problem is that everyone believes they are alone, then
+ what breaks it is an undeniable public signal — something everyone sees at
+ once and knows that everyone else has also seen. A song does exactly that, which
+ is why it is more dangerous than a statement.
+ - Make something that can be understood without explanation — an image, a tune,
+ a short line.
+ - Simple and repeatable: something a grandmother can also repeat.
+ - It can be made anonymously. The work belongs to itself.
+ Relative risk: high
+### Émigré, diaspora
+ This has to be written slightly uncomfortably: the research says
+ outside pressure rarely produces change and can delegitimise the movement
+ inside. But the same research says the diaspora is genuinely effective at a
+ few specific things — and deciding on behalf of people inside is not one of them.
+ - Documentation and archiving. What is preserved out here is deleted in there.
+ - Money reaching a prisoner's family — the most measured thing that can be done
+ from outside.
+ - Technical infrastructure: circumvention, mirrors, keeping a channel open.
+ - And one of the hardest: not prescribing for the person who is paying the cost.
+ Relative risk: low
+### Professional, academic, specialist
+ Homa Katouzian calls Iran a “short-term society”: each era
+ starts from zero because institutional knowledge is never transmitted. Which means
+ your step may be the most boring thing available — and also the most
+ durable.
+ - Write down how a ministry, a hospital, a power grid actually works.
+ - Keep figures and documents somewhere that does not disappear with one person.
+ - Translate this very literature into plain Persian — most of these books have
+ never been translated.
+ Relative risk: low
+### Economist, accountant, banker
+ This project’s own estimate is that a fast, unplanned rupture comes with a 15–25% fall in output. Much of that cost sits in the first days: salaries that are not paid, a currency that gives way. Your job is to make sure those days have been thought through in advance.
+ - Keep the real numbers: what you see at work that the official statistics do not show.
+ - Write one page: in your institution, what must not fail for salaries to be paid at the end of the month.
+ - Explain the economy in plain words to the people around you. Fear of “the day after” is mostly fear of an empty table.
+ Relative risk: low
+### Water, power, gas and telecom engineer or technician
+ In Iraq in 2003 the state was destroyed by the sudden emptying of its machinery. The network you keep running is what stands between the day after and chaos. Staying at your post is itself the step.
+ - Know which people and which parts your network cannot run without.
+ - Teach a trusted colleague what currently lives only in your head.
+ - Settle it for yourself: if orders from above stop, hospitals and water come first.
+ Relative risk: low
+### Rescuer, firefighter, Red Crescent volunteer, mountaineer
+ The research says the democracies that lasted came out of long, organised mobilisation, not one euphoric day. You are among the few who know how to organise people in a hard moment.
+ - Teach first aid to five people in your neighbourhood.
+ - Know who the doctors on your street are and where the nearest hospital is.
+ - Think ahead to the crowded day: a happy crowd can be dangerous too. The ambulance lane has to stay open.
+ Relative risk: low
+### Programmer, network and security specialist
+ Coordination needs more than knowing; everyone has to know that everyone else knows. You build and maintain the tools of that common knowledge. But your first job is protecting, before building.
+ - Help three people close to you make their phones safer, following the specialist organisations’ guides, not your own taste.
+ - Do not build and spread home-made security tools. An untested tool is more dangerous than none.
+ - If you build something, make it keep as little data about people as possible.
+ Relative risk: low to medium
+### Psychologist, counsellor, social worker
+ The transitional-justice literature says that what is preserved under repression sets tomorrow’s range of choices. Part of that is people’s memory, and you sit beside it: a wound that is never heard turns into revenge later.
+ - Do what you already know how to do: listen.
+ - Hold confidentiality tighter than ever. A file that leaks is worse than no file.
+ - Start thinking now: someone who was both harmed and part of the machinery — what path is open to them tomorrow.
+ Relative risk: low
+### Someone who does not want to, or is afraid
+ This card is serious, not a courtesy. The same 3.5% rule means
+ 96.5% did not take part — and those uprisings still reached their goal.
+ Not wanting to is not betrayal, and fear is rational when people are genuinely
+ being executed.
+ - Doing nothing is a legitimate choice and this page respects it.
+ - Not doing the harmful thing is itself an action: not reporting, not repeating,
+ not signing.
+ - Staying alive, employed and upright is your share in any tomorrow.
+ Relative risk: low
+## Risk — do not skip this
+### This page does not know your situation
+ People are being executed in Iran right now. UN reporting describes death sentences
+ continuing to be carried out under the cover of war. This is not a theoretical
+ discussion.
+ - Every figure you read above is an average across 323 cases over a
+ century. You are one person on one street. An average does not decide
+ for you.
+ - A step that removes you from the field is not a step. In all of this
+ research, what produces results is endurance, not one large gesture.
+ - In most recorded cases, what harmed people was not courage but a phone.
+ - This page deliberately offers no technical security advice. Bad security
+ advice is more dangerous than none. For that, go to the specialists — the
+ Access Now Digital Security Helpline, or the EFF's Surveillance Self-Defense
+ guide.
+ - Nobody — not this site, not any channel, not anyone abroad — has the standing to
+ decide what risk you should accept.
+## People who disagree with this page
+ If we only presented the supporting case, this would be advocacy rather
+ than analysis. These are the most serious academic objections to what you just read.
+#### “Regimes born of revolution die slowly”
+ Systems that emerged from a genuine social revolution — with their own party and
+ army, and elites whose fates are tied together — are unusually durable.
+ The IRGC is not the Shah's army. This objection says comparing Iran today with
+ Eastern Europe in 1989 is a category error.
+ Steven Levitsky and Lucan Way, Revolution and Dictatorship (2022)
+#### “The most dangerous point is halfway”
+ The highest probability of civil war lies neither in full autocracy nor in
+ established democracy, but in the middle — which is exactly where every
+ transition passes through. Any cost estimate that fails to price this in is an
+ underestimate.
+ Barbara Walter, How Civil Wars Start (2022)
+#### “Remember Iraq”
+ In 2003, dissolving the army and the party apparatus at a stroke did not cleanse
+ the state or produce democracy; it destroyed the state. Any plan that begins with
+ “dissolve the IRGC” has to explain why the result is not Iraq in 2003.
+ Toby Dodge, Iraq: From War to a New Authoritarianism (2012);
+ and Libya after 2011
+#### “Iran does not accumulate institutions”
+ The “short-term society”: each era in Iran erases its predecessor's legacy and
+ starts from zero. If that is right, merely changing the government guarantees
+ nothing.
+ Homa Katouzian
+#### “And the success rate has fallen”
+ The researchers in this field say themselves that over the past decade the success
+ rate of uprisings of every kind has declined, because governments have learned.
+ The “3.5% rule” is a historical observation, not a law of physics.
+ Erica Chenoweth, later work
+## The smallest possible step
+ If only one thing survives this whole page, let it be this: the thing that opens
+ the lock in that research is not large.
+ One true sentence, to one person who trusts you.
+ That is not a metaphor; it is literally the mechanism. What makes a state look
+ larger than it is, is that each person believes they are alone. And the only thing
+ that breaks it is one person finding out they are not.
+ The rest — numbers, time, organisation — comes after that.
+ Library — every source
+ Iranians & Israelis
+ Back to the cards
+ Twenty-four people, all holding the same thought. Six have said it aloud.
+ The rest believe they are in the minority.
+ Par-e Simorgh — a collection about Iran today, told as a game and a myth.
+ No party, state or religious emblem appears anywhere here; every symbol is drawn from the Shahnameh and Iranian myth. No quotation is attributed to a real person without a source. Cost figures are models, not forecasts.
+ Press / or the “All content” button to search everything.

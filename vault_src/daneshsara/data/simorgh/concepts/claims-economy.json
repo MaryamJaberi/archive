@@ -1,0 +1,154 @@
+{
+ "id": "simorgh:claims-economy",
+ "kind": "concept",
+ "title": {
+  "fa": "ادعاهای اقتصاد و معیشت",
+  "en": "Claims: economy and livelihood",
+  "nl": "Claims: economy and livelihood"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "9 ادعای منبع‌دار از مجموعهٔ ۸۴ادعایی، هر کدام با مقدار، دوره، ردهٔ اعتبار (۱ داده/سند، ۲ پژوهش، ۳ برآورد یا مدل) و شرطی که آن را باطل می‌کند. ادعایی که نتواند بگوید چه چیز ردش می‌کند ادعا نیست.",
+  "en": "9 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it.",
+  "nl": "9 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "نرخِ فقر در دو سال حدود هشت واحد بالا رفت و روی ۳۰٪ تثبیت شد. (۳۰٪؛ ≈۱۴۰۰–۱۴۰۲؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: سریِ رسمیِ خطِ فقر که تثبیت روی ۳۰٪ را نشان ندهد. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim poverty: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim poverty: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "طبقهٔ متوسط از ۸۴٪ (سناریوی بدونِ تحریم) به ۵۶٪ واقعیت افتاد — اختلافِ ≈۲۸ واحد، بیست و چند میلیون نفر. (۸۴٪ ← ۵۶٪؛ ≈۱۳۹۰–۱۴۰۲؛ ردهٔ 3؛ برآوردِ ضدواقعی). شرطِ ابطال: مدلِ ضدواقعیِ دیگری با فرض‌های متفاوت که شکاف را به‌مراتب کوچک‌تر بدهد. یادداشت: عددِ ۸۴٪ یک سناریوی فرضی است نه اندازه‌گیری؛ پس این اختلاف یک برآوردِ مدل‌شده است. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim middle-class: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim middle-class: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "حدودِ ۶۰٪ اشتغالِ ایران غیررسمی است — یعنی یک هفته توقفِ کار، یک هفته گرسنگی. (۶۰٪؛ ≈۱۴۰۲؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: آمارِ ILO یا مرکز آمار که سهمِ غیررسمی را به‌مراتب کمتر بدهد. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim informal: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim informal: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "هزینهٔ فرارِ مغزها ≈۵۰ میلیارد دلار در سال — در برابرِ کلِ صادراتِ نفتِ ۲۰۱۹ که ≈۲۰ میلیارد دلار بود. (≈۵۰ میلیارد $/سال؛ ۲۰۱۹ به بعد؛ ردهٔ 3؛ برآورد). شرطِ ابطال: یافتنِ گزارشِ اصلیِ بانک جهانی و دیدنِ اینکه عدد یا روشِ آن چیزِ دیگری است. یادداشت: ارجاعِ دقیق به گزارشِ بانک جهانی در متن نیامده؛ این ضعیف‌ترین حلقهٔ استنادیِ بخشِ اقتصاد است. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim braindrain: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim braindrain: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "درآمدِ سرانه ۵٬۶۱۷ دلار (۲۰۲۵، قیمتِ ثابتِ ۲۰۱۵) در برابرِ ۷٬۴۴۲ دلار در ۱۹۷۶. (۵٬۶۱۷$ در برابر ۷٬۴۴۲$؛ ۱۹۷۶ ← ۲۰۲۵؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: سریِ WDI با همان مبنای قیمتی که این دو رقم را تأیید نکند. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim gdp-capita: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim gdp-capita: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "تورمِ نقطه‌به‌نقطه ۸۷٫۹٪ (تیر ۱۴۰۵)؛ پوششِ سبدِ معیشت ≈۴۴٪. (۸۷٫۹٪؛ تیر ۱۴۰۵؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: سریِ رسمیِ تورم برای همان ماه با رقمِ متفاوت. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim inflation: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim inflation: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "تورمِ خوراکی ۱۱۲٫۷٪ در برابرِ تورمِ عمومی — یعنی شوک بیشتر روی دهک‌های پایین می‌نشیند. (۱۱۲٫۷٪؛ ≈۱۴۰۵؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: تفکیکِ رسمیِ تورمِ گروه‌های کالایی که این شکاف را نشان ندهد. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim food-inflation: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim food-inflation: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "رشدِ اقتصادیِ ۴٫۵ درصدیِ ۱۴۰۲ نرخِ فقر را پایین نیاورد — رشدِ کل، توزیع نیست. (۴٫۵٪ رشد، فقر ثابت؛ ۱۴۰۲؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: سریِ فقر که در همان سال کاهشِ معنادار نشان دهد. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim growth-no-poverty: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim growth-no-poverty: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "۴۰٪ بیکارانِ کشور فارغ‌التحصیلِ دانشگاهی‌اند. (۴۰٪؛ ≈۱۴۰۲؛ ردهٔ 3؛ اندازه‌گیری). شرطِ ابطال: آمارِ رسمیِ بیکاری به تفکیکِ تحصیلات با نسبتِ متفاوت. یادداشت: ارجاعِ جمعی است، نه ارجاعِ سطربه‌سطر؛ عددِ تک‌تک به منبعِ مشخص وصل نشده. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim grad-unemployment: value, period, tier 3 and falsifier as in the Persian text.",
+    "nl": "Claim grad-unemployment: value, period, tier 3 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "جدولِ ۸۴ ادعا (ابزار)",
+    "en": "84-claim table (tool)",
+    "nl": "84-claim table (tool)"
+   }
+  },
+  {
+   "to": "simorgh:audit",
+   "rel": "see-also",
+   "note": {
+    "fa": "ممیزیِ ضعف‌ها",
+    "en": "Audit of weaknesses",
+    "nl": "Audit of weaknesses"
+   }
+  },
+  {
+   "to": "simorgh:inspect-claim",
+   "rel": "see-also",
+   "note": {
+    "fa": "وارسیِ یک ادعا",
+    "en": "Inspect a claim",
+    "nl": "Inspect a claim"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

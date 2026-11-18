@@ -1,0 +1,113 @@
+{
+ "id": "simorgh:current-situation",
+ "kind": "concept",
+ "title": {
+  "fa": "وضعیتِ امروز: معنایش برای راهبرد (آبان ۱۴۰۵)",
+  "en": "The situation now: what it means for strategy (November 2026)",
+  "nl": "The situation now: what it means for strategy (November 2026)"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "مدخلی که فقط عددهای تاریخ‌دار و منبع‌دار دارد تا متنِ اصلی (که پیش از جنگ نوشته شده) با واقعیتِ امروز سنجیده شود. هر عدد تاریخ دارد؛ این مدخل باید هر چند ماه به‌روز شود.",
+  "en": "An entry with only dated, sourced numbers so the core text (written before the war) can be checked against today. Every number is dated; the entry needs refreshing every few months.",
+  "nl": "An entry with only dated, sourced numbers so the core text (written before the war) can be checked against today. Every number is dated; the entry needs refreshing every few months."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "عددهای تاریخ‌دارِ جنگ، معیشت و کار (رویترز، آبان ۱۴۰۵) و پیمایشِ گمان در لایهٔ ایران ثبت‌اند و همان‌جا به‌روز می‌شوند؛ این مدخل فقط معنایشان را برای راهبرد نگه می‌دارد.",
+    "en": "The dated numbers on war, livelihood and work and the GAMAAN survey live and are updated in the Iran layer; this entry keeps only their meaning for strategy.",
+    "nl": "The dated numbers on war, livelihood and work and the GAMAAN survey live and are updated in the Iran layer; this entry keeps only their meaning for strategy."
+   },
+   "sources": [
+    "src:7af62df15e"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "آنچه این عددها برای راهبرد می‌گویند: (۱) هیچ فرمِ حکومتی اکثریت ندارد، پس میثاقی که فرم را به رأیِ آزاد واگذار کند تنها چیزی است که همه می‌توانند امضا کنند؛ (۲) شکافِ دستمزد و هزینهٔ زندگی (حدود ۱ به ۳٫۷) یعنی اعتصاب بدونِ صندوق برای اکثرِ مزدبگیران ممکن نیست؛ (۳) اعتراضِ مدنی محبوب‌ترین راه است، اما ۳۰٪ به مداخلهٔ خارجی امید دارند، که پژوهش آن را راهِ کم‌احتمالی برای دموکراسی می‌داند.",
+    "en": "What these numbers say for strategy: no form of government has a majority, so a covenant leaving the form to a free vote is the only thing all can sign; the wage-to-cost gap means strikes without a fund are impossible for most earners; civil protest is the most popular route, but 30 percent hope for foreign intervention, which research sees as unlikely to yield democracy.",
+    "nl": "What these numbers say for strategy: no form of government has a majority, so a covenant leaving the form to a free vote is the only thing all can sign; the wage-to-cost gap means strikes without a fund are impossible for most earners; civil protest is the most popular route, but 30 percent hope for foreign intervention, which research sees as unlikely to yield democracy."
+   },
+   "sources": [
+    "src:6c0a6f1ef3",
+    "src:5077e79964"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "محدودیت‌ها: نمونهٔ گمان داوطلبانه و از راهِ فیلترشکن است (باسوادانِ ۱۵ سال به بالا، فاصلهٔ اطمینانِ حدود ±۳ واحد)؛ آمارِ رسمیِ تورم و بیکاری از منابعِ دولتی است و ممکن است کم‌برآورد باشد.",
+    "en": "Limitations: the GAMAAN sample is voluntary and VPN-recruited; official inflation and unemployment come from government sources and may be underestimates.",
+    "nl": "Limitations: the GAMAAN sample is voluntary and VPN-recruited; official inflation and unemployment come from government sources and may be underestimates."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:claims-economy",
+   "rel": "see-also",
+   "note": {
+    "fa": "ادعاهای اقتصاد",
+    "en": "Economy claims",
+    "nl": "Economy claims"
+   }
+  },
+  {
+   "to": "simorgh:claims-politics",
+   "rel": "see-also",
+   "note": {
+    "fa": "ادعاهای سیاست",
+    "en": "Politics claims",
+    "nl": "Politics claims"
+   }
+  },
+  {
+   "to": "simorgh:audit",
+   "rel": "see-also",
+   "note": {
+    "fa": "ممیزی",
+    "en": "Audit",
+    "nl": "Audit"
+   }
+  },
+  {
+   "to": "simorgh:seven-nights",
+   "rel": "see-also",
+   "note": {
+    "fa": "هفت شب",
+    "en": "Seven nights",
+    "nl": "Seven nights"
+   }
+  },
+  {
+   "to": "simorgh:gamaan-2026",
+   "rel": "see-also",
+   "note": {
+    "fa": "پیمایشِ گمان (گزارش کامل)",
+    "en": "GAMAAN full report",
+    "nl": "GAMAAN full report"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:5077e79964",
+  "src:6c0a6f1ef3",
+  "src:7af62df15e"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": "iran:cost-of-living-2026",
+ "wikidata": null,
+ "status": "draft"
+}

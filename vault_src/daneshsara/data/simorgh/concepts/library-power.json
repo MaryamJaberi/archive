@@ -1,0 +1,112 @@
+{
+ "id": "simorgh:library-power",
+ "kind": "concept",
+ "title": {
+  "fa": "کتابخانه: نظریهٔ بازی و ساختارِ قدرت",
+  "en": "Library: game theory and power structure",
+  "nl": "Library: game theory and power structure"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "ادبیاتِ استانداردِ ادعای «پروپوزالی در قالبِ نظریهٔ بازی»؛ شامل یک منبعِ مخالف.",
+  "en": "Library: game theory and power structure",
+  "nl": "Library: game theory and power structure"
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "Bueno de Mesquita & Smith (2011) The Dictator's Handbook: هسته: نظریهٔ «هستهٔ برنده»؛ چرا «کجای میز نشسته‌ای» پرسشِ درستی است.",
+    "en": "Bueno de Mesquita & Smith (2011) The Dictator's Handbook: why it is on the shelf (Persian text).",
+    "nl": "Bueno de Mesquita & Smith (2011) The Dictator's Handbook: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:d700f79051"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Svolik (2012) The Politics of Authoritarian Rule: هسته: دو مسئلهٔ هر دیکتاتور، کنترلِ مردم و کنترلِ خودی‌ها.",
+    "en": "Svolik (2012) The Politics of Authoritarian Rule: why it is on the shelf (Persian text).",
+    "nl": "Svolik (2012) The Politics of Authoritarian Rule: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:d3fc1f88d0"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Geddes, Wright & Frantz (2018) How Dictatorships Work: داده‌محور: رژیم‌های اقتدارگرا از ۱۹۴۶ چطور تمام شده‌اند.",
+    "en": "Geddes, Wright & Frantz (2018) How Dictatorships Work: why it is on the shelf (Persian text).",
+    "nl": "Geddes, Wright & Frantz (2018) How Dictatorships Work: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:769bc745be"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Acemoglu & Robinson (2006) Economic Origins of Dictatorship and Democracy: مسئلهٔ «تعهدِ معتبر»؛ هستهٔ هر طرحِ گذارِ مذاکره‌شده.",
+    "en": "Acemoglu & Robinson (2006) Economic Origins of Dictatorship and Democracy: why it is on the shelf (Persian text).",
+    "nl": "Acemoglu & Robinson (2006) Economic Origins of Dictatorship and Democracy: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:241e6a9388"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Schelling (1960) The Strategy of Conflict: چانه‌زنی، تهدیدِ معتبر، نقطهٔ کانونی؛ بدونِ آن «نظریهٔ بازی» ناقص است.",
+    "en": "Schelling (1960) The Strategy of Conflict: why it is on the shelf (Persian text).",
+    "nl": "Schelling (1960) The Strategy of Conflict: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:e0cb8fb11f"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "Levitsky & Way (2022) Revolution and Dictatorship: نقدِ ما: رژیم‌های زادهٔ انقلابِ اجتماعی به‌طرزِ غیرعادی بادوام‌اند؛ قیاس با اروپای شرقیِ ۱۹۸۹ ممکن است اساساً غلط باشد.",
+    "en": "Levitsky & Way (2022) Revolution and Dictatorship: why it is on the shelf (Persian text).",
+    "nl": "Levitsky & Way (2022) Revolution and Dictatorship: why it is on the shelf (Persian text)."
+   },
+   "sources": [
+    "src:89f0e30575"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:library-honesty",
+   "rel": "see-also",
+   "note": {
+    "fa": "این فهرست چه نیست",
+    "en": "What this list is not",
+    "nl": "What this list is not"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:241e6a9388",
+  "src:769bc745be",
+  "src:89f0e30575",
+  "src:d3fc1f88d0",
+  "src:d700f79051",
+  "src:e0cb8fb11f"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

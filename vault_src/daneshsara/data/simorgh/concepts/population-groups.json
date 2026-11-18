@@ -1,0 +1,226 @@
+{
+ "id": "simorgh:population-groups",
+ "kind": "concept",
+ "title": {
+  "fa": "بیست گروهِ جمعیتی و آنچه هرکدام لازم دارد",
+  "en": "Twenty population groups and what each needs",
+  "nl": "Twenty population groups and what each needs"
+ },
+ "aliases": [],
+ "parent": "simorgh:action",
+ "field": "simorgh:action",
+ "summary": {
+  "fa": "جامعه در سطحِ جمعیت به بیست گروه تقسیم شده تا برای هر گروه نیاز و نخستین سیاستِ لازم معلوم باشد. این تقسیم فقط جمعیتی است و هیچ فهرستِ آدم یا برچسب‌زدنِ فردی در آن نیست.",
+  "en": "Society at the population level is divided into twenty groups so each need and first policy is clear. The split is demographic only, with no lists of persons and no individual labelling.",
+  "nl": "Society at the population level is divided into twenty groups so each need and first policy is clear. The split is demographic only, with no lists of persons and no individual labelling."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "کودکان: نیاز: امنیت در خانه، مدرسه، غذا. نخستین سیاست: ممنوعیت ازدواج کودک، تغذیهٔ مدرسه.",
+    "en": "کودکان: need and first policy, as in the Persian text.",
+    "nl": "کودکان: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نوجوانان: نیاز: آموزش بی‌ایدئولوژی، فضای شادی، دوری از سلاح. نخستین سیاست: خارج کردن نوجوانان از نیروهای نظامی.",
+    "en": "نوجوانان: need and first policy, as in the Persian text.",
+    "nl": "نوجوانان: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "جوانان تحصیل‌کردهٔ بیکار: نیاز: کار، مسکن، امید به ماندن. نخستین سیاست: برنامهٔ کار داوطلبانهٔ دستمزددار در ساختن.",
+    "en": "جوانان تحصیل‌کردهٔ بیکار: need and first policy, as in the Persian text.",
+    "nl": "جوانان تحصیل‌کردهٔ بیکار: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "زنان سرپرست خانوار: نیاز: درآمد، بیمه، حضانت. نخستین سیاست: حذف تبعیض قانونی.",
+    "en": "زنان سرپرست خانوار: need and first policy, as in the Persian text.",
+    "nl": "زنان سرپرست خانوار: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سالمندان و بازنشستگان: نیاز: حقوق باارزش، دارو، تنهایی. نخستین سیاست: تضمین پرداخت حقوق در گذار.",
+    "en": "سالمندان و بازنشستگان: need and first policy, as in the Persian text.",
+    "nl": "سالمندان و بازنشستگان: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارگران و روزمزدها: نیاز: دستمزد، امنیت شغلی، تشکل آزاد. نخستین سیاست: آزادی سندیکا.",
+    "en": "کارگران و روزمزدها: need and first policy, as in the Persian text.",
+    "nl": "کارگران و روزمزدها: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کشاورزان و روستاییان: نیاز: آب، بازار، جاده و درمانگاه. نخستین سیاست: برنامهٔ اضطراری آب.",
+    "en": "کشاورزان و روستاییان: need and first policy, as in the Persian text.",
+    "nl": "کشاورزان و روستاییان: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "عشایر: نیاز: مرتع، کوچ امن، آموزش سیار. نخستین سیاست: به رسمیت شناختن مرتع.",
+    "en": "عشایر: need and first policy, as in the Persian text.",
+    "nl": "عشایر: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "اقوام و گویشوران زبان‌های ایران: نیاز: برابری، زبان مادری، سهم در قدرت. نخستین سیاست: آموزش به زبان مادری در کنار فارسی.",
+    "en": "اقوام و گویشوران زبان‌های ایران: need and first policy, as in the Persian text.",
+    "nl": "اقوام و گویشوران زبان‌های ایران: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "اقلیت‌های دینی و بی‌دینان: نیاز: برابری قانونی، آزادی باور. نخستین سیاست: آزادی همهٔ زندانیان عقیدتی.",
+    "en": "اقلیت‌های دینی و بی‌دینان: need and first policy, as in the Persian text.",
+    "nl": "اقلیت‌های دینی و بی‌دینان: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دگرباشان جنسی: نیاز: امنیت، پایان جرم‌انگاری. نخستین سیاست: توقف تعقیب کیفری.",
+    "en": "دگرباشان جنسی: need and first policy, as in the Persian text.",
+    "nl": "دگرباشان جنسی: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "افراد دارای معلولیت: نیاز: دسترسی، کار، درمان. نخستین سیاست: استاندارد دسترسی در ساخت‌وساز تازه.",
+    "en": "افراد دارای معلولیت: need and first policy, as in the Persian text.",
+    "nl": "افراد دارای معلولیت: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مهاجران افغانستانی: نیاز: اقامت، آموزش کودکان، امنیت. نخستین سیاست: توقف اخراج اجباری.",
+    "en": "مهاجران افغانستانی: need and first policy, as in the Persian text.",
+    "nl": "مهاجران افغانستانی: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ایرانیان خارج از کشور: نیاز: بازگشت امن، سرمایه‌گذاری، رأی. نخستین سیاست: گذرنامه و بازگشت بی‌مانع.",
+    "en": "ایرانیان خارج از کشور: need and first policy, as in the Persian text.",
+    "nl": "ایرانیان خارج از کشور: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "خانواده‌های جان‌باختگان و زندانیان: نیاز: حقیقت، دادخواهی، یادبود. نخستین سیاست: هیئت حقیقت‌یاب.",
+    "en": "خانواده‌های جان‌باختگان و زندانیان: need and first policy, as in the Persian text.",
+    "nl": "خانواده‌های جان‌باختگان و زندانیان: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "معتادان و خانواده‌هایشان: نیاز: درمان به جای زندان. نخستین سیاست: کاهش آسیب در سراسر کشور.",
+    "en": "معتادان و خانواده‌هایشان: need and first policy, as in the Persian text.",
+    "nl": "معتادان و خانواده‌هایشان: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارمندان دولت: نیاز: امنیت شغلی، پایان گزینش ایدئولوژیک. نخستین سیاست: ماندن کارمندان بی‌جنایت سر کار.",
+    "en": "کارمندان دولت: need and first policy, as in the Persian text.",
+    "nl": "کارمندان دولت: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سربازان و نیروهای عادی: نیاز: آیندهٔ امن، شغل، احترام. نخستین سیاست: راه بازگشت روشن برای بی‌جنایت‌ها.",
+    "en": "سربازان و نیروهای عادی: need and first policy, as in the Persian text.",
+    "nl": "سربازان و نیروهای عادی: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مذهبیان سنتی: نیاز: آزادی باور خود، احترام. نخستین سیاست: آزادی دین بدون دین دولتی.",
+    "en": "مذهبیان سنتی: need and first policy, as in the Persian text.",
+    "nl": "مذهبیان سنتی: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "طبقهٔ متوسط شهری: نیاز: آزادی، اینترنت، سفر، ارزش پول. نخستین سیاست: اینترنت آزاد از روز اول.",
+    "en": "طبقهٔ متوسط شهری: need and first policy, as in the Persian text.",
+    "nl": "طبقهٔ متوسط شهری: need and first policy, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:step-cards",
+   "rel": "see-also",
+   "note": {
+    "fa": "قدمِ تو",
+    "en": "Your step",
+    "nl": "Your step"
+   }
+  },
+  {
+   "to": "simorgh:ruins-ledger",
+   "rel": "see-also",
+   "note": {
+    "fa": "دفترِ ویرانی‌ها",
+    "en": "Ruins ledger",
+    "nl": "Ruins ledger"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

@@ -1,0 +1,100 @@
+{
+ "id": "simorgh:birds-5",
+ "kind": "concept",
+ "title": {
+  "fa": "مرغ‌ها: سازندگان پیوند",
+  "en": "Birds: سازندگان پیوند",
+  "nl": "Birds: سازندگان پیوند"
+ },
+ "aliases": [],
+ "parent": "simorgh:action",
+ "field": "simorgh:action",
+ "summary": {
+  "fa": "پنج مرغِ گروهِ «سازندگان پیوند» با مأموریت و قدمِ هرکدام.",
+  "en": "The five birds of the group \"سازندگان پیوند\" with the mission and step of each.",
+  "nl": "The five birds of the group \"سازندگان پیوند\" with the mission and step of each."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "میانجی: مأموریت: اختلاف به خشونت نرسد. قدمِ امروز: یک گفتگوی سخت را بی‌دعوا تمرین کن. روزِ آزادی: جلوگیری از انتقام در محله. پس از آن: گفتگوی ملی بر سر قواعد.",
+    "en": "Bird میانجی: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird میانجی: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ضامن اعتماد: مأموریت: اعتماد، حلقه به حلقه. قدمِ امروز: فقط کسی را دعوت کن که می‌شناسی. روزِ آزادی: معرفی آدم‌های مطمئن به گروه‌های کار. پس از آن: شبکه‌های محلی همکاری.",
+    "en": "Bird ضامن اعتماد: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird ضامن اعتماد: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "همسایه‌یار محله: مأموریت: هیچ همسایه‌ای تنها نماند. قدمِ امروز: همسایه‌های سالمند و بیمارت را بشناس. روزِ آزادی: سر زدن به پنج خانه. پس از آن: شورای محله.",
+    "en": "Bird همسایه‌یار محله: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird همسایه‌یار محله: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پل ایرانیان خارج: مأموریت: تخصص و سرمایه برگردد. قدمِ امروز: از محصولات پروژه بخر یا حامی شو. روزِ آزادی: پاسخ به فهرست نیازهای فوری. پس از آن: بازگشت تخصص، سرمایه‌گذاری، دیپلماسی مردمی.",
+    "en": "Bird پل ایرانیان خارج: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird پل ایرانیان خارج: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "جشن‌ساز و فرهنگ: مأموریت: شادی، همبستگی می‌سازد. قدمِ امروز: یک شب بازی سیمرغ برگزار کن. روزِ آزادی: جشن امن با همهٔ زبان‌ها و موسیقی‌ها. پس از آن: جشن ملی و نخستین نوروز آزاد.",
+    "en": "Bird جشن‌ساز و فرهنگ: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird جشن‌ساز و فرهنگ: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "soc:coordination-focal-points",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقطهٔ کانونی",
+    "en": "نقطهٔ کانونی",
+    "nl": "نقطهٔ کانونی"
+   }
+  },
+  {
+   "to": "soc:repeated-games-cooperation",
+   "rel": "see-also",
+   "note": {
+    "fa": "بازی تکراری و همکاری",
+    "en": "بازی تکراری و همکاری",
+    "nl": "بازی تکراری و همکاری"
+   }
+  },
+  {
+   "to": "simorgh:birds-30",
+   "rel": "see-also",
+   "note": {
+    "fa": "سی مرغ",
+    "en": "Thirty birds",
+    "nl": "Thirty birds"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

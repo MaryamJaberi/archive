@@ -1,0 +1,280 @@
+{
+ "id": "simorgh:claims-history",
+ "kind": "concept",
+ "title": {
+  "fa": "ادعاهای تاریخ",
+  "en": "Claims: history",
+  "nl": "Claims: history"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "18 ادعای منبع‌دار از مجموعهٔ ۸۴ادعایی، هر کدام با مقدار، دوره، ردهٔ اعتبار (۱ داده/سند، ۲ پژوهش، ۳ برآورد یا مدل) و شرطی که آن را باطل می‌کند. ادعایی که نتواند بگوید چه چیز ردش می‌کند ادعا نیست.",
+  "en": "18 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it.",
+  "nl": "18 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "تا ۱۵۰۱ میلادی — نُه قرن پس از ورودِ اسلام — اکثریتِ مردمِ ایران سنی بودند. (۱۵۰۱؛ ۶۵۱–۱۵۰۱؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: شواهدِ جمعیتیِ مذهبیِ پیش از صفویه که اکثریتِ شیعه را نشان دهد. یادداشت: قیدِ خودِ متن: «اکثریت سنی بودند» درست است؛ «تشیع در ایران بیگانه بود» غلط است — قم، کاشان، سبزوار و ری قرن‌ها پیش‌تر مراکزِ شیعی بودند.",
+    "en": "Claim sunni-1501: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim sunni-1501: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:3de57600b8",
+    "src:29661f76db"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ایلخان الجایتو در ۱۳۱۰ رسماً به تشیعِ دوازده‌امامی گروید — دو قرن پیش از صفویه. (۱۳۱۰؛ ۱۳۱۰؛ ردهٔ 1؛ سندِ تاریخی). شرطِ ابطال: بازخوانیِ منابعِ ایلخانی که این گرویدن را موقت یا صوری نشان دهد.",
+    "en": "Claim oljaitu: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim oljaitu: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:3de57600b8"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نخستین ادعای اقتدارِ سیاسی برای فقیه در ایران، حدودِ ۱۵۳۰ ثبت شده: فرمانِ شاه طهماسب که محقق کرکی «نایبِ امام» است. (≈۱۵۳۰؛ ۱۵۳۰؛ ردهٔ 1؛ سندِ تاریخی). شرطِ ابطال: بازخوانیِ فرمان که دامنه‌اش را صرفاً تشریفاتی نشان دهد. (محلِ نزاع) یادداشت: خودِ متن می‌گوید دامنهٔ این فرمان محلِ بحث است.",
+    "en": "Claim karaki: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim karaki: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:3de57600b8",
+    "src:29661f76db"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "شکافِ «همکاری با قدرت» در برابر «کناره‌گیری از آن» از روز اول درونِ روحانیت بود: ابراهیم قطیفی در برابرِ کرکی، گرفتنِ منصب و پول از حاکمِ جائر را حرام می‌دانست. (کیفی؛ قرن ۱۶؛ ردهٔ 1؛ سندِ تاریخی). شرطِ ابطال: منابعِ دورهٔ صفوی که نشان دهد مناقشهٔ قطیفی و کرکی بر سرِ مشروعیتِ همکاری با شاه نبود، یا اینکه این دوگانگی در روحانیت بعدها برساخته شده. یادداشت: همان شکافی که در مشروطه، در ۵۷، و امروز در حوزه تکرار می‌شود.",
+    "en": "Claim qatifi: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim qatifi: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:3de57600b8",
+    "src:7f0523f6e7"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "سقوطِ اصفهان در ۱۷۲۲ را ارتشی کوچک از غلجایی‌های قندهار رقم زد — نشانهٔ پوسیدگیِ نظامی، نه نتیجهٔ سیاستِ دینی. (۱۷۲۲؛ ۱۷۲۲؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: تحلیلِ اقتصادی‌ای که عاملِ دینی را تعیین‌کننده نشان دهد. (محلِ نزاع) یادداشت: این ردِ صریحِ تحلیلِ رایج است که سقوطِ صفویه را به گردنِ تعصبِ مجلسی می‌اندازد؛ مورخانِ اقتصادی بحرانِ مالی و فروپاشیِ قزلباش را سنگین‌تر می‌دانند.",
+    "en": "Claim isfahan-1722: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim isfahan-1722: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:4cde610b3d"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "نادرشاه (۱۷۳۶–۱۷۴۷) خواست تشیع را از هویتِ رسمیِ ایران پایین بکشد — پیشنهادِ «مذهبِ جعفری» به‌عنوانِ مذهبِ پنجم؛ اوقاف را مصادره و ملاباشی را اعدام کرد. (۱۷۳۶–۱۷۴۷؛ ۱۷۳۶–۱۷۴۷؛ ردهٔ 1؛ سندِ تاریخی). شرطِ ابطال: شواهدی که مهاجرتِ روحانیت به عتبات را عمدتاً مستقل از فشارِ نادر نشان دهد. یادداشت: قیدِ خودِ متن: این روایت نقشِ نادر را بزرگ می‌کند؛ مهاجرت به عتبات پیش از او هم جریان داشت.",
+    "en": "Claim nader: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim nader: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:29661f76db",
+    "src:9afd45ad62"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "از حدودِ ۱۸۵۰ جریانِ بزرگی از پول به نجف و کربلا سرازیر شد: موقوفهٔ نوابانِ اَوَده در هند — که انتقال و توزیعش را خودِ بریتانیا اداره می‌کرد. (≈۱۸۵۰ به بعد؛ ۱۸۵۰–؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: حساب‌رسیِ تاریخی که سهمِ اوده را در برابرِ خمس ناچیز نشان دهد. یادداشت: این روایتِ رایج را که استقلالِ مالیِ روحانیت فقط از خمسِ مردمِ ایران آمد، پیچیده می‌کند.",
+    "en": "Claim oudh: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim oudh: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:818090ad06"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پس از درگذشتِ صاحبِ جواهر در ۱۸۵۰، شیخ مرتضی انصاری برای نخستین بار مرجعِ تقلیدِ بلامنازعِ کلِ جهانِ شیعه شد و نظامِ دریافتِ وجوهات را قاعده‌مند کرد. (۱۸۵۰؛ ۱۸۵۰–۱۸۶۴؛ ردهٔ 1؛ سندِ تاریخی). شرطِ ابطال: شواهدی از مراجعِ هم‌ترازِ هم‌زمان که «بلامنازع» را نقض کند.",
+    "en": "Claim ansari: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim ansari: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:818090ad06"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "امتیازِ رویتر در ۱۸۷۲ تقریباً کلِ منابعِ اقتصادیِ کشور را به یک تبعهٔ بریتانیا واگذار کرد؛ لردکرزن آن را «کامل‌ترین واگذاریِ منابعِ یک کشور به یک بیگانه در تمامِ تاریخ» خواند. (۱۸۷۲؛ ۱۸۷۲؛ ردهٔ 1؛ سندِ تاریخی). شرطِ ابطال: متنِ امتیاز که دامنه‌اش را محدودتر نشان دهد.",
+    "en": "Claim reuter: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim reuter: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:75089897c4"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "تحریمِ سراسریِ تنباکو (۱۸۹۰) کار کرد و قرارداد در ۱۸۹۲ لغو شد — با غرامتی که نخستین بدهیِ خارجیِ ایران را رقم زد. (۱۸۹۰–۱۸۹۲؛ ۱۸۹۰–۱۸۹۲؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: تحلیلی که لغوِ امتیاز را عمدتاً به فشارِ روسیه یا مالیِ دولت نسبت دهد. یادداشت: پیوندِ بازار و روحانیت در این‌جا ساختاری بود نه اتفاقی — همان ائتلافی که موتورِ ۱۸۹۱، مشروطه و ۱۳۵۷ است. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim tobacco: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim tobacco: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "در مشروطه (۱۹۰۵–۱۹۱۱) روحانیت دو نیم شد؛ شیخ فضل‌الله نوری «مشروعه» خواست و در ۱۹۰۹ اعدام شد. جمهوری اسلامی وارثِ نوری است، نه بهبهانی. (۱۹۰۹؛ ۱۹۰۵–۱۹۱۱؛ ردهٔ 2؛ سندِ تاریخی + تفسیر). شرطِ ابطال: خوانشی که پیوندِ فکریِ جمهوری اسلامی را به خطِ مشروطه‌خواهِ روحانیت وصل کند. یادداشت: نتیجه‌ای که متن می‌گیرد: خطِ حاکمِ امروز خطی است که یک بار، در ۱۹۰۹، باخته بود. این یک تفسیر است.",
+    "en": "Claim nuri-1909: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim nuri-1909: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:3c12f4366b"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "آیت‌الله بروجردی تا ۱۹۶۱ سیاست‌گریزی را اصل کرد و جلوی ورودِ حوزه به سیاست را گرفت؛ مرگِ او دری را باز کرد که خمینی از آن وارد شد. (۱۹۶۱؛ –۱۹۶۱؛ ردهٔ 2؛ سندِ تاریخی + تفسیر). شرطِ ابطال: شواهدی از فعالیتِ سیاسیِ سازمان‌یافتهٔ حوزه در دورهٔ بروجردی.",
+    "en": "Claim borujerdi: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim borujerdi: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:740cb65f08",
+    "src:1fcd553f41"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نوآوریِ خمینی در مفهومِ نیابت نبود، در دامنهٔ آن بود: ملا احمد نراقی (د. ۱۸۲۹) پیش‌تر از نیابتِ عامهٔ فقیه گفته بود. (۱۹۷۰ · ۱۸۲۹؛ ۱۸۲۹ ← ۱۹۷۰؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: خوانشِ عوائد الایام که ادعای نراقی را به‌مراتب محدودتر نشان دهد. یادداشت: این ردِ صریحِ ادعای رایجِ «کاملاً بی‌سابقه» است.",
+    "en": "Claim velayat: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim velayat: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:9cbf7f5dbf",
+    "src:21e1ce9154"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پرسشِ درستِ ۱۳۵۷ این نیست که چرا مردم مذهبی‌تر شدند — نشدند — بلکه این است که چرا وقتی رژیم افتاد فقط یک نیرو آمادهٔ گرفتنِ قدرت بود. ساواک هر شبکهٔ سراسری را نابود کرده بود، به‌جز یکی. (کیفی؛ ۱۳۳۲–۱۳۵۷؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: شواهدی از یک شبکهٔ سراسریِ رقیب که در ۵۷ سالم مانده بود. (محلِ نزاع) یادداشت: قیدِ خودِ متن: شبکهٔ مسجد توضیح می‌دهد چرا روحانیت توانست هماهنگ کند؛ توضیح نمی‌دهد چرا در نبردِ قدرتِ ۱۳۵۸–۱۳۶۰ برنده شد. آن را سازماندهی، خشونت و کاریزما توضیح می‌دهد.",
+    "en": "Claim only-network: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim only-network: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:435917f7dd"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "چپِ ایران زبانِ بسیجش را به روحانیت قرض داد؛ روحانیت با همان زبان خودش را حاکم کرد و چپ را حذف: مجاهدین از ۱۳۶۰، حزب توده در ۱۳۶۲، و کشتارِ ۱۳۶۷. (۱۳۶۰–۱۳۶۷؛ ۱۳۵۷–۱۳۶۷؛ ردهٔ 1؛ سندِ تاریخی). شرطِ ابطال: شواهدی که ائتلافِ چپ و روحانیت را تاکتیکیِ کوتاه و کم‌اثر نشان دهد. یادداشت: متن این را یک خطای شناختی می‌داند نه یک موضعِ ایدئولوژیک — و همان الگو را در افغانستان و در رشدِ حماس نشان می‌دهد.",
+    "en": "Claim left-borrowed: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim left-borrowed: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:9cbf7f5dbf"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "جنبشِ باب از ۱۸۴۴ آغاز شد و باب در ۱۸۵۰ اعدام شد؛ اثرِ ساختاری‌اش این بود که روحانیتِ رسمی خود را در کنارِ دولت نگهبانِ نظم تعریف کرد و یک دشمنِ داخلیِ دائمی به دست آورد. (۱۸۴۴–۱۸۵۰؛ ۱۸۴۴–۱۸۵۰؛ ردهٔ 2؛ سندِ تاریخی + تفسیر). شرطِ ابطال: روایتی که آزارِ بهائیان را عمدتاً پس از ۱۳۵۷ و بی‌ارتباط با این دوره نشان دهد.",
+    "en": "Claim babi: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim babi: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:fcd2050f8a"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "رابطهٔ ایران و یهودیت یکی از قدیمی‌ترین و پیوسته‌ترین روابطِ دو تمدن در تاریخِ بشر است — حدودِ ۲۷۰۰ سال. (≈۲۷۰۰ سال؛ ≈۷۰۰ پ.م تا امروز؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: گاه‌شماری که حضورِ پیوسته را قطع‌شده نشان دهد. یادداشت: عددِ ۲۷۰۰ (از اسارتِ آشور) با عددِ ۲۶۰۰ (از کوروش) در صفحهٔ دیگرِ همین سایت فرق دارد؛ هر دو درست‌اند چون مبدأشان فرق می‌کند. این را باید صریح گفت.",
+    "en": "Claim thread-2700: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim thread-2700: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:f34eb6e679"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "آیت‌الله منتظری، جانشینِ تعیین‌شدهٔ رهبری از ۱۳۶۴ (۱۹۸۵)، پس از اعتراض به اعدامِ دسته‌جمعیِ زندانیانِ سیاسی در ۱۳۶۷، در فروردینِ ۱۳۶۸ (مارسِ ۱۹۸۹) کنار گذاشته شد. (۱۳۶۴ ← ۱۳۶۸؛ ۱۳۶۷–۱۳۶۸؛ ردهٔ 2؛ سندِ تاریخی). شرطِ ابطال: اسنادی که نشان دهد کنارگذاشتنِ منتظری ربطی به اعتراضش به اعدام‌ها نداشت. یادداشت: این سطر یک نمونه است، نه اثبات. ادعای کارت — که مخالفتِ روحانی برای حکومتِ دینی از هر نقدِ بیرونی گران‌تر است — تفسیر است؛ این نمونه نشان می‌دهد حکومت این مخالفت را چقدر جدی گرفت، نه اینکه چقدر به آن ضربه زد.",
+    "en": "Claim montazeri-1989: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim montazeri-1989: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:c0362f9228"
+   ],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "جدولِ ۸۴ ادعا (ابزار)",
+    "en": "84-claim table (tool)",
+    "nl": "84-claim table (tool)"
+   }
+  },
+  {
+   "to": "simorgh:audit",
+   "rel": "see-also",
+   "note": {
+    "fa": "ممیزیِ ضعف‌ها",
+    "en": "Audit of weaknesses",
+    "nl": "Audit of weaknesses"
+   }
+  },
+  {
+   "to": "simorgh:inspect-claim",
+   "rel": "see-also",
+   "note": {
+    "fa": "وارسیِ یک ادعا",
+    "en": "Inspect a claim",
+    "nl": "Inspect a claim"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:1fcd553f41",
+  "src:21e1ce9154",
+  "src:29661f76db",
+  "src:3c12f4366b",
+  "src:3de57600b8",
+  "src:435917f7dd",
+  "src:4cde610b3d",
+  "src:740cb65f08",
+  "src:75089897c4",
+  "src:7f0523f6e7",
+  "src:818090ad06",
+  "src:9afd45ad62",
+  "src:9cbf7f5dbf",
+  "src:c0362f9228",
+  "src:f34eb6e679",
+  "src:fcd2050f8a"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

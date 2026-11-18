@@ -1,0 +1,127 @@
+{
+ "id": "simorgh:master-plan",
+ "kind": "concept",
+ "title": {
+  "fa": "نقشهٔ کلان: پنج لایه و راهنقشهٔ دروازه‌ای",
+  "en": "Master plan: five layers and a gated roadmap",
+  "nl": "Master plan: five layers and a gated roadmap"
+ },
+ "aliases": [],
+ "parent": "simorgh:project",
+ "field": "simorgh:project",
+ "summary": {
+  "fa": "پروژه پنج لایه دارد که هرکدام دیگری را تغذیه می‌کند، و راهنقشه‌اش با دروازه می‌رود نه با تاریخ: هر مرحله وقتی شروع می‌شود که دروازهٔ قبلی بسته شده باشد.",
+  "en": "The project has five layers feeding each other and a roadmap that goes by gates, not dates: each stage starts once the previous gate has closed.",
+  "nl": "The project has five layers feeding each other and a roadmap that goes by gates, not dates: each stage starts once the previous gate has closed."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "لایه‌ها: علم: روان، جامعه، فلسفه، تبار، تاریخ و علم‌های تازه، همه با منبع؛ ایران: داده و ریشه‌یابی هر آسیب، و دفتر ویرانی‌ها؛ سیمرغ: بازی مافیای ایران: هم ابزار فهم، هم درِ ورود آدم‌ها؛ شبکه و درآمد: محصولاتی در اروپا که هم پول می‌سازند هم آدم‌های معتمد را وصل می‌کنند؛ ساخت ایران: روز آزادی، صد روز اول، و سهم هر نفر",
+    "en": "Layers as in the Persian text.",
+    "nl": "Layers as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مرحلهٔ پایه: نظریهٔ بازی و علوم سیاسی، جستجوی هوشمند، کارت‌های مرغ و «چرا؟». دروازه: حلقهٔ خودی نسخهٔ اول بازی را آزمود",
+    "en": "Stage پایه: content and gate as in the Persian text.",
+    "nl": "Stage پایه: content and gate as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مرحلهٔ حلقهٔ خودی: بازی آزمایشی، راهنمای امنیت دیجیتال، نخستین درآمد. دروازه: راهنمای امنیت نوشته شد و درآمد رسید",
+    "en": "Stage حلقهٔ خودی: content and gate as in the Persian text.",
+    "nl": "Stage حلقهٔ خودی: content and gate as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مرحلهٔ دایرهٔ دوم: دعوت با ضامن، دفتر ویرانی‌ها، دستیار برای حلقه، نسخهٔ چاپی بازی. دروازه: هر مرغ یک مسئول دارد",
+    "en": "Stage دایرهٔ دوم: content and gate as in the Persian text.",
+    "nl": "Stage دایرهٔ دوم: content and gate as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مرحلهٔ عموم: نسخهٔ آنلاین سیمرغ، دوره‌ها، نهاد غیرانتفاعی شفاف، «سهم من» برای همه. دروازه: روز آزادی",
+    "en": "Stage عموم: content and gate as in the Persian text.",
+    "nl": "Stage عموم: content and gate as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مرحلهٔ فردا: جشن و پاک‌سازی، هفتهٔ اول، صد روز اول، ساختن",
+    "en": "Stage فردا: content and gate as in the Persian text.",
+    "nl": "Stage فردا: content and gate as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:sciences-26",
+   "rel": "see-also",
+   "note": {
+    "fa": "بیست‌وشش علم",
+    "en": "Twenty-six sciences",
+    "nl": "Twenty-six sciences"
+   }
+  },
+  {
+   "to": "simorgh:ruins-ledger",
+   "rel": "see-also",
+   "note": {
+    "fa": "دفترِ ویرانی‌ها",
+    "en": "Ruins ledger",
+    "nl": "Ruins ledger"
+   }
+  },
+  {
+   "to": "simorgh:products-19",
+   "rel": "see-also",
+   "note": {
+    "fa": "نوزده محصول",
+    "en": "Nineteen products",
+    "nl": "Nineteen products"
+   }
+  },
+  {
+   "to": "simorgh:circle-table",
+   "rel": "see-also",
+   "note": {
+    "fa": "میزِ دایره‌ای",
+    "en": "Circle table",
+    "nl": "Circle table"
+   }
+  },
+  {
+   "to": "simorgh:tools-directory",
+   "rel": "see-also",
+   "note": {
+    "fa": "ابزارها",
+    "en": "Tools",
+    "nl": "Tools"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

@@ -1,0 +1,97 @@
+{
+ "id": "simorgh:safety-first",
+ "kind": "concept",
+ "title": {
+  "fa": "اول ایمنی: قاعده‌های کم‌خطر برای هر کسی که داخلِ ایران است",
+  "en": "Safety first: low-risk rules for anyone inside Iran",
+  "nl": "Safety first: low-risk rules for anyone inside Iran"
+ },
+ "aliases": [],
+ "parent": "simorgh:action",
+ "field": "simorgh:action",
+ "summary": {
+  "fa": "هیچ بخشی از این پروژه از کسی که داخلِ ایران است کارِ پرخطر نمی‌خواهد. این مدخل قاعده‌های پایهٔ پروژه را جمع می‌کند و برای راهنمای کامل به منابعِ معتبر ارجاع می‌دهد.",
+  "en": "No part of this project asks anyone inside Iran for high-risk action. This entry gathers the project's base rules and points to reputable guides.",
+  "nl": "No part of this project asks anyone inside Iran for high-risk action. This entry gathers the project's base rules and points to reputable guides."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "قاعدهٔ پروژه: هیچ فهرستی از آدم‌ها ساخته نمی‌شود، نه از هواداران و نه از مخالفان؛ هیچ نامی بی‌اجازه جایی نمی‌رود؛ هیچ نقشی به آدمِ واقعی نسبت داده نمی‌شود.",
+    "en": "Project rule: no lists of people are made; no name goes anywhere without consent; no role is attributed to a real person.",
+    "nl": "Project rule: no lists of people are made; no name goes anywhere without consent; no role is attributed to a real person."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کوچک‌ترین قدم کم‌خطرترین هم هست: یک حرفِ راست به یک نفر که به تو اعتماد دارد. «نخواستن» و «ترسیدن» هم انتخابِ محترمی است.",
+    "en": "The smallest step is also the safest: one true word to one trusted person. Not wanting and being afraid are respectable choices too.",
+    "nl": "The smallest step is also the safest: one true word to one trusted person. Not wanting and being afraid are respectable choices too."
+   },
+   "sources": [
+    "src:436510de26"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "امنیتِ دیجیتال: پیش از هر کاری راهنمای معتبر را بخوانید؛ خطِ کمکِ امنیتِ دیجیتالِ Access Now و راهنمای «دفاعِ شخصی در برابرِ نظارت» بنیادِ مرزِ الکترونیک (EFF) نقطهٔ شروعِ خوبی‌اند. راهنمای امنیتِ خودِ حلقه هنوز نوشته نشده و تا آن وقت دربارهٔ حلقه بیرون از آن حرف زده نمی‌شود.",
+    "en": "Digital safety: read reputable guides first, such as Access Now's helpline and EFF's Surveillance Self-Defense. The circle's own guide is not yet written.",
+    "nl": "Digital safety: read reputable guides first, such as Access Now's helpline and EFF's Surveillance Self-Defense. The circle's own guide is not yet written."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "هر عددی در «قدمِ تو» میانگینِ صدها مورد است و تو یک نفری؛ همین حالا در ایران اعدام هست. هیچ صفحه‌ای حق ندارد برای تو تعیینِ تکلیف کند.",
+    "en": "Every number in \"your step\" is an average of hundreds of cases and you are one person; executions continue. No page has the right to decide for you.",
+    "nl": "Every number in \"your step\" is an average of hundreds of cases and you are one person; executions continue. No page has the right to decide for you."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:step-cards",
+   "rel": "see-also",
+   "note": {
+    "fa": "قدمِ تو",
+    "en": "Your step",
+    "nl": "Your step"
+   }
+  },
+  {
+   "to": "simorgh:my-share",
+   "rel": "see-also",
+   "note": {
+    "fa": "سهمِ من",
+    "en": "My share",
+    "nl": "My share"
+   }
+  },
+  {
+   "to": "simorgh:circle-table",
+   "rel": "see-also",
+   "note": {
+    "fa": "میزِ دایره‌ای",
+    "en": "Circle table",
+    "nl": "Circle table"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:436510de26"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "simorgh:characters-mafia",
+ "kind": "concept",
+ "title": {
+  "fa": "شخصیت‌های جناح مافیا",
+  "en": "Mafia-faction characters",
+  "nl": "Mafia-faction characters"
+ },
+ "aliases": [],
+ "parent": "simorgh:game",
+ "field": "simorgh:game",
+ "summary": {
+  "fa": "نُه شخصیت که بازی را نگه می‌دارند: از روایت‌ساز و دربان تا رانت‌خوار. شخصیت‌ها تیپ‌اند، نه آدمِ مشخص؛ هیچ نشانِ حزبی، دولتی یا مذهبیِ واقعی ندارند.",
+  "en": "Nine characters that keep the game going, from narrator and gatekeeper to rent-seeker. They are archetypes, not named people; none carries a real party, state or religious emblem.",
+  "nl": "Nine characters that keep the game going, from narrator and gatekeeper to rent-seeker. They are archetypes, not named people; none carries a real party, state or religious emblem."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "روایت‌ساز رسمی (فقط مافیا) — راویِ دروغین — روایت‌ساز رسمی. مثالِ واقعی: مجری و تهیه‌کنندهٔ رسانهٔ رسمی · خبرگزاری نیمه‌رسمی با نشتِ کنترل‌شده · منبرِ رسانه‌ای‌شده · مستندساز سفارشی. ریشهٔ اسطوره‌ای: ضحّاک، که مارها از دوشش رویید و هر روز باید مغز جوانان می‌خوردند. اینجا مارها کابلِ پخش‌اند و آنچه می‌خورند، روایت است.",
+    "en": "روایت‌ساز رسمی (M): archetype of the table. Real-world examples and myth root as in the Persian text.",
+    "nl": "روایت‌ساز رسمی (M): archetype of the table. Real-world examples and myth root as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مأمور گزینش و مجوز (فقط مافیا) — دربانِ مشروعیت. مثالِ واقعی: قاضی پرونده‌های امنیتی · کارمند گزینش و هیئت تخلفات · ممیز کتاب و مجوز · صادرکنندهٔ پروانه. ریشهٔ اسطوره‌ای: دْروج — دروغ در اوستا. نه یک هیولا؛ یک بی‌نظمی که به اسمِ نظم عمل می‌کند.",
+    "en": "مأمور گزینش و مجوز (M): archetype of the table. Real-world examples and myth root as in the Persian text.",
+    "nl": "مأمور گزینش و مجوز (M): archetype of the table. Real-world examples and myth root as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "جذب‌کننده با امتیاز (فقط مافیا) — تبدیل‌کننده. مثالِ واقعی: مسئول وام و سهمیه و بورسیه و سبد کالا · نهاد خیریهٔ وابسته · اردوهای فرهنگی · کارگزار استخدام دولتی در شهر کوچک. ریشهٔ اسطوره‌ای: پروانه و شمع در ادبیات عرفانی — عاشقی که خودش را می‌سوزاند و شمع بی‌گناه است. جذب‌کننده با امتیاز شمعی است که واقعاً نمی‌داند دارد چه می‌کند.",
+    "en": "جذب‌کننده با امتیاز (M): archetype of the table. Real-world examples and myth root as in the Persian text.",
+    "nl": "جذب‌کننده با امتیاز (M): archetype of the table. Real-world examples and myth root as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بازجو و پرونده‌ساز (فقط مافیا) — پاکسازچی. مثالِ واقعی: بازجو و پرونده‌ساز · تیم بازداشت شبانه · کارشناس عملیات روانی و سایبری. ریشهٔ اسطوره‌ای: اکوان دیو — دیوی که در شاهنامه آدم را در خواب می‌رباید و جابه‌جا می‌کند. خشونتِ بی‌سروصدا.",
+    "en": "بازجو و پرونده‌ساز (M): archetype of the table. Real-world examples and myth root as in the Persian text.",
+    "nl": "بازجو و پرونده‌ساز (M): archetype of the table. Real-world examples and myth root as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "خبرچین و شنود (فقط مافیا) — شنود. مثالِ واقعی: همسایهٔ گزارش‌دهنده · پایگاه محله · کارمند شنود و رصد شبکه · حساب‌های هویت‌جعلی. ریشهٔ اسطوره‌ای: چشم و گوشِ اهریمن در متون پهلوی — آنکه همه‌جا هست و هیچ‌جا دیده نمی‌شود.",
+    "en": "خبرچین و شنود (M): archetype of the table. Real-world examples and myth root as in the Persian text.",
+    "nl": "خبرچین و شنود (M): archetype of the table. Real-world examples and myth root as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "همراه ناآگاه (مافیا ∩ شهر) — خفتهٔ ناآگاه. مثالِ واقعی: بازنشرکنندهٔ روایت آماده · کارمندی که «فقط کارش را می‌کند» · خانوادهٔ وابسته به وام و سبد · هوادار پرشور بدون بررسی. ریشهٔ اسطوره‌ای: خوابِ ضحّاک — کسی که در رؤیای خودش راه می‌رود و بیداری دیگری او را می‌راند.",
+    "en": "همراه ناآگاه (MC): archetype of the table. Real-world examples and myth root as in the Persian text.",
+    "nl": "همراه ناآگاه (MC): archetype of the table. Real-world examples and myth root as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "منتقد مجاز (مافیا ∩ شهر) — منتقدِ ساختگی. مثالِ واقعی: روزنامه‌نگار خط‌قرمزشناس · اقتصاددان منتقد رسمی · هنرمند و طنزپرداز مجاز · اصلاح‌طلب بازمانده. ریشهٔ اسطوره‌ای: بلبل در ادبیات فارسی، نمادِ شکایتِ زیباست — شکایتی که هرگز به تغییر نمی‌رسد.",
+    "en": "منتقد مجاز (MC): archetype of the table. Real-world examples and myth root as in the Persian text.",
+    "nl": "منتقد مجاز (MC): archetype of the table. Real-world examples and myth root as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مأمور ناچار (مافیا ∩ شهر) — مجریِ رده‌پایین. مثالِ واقعی: سرباز وظیفهٔ یگان ویژه · مأمور کلانتری شهر کوچک · ضابط قضایی زیر خط فقر · نیروی قراردادی حراست. ریشهٔ اسطوره‌ای: سهراب — جوانی که در جبههٔ اشتباه ایستاد و نمی‌دانست روبه‌رویش کیست.",
+    "en": "مأمور ناچار (MC): archetype of the table. Real-world examples and myth root as in the Persian text.",
+    "nl": "مأمور ناچار (MC): archetype of the table. Real-world examples and myth root as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "رانت‌خوار (مافیا ∩ مستقل) — حلقهٔ منفعت. مثالِ واقعی: پیمانکار و هلدینگ شبه‌دولتی · کاسب تحریم و ارز ترجیحی · صراف شبکه‌ای · واسطهٔ کارمزدی. ریشهٔ اسطوره‌ای: آز — دیوِ آزمندی در اساطیر زرتشتی که در آخرالزمان، اگر چیزی برای خوردن نماند، خودش را می‌خورد.",
+    "en": "رانت‌خوار (MI): archetype of the table. Real-world examples and myth root as in the Persian text.",
+    "nl": "رانت‌خوار (MI): archetype of the table. Real-world examples and myth root as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:roles-ruling",
+   "rel": "see-also",
+   "note": {
+    "fa": "نقش‌های اجتماعیِ حاکمیت",
+    "en": "Ruling social roles",
+    "nl": "Ruling social roles"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

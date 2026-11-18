@@ -1,0 +1,262 @@
+{
+ "id": "simorgh:roles-ruling",
+ "kind": "concept",
+ "title": {
+  "fa": "نقش‌های اجتماعیِ حاکمیت (۱۲ نقش)",
+  "en": "Ruling-side social roles (12)",
+  "nl": "Ruling-side social roles (12)"
+ },
+ "aliases": [],
+ "parent": "simorgh:game",
+ "field": "simorgh:game",
+ "summary": {
+  "fa": "دوازده نقش در سمتِ حاکمیت، هرکدام با علمی که می‌گوید چرا این نقش پایدار است یا کجا می‌شکند: از «پدرخوانده» و «بازوی مسلح» تا نقش‌های خنثی‌شونده.",
+  "en": "Twelve roles on the ruling side, each with the science that says why it is stable or where it breaks.",
+  "nl": "Twelve roles on the ruling side, each with the science that says why it is stable or where it breaks."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "پدرخوانده (هستهٔ تصمیم): نظامی که حول یک نفر ساخته شود با مسئلهٔ جانشینی می‌شکند؛ قدرتش به همکاری دیگران وابسته است.",
+    "en": "پدرخوانده (هستهٔ تصمیم): the science behind the role, as in the Persian text.",
+    "nl": "پدرخوانده (هستهٔ تصمیم): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "بازوی مسلح (سپاه): نیروی مسلح وقتی کنار می‌کشد که آینده‌اش را امن ببیند؛ دو انگیزهٔ اقتصادی و امنیتی‌اش شکاف می‌سازد.",
+    "en": "بازوی مسلح (سپاه): the science behind the role, as in the Persian text.",
+    "nl": "بازوی مسلح (سپاه): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "شبکهٔ محله (بسیج): نظارت محله‌ای با هنجار و ترس کار می‌کند، نه با شمار واقعی؛ دیده شدن اکثریت آن را بی‌اثر می‌کند.",
+    "en": "شبکهٔ محله (بسیج): the science behind the role, as in the Persian text.",
+    "nl": "شبکهٔ محله (بسیج): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مشروعیت‌ساز (روحانیت رسمی): مشروعیت هزینهٔ اجبار را کم می‌کند؛ وقتی برود، حکومت باید بیشتر زور خرج کند.",
+    "en": "مشروعیت‌ساز (روحانیت رسمی): the science behind the role, as in the Persian text.",
+    "nl": "مشروعیت‌ساز (روحانیت رسمی): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مؤمن عمیق (جزء اول ۱۰ تا ۱۵٪): باور ایدئولوژیک سخت با استدلال جابه‌جا نمی‌شود؛ اما اقلیت کوچکی است.",
+    "en": "مؤمن عمیق (جزء اول ۱۰ تا ۱۵٪): the science behind the role, as in the Persian text.",
+    "nl": "مؤمن عمیق (جزء اول ۱۰ تا ۱۵٪): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "رانت‌خوار (وابستهٔ اقتصادی): وفاداری خریدنی است و با تغییر حساب سود و زیان جابه‌جا می‌شود.",
+    "en": "رانت‌خوار (وابستهٔ اقتصادی): the science behind the role, as in the Persian text.",
+    "nl": "رانت‌خوار (وابستهٔ اقتصادی): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارمند ناگزیر (وابستهٔ حقوقی): اطاعت اداری از ترس معاش می‌آید نه باور؛ تضمین شغل، او را آزاد می‌کند.",
+    "en": "کارمند ناگزیر (وابستهٔ حقوقی): the science behind the role, as in the Persian text.",
+    "nl": "کارمند ناگزیر (وابستهٔ حقوقی): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "روایت‌ساز رسمی (صداوسیما): انحصار روایت دانش مشترک مردم را می‌شکند؛ هر کس گمان می‌کند تنهاست.",
+    "en": "روایت‌ساز رسمی (صداوسیما): the science behind the role, as in the Persian text.",
+    "nl": "روایت‌ساز رسمی (صداوسیما): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دکتر شب (دستگاه امنیتی-سایبری): ترس از دیده شدن هزینهٔ نخستین قدم را بالا می‌برد و آستانهٔ همه را بالا نگه می‌دارد.",
+    "en": "دکتر شب (دستگاه امنیتی-سایبری): the science behind the role, as in the Persian text.",
+    "nl": "دکتر شب (دستگاه امنیتی-سایبری): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دلال معنا (بازار خرافه): وقتی نهاد دینی اعتبارش را می‌بازد، نیاز به معنا به بازار خرافه می‌رود.",
+    "en": "دلال معنا (بازار خرافه): the science behind the role, as in the Persian text.",
+    "nl": "دلال معنا (بازار خرافه): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ضابط خُرد (مأمور اجرا): سرکوب را آدم‌های معمولی اجرا می‌کنند که خود را فقط مأمور می‌دانند.",
+    "en": "ضابط خُرد (مأمور اجرا): the science behind the role, as in the Persian text.",
+    "nl": "ضابط خُرد (مأمور اجرا): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "معمار ماندن (بازسازی پایگاه): حکومت‌ها پس از بحران می‌کوشند ائتلاف تازه بسازند؛ نشانه‌های پیش‌هنگام را باید شناخت.",
+    "en": "معمار ماندن (بازسازی پایگاه): the science behind the role, as in the Persian text.",
+    "nl": "معمار ماندن (بازسازی پایگاه): the science behind the role, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "soc:consent-theory-of-power",
+   "rel": "see-also",
+   "note": {
+    "fa": "نظریهٔ رضایت در قدرت: دیکتاتور به همکاری مردم وابسته است",
+    "en": "نظریهٔ رضایت در قدرت: دیکتاتور به همکاری مردم وابسته است",
+    "nl": "نظریهٔ رضایت در قدرت: دیکتاتور به همکاری مردم وابسته است"
+   }
+  },
+  {
+   "to": "soc:legitimacy-trust-function",
+   "rel": "see-also",
+   "note": {
+    "fa": "مشروعیت: اعتماد، کارکرد و تعلق‌خاطر",
+    "en": "مشروعیت: اعتماد، کارکرد و تعلق‌خاطر",
+    "nl": "مشروعیت: اعتماد، کارکرد و تعلق‌خاطر"
+   }
+  },
+  {
+   "to": "soc:security-defection-credible-commitment",
+   "rel": "see-also",
+   "note": {
+    "fa": "ریزش نیروهای امنیتی و مسئلهٔ تعهد باورپذیر",
+    "en": "ریزش نیروهای امنیتی و مسئلهٔ تعهد باورپذیر",
+    "nl": "ریزش نیروهای امنیتی و مسئلهٔ تعهد باورپذیر"
+   }
+  },
+  {
+   "to": "soc:shah-army-personalised-command-1357",
+   "rel": "see-also",
+   "note": {
+    "fa": "ارتش شاهنشاهی در انقلاب ۱۳۵۷: فرماندهی شخصی‌شده، فرار سربازان و بی‌طرفی",
+    "en": "ارتش شاهنشاهی در انقلاب ۱۳۵۷: فرماندهی شخصی‌شده، فرار سربازان و بی‌طرفی",
+    "nl": "ارتش شاهنشاهی در انقلاب ۱۳۵۷: فرماندهی شخصی‌شده، فرار سربازان و بی‌طرفی"
+   }
+  },
+  {
+   "to": "soc:preference-falsification",
+   "rel": "see-also",
+   "note": {
+    "fa": "تحریف ترجیحات و غافلگیری انقلاب‌ها",
+    "en": "تحریف ترجیحات و غافلگیری انقلاب‌ها",
+    "nl": "تحریف ترجیحات و غافلگیری انقلاب‌ها"
+   }
+  },
+  {
+   "to": "soc:legitimacy-reduces-coercion-claim",
+   "rel": "see-also",
+   "note": {
+    "fa": "مشروعیت تاریخی به‌جای زور؟ ادعای سخنران دربارهٔ رهبری و گذار، با نقدها",
+    "en": "مشروعیت تاریخی به‌جای زور؟ ادعای سخنران دربارهٔ رهبری و گذار، با نقدها",
+    "nl": "مشروعیت تاریخی به‌جای زور؟ ادعای سخنران دربارهٔ رهبری و گذار، با نقدها"
+   }
+  },
+  {
+   "to": "soc:secularization",
+   "rel": "see-also",
+   "note": {
+    "fa": "سکولار شدن: امنیت وجودی و دین",
+    "en": "سکولار شدن: امنیت وجودی و دین",
+    "nl": "سکولار شدن: امنیت وجودی و دین"
+   }
+  },
+  {
+   "to": "soc:structural-corruption-causes-iran",
+   "rel": "see-also",
+   "note": {
+    "fa": "علل فساد ساختاری در ایران به روایت بهرامی کمیل: استبداد، رانت نفتی و نهادهای انحصاری",
+    "en": "علل فساد ساختاری در ایران به روایت بهرامی کمیل: استبداد، رانت نفتی و نهادهای انحصاری",
+    "nl": "علل فساد ساختاری در ایران به روایت بهرامی کمیل: استبداد، رانت نفتی و نهادهای انحصاری"
+   }
+  },
+  {
+   "to": "soc:selective-access-white-sim-rent",
+   "rel": "see-also",
+   "note": {
+    "fa": "دسترسی گزینشی و «رانت»: بحث سیم‌کارت‌های سفید",
+    "en": "دسترسی گزینشی و «رانت»: بحث سیم‌کارت‌های سفید",
+    "nl": "دسترسی گزینشی و «رانت»: بحث سیم‌کارت‌های سفید"
+   }
+  },
+  {
+   "to": "soc:fromm-bureaucratic-obedience-eichmann",
+   "rel": "see-also",
+   "note": {
+    "fa": "بوروکراسی، انسانِ سیستمی و آیشمن: اطاعتِ نامرئی در جامعهٔ مدرن نزد فروم",
+    "en": "بوروکراسی، انسانِ سیستمی و آیشمن: اطاعتِ نامرئی در جامعهٔ مدرن نزد فروم",
+    "nl": "بوروکراسی، انسانِ سیستمی و آیشمن: اطاعتِ نامرئی در جامعهٔ مدرن نزد فروم"
+   }
+  },
+  {
+   "to": "phil:arendt-obedience-is-support",
+   "rel": "see-also",
+   "note": {
+    "fa": "آرنت: «اطاعت» در سیاست و اخلاق وجود ندارد، فقط «حمایت»",
+    "en": "آرنت: «اطاعت» در سیاست و اخلاق وجود ندارد، فقط «حمایت»",
+    "nl": "آرنت: «اطاعت» در سیاست و اخلاق وجود ندارد، فقط «حمایت»"
+   }
+  },
+  {
+   "to": "soc:coordination-focal-points",
+   "rel": "see-also",
+   "note": {
+    "fa": "بازی هماهنگی و نقطهٔ کانونی",
+    "en": "بازی هماهنگی و نقطهٔ کانونی",
+    "nl": "بازی هماهنگی و نقطهٔ کانونی"
+   }
+  },
+  {
+   "to": "soc:threshold-models-of-collective-behaviour",
+   "rel": "see-also",
+   "note": {
+    "fa": "مدل آستانه: چرا جمع‌های همانند رفتار ناهمانند می‌کنند",
+    "en": "مدل آستانه: چرا جمع‌های همانند رفتار ناهمانند می‌کنند",
+    "nl": "مدل آستانه: چرا جمع‌های همانند رفتار ناهمانند می‌کنند"
+   }
+  },
+  {
+   "to": "phil:fear-exaggerates-danger",
+   "rel": "see-also",
+   "note": {
+    "fa": "ترس، خطر را بزرگ‌تر از واقع نشان می‌دهد (حکایت پرتگاه تاریک)",
+    "en": "ترس، خطر را بزرگ‌تر از واقع نشان می‌دهد (حکایت پرتگاه تاریک)",
+    "nl": "ترس، خطر را بزرگ‌تر از واقع نشان می‌دهد (حکایت پرتگاه تاریک)"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

@@ -1,0 +1,196 @@
+{
+ "id": "simorgh:covenantal-transition",
+ "kind": "concept",
+ "title": {
+  "fa": "گذارِ میثاقی و برنامهٔ ۹۰ روز / ۹ ماه / ۶۰۰ روز",
+  "en": "Covenantal transition and the 90 day / 9 month / 600 day plan",
+  "nl": "Covenantal transition and the 90 day / 9 month / 600 day plan"
+ },
+ "aliases": [],
+ "parent": "simorgh:strategy",
+ "field": "simorgh:strategy",
+ "summary": {
+  "fa": "راهِ یکم اگر بخواهد از حرف به فرایند بدل شود سه بازهٔ زمانی دارد و هیچ‌کدام به مجوزِ کسی نیاز ندارد. هر بازه یک یا چند قفلِ میز را می‌شکند.",
+  "en": "If path 1 is to turn from talk into process it has three time spans, none needing anyone's permission. Each breaks one or more locks of the table.",
+  "nl": "If path 1 is to turn from talk into process it has three time spans, none needing anyone's permission. Each breaks one or more locks of the table."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "۹۰ روز، سوزاندنِ پَرِ یکم: ساختنِ «آمارگرِ مستقل» و «نهادِ شفافیت» که هر ماه اندازهٔ واقعیِ اکثریت را منتشر کند و ادعای هر دو طرف را راستی‌آزمایی کند، و انتشارِ نسخهٔ صفرِ میثاقِ حداقلی در چهار بند با امضای فراجناحی. قفل‌ها: آبشارِ اطلاعاتی، نبودِ نقطهٔ کانونی.",
+    "en": "90 days, burning feather one: build an independent statistician and a transparency body that publishes the majority's true size monthly and fact-checks both sides, and issue version zero of the minimal covenant in four clauses with cross-camp signatures. Locks: information cascade, no focal point.",
+    "nl": "90 days, burning feather one: build an independent statistician and a transparency body that publishes the majority's true size monthly and fact-checks both sides, and issue version zero of the minimal covenant in four clauses with cross-camp signatures. Locks: information cascade, no focal point."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "۹ ماه، ساختنِ صندوق و سپر: «صندوقِ پشتیبانیِ اعتصاب» (حقوقِ یک تا سه ماه) و «حامی و پوشش‌دهنده» (شبکهٔ حقوقی-درمانیِ داوطلب)، و انتشارِ متنِ عدالتِ انتقالی با عفوِ مشروط که حقوق‌دانانِ داخل و خارج امضا کنند. قفل‌ها: نامتقارنیِ هزینه، ترسِ جزء دوم و سوم.",
+    "en": "9 months, building fund and shield: a strike-support fund (one to three months' pay) and a patron-and-cover network (volunteer legal and medical), plus a transitional-justice text with conditional amnesty signed by lawyers inside and outside. Locks: cost asymmetry, fear of the second and third tier.",
+    "nl": "9 months, building fund and shield: a strike-support fund (one to three months' pay) and a patron-and-cover network (volunteer legal and medical), plus a transitional-justice text with conditional amnesty signed by lawyers inside and outside. Locks: cost asymmetry, fear of the second and third tier."
+   },
+   "sources": [
+    "src:b16fff45ff",
+    "src:611b119f9f"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "۶۰۰ روز، رأیِ مؤسسان: پیش‌نویسِ قانونِ اساسی با بیشترین مشارکت (نه پشتِ درهای بسته)؛ تاریخِ همه‌پرسی از روزِ نخست اعلام می‌شود و تغییر نمی‌کند. پس از میزِ نقد، نگارشِ پیش‌نویس از فازِ سوم به فازِ اول منتقل شد. قفل‌ها: فقدانِ فرایندِ تأسیس، خطرِ فردمحوری.",
+    "en": "600 days, the founders' vote: a draft constitution with maximum participation; the referendum date is announced on day one and never changes. After the critique table, drafting moved from phase three to phase one. Locks: no founding process, personality dependence.",
+    "nl": "600 days, the founders' vote: a draft constitution with maximum participation; the referendum date is announced on day one and never changes. After the critique table, drafting moved from phase three to phase one. Locks: no founding process, personality dependence."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "میثاقِ حداقلی شش بند دارد (نه شصت): تمامیتِ ارضی و برابریِ شهروندی؛ حاکمیتِ قانون؛ عدالت بدون انتقام؛ آزادیِ دین و بی‌دینی؛ تاریخِ مشخصِ رأی‌گیری؛ عدمِ بهره‌برداریِ انتخاباتی از دورهٔ گذار. اجماع بر فرمِ حکومت لازم نیست و همین‌الان ممکن هم نیست.",
+    "en": "The minimal covenant has six clauses (not sixty): territorial integrity and equal citizenship; rule of law; justice without revenge; freedom of religion and non-religion; a fixed vote date; no electoral exploitation of the transition. Consensus on the form of government is not needed and not possible now.",
+    "nl": "The minimal covenant has six clauses (not sixty): territorial integrity and equal citizenship; rule of law; justice without revenge; freedom of religion and non-religion; a fixed vote date; no electoral exploitation of the transition. Consensus on the form of government is not needed and not possible now."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "چرا میثاقِ «بی‌فرم» با واقعیت جور است: در پیمایشِ گمان هیچ نظامی اکثریت ندارد (پادشاهی حدود ۳۴٪، جمهوری حدود ۲۸٪، جمهوری اسلامی حدود ۱۳٪، یک‌چهارم نامطمئن). هر میثاقی که فرم را پیشاپیش تعیین کند، دست‌کم دو سومِ جامعه را بیرون می‌گذارد. آزمونِ جانشینی و سنجهٔ «تنوعِ امضا» برای این است که میثاق در عمل به یک اردوگاه مصادره نشود.",
+    "en": "Why a form-free covenant fits reality: no system has a majority in GAMAAN. A covenant fixing the form in advance excludes at least two thirds of society.",
+    "nl": "Why a form-free covenant fits reality: no system has a majority in GAMAAN. A covenant fixing the form in advance excludes at least two thirds of society."
+   },
+   "sources": [
+    "src:6c0a6f1ef3"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "اصلاحِ ۹۰ روز با توجه به قطعِ اینترنت: نهادِ دادهٔ مستقل نمی‌تواند فقط آنلاین باشد. باید روشِ چندمنبعی داشته باشد (پیمایشِ مستقل با روشِ باز، دادهٔ رسمی، رصدِ مستقلِ قطعی‌ها مثل NetBlocks)، و نتیجه را در قالبی پخش کند که دهان‌به‌دهان و بدونِ اینترنت هم برود: یک عدد، یک جمله.",
+    "en": "90-day fix for internet shutdowns: the data body cannot be online-only; it needs multiple sources and a format that travels by word of mouth: one number, one sentence.",
+    "nl": "90-day fix for internet shutdowns: the data body cannot be online-only; it needs multiple sources and a format that travels by word of mouth: one number, one sentence."
+   },
+   "sources": [
+    "src:4d809f4a2a"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "اصلاحِ ۹ ماه: صندوق باید با شکافِ امروزِ دستمزد طراحی شود (میانگین حدود ۹۲ دلار در ماه): یعنی حقوقِ یک ماهِ یک کارگر در اندازهٔ کمکِ یک خانوادهٔ ایرانیِ خارج‌نشین است. اصولِ ایمنی: هیچ فهرستِ نامِ گیرندگانِ داخلِ ایران ساخته نشود، پرداخت از راه‌های قانونیِ موجود و شبکه‌های اعتمادِ محلی، حسابرسیِ مستقل در کشورِ میزبان، و شفافیتِ کلی (چقدر آمد، چقدر رفت) بدونِ افشای آدم‌ها.",
+    "en": "9-month fix: the fund must be designed for today's wage gap; one worker's month is in the range of one diaspora family's contribution. Safety: no list of recipients inside Iran, payment through existing legal routes and local trust networks, independent audit in the host country, aggregate transparency without exposing people.",
+    "nl": "9-month fix: the fund must be designed for today's wage gap; one worker's month is in the range of one diaspora family's contribution. Safety: no list of recipients inside Iran, payment through existing legal routes and local trust networks, independent audit in the host country, aggregate transparency without exposing people."
+   },
+   "sources": [
+    "src:7af62df15e"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "درس برای برنامهٔ سیمرغ، هر چهار تا مستقیم: میثاقِ مکتوب پیش از سقوط، نه بعد (پاسخ به ۲)؛ «معیارِ عمومی برای هر مدعیِ رهبری» و تاریخِ همه‌پرسیِ تغییرناپذیر (پاسخ به ۱ و ۳)؛ انضباطِ خشونت‌پرهیز که بهانهٔ تصفیه ندهد (پاسخ به ۴)؛ و نهادهایی که بعد از روزِ سقوط هم کار کنند (شبکهٔ جایگزین). چنووت و استفان یادآوری می‌کنند که ایران استثناست: بیشترِ کارزارهای خشونت‌پرهیز، حتی شکست‌خورده‌ها، بعدها به دموکراسی نزدیک‌ترند تا کارزارهای مسلح.",
+    "en": "Lessons for the Simorgh plan: a written covenant before the fall; a public standard for any claimant to leadership and a fixed referendum date; nonviolent discipline that gives no pretext for purges; institutions that keep working after the fall. Iran is the exception: most nonviolent campaigns, even failed ones, end closer to democracy than armed ones.",
+    "nl": "Lessons for the Simorgh plan: a written covenant before the fall; a public standard for any claimant to leadership and a fixed referendum date; nonviolent discipline that gives no pretext for purges; institutions that keep working after the fall. Iran is the exception: most nonviolent campaigns, even failed ones, end closer to democracy than armed ones."
+   },
+   "sources": [
+    "src:41c1e6a2e7"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:ten-unbuilt-roles",
+   "rel": "see-also",
+   "note": {
+    "fa": "ده نقشِ نساخته",
+    "en": "Ten unbuilt roles",
+    "nl": "Ten unbuilt roles"
+   }
+  },
+  {
+   "to": "simorgh:three-paths",
+   "rel": "see-also",
+   "note": {
+    "fa": "سه راه",
+    "en": "Three paths",
+    "nl": "Three paths"
+   }
+  },
+  {
+   "to": "simorgh:nine-faction-critique",
+   "rel": "see-also",
+   "note": {
+    "fa": "میزِ نقد",
+    "en": "Critique table",
+    "nl": "Critique table"
+   }
+  },
+  {
+   "to": "simorgh:pillars-of-support",
+   "rel": "see-also",
+   "note": {
+    "fa": "ستون‌ها",
+    "en": "Pillars",
+    "nl": "Pillars"
+   }
+  },
+  {
+   "to": "simorgh:pre-mortem",
+   "rel": "see-also",
+   "note": {
+    "fa": "پیش‌مرگ",
+    "en": "Pre-mortem",
+    "nl": "Pre-mortem"
+   }
+  },
+  {
+   "to": "simorgh:threshold-indicators",
+   "rel": "see-also",
+   "note": {
+    "fa": "نشانگرهای آستانه",
+    "en": "Threshold indicators",
+    "nl": "Threshold indicators"
+   }
+  },
+  {
+   "to": "soc:transitional-justice-options",
+   "rel": "see-also",
+   "note": {
+    "fa": "نظریه در ویکی جامعه‌شناسی",
+    "en": "Theory in the sociology wiki",
+    "nl": "Theory in the sociology wiki"
+   }
+  },
+  {
+   "to": "soc:pacted-transitions",
+   "rel": "see-also",
+   "note": {
+    "fa": "نظریه در ویکی جامعه‌شناسی",
+    "en": "Theory in the sociology wiki",
+    "nl": "Theory in the sociology wiki"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:41c1e6a2e7",
+  "src:4d809f4a2a",
+  "src:611b119f9f",
+  "src:6c0a6f1ef3",
+  "src:7af62df15e",
+  "src:b16fff45ff"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

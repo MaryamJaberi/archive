@@ -1,0 +1,167 @@
+{
+ "id": "simorgh:page-map",
+ "kind": "concept",
+ "title": {
+  "fa": "نقشهٔ صفحه‌ها: هر صفحهٔ قدیمی کجا رفت",
+  "en": "Page map: where each old page went",
+  "nl": "Page map: where each old page went"
+ },
+ "aliases": [],
+ "parent": "simorgh:project",
+ "field": "simorgh:project",
+ "summary": {
+  "fa": "پاسخ به «صفحه‌ها قاطی‌پاتی است»: هر صفحه و زیرصفحه یک مدخلِ مشخص در این ویکی دارد و ابزارها سر جایشان مانده‌اند. صفحهٔ قدیمی مرجعِ ابزار است و این ویکی مرجعِ محتوا.",
+  "en": "The answer to \"the pages are a mess\": every page and sub-page has a specific entry in this wiki and the tools stayed where they are. The old page is the tool; this wiki is the content.",
+  "nl": "The answer to \"the pages are a mess\": every page and sub-page has a specific entry in this wiki and the tools stayed where they are. The old page is the tool; this wiki is the content."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "صفحهٔ اصلی (index) و صفحهٔ بازی (game، ۱۲ جلد: قواعد، هفت شب، نقشهٔ میز، کتابِ شخصیت‌ها، ده نقشِ نساخته، پَر، سه راه، هزینه، کمیک، میزِ نقد، سی مرغ) ← بازی و استعاره: استعاره، هفت شب، سه پَر، شخصیت‌ها (سه مدخل)، ده نقشِ نساخته؛ و راهبرد: سه راه، گذارِ میثاقی، هزینه، میزِ نقد.",
+    "en": "Index and game pages map to the game and strategy entries.",
+    "nl": "Index and game pages map to the game and strategy entries."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نقش‌ها (roles) و چرا؟ (why) ← سه مدخلِ ۴۷ نقش؛ صفحه‌های nights، players و rules (نسخه‌های خالیِ جا‌ماندهٔ قدیمی) ← در «هفت شب» و «شخصیت‌ها» ادغام شدند و می‌توان حذفشان کرد.",
+    "en": "Roles and why map to the three 47-role entries; the empty nights, players and rules stubs merged into Seven nights and Characters and can be removed.",
+    "nl": "Roles and why map to the three 47-role entries; the empty nights, players and rules stubs merged into Seven nights and Characters and can be removed."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "data، health، status، audit، argmap، inspect، timeline، library ← بخشِ شواهد: دیتاست، ادعاها به تفکیکِ موضوع، ممیزی، سلامت، نقشهٔ استدلال، وارسی، خطِ زمان، شش مدخلِ کتابخانه.",
+    "en": "Evidence pages map to the evidence entries.",
+    "nl": "Evidence pages map to the evidence entries."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "two-irans، shared، timeline ← تاریخ: دو ایران، هشت پله، دفترِ مناقشه‌ها، ایران و اسرائیل.",
+    "en": "History pages map to the history entries.",
+    "nl": "History pages map to the history entries."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "sanad-rahbordi، eraee-rahbordi، europe، downloads، QA فایل‌ها ← راهبرد: سندِ راهبردی، ارائهٔ اروپا و فایل‌ها.",
+    "en": "Strategy pages map to the strategy entries.",
+    "nl": "Strategy pages map to the strategy entries."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "gam (قدمِ تو)، birds، plan.me، transitions-risks ← عمل: قدمِ تو، سی مرغ (شش مدخل)، بیست گروه، پانزده خطر، روز آزادی، سهمِ من.",
+    "en": "Action pages map to the action entries.",
+    "nl": "Action pages map to the action entries."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "plan، circle، sim، transitions، problems، map ← پروژه: نقشهٔ کلان، علم‌ها، دفترِ ویرانی‌ها، محصولات، میزِ دایره‌ای، نقشهٔ مشکل‌ها، ابزارها، فهرستِ کارهای مانده.",
+    "en": "Project pages map to the project entries.",
+    "nl": "Project pages map to the project entries."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "صفحهٔ story (کارگاهِ نوشتنِ یک متنِ شخصی) بخشی از ادعاها یا بازی نیست و محتوایش در این ویکی نیامده؛ فقط وجودش ثبت شده است.",
+    "en": "The story page (a personal writing workshop) is not part of the claims or the game and its content is deliberately not reproduced here; only its existence is noted.",
+    "nl": "The story page (a personal writing workshop) is not part of the claims or the game and its content is deliberately not reproduced here; only its existence is noted."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "مدخل‌های تازهٔ بازبینی (آبان ۱۴۰۵) که صفحهٔ قدیمی نداشتند: جدولِ تطبیقِ بازی و واقعیت، خروج و صدا، قواعدِ بازیِ نسخهٔ ۲، وضعیتِ امروز، چرا ۱۴ میلیون کافی نبود، ستون‌های پشتیبانی، پیش‌مرگ، نشانگرهای آستانه، و اول ایمنی.",
+    "en": "New entries from the November 2026 review with no old page.",
+    "nl": "New entries from the November 2026 review with no old page."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پیشنهادِ مرتب‌سازی (انجام نشده، فقط پیشنهاد): صفحهٔ عمومی به چهار ورودی کاهش یابد (بازی، شواهد، قدمِ تو، دانلود) و بقیه از زیرِ همین‌ها به ابزارها پیوند بخورند؛ نسخه‌های خالیِ nights، players و rules حذف شوند.",
+    "en": "Tidy-up proposal (not done, only suggested): reduce the public entrance to four doors and link the rest as tools beneath them; remove the empty stubs.",
+    "nl": "Tidy-up proposal (not done, only suggested): reduce the public entrance to four doors and link the rest as tools beneath them; remove the empty stubs."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "جداسازیِ لایه‌ها (۲۴ آبان ۱۴۰۵): روایت‌های تاریخی به ویکی تاریخ رفتند (بخشِ تازهٔ «از صفویه تا قاجار»، ایران و یهودیان، و درس‌های ۱۳۵۷ در مدخلِ انقلاب)؛ نظریه‌های عمومی به ویکی جامعه‌شناسی (خروج و صدا، تغییرِ تحمیل‌شده از بیرون، سرکوبِ دیجیتال، و افزوده به نظریهٔ رضایت و عدالتِ انتقالی)؛ عددهای تاریخ‌دار به لایهٔ ایران. سیمرغ فقط بازی، راهبرد، عمل و خودِ پروژه را نگه می‌دارد و به آن‌ها پیوند می‌دهد.",
+    "en": "Layer separation (15 November 2026): history to the history wiki, general theory to the sociology wiki, dated numbers to the Iran layer; Simorgh keeps game, strategy, action and project and links out.",
+    "nl": "Layer separation (15 November 2026): history to the history wiki, general theory to the sociology wiki, dated numbers to the Iran layer; Simorgh keeps game, strategy, action and project and links out."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:tools-directory",
+   "rel": "see-also",
+   "note": {
+    "fa": "فهرستِ ابزارها",
+    "en": "Tools directory",
+    "nl": "Tools directory"
+   }
+  },
+  {
+   "to": "simorgh:backlog",
+   "rel": "see-also",
+   "note": {
+    "fa": "کارهای مانده",
+    "en": "Backlog",
+    "nl": "Backlog"
+   }
+  },
+  {
+   "to": "simorgh:game-reality-map",
+   "rel": "see-also",
+   "note": {
+    "fa": "جدولِ تطبیق",
+    "en": "Game-to-reality map",
+    "nl": "Game-to-reality map"
+   }
+  },
+  {
+   "to": "simorgh:pre-mortem",
+   "rel": "see-also",
+   "note": {
+    "fa": "پیش‌مرگ",
+    "en": "Pre-mortem",
+    "nl": "Pre-mortem"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

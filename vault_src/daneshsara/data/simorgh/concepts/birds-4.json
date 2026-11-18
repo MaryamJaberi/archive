@@ -1,0 +1,91 @@
+{
+ "id": "simorgh:birds-4",
+ "kind": "concept",
+ "title": {
+  "fa": "مرغ‌ها: سازندگان دانایی",
+  "en": "Birds: سازندگان دانایی",
+  "nl": "Birds: سازندگان دانایی"
+ },
+ "aliases": [],
+ "parent": "simorgh:action",
+ "field": "simorgh:action",
+ "summary": {
+  "fa": "پنج مرغِ گروهِ «سازندگان دانایی» با مأموریت و قدمِ هرکدام.",
+  "en": "The five birds of the group \"سازندگان دانایی\" with the mission and step of each.",
+  "nl": "The five birds of the group \"سازندگان دانایی\" with the mission and step of each."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "آموزگار سوادآموزی: مأموریت: هر ایرانی بخواند، بنویسد و بسنجد. قدمِ امروز: به یک نفر چیزی یاد بده. روزِ آزادی: مدرسه پایگاه امن محله. پس از آن: سوادآموزی و کتاب درسی تازه.",
+    "en": "Bird آموزگار سوادآموزی: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird آموزگار سوادآموزی: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پژوهشگر و داده: مأموریت: آمار راست، برای تصمیم درست. قدمِ امروز: یک عدد دفتر ویرانی‌ها را با منبع کامل کن. روزِ آزادی: نگهبانی از اسناد و داده‌ها. پس از آن: سرشماری و آمار رسمی قابل اعتماد.",
+    "en": "Bird پژوهشگر و داده: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird پژوهشگر و داده: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "راستی‌آزما: مأموریت: شایعه نتواند شهر را به هم بریزد. قدمِ امروز: پیش از بازنشر، منبع را بسنج. روزِ آزادی: یک منبع رسمی راستی‌آزمایی‌شده. پس از آن: رسانهٔ عمومی مستقل.",
+    "en": "Bird راستی‌آزما: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird راستی‌آزما: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "رسانه و روایت: مأموریت: روایت همهٔ مردم، نه یک صدا. قدمِ امروز: روایت خودت را بنویس. روزِ آزادی: پوشش آزاد و چندصدایی. پس از آن: قانون رسانهٔ آزاد.",
+    "en": "Bird رسانه و روایت: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird رسانه و روایت: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مترجم: مأموریت: صدای ایران به جهان و برعکس. قدمِ امروز: یک مدخل دانش‌سرا را ترجمه کن. روزِ آزادی: ترجمه برای خبرنگاران خارجی. پس از آن: ترجمهٔ قانون‌ها و تجربه‌های کشورهای دیگر.",
+    "en": "Bird مترجم: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird مترجم: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "soc:preference-falsification",
+   "rel": "see-also",
+   "note": {
+    "fa": "تحریف ترجیحات",
+    "en": "تحریف ترجیحات",
+    "nl": "تحریف ترجیحات"
+   }
+  },
+  {
+   "to": "simorgh:birds-30",
+   "rel": "see-also",
+   "note": {
+    "fa": "سی مرغ",
+    "en": "Thirty birds",
+    "nl": "Thirty birds"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

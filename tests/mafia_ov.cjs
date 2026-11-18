@@ -1,0 +1,7 @@
+const {chromium}=require('playwright');const http=require('http'),fs=require('fs'),path=require('path');const ROOT='/home/claude/maryamjaberi.github.io';
+const T={'.html':'text/html; charset=utf-8','.js':'text/javascript','.css':'text/css','.json':'application/json','.svg':'image/svg+xml','.woff2':'font/woff2','.png':'image/png','.mp3':'audio/mpeg'};
+const srv=http.createServer((q,s)=>{let f=path.join(ROOT,decodeURIComponent(q.url.split('?')[0]));if(fs.existsSync(f)&&fs.statSync(f).isDirectory())f=path.join(f,'index.html');if(!fs.existsSync(f)){s.writeHead(404);return s.end()}s.writeHead(200,{'Content-Type':T[path.extname(f)]||'application/octet-stream'});fs.createReadStream(f).pipe(s)}).listen(8796);
+(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:390,height:844}});await p.route(/^https?:\/\/(?!localhost)/,r=>r.abort());
+await p.goto('http://localhost:8796/mafia/',{waitUntil:'load'});await p.waitForTimeout(1500);await p.getByText('ورود و راه‌اندازی مسابقه').first().click();await p.waitForTimeout(1500);
+console.log(await p.evaluate(()=>{const W=innerWidth;return [...document.querySelectorAll('body *')].filter(e=>{const r=e.getBoundingClientRect();return r.right>W+2||r.left<-2}).slice(0,8).map(e=>e.tagName+' cls='+(e.getAttribute('class')||'').slice(0,90)+' L'+Math.round(e.getBoundingClientRect().left)+' R'+Math.round(e.getBoundingClientRect().right)+' '+(e.innerText||'').slice(0,25).replace(/\n/g,' '))}));
+await p.screenshot({path:'mafia_setup_390.png'});await b.close();srv.close()})();

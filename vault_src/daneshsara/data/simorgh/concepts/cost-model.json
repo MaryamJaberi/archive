@@ -1,0 +1,112 @@
+{
+ "id": "simorgh:cost-model",
+ "kind": "concept",
+ "title": {
+  "fa": "برآوردِ هزینه: جانی و مالی",
+  "en": "Cost model: lives and money",
+  "nl": "Cost model: lives and money"
+ },
+ "aliases": [],
+ "parent": "simorgh:strategy",
+ "field": "simorgh:strategy",
+ "summary": {
+  "fa": "این‌ها پیش‌بینی نیستند؛ بازه‌های مدل‌شده‌اند از قیاسِ گذارهای مستندِ جهانی، مقیاس‌شده به ۸۷ میلیون با سه تعدیل (شهرنشینیِ ۷۷٪، ارزیابی‌های متن دربارهٔ خطرِ تجزیه و فردمحوری، و رفتارِ مشاهده‌شدهٔ جامعه در دی ۱۴۰۴). هر عدد مرتبهٔ بزرگی است نه رقم؛ ارزش در مقایسهٔ نسبیِ سه ستون است.",
+  "en": "These are not predictions; they are modelled ranges from comparable documented transitions, scaled to 87 million with three adjustments. Each number is an order of magnitude, not a figure; the value lies in comparing the columns.",
+  "nl": "These are not predictions; they are modelled ranges from comparable documented transitions, scaled to 87 million with three adjustments. Each number is an order of magnitude, not a figure; the value lies in comparing the columns."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "هزینهٔ جانی: گذارِ میثاقی ۱٬۰۰۰ تا ۱۵٬۰۰۰ کشته و کمتر از ۵۰۰ هزار آواره، ۱ تا ۳ سال ناامنی؛ گسستِ سریع ۵٬۰۰۰ تا ۵۰٬۰۰۰ کشته، ۰٫۵ تا ۲ میلیون آواره، ۲ تا ۵ سال؛ چرخهٔ خشونت ۱۰۰٬۰۰۰ تا ۵۰۰٬۰۰۰+ کشته، ۳ تا ۱۰ میلیون آواره، ۱۰ تا ۲۰ سال؛ وضعِ موجود: مرگ‌های «آرام» و مهاجرتِ فزاینده، نامحدود.",
+    "en": "Human cost: covenantal 1,000 to 15,000 deaths and under 500,000 displaced, 1 to 3 years; rapid rupture 5,000 to 50,000 deaths, 0.5 to 2 million displaced, 2 to 5 years; cycle of violence 100,000 to 500,000+ deaths, 3 to 10 million displaced, 10 to 20 years; status quo: slow deaths and rising emigration, open-ended.",
+    "nl": "Human cost: covenantal 1,000 to 15,000 deaths and under 500,000 displaced, 1 to 3 years; rapid rupture 5,000 to 50,000 deaths, 0.5 to 2 million displaced, 2 to 5 years; cycle of violence 100,000 to 500,000+ deaths, 3 to 10 million displaced, 10 to 20 years; status quo: slow deaths and rising emigration, open-ended."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "هزینهٔ مالی: افتِ GDP در اوج: ۵ تا ۱۲٪ (میثاقی)، ۱۵ تا ۲۵٪ (گسست)، ۴۰ تا ۷۰٪ (چرخهٔ خشونت)؛ بازسازی ۳۰–۶۰، ۸۰–۱۵۰ و ۲۵۰–۵۰۰ میلیارد دلار؛ بازگشت به سطحِ امروز ۲ تا ۴، ۵ تا ۸ و ۱۵ تا ۲۵ سال؛ بازدهِ خالصِ ده‌ساله +۴۰۰ تا ۸۰۰، +۵۰ تا ۳۰۰ و −۶۰۰ تا ۱٬۲۰۰ میلیارد دلار؛ وضعِ موجود −۴۰۰ تا ۶۰۰ هزینهٔ فرصت.",
+    "en": "Financial cost: peak GDP drop 5 to 12, 15 to 25 and 40 to 70 percent; reconstruction 30-60, 80-150 and 250-500 billion dollars; return to today's level 2-4, 5-8 and 15-25 years; ten-year net return +400 to 800, +50 to 300 and -600 to -1,200 billion; status quo -400 to -600 opportunity cost.",
+    "nl": "Financial cost: peak GDP drop 5 to 12, 15 to 25 and 40 to 70 percent; reconstruction 30-60, 80-150 and 250-500 billion dollars; return to today's level 2-4, 5-8 and 15-25 years; ten-year net return +400 to 800, +50 to 300 and -600 to -1,200 billion; status quo -400 to -600 opportunity cost."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "لنگرِ عددی: فرارِ مغزها ≈۵۰ میلیارد دلار در سال (برآوردِ منسوب به بانکِ جهانی، بی‌منبعِ اولیه) در برابرِ ≈۲۰ میلیارد صادراتِ نفتِ ۲۰۱۹؛ درآمدِ سرانه ۵٬۶۱۷ (۲۰۲۵) در برابرِ ۷٬۴۴۲ (۱۹۷۶). منتقدِ روش‌شناس می‌گوید این دو هم‌جنس نیستند و ترکیبِ جمعیت را نادیده می‌گیرد؛ نسبتِ اهرمِ ۱ به ۱۰٬۰۰۰ بازمحاسبه شد.",
+    "en": "Anchors: brain drain ≈50 billion dollars a year (estimate attributed to the World Bank, no primary source) against ≈20 billion 2019 oil exports; income per head 5,617 (2025) against 7,442 (1976). The methodologist critic says these are not like for like; the 1-to-10,000 leverage ratio was recomputed.",
+    "nl": "Anchors: brain drain ≈50 billion dollars a year (estimate attributed to the World Bank, no primary source) against ≈20 billion 2019 oil exports; income per head 5,617 (2025) against 7,442 (1976). The methodologist critic says these are not like for like; the 1-to-10,000 leverage ratio was recomputed."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "معادلهٔ پنجاه‌هزار: در حوزهٔ تمدنِ ایرانی (۳۰ تا ۵۰ کشور) پنجاه‌هزار نفرِ نخبه می‌خواهید که بدانند به یک تمدن تعلق دارند؛ و منبعِ تولیدِ آن‌ها، جمعیتِ دانشجویی، از ۴٫۸ به ۳٫۱۸ میلیون باریک می‌شود. هر سال تأخیر ظرفیتِ ساختنِ فردا را کم می‌کند و این جبران‌پذیر نیست.",
+    "en": "The fifty-thousand equation: across the Iranian civilisational area (30 to 50 countries) you need fifty thousand elite people who feel they belong to one civilisation; the student population that produces them shrinks from 4.8 to 3.18 million. Each year of delay reduces the capacity to build tomorrow, irreversibly.",
+    "nl": "The fifty-thousand equation: across the Iranian civilisational area (30 to 50 countries) you need fifty thousand elite people who feel they belong to one civilisation; the student population that produces them shrinks from 4.8 to 3.18 million. Each year of delay reduces the capacity to build tomorrow, irreversibly."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "هشدارِ بازبینی: جدول‌ها پیش از جنگِ ۱۴۰۴–۱۴۰۵ ساخته شدند. ستونِ «وضعِ موجود» حالا خودش هزینهٔ جنگ و محاصره را دارد (تورم ۷۳٫۶٪، خوراکی ۱۲۱٫۸٪)، پس فاصلهٔ «ماندن» با «گذارِ میثاقی» از آنچه جدول نشان می‌دهد بیشتر است. اعداد باید با دادهٔ تازه بازسازی شوند و تا آن وقت فقط مقایسهٔ نسبیِ ستون‌ها معتبر است.",
+    "en": "Review warning: the tables were built before the 2025-26 war. The status-quo column now itself carries war and blockade costs, so the gap between staying and covenantal transition is larger than shown. The numbers must be rebuilt; until then only the relative comparison of columns holds.",
+    "nl": "Review warning: the tables were built before the 2025-26 war. The status-quo column now itself carries war and blockade costs, so the gap between staying and covenantal transition is larger than shown. The numbers must be rebuilt; until then only the relative comparison of columns holds."
+   },
+   "sources": [
+    "src:7af62df15e"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:three-paths",
+   "rel": "see-also",
+   "note": {
+    "fa": "سه راه",
+    "en": "Three paths",
+    "nl": "Three paths"
+   }
+  },
+  {
+   "to": "simorgh:claims-model",
+   "rel": "see-also",
+   "note": {
+    "fa": "ادعاهای مدل",
+    "en": "Model claims",
+    "nl": "Model claims"
+   }
+  },
+  {
+   "to": "simorgh:audit",
+   "rel": "see-also",
+   "note": {
+    "fa": "ممیزی",
+    "en": "Audit",
+    "nl": "Audit"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:7af62df15e"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

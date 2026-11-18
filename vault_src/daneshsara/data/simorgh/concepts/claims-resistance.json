@@ -1,0 +1,231 @@
+{
+ "id": "simorgh:claims-resistance",
+ "kind": "concept",
+ "title": {
+  "fa": "ادعاهای مقاومت مدنی و گذار",
+  "en": "Claims: civil resistance and transition",
+  "nl": "Claims: civil resistance and transition"
+ },
+ "aliases": [],
+ "parent": "simorgh:evidence",
+ "field": "simorgh:evidence",
+ "summary": {
+  "fa": "16 ادعای منبع‌دار از مجموعهٔ ۸۴ادعایی، هر کدام با مقدار، دوره، ردهٔ اعتبار (۱ داده/سند، ۲ پژوهش، ۳ برآورد یا مدل) و شرطی که آن را باطل می‌کند. ادعایی که نتواند بگوید چه چیز ردش می‌کند ادعا نیست.",
+  "en": "16 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it.",
+  "nl": "16 sourced claims of the 84-claim set, each with value, period, tier (1 data/document, 2 research, 3 estimate or model) and the condition that would refute it."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "در ۳۲۳ خیزشِ ثبت‌شدهٔ ۱۹۰۰–۲۰۰۶، خیزش‌های خشونت‌پرهیز ۵۳٪ و خیزش‌های مسلحانه ۲۶٪ به هدفِ اعلام‌شده‌شان رسیدند. (۵۳٪ در برابر ۲۶٪؛ ۱۹۰۰–۲۰۰۶؛ ردهٔ 1؛ اندازه‌گیری). شرطِ ابطال: بازتحلیلِ NAVCO با تعریفِ دیگری از «موفقیت»، یا افزودنِ خیزش‌های پس از ۲۰۰۶، که نسبت را برگرداند.",
+    "en": "Claim navco-success: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim navco-success: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:41c1e6a2e7"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "هیچ خیزشی که ۳٫۵٪ جمعیت را به‌طور فعال و پیوسته به میدان آورده باشد در دادهٔ ثبت‌شده شکست نخورده — ولی این یک مشاهدهٔ آماری است، نه قانون. (۳٫۵٪؛ ۱۹۰۰–۲۰۰۶؛ ردهٔ 1؛ اندازه‌گیری). شرطِ ابطال: یک خیزشِ مستند با مشارکتِ فعالِ بالای ۳٫۵٪ که به هدفش نرسیده باشد. خودِ چنووث می‌گوید سازمان‌یافتگی و تداوم دستِ‌کم به‌اندازهٔ تعداد مهم‌اند. (محلِ نزاع)",
+    "en": "Claim rule-35: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim rule-35: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:040033aaf5"
+   ],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "همان قاعده یعنی در آن خیزش‌های موفق، ۹۶٫۵٪ جمعیت شرکت نکردند. (۹۶٫۵٪؛ ۱۹۰۰–۲۰۰۶؛ ردهٔ 1؛ محاسبهٔ مستقیم). شرطِ ابطال: مستقل نیست: حسابِ صرف روی سطرِ rule-35 است. اگر برآوردی معتبر نشان دهد اوجِ مشارکت در خیزش‌های موفق معمولاً بسیار بالاتر از ۳٫۵٪ بوده، سهمِ «شرکت‌نکرده» کوچک‌تر و این سطر رد می‌شود. منبع: مدلِ خودِ پروژه، نه یافتهٔ بیرونی.",
+    "en": "Claim rule-35-inverse: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim rule-35-inverse: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "لحظهٔ تعیین‌کنندهٔ خیزش‌ها، لحظهٔ ریزشِ نیروهای امنیتی است؛ پیوندهای خانوادگی و محلی میانِ معترضان و نیروها یکی از سازوکارهای اصلیِ آن است. (کیفی؛ —؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: مجموعه‌ای از خیزش‌های موفق بدونِ ریزشِ معنادارِ نیروهای امنیتی.",
+    "en": "Claim defection: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim defection: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:41c1e6a2e7"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نرخِ موفقیتِ خیزش‌ها — از هر نوع — در دههٔ اخیر افت کرده، چون حکومت‌ها یاد گرفته‌اند. (روندِ نزولی؛ ≈۲۰۱۰ به بعد؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: نسخهٔ تازهٔ NAVCO یا دادهٔ هم‌ارز که نرخِ موفقیتِ کارزارهای پس از ۲۰۱۰ را برابر یا بالاتر از دهه‌های ۱۹۹۰ و ۲۰۰۰ نشان دهد.",
+    "en": "Claim success-declining: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim success-declining: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:040033aaf5"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "مردم ترجیحِ واقعیِ خود را پنهان می‌کنند تا لحظه‌ای که آبشارِ اطلاعاتی بشکند؛ در ۵۷ هم تا هفته‌های آخر خودِ شرکت‌کننده‌ها فکر نمی‌کردند ممکن باشد. (کیفی؛ ۱۹۸۹ · ۱۳۵۷؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: شواهدی که نشان دهد پیش از ۵۷ نظرِ عمومی به‌درستی قابلِ اندازه‌گیری و پیش‌بینی بود.",
+    "en": "Claim preference-falsification: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim preference-falsification: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:436510de26",
+    "src:435917f7dd"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "ضربهٔ نهاییِ ۵۷ را اعتصابِ کارگرانِ نفت در پاییزِ ۱۳۵۷ زد — که شبکه‌های کارگری و چپ سازمانش دادند، نه مسجد. (کیفی؛ پاییز ۱۳۵۷؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: سندی که نشان دهد هماهنگیِ اعتصابِ نفت از شبکهٔ مسجد آمد. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim oil-strike-57: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim oil-strike-57: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "اعتصاب‌های کامیون‌دارانِ ۱۳۹۷ و ۱۳۹۸ از مؤثرترین حرکت‌های دههٔ اخیر بودند، به یک دلیلِ ساختاری: پخش‌بودن. (کیفی؛ ۱۳۹۷–۱۳۹۸؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: ارزیابی‌ای که اثرِ اقتصادیِ آن اعتصاب‌ها را ناچیز نشان دهد. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim truckers: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim truckers: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "یکی از ماندگارترین تغییراتِ ۱۴۰۱، جابه‌جاییِ قدرتِ چانه‌زنی داخلِ خودِ خانه بود — نه در خیابان. (کیفی؛ ۱۴۰۱؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: پیمایشی که نشان دهد ساختارِ قدرت در خانواده‌ها پس از ۱۴۰۱ تغییرِ معناداری نکرد.",
+    "en": "Claim home-bargaining: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim home-bargaining: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:f1a8df8bf8"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "فاصلهٔ میانِ موج‌های اعتراضی کوتاه‌تر شده: از مشروطه تا ۵۷ هفتاد و دو سال؛ از ۹۶ تا امروز چهار موج در هشت سال. (۷۲ سال ← ۸ سال؛ ۱۲۸۵–۱۴۰۵؛ ردهٔ 1؛ گاه‌شمار). شرطِ ابطال: تعریفِ دیگری از «موج» که فاصله‌ها را یکنواخت کند. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim wave-interval: value, period, tier 1 and falsifier as in the Persian text.",
+    "nl": "Claim wave-interval: value, period, tier 1 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "جنبشِ دانشجویی به‌تنهایی هرگز در ایران حکومتی را عوض نکرده؛ ۷۸ و ۸۸ و ۱۴۰۱ همه شروعِ درخشان داشتند و به‌تنهایی ماندند. (کیفی؛ ۱۳۷۸ · ۱۳۸۸ · ۱۴۰۱؛ ردهٔ 2؛ گاه‌شمار). شرطِ ابطال: موردی که در آن اعتراضِ دانشجویی به‌تنهایی تغییرِ حکومتی آورده باشد. (محلِ نزاع) ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim student-movement: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim student-movement: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": [
+    "editor-note"
+   ]
+  },
+  {
+   "text": {
+    "fa": "در مشروطه و در ۵۷، بستنِ بازار یکی از دو سه اهرمی بود که واقعاً کار کرد. (کیفی؛ ۱۲۸۵ · ۱۳۵۷؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: تحلیلی که سهمِ بازار در آن دو رویداد را حاشیه‌ای نشان دهد. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim bazaar-lever: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim bazaar-lever: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "دموکراسی‌هایی که از بسیجِ طولانی و سازمان‌یافتهٔ مردمی بیرون آمده‌اند بیشتر دوام آورده‌اند تا آن‌هایی که در سکون متولد شدند: در تحلیلِ بقای ۱۱۲ دموکراسیِ تازه در ۸۰ کشور، هرچه بسیج طولانی‌تر، احتمالِ ماندنِ دموکراسی بیشتر. (۱۱۲ دموکراسی · ۸۰ کشور؛ نیم‌قرنِ اخیر؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: بازتحلیلی با دادهٔ گسترده‌تر که نشان دهد طولِ بسیج پیش از گذار با دوامِ دموکراسیِ بعدی رابطه‌ای ندارد یا رابطه‌اش منفی است. یادداشت: سازوکاری که کدیور نشان می‌دهد «ساختارِ سازمانی» است: کادرِ رهبری، پیوند با جامعه، و مهارِ دولتِ پس از گذار. کارتِ «تنگ‌دست» آن را به «شبکهٔ روزمرهٔ کمکِ متقابل» تعمیم داده که نزدیک است ولی همان نیست. اینکه شوراهای صنفیِ معلمان «پیوسته‌ترین تشکل»اند هنوز سطرِ جدا ندارد.",
+    "en": "Claim kadivar-durability: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim kadivar-durability: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:24d305d03c",
+    "src:f1a8df8bf8"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "«عدمِ همکاریِ اداری» در فهرستِ ۱۹۸ روشِ جین شارپ یک خانوادهٔ کامل است: امتناعِ گزینشی از کمک، بستنِ مسیرِ فرمان و اطلاعات، کُندکاری و ممانعت، عدمِ همکاریِ اداریِ عمومی، و ناکارآمدیِ عمدی. (روش‌های ۱۴۲–۱۴۷؛ فهرستِ ۱۹۷۳؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: برای خودِ فهرست: متنِ شارپ. برای ادعای کارت: شواهدی که نشان دهد کارمندانی که این روش‌ها را به کار برده‌اند به همان شدتِ معترضانِ خیابانی مجازات شده‌اند. یادداشت: شارپ فهرست و نمونهٔ تاریخی می‌دهد، نه اندازه‌گیریِ خطر. اینکه این روش‌ها «تقریباً غیرقابلِ‌مجازات»اند برداشتِ کارت است و هنوز شاهدِ مستقل ندارد.",
+    "en": "Claim admin-noncooperation: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim admin-noncooperation: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:d61b063a10"
+   ],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "برای هماهنگی، دانستن کافی نیست؛ «دانشِ مشترک» لازم است — هر کس باید بداند که بقیه هم می‌دانند. آیین‌ها، مراسم و رویدادهای همگانی ابزارهای ساختنِ همین دانش‌اند. (کیفی؛ —؛ ردهٔ 2؛ چارچوبِ نظری). شرطِ ابطال: شواهدِ تجربی که نشان دهد مشارکت در کنشِ جمعی به دانستنِ «اینکه دیگران هم می‌دانند» حساس نیست. یادداشت: اینکه یک ترانه «از یک بیانیه خطرناک‌تر است» برداشتِ کارت است؛ چوی سازوکار را توضیح می‌دهد، نه این مقایسه را. ارجاعِ این ادعا به «گزارشِ مبنای پروژه» (تحلیلِ مدوّنِ داخلی) است، نه به یک منبعِ مستقلِ منتشرشده؛ ردهٔ آن به همین دلیل پایین‌تر از دادهٔ اولیه است.",
+    "en": "Claim common-knowledge: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim common-knowledge: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "در دادهٔ چنووث و استفان، حمایتِ دولتِ خارجی با موفقیتِ شورش‌های مسلحانه همبسته است، نه با موفقیتِ خیزش‌های خشونت‌پرهیز؛ مطالعهٔ بعدیِ همان دو شاهدی نیافت که حمایتِ بیرونی برای پیروزیِ کارزارِ خشونت‌پرهیز لازم یا کافی باشد. (کیفی؛ ۱۹۰۰–۲۰۰۶؛ ردهٔ 2؛ پژوهش). شرطِ ابطال: بازتحلیلی که نشان دهد حمایتِ بیرونی احتمالِ موفقیتِ کارزارهای خشونت‌پرهیز را به‌طورِ معنادار بالا می‌برد. یادداشت: این پژوهش دربارهٔ حمایتِ دولت‌هاست، نه دیاسپورا. اینکه دیاسپورا در مستندسازی، کمک به خانوادهٔ زندانی و زیرساختِ فنی مؤثرتر است، توصیهٔ کارت است و هنوز سطرِ جدا ندارد.",
+    "en": "Claim external-support: value, period, tier 2 and falsifier as in the Persian text.",
+    "nl": "Claim external-support: value, period, tier 2 and falsifier as in the Persian text."
+   },
+   "sources": [
+    "src:41c1e6a2e7"
+   ],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:dataset-84",
+   "rel": "see-also",
+   "note": {
+    "fa": "جدولِ ۸۴ ادعا (ابزار)",
+    "en": "84-claim table (tool)",
+    "nl": "84-claim table (tool)"
+   }
+  },
+  {
+   "to": "simorgh:audit",
+   "rel": "see-also",
+   "note": {
+    "fa": "ممیزیِ ضعف‌ها",
+    "en": "Audit of weaknesses",
+    "nl": "Audit of weaknesses"
+   }
+  },
+  {
+   "to": "simorgh:inspect-claim",
+   "rel": "see-also",
+   "note": {
+    "fa": "وارسیِ یک ادعا",
+    "en": "Inspect a claim",
+    "nl": "Inspect a claim"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [
+  "src:040033aaf5",
+  "src:24d305d03c",
+  "src:41c1e6a2e7",
+  "src:435917f7dd",
+  "src:436510de26",
+  "src:d61b063a10",
+  "src:f1a8df8bf8"
+ ],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}

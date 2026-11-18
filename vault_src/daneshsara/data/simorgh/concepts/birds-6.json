@@ -1,0 +1,82 @@
+{
+ "id": "simorgh:birds-6",
+ "kind": "concept",
+ "title": {
+  "fa": "مرغ‌ها: سازندگان شهر و کار",
+  "en": "Birds: سازندگان شهر و کار",
+  "nl": "Birds: سازندگان شهر و کار"
+ },
+ "aliases": [],
+ "parent": "simorgh:action",
+ "field": "simorgh:action",
+ "summary": {
+  "fa": "پنج مرغِ گروهِ «سازندگان شهر و کار» با مأموریت و قدمِ هرکدام.",
+  "en": "The five birds of the group \"سازندگان شهر و کار\" with the mission and step of each.",
+  "nl": "The five birds of the group \"سازندگان شهر و کار\" with the mission and step of each."
+ },
+ "points": [
+  {
+   "text": {
+    "fa": "شهرساز و مسکن: مأموریت: خانهٔ ایمن برای همه. قدمِ امروز: ایمنی خانه‌ات در زلزله را بسنج. روزِ آزادی: پناهگاه موقت برای بی‌خانمان‌شدگان. پس از آن: ارزیابی ایمنی و نوسازی بافت فرسوده.",
+    "en": "Bird شهرساز و مسکن: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird شهرساز و مسکن: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "حمل‌ونقل: مأموریت: جاده و خودروی ایمن. قدمِ امروز: ایمن رانندگی کن؛ آمار تصادف‌ها را بشناس. روزِ آزادی: حمل‌ونقل عمومی سر کار بماند. پس از آن: جایگزینی خودروهای ناایمن.",
+    "en": "Bird حمل‌ونقل: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird حمل‌ونقل: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "نوسازی صنعت: مأموریت: کارخانه‌ها کار کنند و کار بسازند. قدمِ امروز: گلوگاه صنعت خودت را بنویس. روزِ آزادی: کارخانه‌ها و کارگران سر کار بمانند. پس از آن: فناوری تازه و پایان انحصارهای رانتی.",
+    "en": "Bird نوسازی صنعت: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird نوسازی صنعت: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "کارآفرین و سرمایه‌گذار: مأموریت: کار برای جوانان، در همهٔ استان‌ها. قدمِ امروز: کسب‌وکارت را سرپا نگه دار. روزِ آزادی: مغازه و نانوایی باز. پس از آن: سرمایه‌گذاری در شهرهای دور.",
+    "en": "Bird کارآفرین و سرمایه‌گذار: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird کارآفرین و سرمایه‌گذار: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  },
+  {
+   "text": {
+    "fa": "پاک‌سازی و داوطلبی: مأموریت: هر کس، هر جا، یک کار. قدمِ امروز: یک کار داوطلبانهٔ کوچک در محله. روزِ آزادی: پاک‌سازی فردای جشن. پس از آن: بازسازی مدرسه‌ها و درمانگاه‌ها.",
+    "en": "Bird پاک‌سازی و داوطلبی: mission, step today, liberation-day role, long-term, as in the Persian text.",
+    "nl": "Bird پاک‌سازی و داوطلبی: mission, step today, liberation-day role, long-term, as in the Persian text."
+   },
+   "sources": [],
+   "flags": []
+  }
+ ],
+ "links": [
+  {
+   "to": "simorgh:birds-30",
+   "rel": "see-also",
+   "note": {
+    "fa": "سی مرغ",
+    "en": "Thirty birds",
+    "nl": "Thirty birds"
+   }
+  }
+ ],
+ "people": [],
+ "sources": [],
+ "booklets": [],
+ "origin": null,
+ "iran": null,
+ "wikidata": null,
+ "status": "draft"
+}
