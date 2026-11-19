@@ -111,6 +111,27 @@ try:
         add('تازه‌ها (۷ روز)', f'{WN.get(w, w)}: {len(ts)} مدخل تازه', 'مدخل', 'ساخته', 'عمومی', DS + f'{w}/', count=len(ts), note='، '.join(ts[:6])[:140])
 except Exception as e: print('git:', e)
 
+# ── ۳ج. جزوه‌ها، ابزارها و کتابخانه، از خودِ داده ──
+import re as _re
+try:
+    for k, v in load(f'{PUB}/data/psy/booklets.json').items():
+        add('جزوه‌ها و درس‌گفتارها', v.get('fa', k), 'جزوه', 'ساخته', 'عمومی', DS + 'psy/')
+except Exception as e: print('booklets:', e)
+WN2 = dict(WN, atlas='اطلس', iran='ایران')
+for f in sorted(glob.glob(f'{PUB}/*/tools/*.html')):
+    w = f.split('/')[-3]
+    if w not in WN2 or w == 'iran': continue
+    m = _re.search(r'<title>(.*?)</title>', open(f, encoding='utf-8').read(20000), _re.S)
+    t = (m.group(1).split('|')[0].split('·')[0].strip() if m else os.path.basename(f))
+    add('ابزارها', f'{WN2[w]}: {t}', 'ابزار', 'ساخته', 'عمومی', DS + f'{w}/tools/' + os.path.basename(f))
+try:
+    bk = load(f'{PUB}/data/library/books.json')
+    RD = {'full': ('کامل خوانده شد', 'ساخته'), 'partial': ('بخشی خوانده شد', 'در کار'), 'metadata-only': ('هنوز خوانده نشده', 'مانده')}
+    for k, n in _c.Counter(b.get('read') for b in bk).most_common():
+        lab, st = RD.get(k, (str(k), 'در کار'))
+        add('کتابخانه', f'کتاب‌ها: {lab}', 'کتاب', st, 'عمومی', DS + 'atlas/tools/library.html', count=n)
+except Exception as e: print('books:', e)
+
 # ── ۴. محصول‌ها و درآمد ─────────────────────────────────────────
 for p in plan['products']:
     link = rel(p[6])
