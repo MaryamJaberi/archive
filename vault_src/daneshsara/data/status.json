@@ -18,7 +18,7 @@
 "kind": "ویکی",
 "status": "ساخته",
 "where": "عمومی",
-"count": 821,
+"count": 833,
 "note": "همه پیش‌نویس (منتظر بازبینی)",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/soc/",
@@ -30,7 +30,7 @@
 "kind": "ویکی",
 "status": "ساخته",
 "where": "عمومی",
-"count": 457,
+"count": 503,
 "note": "همه پیش‌نویس (منتظر بازبینی)",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/phil/",
@@ -78,7 +78,7 @@
 "kind": "داده",
 "status": "ساخته",
 "where": "عمومی",
-"count": 1781,
+"count": 1817,
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/core/people.html",
@@ -90,7 +90,7 @@
 "kind": "داده",
 "status": "ساخته",
 "where": "عمومی",
-"count": 2513,
+"count": 2622,
 "note": "تکراری‌های کوران، کرزمن، چنووث و گمان هنوز یکی نشده‌اند",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/core/sources.html",
@@ -102,7 +102,7 @@
 "kind": "داده",
 "status": "ساخته",
 "where": "عمومی",
-"count": 1237,
+"count": 1305,
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/",
@@ -210,7 +210,7 @@
 "kind": "ویکی",
 "status": "ساخته",
 "where": "صندوق + اشتراکی",
-"count": 0,
+"count": 81,
 "note": "شش بخش: بازی، شواهد، تاریخ، راهبرد، عمل، خودِ پروژه",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/vault.html#simorgh/entries.html",
@@ -745,6 +745,774 @@
 "id": "r062"
 },
 {
+"area": "شاخه‌های علم",
+"name": "جامعه: نهادها و دولت",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 230,
+"note": "۲۳۰ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r063"
+},
+{
+"area": "شاخه‌های علم",
+"name": "جامعه: نظریهٔ اجتماعی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 174,
+"note": "۱۷۴ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r064"
+},
+{
+"area": "شاخه‌های علم",
+"name": "جامعه: ارزش‌ها، دین و نسل‌ها",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 169,
+"note": "۱۶۹ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r065"
+},
+{
+"area": "شاخه‌های علم",
+"name": "جامعه: کنش جمعی و جنبش‌ها",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 151,
+"note": "۱۵۱ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r066"
+},
+{
+"area": "شاخه‌های علم",
+"name": "فلسفه: فلسفهٔ سیاسی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 124,
+"note": "۱۲۴ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/phil/",
+"id": "r067"
+},
+{
+"area": "شاخه‌های علم",
+"name": "فلسفه: معرفت‌شناسی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 124,
+"note": "۱۲۴ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/phil/",
+"id": "r068"
+},
+{
+"area": "شاخه‌های علم",
+"name": "فلسفه: فلسفهٔ زندگی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 73,
+"note": "۷۳ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/phil/",
+"id": "r069"
+},
+{
+"area": "شاخه‌های علم",
+"name": "فلسفه: فلسفهٔ ایرانی‌اسلامی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 66,
+"note": "۶۶ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/phil/",
+"id": "r070"
+},
+{
+"area": "شاخه‌های علم",
+"name": "فلسفه: اخلاق",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 55,
+"note": "۵۵ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/phil/",
+"id": "r071"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تبار: تکامل انسان",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 54,
+"note": "۵۴ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tabar/",
+"id": "r072"
+},
+{
+"area": "شاخه‌های علم",
+"name": "جامعه: شهر، مهاجرت و شبکه",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 37,
+"note": "۳۷ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r073"
+},
+{
+"area": "شاخه‌های علم",
+"name": "فلسفه: فلسفهٔ علم",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 35,
+"note": "۳۵ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/phil/",
+"id": "r074"
+},
+{
+"area": "شاخه‌های علم",
+"name": "جامعه: نابرابری و تحرک",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 30,
+"note": "۳۰ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r075"
+},
+{
+"area": "شاخه‌های علم",
+"name": "فلسفه: فلسفهٔ ذهن",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 26,
+"note": "۲۶ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/phil/",
+"id": "r076"
+},
+{
+"area": "شاخه‌های علم",
+"name": "جامعه: انسجام، اعتماد و سرمایهٔ اجتماعی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 24,
+"note": "۲۴ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r077"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی شناختی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 22,
+"note": "۲ پیش‌نویس، ۲۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r078"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی صنعتی و سازمانی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 20,
+"note": "۱ پیش‌نویس، ۱۹ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r079"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی انگیزش",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 19,
+"note": "۱ پیش‌نویس، ۱۸ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r080"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی اجتماعی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 19,
+"note": "۰ پیش‌نویس، ۱۹ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r081"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی بالینی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 17,
+"note": "۰ پیش‌نویس، ۱۷ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r082"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تبار: ژنومیک جمعیت و تبار",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 15,
+"note": "۱۵ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tabar/",
+"id": "r083"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی مثبت‌نگر",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 14,
+"note": "۰ پیش‌نویس، ۱۴ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r084"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: اعتیاد",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 14,
+"note": "۰ پیش‌نویس، ۱۴ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r085"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی هنر و زیبایی‌شناسی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 13,
+"note": "۰ پیش‌نویس، ۱۳ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r086"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی هیجان",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 13,
+"note": "۱ پیش‌نویس، ۱۲ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r087"
+},
+{
+"area": "شاخه‌های علم",
+"name": "جامعه: اقتصاد و بازار",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 13,
+"note": "۱۳ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r088"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تاریخ: ایران معاصر: از مشروطه تا امروز",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 12,
+"note": "۱۲ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tarikh/",
+"id": "r089"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تاریخ: ایران در سده‌های نخست اسلامی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 7,
+"note": "۷ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tarikh/",
+"id": "r090"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی شخصیت",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 6,
+"note": "۰ پیش‌نویس، ۶ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r091"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی رشد",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 6,
+"note": "۳ پیش‌نویس، ۳ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r092"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تبار: ژن، نژاد و اخلاق",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 6,
+"note": "۶ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tabar/",
+"id": "r093"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تبار: ژنتیک رفتاری",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 6,
+"note": "۶ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tabar/",
+"id": "r094"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی سلامت",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 5,
+"note": "۱ پیش‌نویس، ۴ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r095"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: درمان‌های مبتنی بر شفقت",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 5,
+"note": "۰ پیش‌نویس، ۵ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r096"
+},
+{
+"area": "شاخه‌های علم",
+"name": "جامعه: جمعیت",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 5,
+"note": "۵ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r097"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: خوداهلی‌سازی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 4,
+"note": "۰ پیش‌نویس، ۴ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r098"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: طبقه‌بندی و تشخیص",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 4,
+"note": "۰ پیش‌نویس، ۴ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r099"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: آسیب‌شناسی روانی توصیفی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 4,
+"note": "۱ پیش‌نویس، ۳ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r100"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌درمانی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 4,
+"note": "۴ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r101"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: درمان شناختی-رفتاری",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 4,
+"note": "۰ پیش‌نویس، ۴ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r102"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تاریخ: ایران و همسایگان",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 4,
+"note": "۴ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tarikh/",
+"id": "r103"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی تربیتی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 3,
+"note": "۰ پیش‌نویس، ۳ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r104"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تبار: ژنتیک پزشکی و جامعه",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 3,
+"note": "۳ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tabar/",
+"id": "r105"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تاریخ: از صفویه تا قاجار: دین، دولت و روحانیت",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 3,
+"note": "۳ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tarikh/",
+"id": "r106"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: تکامل فرهنگی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 2,
+"note": "۰ پیش‌نویس، ۲ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r107"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: اختلالات خلقی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 2,
+"note": "۰ پیش‌نویس، ۲ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r108"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: اختلالات اضطرابی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 2,
+"note": "۰ پیش‌نویس، ۲ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r109"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: تاریخ رده‌بندی روانپزشکی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 2,
+"note": "۰ پیش‌نویس، ۲ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r110"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: موج سوم رفتاردرمانی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 2,
+"note": "۱ پیش‌نویس، ۱ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r111"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روان‌شناسی جنس و جنسیت",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 2,
+"note": "۰ پیش‌نویس، ۲ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r112"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تبار: اپی‌ژنتیک",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 2,
+"note": "۲ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tabar/",
+"id": "r113"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تبار: مبانی",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 2,
+"note": "۲ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tabar/",
+"id": "r114"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تبار: تبارشناسی و شجره",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 2,
+"note": "۲ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tabar/",
+"id": "r115"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: روانکاوی و روان‌پویشی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 1,
+"note": "۰ پیش‌نویس، ۱ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r116"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: علوم اعصاب شناختی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 1,
+"note": "۰ پیش‌نویس، ۱ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r117"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: اخلاق و فلسفهٔ اخلاق",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 1,
+"note": "۱ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r118"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: اختلالات شخصیت",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 1,
+"note": "۰ پیش‌نویس، ۱ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r119"
+},
+{
+"area": "شاخه‌های علم",
+"name": "روان: مکاتب و تاریخ روان‌شناسی",
+"kind": "شاخه",
+"status": "ساخته",
+"where": "عمومی",
+"count": 1,
+"note": "۰ پیش‌نویس، ۱ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r120"
+},
+{
+"area": "شاخه‌های علم",
+"name": "تاریخ: پیش از تاریخ و ایران باستان",
+"kind": "شاخه",
+"status": "در کار",
+"where": "عمومی",
+"count": 1,
+"note": "۱ پیش‌نویس، ۰ بازبینی‌شده",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tarikh/",
+"id": "r121"
+},
+{
+"area": "تازه‌ها (۷ روز)",
+"name": "فلسفه: 70 مدخل تازه",
+"kind": "مدخل",
+"status": "ساخته",
+"where": "عمومی",
+"count": 70,
+"note": "معاد جسمانی و معاد روحانی در کلام اسلامی: فرض‌ها و دلیل‌ها، پنج اشکال به معاد جسمانی و این پرسش که آیا قانون طبیعت از خود اشیا برمی‌خیزد، نگ",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/phil/",
+"id": "r122"
+},
+{
+"area": "تازه‌ها (۷ روز)",
+"name": "جامعه: 76 مدخل تازه",
+"kind": "مدخل",
+"status": "ساخته",
+"where": "عمومی",
+"count": 76,
+"note": "بینش اقتصادی برای همه: ساده‌نویسی اقتصاد، پوپولیسم و قواعد بازی، خشنودی ناخالص ملی در برابر تولید ناخالص ملی: مثال بوتان و سوئد در سخن ملکیا",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/soc/",
+"id": "r123"
+},
+{
+"area": "تازه‌ها (۷ روز)",
+"name": "تاریخ: 24 مدخل تازه",
+"kind": "مدخل",
+"status": "ساخته",
+"where": "عمومی",
+"count": 24,
+"note": "پانصد سال بالا رفتن: هشت پلهٔ قدرتِ روحانیت، ایران و یهودیان: ۲۶۰۰ سال پیوند، ۴۷ سال دشمنیِ دو دولت، از صفویه تا قاجار: دین، دولت و روحانیت،",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tarikh/",
+"id": "r124"
+},
+{
+"area": "تازه‌ها (۷ روز)",
+"name": "روان: 6 مدخل تازه",
+"kind": "مدخل",
+"status": "ساخته",
+"where": "عمومی",
+"count": 6,
+"note": "روانکاوی نه اعتراف است نه تلقین، تشخیص کار پزشک است، درمان نه: استدلال فروید برای روانکاوی غیرپزشکی، «خود» پوستهٔ «نهاد»: دو قانون در یک دست",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/psy/",
+"id": "r125"
+},
+{
+"area": "تازه‌ها (۷ روز)",
+"name": "تبار: 15 مدخل تازه",
+"kind": "مدخل",
+"status": "ساخته",
+"where": "عمومی",
+"count": 15,
+"note": "اهلی‌سازی جانوران: بزِ زاگرس، معیارهای اهلی‌پذیری، تابوی خوک و اسبِ استپ، چرا روی دو پا ایستادیم؟ جدایی از نیای شامپانزه و سودهای دوپایی، دن",
+"stage": "",
+"link": "https://maryamjaberi.github.io/daneshsara/tabar/",
+"id": "r126"
+},
+{
 "area": "محصول‌ها",
 "name": "خدمات طراحی محصول و پژوهش کاربر",
 "kind": "محصول",
@@ -754,7 +1522,7 @@
 "note": "مهارت خودت است و سرمایه نمی‌خواهد: یک صفحهٔ خدمات روی سایت شخصی‌ات و سه پیام به آشناها",
 "stage": "زود",
 "link": "",
-"id": "r063"
+"id": "r127"
 },
 {
 "area": "محصول‌ها",
@@ -766,7 +1534,7 @@
 "note": "نمونه آماده است: یک اجرای آزمایشی ارزان یا رایگان در یک شرکت آشنا برای گرفتن نخستین نتیجه و توصیه‌نامه",
 "stage": "زود",
 "link": "https://maryamjaberi.github.io/daneshsara/wellbeing/orgsvc.html",
-"id": "r064"
+"id": "r128"
 },
 {
 "area": "محصول‌ها",
@@ -778,7 +1546,7 @@
 "note": "با سنجش سازمان یک بسته می‌شود: کارگاه ۹۰ دقیقه‌ای اعتماد و تصمیم با آزمایشگاه‌ها و میز خدا",
 "stage": "زود",
 "link": "",
-"id": "r065"
+"id": "r129"
 },
 {
 "area": "محصول‌ها",
@@ -790,7 +1558,7 @@
 "note": "جلسه‌های آزمایشی را قبلاً برگزار کرده‌ای: یک تاریخ ثابت ماهانه با بلیت",
 "stage": "زود",
 "link": "",
-"id": "r066"
+"id": "r130"
 },
 {
 "area": "محصول‌ها",
@@ -802,7 +1570,7 @@
 "note": "اجرای آزمایشی با پنج هنرمند و بیست اثر؛ اول روی اتسی که فروشگاه نمی‌خواهد",
 "stage": "زود",
 "link": "",
-"id": "r067"
+"id": "r131"
 },
 {
 "area": "محصول‌ها",
@@ -814,7 +1582,7 @@
 "note": "ده طرح چاپ‌به‌سفارش، بدون انبار",
 "stage": "زود",
 "link": "",
-"id": "r068"
+"id": "r132"
 },
 {
 "area": "محصول‌ها",
@@ -826,7 +1594,7 @@
 "note": "",
 "stage": "میان",
 "link": "",
-"id": "r069"
+"id": "r133"
 },
 {
 "area": "محصول‌ها",
@@ -838,7 +1606,7 @@
 "note": "",
 "stage": "میان",
 "link": "",
-"id": "r070"
+"id": "r134"
 },
 {
 "area": "محصول‌ها",
@@ -850,7 +1618,7 @@
 "note": "",
 "stage": "میان",
 "link": "",
-"id": "r071"
+"id": "r135"
 },
 {
 "area": "محصول‌ها",
@@ -862,7 +1630,7 @@
 "note": "",
 "stage": "میان",
 "link": "",
-"id": "r072"
+"id": "r136"
 },
 {
 "area": "محصول‌ها",
@@ -874,7 +1642,7 @@
 "note": "",
 "stage": "میان",
 "link": "",
-"id": "r073"
+"id": "r137"
 },
 {
 "area": "محصول‌ها",
@@ -886,7 +1654,7 @@
 "note": "",
 "stage": "میان",
 "link": "",
-"id": "r074"
+"id": "r138"
 },
 {
 "area": "محصول‌ها",
@@ -898,7 +1666,7 @@
 "note": "",
 "stage": "میان",
 "link": "",
-"id": "r075"
+"id": "r139"
 },
 {
 "area": "محصول‌ها",
@@ -910,7 +1678,7 @@
 "note": "",
 "stage": "میان",
 "link": "",
-"id": "r076"
+"id": "r140"
 },
 {
 "area": "محصول‌ها",
@@ -922,7 +1690,7 @@
 "note": "",
 "stage": "دیر",
 "link": "",
-"id": "r077"
+"id": "r141"
 },
 {
 "area": "محصول‌ها",
@@ -934,7 +1702,7 @@
 "note": "",
 "stage": "دیر",
 "link": "",
-"id": "r078"
+"id": "r142"
 },
 {
 "area": "محصول‌ها",
@@ -946,7 +1714,7 @@
 "note": "",
 "stage": "دیر",
 "link": "",
-"id": "r079"
+"id": "r143"
 },
 {
 "area": "محصول‌ها",
@@ -958,7 +1726,7 @@
 "note": "",
 "stage": "دیر",
 "link": "",
-"id": "r080"
+"id": "r144"
 },
 {
 "area": "محصول‌ها",
@@ -970,7 +1738,7 @@
 "note": "",
 "stage": "دیر",
 "link": "",
-"id": "r081"
+"id": "r145"
 },
 {
 "area": "کارها",
@@ -982,7 +1750,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r082"
+"id": "r146"
 },
 {
 "area": "کارها",
@@ -994,7 +1762,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r083"
+"id": "r147"
 },
 {
 "area": "کارها",
@@ -1006,7 +1774,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r084"
+"id": "r148"
 },
 {
 "area": "کارها",
@@ -1018,7 +1786,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r085"
+"id": "r149"
 },
 {
 "area": "کارها",
@@ -1030,7 +1798,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r086"
+"id": "r150"
 },
 {
 "area": "کارها",
@@ -1042,7 +1810,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r087"
+"id": "r151"
 },
 {
 "area": "کارها",
@@ -1054,7 +1822,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r088"
+"id": "r152"
 },
 {
 "area": "کارها",
@@ -1066,7 +1834,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r089"
+"id": "r153"
 },
 {
 "area": "کارها",
@@ -1078,7 +1846,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r090"
+"id": "r154"
 },
 {
 "area": "کارها",
@@ -1090,7 +1858,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r091"
+"id": "r155"
 },
 {
 "area": "کارها",
@@ -1102,7 +1870,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r092"
+"id": "r156"
 },
 {
 "area": "کارها",
@@ -1114,7 +1882,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r093"
+"id": "r157"
 },
 {
 "area": "کارها",
@@ -1126,7 +1894,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r094"
+"id": "r158"
 },
 {
 "area": "کارها",
@@ -1138,7 +1906,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r095"
+"id": "r159"
 },
 {
 "area": "کارها",
@@ -1150,7 +1918,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r096"
+"id": "r160"
 },
 {
 "area": "کارها",
@@ -1162,7 +1930,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r097"
+"id": "r161"
 },
 {
 "area": "کارها",
@@ -1174,7 +1942,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r098"
+"id": "r162"
 },
 {
 "area": "کارها",
@@ -1186,7 +1954,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r099"
+"id": "r163"
 },
 {
 "area": "کارها",
@@ -1198,7 +1966,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r100"
+"id": "r164"
 },
 {
 "area": "کارها",
@@ -1210,7 +1978,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r101"
+"id": "r165"
 },
 {
 "area": "کارها",
@@ -1222,7 +1990,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r102"
+"id": "r166"
 },
 {
 "area": "کارها",
@@ -1234,7 +2002,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r103"
+"id": "r167"
 },
 {
 "area": "کارها",
@@ -1246,7 +2014,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r104"
+"id": "r168"
 },
 {
 "area": "کارها",
@@ -1258,7 +2026,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r105"
+"id": "r169"
 },
 {
 "area": "کارها",
@@ -1270,7 +2038,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r106"
+"id": "r170"
 },
 {
 "area": "کارها",
@@ -1282,7 +2050,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r107"
+"id": "r171"
 },
 {
 "area": "کارها",
@@ -1294,7 +2062,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r108"
+"id": "r172"
 },
 {
 "area": "کارها",
@@ -1306,7 +2074,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r109"
+"id": "r173"
 },
 {
 "area": "کارها",
@@ -1318,7 +2086,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r110"
+"id": "r174"
 },
 {
 "area": "کارها",
@@ -1330,7 +2098,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r111"
+"id": "r175"
 },
 {
 "area": "کارها",
@@ -1342,7 +2110,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r112"
+"id": "r176"
 },
 {
 "area": "کارها",
@@ -1354,7 +2122,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r113"
+"id": "r177"
 },
 {
 "area": "کارها",
@@ -1366,7 +2134,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r114"
+"id": "r178"
 },
 {
 "area": "کارها",
@@ -1378,7 +2146,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r115"
+"id": "r179"
 },
 {
 "area": "کارها",
@@ -1390,7 +2158,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r116"
+"id": "r180"
 },
 {
 "area": "کارها",
@@ -1402,7 +2170,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r117"
+"id": "r181"
 },
 {
 "area": "کارها",
@@ -1414,7 +2182,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r118"
+"id": "r182"
 },
 {
 "area": "کارها",
@@ -1426,7 +2194,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r119"
+"id": "r183"
 },
 {
 "area": "کارها",
@@ -1438,7 +2206,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r120"
+"id": "r184"
 },
 {
 "area": "کارها",
@@ -1450,7 +2218,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r121"
+"id": "r185"
 },
 {
 "area": "کارها",
@@ -1462,7 +2230,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r122"
+"id": "r186"
 },
 {
 "area": "کارها",
@@ -1474,7 +2242,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r123"
+"id": "r187"
 },
 {
 "area": "کارها",
@@ -1486,7 +2254,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r124"
+"id": "r188"
 },
 {
 "area": "کارها",
@@ -1498,7 +2266,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r125"
+"id": "r189"
 },
 {
 "area": "کارها",
@@ -1510,7 +2278,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r126"
+"id": "r190"
 },
 {
 "area": "کارها",
@@ -1522,7 +2290,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r127"
+"id": "r191"
 },
 {
 "area": "کارها",
@@ -1534,7 +2302,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r128"
+"id": "r192"
 },
 {
 "area": "کارها",
@@ -1546,7 +2314,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r129"
+"id": "r193"
 },
 {
 "area": "کارها",
@@ -1558,7 +2326,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r130"
+"id": "r194"
 },
 {
 "area": "کارها",
@@ -1570,7 +2338,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r131"
+"id": "r195"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1582,7 +2350,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/",
-"id": "r132"
+"id": "r196"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1594,7 +2362,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/fa/",
-"id": "r133"
+"id": "r197"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1606,7 +2374,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/cv.html",
-"id": "r134"
+"id": "r198"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1618,7 +2386,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/Dour/",
-"id": "r135"
+"id": "r199"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1630,7 +2398,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/Language-Learning-Party-Game/",
-"id": "r136"
+"id": "r200"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1642,7 +2410,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/earth-through-time/",
-"id": "r137"
+"id": "r201"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1654,7 +2422,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/ganjoor-no/",
-"id": "r138"
+"id": "r202"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1666,7 +2434,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/mafia/",
-"id": "r139"
+"id": "r203"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1678,7 +2446,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/wellbeing-check/",
-"id": "r140"
+"id": "r204"
 },
 {
 "area": "سایت و پروژه‌های دیگر",
@@ -1690,7 +2458,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/psychology-wiki/",
-"id": "r141"
+"id": "r205"
 },
 {
 "area": "منتظر تو",
@@ -1702,7 +2470,7 @@
 "note": "خانه‌های خالی: شماره‌های ۱۱۹۴۸، ۹۳۶۵، ۱۱۳۲۴",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/vault.html#core/need.html",
-"id": "r142"
+"id": "r206"
 },
 {
 "area": "منتظر تو",
@@ -1714,7 +2482,7 @@
 "note": "گوگل‌بوکس این صفحه‌ها را نشان نمی‌دهد",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/vault.html#core/need.html",
-"id": "r143"
+"id": "r207"
 },
 {
 "area": "منتظر تو",
@@ -1726,7 +2494,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/vault.html#sakht/map.html",
-"id": "r144"
+"id": "r208"
 },
 {
 "area": "منتظر تو",
@@ -1738,7 +2506,7 @@
 "note": "فقط وقتی سیمرغ منتشر شود",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/vault.html#simorgh/poll.html",
-"id": "r145"
+"id": "r209"
 },
 {
 "area": "منتظر تو",
@@ -1750,7 +2518,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r146"
+"id": "r210"
 },
 {
 "area": "منتظر تو",
@@ -1762,7 +2530,7 @@
 "note": "۲۳ آبان برداشته شد",
 "stage": "",
 "link": "",
-"id": "r147"
+"id": "r211"
 },
 {
 "area": "منتظر تو",
@@ -1774,7 +2542,7 @@
 "note": "برای کامل کردن صفحه‌های موضوعی روان",
 "stage": "",
 "link": "https://maryamjaberi.github.io/daneshsara/psy/",
-"id": "r148"
+"id": "r212"
 },
 {
 "area": "منتظر تو",
@@ -1786,7 +2554,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r149"
+"id": "r213"
 },
 {
 "area": "منتظر تو",
@@ -1798,7 +2566,7 @@
 "note": "صفحه‌های امروز پاک‌اند؛ نسخه‌های قدیمی هنوز دارند. نسخهٔ پشتیبان آماده است",
 "stage": "",
 "link": "",
-"id": "r150"
+"id": "r214"
 },
 {
 "area": "منتظر تو",
@@ -1810,7 +2578,7 @@
 "note": "",
 "stage": "",
 "link": "https://maryamjaberi.github.io/Dour/",
-"id": "r151"
+"id": "r215"
 },
 {
 "area": "منتظر تو",
@@ -1822,7 +2590,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r152"
+"id": "r216"
 },
 {
 "area": "منتظر تو",
@@ -1834,7 +2602,7 @@
 "note": "",
 "stage": "",
 "link": "",
-"id": "r153"
+"id": "r217"
 },
 {
 "area": "تست‌ها",
@@ -1846,7 +2614,7 @@
 "note": "۱۱ قبول، ۲ رفع شد، ۳ رد، ۱ دستی",
 "stage": "",
 "link": "",
-"id": "r154"
+"id": "r218"
 },
 {
 "area": "تست‌ها",
@@ -1858,7 +2626,7 @@
 "note": "۱۳ قبول، ۱۲ رد، ۲ رفع شد، ۱ دستی، ۱ مانده",
 "stage": "",
 "link": "",
-"id": "r155"
+"id": "r219"
 },
 {
 "area": "تست‌ها",
@@ -1870,7 +2638,7 @@
 "note": "۱۲ قبول، ۳ رد، ۲ مانده، ۲ دستی",
 "stage": "",
 "link": "",
-"id": "r156"
+"id": "r220"
 },
 {
 "area": "تست‌ها",
@@ -1882,7 +2650,7 @@
 "note": "۱۳ قبول، ۲ رفع شد، ۲ رد، ۱ دستی، ۱ مانده",
 "stage": "",
 "link": "",
-"id": "r157"
+"id": "r221"
 },
 {
 "area": "تست‌ها",
@@ -1894,7 +2662,7 @@
 "note": "۱۳ قبول، ۳ رد، ۱ دستی، ۱ رفع شد",
 "stage": "",
 "link": "",
-"id": "r158"
+"id": "r222"
 },
 {
 "area": "تست‌ها",
@@ -1906,7 +2674,7 @@
 "note": "۱۴ قبول، ۲ رد، ۲ رفع شد، ۳ مانده",
 "stage": "",
 "link": "",
-"id": "r159"
+"id": "r223"
 },
 {
 "area": "تست‌ها",
@@ -1918,7 +2686,7 @@
 "note": "۱۱ قبول، ۳ رفع شد، ۳ رد، ۱ مانده",
 "stage": "",
 "link": "",
-"id": "r160"
+"id": "r224"
 },
 {
 "area": "تست‌ها",
@@ -1930,7 +2698,7 @@
 "note": "۱۴ قبول، ۲ رفع شد، ۱ رد، ۱ مانده",
 "stage": "",
 "link": "",
-"id": "r161"
+"id": "r225"
 },
 {
 "area": "تست‌ها",
@@ -1942,7 +2710,7 @@
 "note": "۱۲ قبول، ۳ رد، ۱ مانده",
 "stage": "",
 "link": "",
-"id": "r162"
+"id": "r226"
 },
 {
 "area": "تست‌ها",
@@ -1954,7 +2722,7 @@
 "note": "۱۱ قبول، ۴ رد",
 "stage": "",
 "link": "",
-"id": "r163"
+"id": "r227"
 },
 {
 "area": "تست‌ها",
@@ -1966,7 +2734,7 @@
 "note": "۹ قبول، ۱ رد، ۲ دستی، ۱ مانده",
 "stage": "",
 "link": "",
-"id": "r164"
+"id": "r228"
 },
 {
 "area": "تست‌ها",
@@ -1978,7 +2746,7 @@
 "note": "رد. daneshsara/psy/lineage.html، daneshsara/psy/tools/lineage.html",
 "stage": "",
 "link": "",
-"id": "r165"
+"id": "r229"
 },
 {
 "area": "تست‌ها",
@@ -1990,7 +2758,7 @@
 "note": "رد. ۵۱۰ مورد",
 "stage": "",
 "link": "",
-"id": "r166"
+"id": "r230"
 },
 {
 "area": "تست‌ها",
@@ -2002,7 +2770,7 @@
 "note": "رد. scrollable-region-focusable×۱۵، aria-allowed-attr×۱۵، link-in-text-block×۶",
 "stage": "",
 "link": "",
-"id": "r167"
+"id": "r231"
 },
 {
 "area": "تست‌ها",
@@ -2014,7 +2782,7 @@
 "note": "رد. هیچ پیوند برگشتی نیست",
 "stage": "",
 "link": "",
-"id": "r168"
+"id": "r232"
 },
 {
 "area": "تست‌ها",
@@ -2026,7 +2794,7 @@
 "note": "رد. ۱ صفحه بی‌توضیح",
 "stage": "",
 "link": "",
-"id": "r169"
+"id": "r233"
 },
 {
 "area": "تست‌ها",
@@ -2038,7 +2806,7 @@
 "note": "رد. ۱ مورد",
 "stage": "",
 "link": "",
-"id": "r170"
+"id": "r234"
 },
 {
 "area": "تست‌ها",
@@ -2050,7 +2818,7 @@
 "note": "رد. هیچ پیوند برگشتی نیست",
 "stage": "",
 "link": "",
-"id": "r171"
+"id": "r235"
 },
 {
 "area": "تست‌ها",
@@ -2062,7 +2830,7 @@
 "note": "رد. هیچ پیوند برگشتی نیست",
 "stage": "",
 "link": "",
-"id": "r172"
+"id": "r236"
 },
 {
 "area": "تست‌ها",
@@ -2074,7 +2842,7 @@
 "note": "رد. هیچ پیوند برگشتی نیست",
 "stage": "",
 "link": "",
-"id": "r173"
+"id": "r237"
 },
 {
 "area": "تست‌ها",
@@ -2086,7 +2854,7 @@
 "note": "رد. هیچ پیوند برگشتی نیست",
 "stage": "",
 "link": "",
-"id": "r174"
+"id": "r238"
 },
 {
 "area": "تست‌ها",
@@ -2098,7 +2866,7 @@
 "note": "رد. برچسب نوار زمان رفع شد؛ یک دکمهٔ تودرتو در صفحهٔ تبار مانده",
 "stage": "",
 "link": "",
-"id": "r175"
+"id": "r239"
 },
 {
 "area": "تست‌ها",
@@ -2110,7 +2878,7 @@
 "note": "رد",
 "stage": "",
 "link": "",
-"id": "r176"
+"id": "r240"
 },
 {
 "area": "تست‌ها",
@@ -2122,7 +2890,7 @@
 "note": "رد. هیچ پیوند برگشتی نیست",
 "stage": "",
 "link": "",
-"id": "r177"
+"id": "r241"
 },
 {
 "area": "تست‌ها",
@@ -2134,7 +2902,7 @@
 "note": "رد. ۳ مورد",
 "stage": "",
 "link": "",
-"id": "r178"
+"id": "r242"
 },
 {
 "area": "تست‌ها",
@@ -2146,7 +2914,7 @@
 "note": "رد",
 "stage": "",
 "link": "",
-"id": "r179"
+"id": "r243"
 },
 {
 "area": "تست‌ها",
@@ -2158,7 +2926,7 @@
 "note": "رد. هیچ پیوند برگشتی نیست",
 "stage": "",
 "link": "",
-"id": "r180"
+"id": "r244"
 },
 {
 "area": "تست‌ها",
@@ -2170,7 +2938,7 @@
 "note": "رد. نشانی تماسِ خودِ پورتفولیو عمداً هست",
 "stage": "",
 "link": "",
-"id": "r181"
+"id": "r245"
 },
 {
 "area": "تست‌ها",
@@ -2182,7 +2950,7 @@
 "note": "رد. ۷ فایل",
 "stage": "",
 "link": "",
-"id": "r182"
+"id": "r246"
 },
 {
 "area": "تست‌ها",
@@ -2194,7 +2962,7 @@
 "note": "رد. ۲ فایل",
 "stage": "",
 "link": "",
-"id": "r183"
+"id": "r247"
 },
 {
 "area": "تست‌ها",
@@ -2206,7 +2974,7 @@
 "note": "رد. ۴ فایل",
 "stage": "",
 "link": "",
-"id": "r184"
+"id": "r248"
 },
 {
 "area": "تست‌ها",
@@ -2218,7 +2986,7 @@
 "note": "رد. ۱ فایل",
 "stage": "",
 "link": "",
-"id": "r185"
+"id": "r249"
 },
 {
 "area": "تست‌ها",
@@ -2230,7 +2998,7 @@
 "note": "رد. ۴ فایل",
 "stage": "",
 "link": "",
-"id": "r186"
+"id": "r250"
 },
 {
 "area": "تست‌ها",
@@ -2242,7 +3010,7 @@
 "note": "رد. ۱ فایل",
 "stage": "",
 "link": "",
-"id": "r187"
+"id": "r251"
 },
 {
 "area": "تست‌ها",
@@ -2254,7 +3022,7 @@
 "note": "رد. ۱ فایل",
 "stage": "",
 "link": "",
-"id": "r188"
+"id": "r252"
 },
 {
 "area": "تست‌ها",
@@ -2266,7 +3034,7 @@
 "note": "رد. ۱ فایل",
 "stage": "",
 "link": "",
-"id": "r189"
+"id": "r253"
 },
 {
 "area": "تست‌ها",
@@ -2278,7 +3046,7 @@
 "note": "رد. ۶ از ۱۶۰۸ مدخل بی‌منبع",
 "stage": "",
 "link": "",
-"id": "r190"
+"id": "r254"
 },
 {
 "area": "تست‌ها",
@@ -2290,7 +3058,7 @@
 "note": "رد. ۷۲۶ از ۸۵۱۸ گزاره بی‌منبع (۹٪)؛ فلسفه و تاریخ بیشترین",
 "stage": "",
 "link": "",
-"id": "r191"
+"id": "r255"
 },
 {
 "area": "تست‌ها",
@@ -2302,7 +3070,7 @@
 "note": "رد. ۹۰۵ گزاره فقط منبع ردهٔ ۴ دارد؛ باید روی صفحه علامت بخورد یا منبع بهتر بگیرد",
 "stage": "",
 "link": "",
-"id": "r192"
+"id": "r256"
 },
 {
 "area": "تست‌ها",
@@ -2314,7 +3082,7 @@
 "note": "رد. ردهٔ ۱: ۸۶، ۲: ۵۹۶، ۳: ۱۷۳۴، ۴: ۹۷",
 "stage": "",
 "link": "",
-"id": "r193"
+"id": "r257"
 },
 {
 "area": "تست‌ها",
@@ -2326,7 +3094,7 @@
 "note": "رد. ۲۲۴۸ از ۲۵۱۳ منبع بدون نشانی",
 "stage": "",
 "link": "",
-"id": "r194"
+"id": "r258"
 },
 {
 "area": "تست‌ها",
@@ -2338,7 +3106,7 @@
 "note": "رد. ۱۴۳ تکراریِ قطعی (تکراری‌های با نگارش متفاوت جدا شمرده نشده)",
 "stage": "",
 "link": "",
-"id": "r195"
+"id": "r259"
 },
 {
 "area": "تست‌ها",
@@ -2350,7 +3118,7 @@
 "note": "رد. ۱۴۱۱ پیش‌نویس، ۱۹۷ بازبینی‌شده",
 "stage": "",
 "link": "",
-"id": "r196"
+"id": "r260"
 },
 {
 "area": "تست‌ها",
@@ -2362,7 +3130,7 @@
 "note": "رد. ۲۶۵ مدخل بدون پیوند ورودی",
 "stage": "",
 "link": "",
-"id": "r197"
+"id": "r261"
 },
 {
 "area": "تست‌ها",
@@ -2374,7 +3142,7 @@
 "note": "دستی. هنوز انجام نشده",
 "stage": "",
 "link": "",
-"id": "r198"
+"id": "r262"
 },
 {
 "area": "تست‌ها",
@@ -2386,7 +3154,7 @@
 "note": "مانده",
 "stage": "",
 "link": "",
-"id": "r199"
+"id": "r263"
 },
 {
 "area": "تست‌ها",
@@ -2398,7 +3166,7 @@
 "note": "دستی",
 "stage": "",
 "link": "",
-"id": "r200"
+"id": "r264"
 },
 {
 "area": "تست‌ها",
@@ -2410,7 +3178,7 @@
 "note": "مانده",
 "stage": "",
 "link": "",
-"id": "r201"
+"id": "r265"
 },
 {
 "area": "تست‌ها",
@@ -2422,7 +3190,7 @@
 "note": "رد. ۲۰۷ قبول، ۲۵ رد",
 "stage": "",
 "link": "",
-"id": "r202"
+"id": "r266"
 },
 {
 "area": "تست‌ها",
@@ -2434,7 +3202,7 @@
 "note": "دستی",
 "stage": "",
 "link": "",
-"id": "r203"
+"id": "r267"
 },
 {
 "area": "تست‌ها",
@@ -2446,7 +3214,7 @@
 "note": "مانده",
 "stage": "",
 "link": "",
-"id": "r204"
+"id": "r268"
 },
 {
 "area": "تست‌ها",
@@ -2458,7 +3226,7 @@
 "note": "مانده. این پروژه هیچ تست خودکاری ندارد",
 "stage": "",
 "link": "",
-"id": "r205"
+"id": "r269"
 },
 {
 "area": "تست‌ها",
@@ -2470,7 +3238,7 @@
 "note": "مانده",
 "stage": "",
 "link": "",
-"id": "r206"
+"id": "r270"
 },
 {
 "area": "تست‌ها",
@@ -2482,7 +3250,7 @@
 "note": "رد. «۶۶ میلیون» در ۳۹۰ پیکسل پیدا نشد",
 "stage": "",
 "link": "",
-"id": "r207"
+"id": "r271"
 },
 {
 "area": "تست‌ها",
@@ -2494,7 +3262,7 @@
 "note": "مانده",
 "stage": "",
 "link": "",
-"id": "r208"
+"id": "r272"
 },
 {
 "area": "تست‌ها",
@@ -2506,7 +3274,7 @@
 "note": "مانده",
 "stage": "",
 "link": "",
-"id": "r209"
+"id": "r273"
 },
 {
 "area": "تست‌ها",
@@ -2518,7 +3286,7 @@
 "note": "مانده. کارِ عامل فنی wellbeing-tech-docs",
 "stage": "",
 "link": "",
-"id": "r210"
+"id": "r274"
 },
 {
 "area": "تست‌ها",
@@ -2530,7 +3298,7 @@
 "note": "دستی. کارِ عامل ip-protection-expert",
 "stage": "",
 "link": "",
-"id": "r211"
+"id": "r275"
 },
 {
 "area": "تست‌ها",
@@ -2542,7 +3310,7 @@
 "note": "مانده",
 "stage": "",
 "link": "",
-"id": "r212"
+"id": "r276"
 },
 {
 "area": "تست‌ها",
@@ -2554,7 +3322,7 @@
 "note": "دستی",
 "stage": "",
 "link": "",
-"id": "r213"
+"id": "r277"
 },
 {
 "area": "تست‌ها",
@@ -2566,7 +3334,7 @@
 "note": "مانده",
 "stage": "",
 "link": "",
-"id": "r214"
+"id": "r278"
 },
 {
 "area": "تست‌ها",
@@ -2578,7 +3346,7 @@
 "note": "دستی",
 "stage": "",
 "link": "",
-"id": "r215"
+"id": "r279"
 },
 {
 "area": "تست‌ها",
@@ -2590,7 +3358,7 @@
 "note": "رد. هنوز صفحهٔ خدمات نیست",
 "stage": "",
 "link": "",
-"id": "r216"
+"id": "r280"
 },
 {
 "area": "تست‌ها",
@@ -2602,7 +3370,7 @@
 "note": "رد. دو خطا در یک یا دو صفحه: replaceState و یک اسکریپت ناقص",
 "stage": "",
 "link": "",
-"id": "r217"
+"id": "r281"
 },
 {
 "area": "تست‌ها",
@@ -2614,7 +3382,7 @@
 "note": "دستی. آخرین به‌روزرسانی آبان ۱۴۰۵",
 "stage": "",
 "link": "",
-"id": "r218"
+"id": "r282"
 },
 {
 "area": "تست‌ها",
@@ -2626,7 +3394,7 @@
 "note": "دستی",
 "stage": "",
 "link": "",
-"id": "r219"
+"id": "r283"
 },
 {
 "area": "تست‌ها",
@@ -2638,7 +3406,7 @@
 "note": "مانده",
 "stage": "",
 "link": "",
-"id": "r220"
+"id": "r284"
 },
 {
 "area": "بازارها",
@@ -2650,7 +3418,7 @@
 "note": "غیبتِ ناشی از فشار روانی کار سالی ۴٫۹ میلیارد یورو برای کارفرماها؛ حدود ۱۴٬۵۰۰ یورو هر مورد (TNO ۲۰۲۵). ۶۸٪ شرکت‌ها RI&E دارند و ۳۰٪ آن‌ها کیفیت کافی ندارد",
 "stage": "",
 "link": "https://publications.tno.nl/publication/34645173/TN4nayzz/TNO-2025-werkstress.pdf",
-"id": "r221"
+"id": "r285"
 },
 {
 "area": "بازارها",
@@ -2662,7 +3430,7 @@
 "note": "سریع‌ترین پول؛ فقط صفحهٔ خدمات و قیمت کم است",
 "stage": "",
 "link": "",
-"id": "r222"
+"id": "r286"
 },
 {
 "area": "بازارها",
@@ -2674,7 +3442,7 @@
 "note": "بازار بازی جدی اروپا ۷٫۷ میلیارد دلار در ۲۰۲۶، رشد سالانه حدود ۱۸٪ (برآورد تجاری Mordor؛ تأییدنشده)",
 "stage": "",
 "link": "https://www.mordorintelligence.com/industry-reports/europe-serious-gaming-market",
-"id": "r223"
+"id": "r287"
 },
 {
 "area": "بازارها",
@@ -2686,7 +3454,7 @@
 "note": "فلاندر سطح گفتاری تازه‌واردها را به B۱ می‌برد و روی تمرین سر کار تکیه دارد؛ خریدار سازمان است نه فرد",
 "stage": "",
 "link": "https://www.vlaanderen.be/onderwijsprofessionals/organisatie-en-administratie/specifiek-aanbod-en-organisatievormen/nederlands-als-tweede-taal-nt2/de-nt2-test",
-"id": "r224"
+"id": "r288"
 },
 {
 "area": "بازارها",
@@ -2698,7 +3466,7 @@
 "note": "رقیب تقریباً ندارد؛ پرداخت و اعتماد هنوز آزموده نشده",
 "stage": "",
 "link": "",
-"id": "r225"
+"id": "r289"
 },
 {
 "area": "بازارها",
@@ -2710,7 +3478,7 @@
 "note": "ابزار بازی‌محور کم است؛ اندازهٔ بازار نامعلوم",
 "stage": "",
 "link": "",
-"id": "r226"
+"id": "r290"
 },
 {
 "area": "بازارها",
@@ -2722,7 +3490,7 @@
 "note": "علاقه زیاد، عادت به پرداخت کم؛ فروش به کافه و رویداد محتمل‌تر از فرد",
 "stage": "",
 "link": "",
-"id": "r227"
+"id": "r291"
 },
 {
 "area": "بازارها",
@@ -2734,7 +3502,7 @@
 "note": "خودِ ویکی پول نمی‌سازد؛ کارگاه و دوره می‌سازد",
 "stage": "",
 "link": "",
-"id": "r228"
+"id": "r292"
 },
 {
 "area": "بازارها",
@@ -2746,7 +3514,7 @@
 "note": "بازار کوچک و تخصصی؛ آخر صف",
 "stage": "",
 "link": "",
-"id": "r229"
+"id": "r293"
 },
 {
 "area": "کتاب‌ها",
@@ -2758,7 +3526,7 @@
 "note": "نوبت ۱",
 "stage": "",
 "link": "",
-"id": "r230"
+"id": "r294"
 },
 {
 "area": "کتاب‌ها",
@@ -2770,7 +3538,7 @@
 "note": "نوبت ۲",
 "stage": "",
 "link": "",
-"id": "r231"
+"id": "r295"
 },
 {
 "area": "کتاب‌ها",
@@ -2782,7 +3550,7 @@
 "note": "نوبت ۳",
 "stage": "",
 "link": "",
-"id": "r232"
+"id": "r296"
 },
 {
 "area": "کتاب‌ها",
@@ -2794,7 +3562,7 @@
 "note": "نوبت ۴",
 "stage": "",
 "link": "",
-"id": "r233"
+"id": "r297"
 },
 {
 "area": "کتاب‌ها",
@@ -2806,7 +3574,7 @@
 "note": "نوبت ۵",
 "stage": "",
 "link": "",
-"id": "r234"
+"id": "r298"
 },
 {
 "area": "کتاب‌ها",
@@ -2818,7 +3586,7 @@
 "note": "نوبت ۶",
 "stage": "",
 "link": "",
-"id": "r235"
+"id": "r299"
 },
 {
 "area": "کتاب‌ها",
@@ -2830,7 +3598,7 @@
 "note": "نوبت ۷",
 "stage": "",
 "link": "",
-"id": "r236"
+"id": "r300"
 },
 {
 "area": "کتاب‌ها",
@@ -2842,7 +3610,7 @@
 "note": "نوبت ۸",
 "stage": "",
 "link": "",
-"id": "r237"
+"id": "r301"
 },
 {
 "area": "کتاب‌ها",
@@ -2854,7 +3622,7 @@
 "note": "نوبت ۹",
 "stage": "",
 "link": "",
-"id": "r238"
+"id": "r302"
 },
 {
 "area": "کتاب‌ها",
@@ -2866,7 +3634,7 @@
 "note": "نوبت ۱۰",
 "stage": "",
 "link": "",
-"id": "r239"
+"id": "r303"
 },
 {
 "area": "کتاب‌ها",
@@ -2878,7 +3646,7 @@
 "note": "نوبت ۱۱",
 "stage": "",
 "link": "",
-"id": "r240"
+"id": "r304"
 },
 {
 "area": "کتاب‌ها",
@@ -2890,7 +3658,7 @@
 "note": "نوبت ۱۲",
 "stage": "",
 "link": "",
-"id": "r241"
+"id": "r305"
 },
 {
 "area": "کتاب‌ها",
@@ -2902,13 +3670,13 @@
 "note": "نوبت ۱۳",
 "stage": "",
 "link": "",
-"id": "r242"
+"id": "r306"
 }
 ],
 "meta": [
 {
 "label": "built",
-"value": "2026-11-18"
+"value": "2026-11-19"
 },
 {
 "label": "ساخته‌شده با",

@@ -89,6 +89,28 @@ for s in plan['sciences']:
     add('علم‌ها', s[0], 'علم', M.get(s[2], s[2]), 'عمومی' if s[2] != 'none' else '—', rel(s[3]) if len(s) > 3 else '',
         note=s[1][:90])
 
+# ── ۳ب. شاخه‌های علم، از خودِ داده (هر شاخه یا مدخلِ تازه خودش این‌جا می‌آید) ──
+import subprocess, collections as _c
+WN = {'psy': 'روان', 'soc': 'جامعه', 'phil': 'فلسفه', 'tabar': 'تبار', 'tarikh': 'تاریخ'}
+cons = [load(f) for w in WN for f in glob.glob(f'{PUB}/data/{w}/concepts/*.json')]
+byf = _c.defaultdict(_c.Counter)
+for c in cons:
+    if c.get('kind') == 'concept': byf[c.get('field') or c.get('parent') or c['id'].split(':')[0]][c.get('status', 'draft')] += 1
+E = reg['entries']
+for f, c in sorted(byf.items(), key=lambda kv: -sum(kv[1].values())):
+    w = f.split(':')[0]; n = sum(c.values()); t = E.get(f, {}).get('title', {}).get('fa', f)
+    add('شاخه‌های علم', f'{WN.get(w, w)}: {t}', 'شاخه', 'ساخته' if not c['draft'] else 'در کار', 'عمومی', DS + f'{w}/', count=n,
+        note=f"{c['draft']} پیش‌نویس، {n - c['draft']} بازبینی‌شده")
+try:
+    out = subprocess.run(['git', '-C', PUB, 'log', '--since=7 days ago', '--diff-filter=A', '--name-only', '--format=', '--',
+                          'data/*/concepts/*.json'], capture_output=True, text=True).stdout.split()
+    new = _c.defaultdict(list)
+    for f in out:
+        if os.path.exists(f'{PUB}/../{f}'): new[f.split('/')[2]].append(load(f'{PUB}/../{f}')['title']['fa'])
+    for w, ts in new.items():
+        add('تازه‌ها (۷ روز)', f'{WN.get(w, w)}: {len(ts)} مدخل تازه', 'مدخل', 'ساخته', 'عمومی', DS + f'{w}/', count=len(ts), note='، '.join(ts[:6])[:140])
+except Exception as e: print('git:', e)
+
 # ── ۴. محصول‌ها و درآمد ─────────────────────────────────────────
 for p in plan['products']:
     link = rel(p[6])
