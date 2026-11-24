@@ -1,11 +1,11 @@
 {
-"built": "2026-11-24",
+"built": "2026-11-25",
 "model_version": 1,
 "counts": {
-"0": 2555,
+"0": 2605,
 "1": 40,
 "2": 157,
-"3": 44,
+"3": 45,
 "4": 9
 },
 "rows": [
@@ -1105,7 +1105,7 @@
 "why": "فهرست تست‌ها",
 "manual": false,
 "title": "",
-"bytes": 52048
+"bytes": 53421
 },
 {
 "path": "data/sakht/day.json",
@@ -1186,7 +1186,7 @@
 "why": "خودِ تنظیمات دسترسی",
 "manual": false,
 "title": "",
-"bytes": 526831
+"bytes": 526964
 },
 {
 "path": "data/access/dates.json",
@@ -2242,6 +2242,15 @@
 "bytes": 16871
 },
 {
+"path": "build/vaultfull.cjs",
+"level": 3,
+"area": "work",
+"why": "ابزار ساخت",
+"manual": false,
+"title": "",
+"bytes": 2823
+},
+{
 "path": "build/why_page.py",
 "level": 3,
 "area": "work",
@@ -2311,7 +2320,7 @@
 "why": "پنل دسترسی",
 "manual": false,
 "title": "پنل دسترسی",
-"bytes": 59614
+"bytes": 59713
 },
 {
 "path": "core/repos.html",
@@ -2329,7 +2338,7 @@
 "why": "صفحهٔ تست‌ها",
 "manual": false,
 "title": "تست‌ها",
-"bytes": 55063
+"bytes": 52302
 },
 {
 "path": "call.html",
@@ -19342,6 +19351,16 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/agency.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/akrasia.json",
 "level": 0,
 "area": "par",
@@ -19432,6 +19451,16 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/around-them.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/art-definition.json",
 "level": 0,
 "area": "par",
@@ -19463,6 +19492,16 @@
 },
 {
 "path": "data/psy/concepts/arts-transfer.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/assertiveness.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -19572,7 +19611,27 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/boundaries.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/brain-mosaic.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/breaking-cycle.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -19642,6 +19701,36 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/change-possible.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/children-of-narcissists.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/coercive-control.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/cognitive-biases.json",
 "level": 0,
 "area": "par",
@@ -19682,6 +19771,16 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/collective-narcissism.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/compassion-at-work.json",
 "level": 0,
 "area": "par",
@@ -19703,6 +19802,16 @@
 },
 {
 "path": "data/psy/concepts/complex-contagion.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/conditional-regard.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -19752,6 +19861,76 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/control-at-work.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/control-behaviors.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/control-in-couple.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/control-in-family.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/control-in-helping.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/control-in-parenting.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/control-online.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/cooperation-competition.json",
 "level": 0,
 "area": "par",
@@ -19763,6 +19942,16 @@
 },
 {
 "path": "data/psy/concepts/cooperative-eye.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/cptsd.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -19852,7 +20041,27 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/darvo.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/decision-errors.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/defensive-reactions.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -19973,6 +20182,16 @@
 },
 {
 "path": "data/psy/concepts/dog-cognition.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/drive-not-control.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -20352,7 +20571,27 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/gaslighting.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/goal-pursuit.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/gottman-horsemen.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -20433,6 +20672,16 @@
 },
 {
 "path": "data/psy/concepts/health-anxiety.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/healthy-narcissism.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -20532,6 +20781,16 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/intermittent-bond.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/interpersonal-er.json",
 "level": 0,
 "area": "par",
@@ -20572,6 +20831,26 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/karpman-triangle.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/labels-harm.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/learned-helplessness.json",
 "level": 0,
 "area": "par",
@@ -20593,6 +20872,26 @@
 },
 {
 "path": "data/psy/concepts/learning-memory.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/leaving.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/love-bombing.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -20812,7 +21111,37 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/narcissism-control.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/narcissism-culture.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/narcissism-origins.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/narcissism.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -20883,6 +21212,16 @@
 },
 {
 "path": "data/psy/concepts/norm-psychology.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/npd.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -21312,6 +21651,16 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/psychological-control.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/psychological-richness.json",
 "level": 0,
 "area": "par",
@@ -21372,6 +21721,16 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/public-private.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/quiet-quitting.json",
 "level": 0,
 "area": "par",
@@ -21422,6 +21781,16 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/recovery.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/regulatory-mode.json",
 "level": 0,
 "area": "par",
@@ -21452,7 +21821,27 @@
 "public": true
 },
 {
+"path": "data/psy/concepts/relationship-arc.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "data/psy/concepts/replication-crisis.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/rescuing.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -21583,6 +21972,26 @@
 },
 {
 "path": "data/psy/concepts/self-selectors.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/self-silencing.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/self-trust.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -22023,6 +22432,16 @@
 },
 {
 "path": "data/psy/concepts/victim-mindset.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/psy/concepts/victim-toll.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -22563,6 +22982,16 @@
 },
 {
 "path": "build/lands.tpl.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "build/narc_page.tpl.html",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -25892,6 +26321,16 @@
 "public": true
 },
 {
+"path": "psy/narcissism.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "psy/optimism.html",
 "level": 0,
 "area": "par",
@@ -26563,6 +27002,16 @@
 },
 {
 "path": "psy/lessons/s9.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "psy/stories/narcissism-control.html",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -27252,6 +27701,16 @@
 "public": true
 },
 {
+"path": "psy/tools/arc.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "psy/tools/atlas2.html",
 "level": 0,
 "area": "par",
@@ -27283,6 +27742,16 @@
 },
 {
 "path": "psy/tools/compare-theories.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "psy/tools/control-check.html",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -27462,6 +27931,16 @@
 "public": true
 },
 {
+"path": "psy/tools/roles.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "psy/tools/scales.html",
 "level": 0,
 "area": "par",
@@ -27472,7 +27951,37 @@
 "public": true
 },
 {
+"path": "psy/tools/sentences.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "psy/tools/timeline.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "psy/tools/toll.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "psy/tools/triangle.html",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
