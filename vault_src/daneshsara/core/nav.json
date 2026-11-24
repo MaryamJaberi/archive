@@ -117,16 +117,6 @@
 "path": "simorgh/par/europe.html",
 "label": "ارائهٔ اروپا",
 "note": "نسخهٔ کوتاه برای مخاطب اروپایی"
-},
-{
-"path": "simorgh/par/docs/qa-europe.html",
-"label": "پرسش و پاسخِ اروپا",
-"note": "جواب‌های آماده"
-},
-{
-"path": "simorgh/par/docs/qa-site.html",
-"label": "پرسش و پاسخِ سایت",
-"note": "جواب‌های آماده"
 }
 ]
 },
@@ -353,6 +343,16 @@
 "path": "core/need.html",
 "label": "چیزهایی که باید بگیریم",
 "note": ""
+},
+{
+"path": "simorgh/par/docs/qa-europe.html",
+"label": "گزارش تستِ ارائهٔ اروپا",
+"note": "سند فنی، شهریور ۱۴۰۵"
+},
+{
+"path": "simorgh/par/docs/qa-site.html",
+"label": "گزارش تستِ سایت",
+"note": "سند فنی، شهریور ۱۴۰۵"
 }
 ]
 }

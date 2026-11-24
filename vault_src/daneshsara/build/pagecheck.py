@@ -33,6 +33,7 @@ for sec, p, label in pages:
                  'words': len(body.split()),
                  'h1': len(re.findall(r'<h1', h)), 'h2': len(re.findall(r'<h2', h)),
                  'lead': lead, 'leadlen': len(lead), 'out': len(out),
+                 'kit': 'class="intro-kit"' in h,
                  'toc': ('data-ds="toc"' in h) or bool([1 for m in re.finditer(
                      r'(?is)<(nav|div|ul|ol|p|section)[^>]*>(.{0,3000}?)</\1>',
                      re.sub(r'(?is)<(script|style)[^>]*>.*?</\1>', ' ', h))
@@ -45,7 +46,7 @@ for r in rows: r['in'] = inbound[r['path']]
 DECK = {'simorgh/par/europe.html', 'simorgh/par/eraee-rahbordi.html'}
 
 def flags(r):
-    if r['path'] in DECK or r['i18n']: return []
+    if r['path'] in DECK or r['i18n'] or r['kit']: return []
     f = []
     if r['leadlen'] < 40:   f.append('بی‌جملهٔ معرفی')
     elif r['leadlen'] > 400: f.append('معرفیِ خیلی بلند')

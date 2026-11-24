@@ -34,8 +34,6 @@ NAV = [
    ("simorgh/par/sanad-rahbordi.html", "تشخیص، گزینه‌ها، مسیر", "سند کامل"),
    ("simorgh/par/eraee-rahbordi.html", "همان سند، به شکل ارائه", "برای جلسه"),
    ("simorgh/par/europe.html",         "ارائهٔ اروپا",           "نسخهٔ کوتاه برای مخاطب اروپایی"),
-   ("simorgh/par/docs/qa-europe.html", "پرسش و پاسخِ اروپا",     "جواب‌های آماده"),
-   ("simorgh/par/docs/qa-site.html",   "پرسش و پاسخِ سایت",      "جواب‌های آماده"),
  ]),
  ("شواهد و بازرسی", "هر ادعا از کجا آمده و چقدر محکم است", [
    ("simorgh/par/data.html",     "میزِ داده",        "۸۴ ادعا با منبع و شرط ابطال"),
@@ -86,6 +84,8 @@ NAV = [
    ("simorgh/index.html",                       "ویکی سیمرغ",        "صفحهٔ اول قدیمی"),
    ("core/repos.html",                          "مخزن‌های تازه",      ""),
    ("core/need.html",                           "چیزهایی که باید بگیریم",""),
+   ("simorgh/par/docs/qa-europe.html",          "گزارش تستِ ارائهٔ اروپا", "سند فنی، شهریور ۱۴۰۵"),
+   ("simorgh/par/docs/qa-site.html",            "گزارش تستِ سایت",        "سند فنی، شهریور ۱۴۰۵"),
  ]),
 ]
 

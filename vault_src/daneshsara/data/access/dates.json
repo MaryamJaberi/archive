@@ -1,6 +1,6 @@
 {
 "sakht/work.html": {
-"hash": "f4fad7dbe8292f7e",
+"hash": "955e3c033f5b374e",
 "checked": "2026-11-24"
 },
 "sakht/day.html": {
@@ -20,7 +20,7 @@
 "checked": "2026-11-24"
 },
 "core/panel.html": {
-"hash": "f6ee2a6c31dbd4d8",
+"hash": "48269f31ec86b7b9",
 "checked": "2026-11-24"
 },
 "simorgh/circle.html": {
@@ -36,11 +36,11 @@
 "checked": "2026-11-24"
 },
 "simorgh/par/gam.html": {
-"hash": "249e3131c752dd36",
+"hash": "ff46149d98ab42ed",
 "checked": "2026-11-24"
 },
 "simorgh/par/roles.html": {
-"hash": "a7953adcffe71f0a",
+"hash": "11155da16db56c19",
 "checked": "2026-11-24"
 },
 "simorgh/par/map.html": {
@@ -48,7 +48,7 @@
 "checked": "2026-11-24"
 },
 "simorgh/par/story.html": {
-"hash": "b0b1a0506fc56f3d",
+"hash": "5a36edfa99c607de",
 "checked": "2026-11-24"
 },
 "simorgh/par/two-irans.html": {
@@ -56,15 +56,15 @@
 "checked": "2026-11-24"
 },
 "simorgh/par/shared.html": {
-"hash": "a8eaff97d053e49d",
+"hash": "a30468ca08e7b71a",
 "checked": "2026-11-24"
 },
 "simorgh/par/timeline.html": {
-"hash": "5071321df09c829a",
+"hash": "31e04197f6e85e99",
 "checked": "2026-11-24"
 },
 "simorgh/par/sanad-rahbordi.html": {
-"hash": "64a994ae9556e646",
+"hash": "982d4df32b3a2f4a",
 "checked": "2026-11-24"
 },
 "simorgh/par/eraee-rahbordi.html": {
@@ -84,7 +84,7 @@
 "checked": "2026-11-24"
 },
 "simorgh/par/data.html": {
-"hash": "b42edc5652fa8cde",
+"hash": "e185eb93f4e5a664",
 "checked": "2026-11-24"
 },
 "simorgh/par/argmap.html": {
@@ -96,7 +96,7 @@
 "checked": "2026-11-24"
 },
 "simorgh/par/audit.html": {
-"hash": "4493f1981fd393b9",
+"hash": "42758b6a52f3abbb",
 "checked": "2026-11-24"
 },
 "simorgh/par/health.html": {
@@ -120,35 +120,35 @@
 "checked": "2026-11-24"
 },
 "simorgh/birds.html": {
-"hash": "6320e83467424540",
+"hash": "c8cdf813800bca93",
 "checked": "2026-11-24"
 },
 "simorgh/why.html": {
-"hash": "24f39ebd68f39ca3",
+"hash": "b21e30123d5c5441",
 "checked": "2026-11-24"
 },
 "simorgh/sim.html": {
-"hash": "36fedb3978b8e4a6",
+"hash": "a3b4b3d9c134707a",
 "checked": "2026-11-24"
 },
 "simorgh/transitions.html": {
-"hash": "5598735d3dccd292",
+"hash": "07d4c850a05373c7",
 "checked": "2026-11-24"
 },
 "simorgh/poll.html": {
-"hash": "c2bdc22b2a660a88",
+"hash": "64ceac1e48cfe0b3",
 "checked": "2026-11-24"
 },
 "sakht/index.html": {
-"hash": "ded62487ad7dd4e5",
+"hash": "f728ab228af10d8f",
 "checked": "2026-11-24"
 },
 "sakht/map.html": {
-"hash": "995a0d7f6c70c75b",
+"hash": "b48397b9709083d8",
 "checked": "2026-11-24"
 },
 "iran/index.html": {
-"hash": "c71f5921b3de7c5d",
+"hash": "c930593943ac3068",
 "checked": "2026-11-24"
 },
 "iran/entries.html": {
@@ -156,27 +156,27 @@
 "checked": "2026-11-24"
 },
 "iran/tools/index.html": {
-"hash": "e9ef43468b80167d",
+"hash": "dc67627893f3b6f2",
 "checked": "2026-11-24"
 },
 "iran/tools/check.html": {
-"hash": "61801b43b6d8a8ff",
+"hash": "6dc761ce82a19516",
 "checked": "2026-11-24"
 },
 "iran/tools/guess.html": {
-"hash": "3eef8c28a84bb496",
+"hash": "71464d831cb1847b",
 "checked": "2026-11-24"
 },
 "iran/tools/lens.html": {
-"hash": "09364c3ce2dad364",
+"hash": "0da420df47688bdb",
 "checked": "2026-11-24"
 },
 "iran/tools/matrix.html": {
-"hash": "a7a07c3917fb15db",
+"hash": "af8aad1870d21221",
 "checked": "2026-11-24"
 },
 "iran/tools/timeline.html": {
-"hash": "ea1d7e439c5aa006",
+"hash": "950d5692278014bf",
 "checked": "2026-11-24"
 },
 "simorgh/par/en/index.html": {
