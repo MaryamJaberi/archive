@@ -13,6 +13,9 @@ python3 build/reader.py simorgh | tail -1
 V=$SC/vault_src/daneshsara
 rm -rf $V/data/simorgh/concepts && cp -r data/simorgh/concepts $V/data/simorgh/concepts && cp data/simorgh/order.json $V/data/simorgh/ && cp simorgh/entries.html $V/simorgh/entries.html
 N=$(ls data/simorgh/concepts | wc -l)
+# دسته‌بندی محرمانگی، معماری اطلاعات و پنل، پیش از مهروموم
+cd $V && python3 build/access.py . $R | tail -1 && python3 build/nav_vault.py && python3 build/panel.py
+cd $R
 [ -n "$DS_VAULT_PASS" ] || { echo "no pass"; exit 1; }
 rm -rf $SC/pre_x && python3 build/vault.py --extract vault/bundle.enc $SC/pre_x >/dev/null && echo pass-ok
 python3 build/vault.py $SC/vault_src vault/bundle.enc | tail -1

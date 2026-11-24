@@ -1,0 +1,372 @@
+{
+"built": "2026-11-24",
+"sections": [
+{
+"title": "هر روز",
+"note": "چیزهایی که مدام باز می‌کنی",
+"items": [
+{
+"path": "sakht/work.html",
+"label": "میز کار",
+"note": "کارهای در جریان ساخت ایران"
+},
+{
+"path": "sakht/day.html",
+"label": "روز بعد",
+"note": "برنامهٔ روزِ پس از تغییر"
+},
+{
+"path": "simorgh/plan.html",
+"label": "نقشهٔ کلان",
+"note": "تصمیم‌های گرفته و نگرفتهٔ سیمرغ"
+},
+{
+"path": "core/tests.html",
+"label": "تست‌ها",
+"note": "وضعیت تست همهٔ پروژه‌ها"
+},
+{
+"path": "core/log.html",
+"label": "دفتر پروژه",
+"note": "رویدادهای ثبت‌شده"
+}
+]
+},
+{
+"title": "دسترسی و آدم‌ها",
+"note": "چه کسی چه چیزی را می‌بیند",
+"items": [
+{
+"path": "core/panel.html",
+"label": "پنل دسترسی",
+"note": "سطح‌ها، رول‌ها، آدم‌ها"
+},
+{
+"path": "simorgh/circle.html",
+"label": "میز حلقه",
+"note": "حلقهٔ معتمد و سهم هر کس"
+},
+{
+"path": "wellbeing/monday.html",
+"label": "برگهٔ جلسهٔ همکاری",
+"note": "برای جلسه با همکارها"
+}
+]
+},
+{
+"title": "پَرِ سیمرغ · متن اصلی",
+"note": "خودِ بازی و روایت",
+"items": [
+{
+"path": "simorgh/par/game.html",
+"label": "متنِ کامل بازی",
+"note": "قاعده‌ها، هفت شب، بازیکن‌ها، همه یک‌جا"
+},
+{
+"path": "simorgh/par/gam.html",
+"label": "کارتِ تو",
+"note": "هجده نقش و کار هر کدام"
+},
+{
+"path": "simorgh/par/roles.html",
+"label": "میز مافیای ایران",
+"note": "نقش‌ها روی میز واقعی"
+},
+{
+"path": "simorgh/par/map.html",
+"label": "کجای میز ایستاده‌ای؟",
+"note": "جای خودت را پیدا کن"
+},
+{
+"path": "simorgh/par/story.html",
+"label": "خانه‌ای در افسریه",
+"note": "داستان، با تصویر"
+},
+{
+"path": "simorgh/par/two-irans.html",
+"label": "دو ایران",
+"note": "چرا دو ایران شد"
+},
+{
+"path": "simorgh/par/shared.html",
+"label": "ایرانیان و اسرائیلی‌ها",
+"note": "میز مشترک"
+},
+{
+"path": "simorgh/par/timeline.html",
+"label": "خطِ زمان",
+"note": "رویدادها از مشروطه تا امروز"
+}
+]
+},
+{
+"title": "پَرِ سیمرغ · سند راهبردی",
+"note": "همان تحلیل، برای نشان‌دادن به دیگران",
+"items": [
+{
+"path": "simorgh/par/sanad-rahbordi.html",
+"label": "تشخیص، گزینه‌ها، مسیر",
+"note": "سند کامل"
+},
+{
+"path": "simorgh/par/eraee-rahbordi.html",
+"label": "همان سند، به شکل ارائه",
+"note": "برای جلسه"
+},
+{
+"path": "simorgh/par/europe.html",
+"label": "ارائهٔ اروپا",
+"note": "نسخهٔ کوتاه برای مخاطب اروپایی"
+},
+{
+"path": "simorgh/par/docs/qa-europe.html",
+"label": "پرسش و پاسخِ اروپا",
+"note": "جواب‌های آماده"
+},
+{
+"path": "simorgh/par/docs/qa-site.html",
+"label": "پرسش و پاسخِ سایت",
+"note": "جواب‌های آماده"
+}
+]
+},
+{
+"title": "شواهد و بازرسی",
+"note": "هر ادعا از کجا آمده و چقدر محکم است",
+"items": [
+{
+"path": "simorgh/par/data.html",
+"label": "میزِ داده",
+"note": "۸۴ ادعا با منبع و شرط ابطال"
+},
+{
+"path": "simorgh/par/argmap.html",
+"label": "نقشهٔ استدلال",
+"note": "از استعاره تا کار"
+},
+{
+"path": "simorgh/par/inspect.html",
+"label": "بازرسیِ ادعا",
+"note": "یک ادعا را خودت وارسی کن"
+},
+{
+"path": "simorgh/par/audit.html",
+"label": "دفترِ ممیزی",
+"note": "ضعف‌هایی که خودمان پیدا کردیم"
+},
+{
+"path": "simorgh/par/health.html",
+"label": "سلامتِ دیتاست",
+"note": "عددها با هم می‌خوانند؟"
+},
+{
+"path": "simorgh/par/status.html",
+"label": "وضعیتِ سند",
+"note": "چه چیزی کهنه شده"
+},
+{
+"path": "simorgh/par/problems.html",
+"label": "نقشهٔ مشکل‌ها",
+"note": "مسئله‌ها و ربطشان"
+},
+{
+"path": "simorgh/par/library.html",
+"label": "کتابخانه",
+"note": "کتاب‌ها و مقاله‌ها"
+},
+{
+"path": "simorgh/par/docs/manabe.html",
+"label": "منابعِ پیشنهادی",
+"note": "صفِ خواندن"
+}
+]
+},
+{
+"title": "سیمرغ · بازی و سنجش",
+"note": "ابزارهای دور میز",
+"items": [
+{
+"path": "simorgh/birds.html",
+"label": "کارت‌های سی مرغ",
+"note": "سی گروه، سی کارت"
+},
+{
+"path": "simorgh/why.html",
+"label": "چرا؟ علم پشت هر نقش",
+"note": "پشتوانهٔ علمی هر نقش"
+},
+{
+"path": "simorgh/sim.html",
+"label": "شهر: بازی ده‌نوبته",
+"note": "شبیه‌سازی"
+},
+{
+"path": "simorgh/transitions.html",
+"label": "گذار در کشورهای دیگر",
+"note": "چه شد و چه درس دارد"
+},
+{
+"path": "simorgh/poll.html",
+"label": "نبض میز",
+"note": "نظرسنجی ماهانه و دفتر تقلب"
+}
+]
+},
+{
+"title": "ساخت ایران",
+"note": "از تشخیص تا کار",
+"items": [
+{
+"path": "sakht/index.html",
+"label": "ساخت ایران",
+"note": "ایده‌ها و کارها"
+},
+{
+"path": "sakht/map.html",
+"label": "نقشهٔ خرابی‌ها",
+"note": "چه چیزی خراب است و کجا"
+}
+]
+},
+{
+"title": "ویکی ایران",
+"note": "ایران در عدد و سند",
+"items": [
+{
+"path": "iran/index.html",
+"label": "ویکی ایران",
+"note": "مدخل‌ها"
+},
+{
+"path": "iran/entries.html",
+"label": "برای ایران",
+"note": "یادداشت‌ها و ریشه‌یابی"
+},
+{
+"path": "iran/tools/index.html",
+"label": "ابزارها",
+"note": "فهرست ابزارهای ایران"
+},
+{
+"path": "iran/tools/check.html",
+"label": "راستی‌آزمای ادعا",
+"note": ""
+},
+{
+"path": "iran/tools/guess.html",
+"label": "اول حدس بزن",
+"note": "ایران در عدد"
+},
+{
+"path": "iran/tools/lens.html",
+"label": "ایران از دید هر رشته",
+"note": ""
+},
+{
+"path": "iran/tools/matrix.html",
+"label": "ماتریس مسئله × رشته",
+"note": ""
+},
+{
+"path": "iran/tools/timeline.html",
+"label": "خط زمانی ایران",
+"note": ""
+}
+]
+},
+{
+"title": "English",
+"note": "the shareable English pages",
+"items": [
+{
+"path": "simorgh/par/en/index.html",
+"label": "Par-e Simorgh",
+"note": "index"
+},
+{
+"path": "simorgh/par/en/gam.html",
+"label": "Your Card",
+"note": "the eighteen roles"
+},
+{
+"path": "simorgh/par/en/library.html",
+"label": "Library",
+"note": "books and papers"
+},
+{
+"path": "simorgh/par/en/shared.html",
+"label": "Iranians & Israelis",
+"note": ""
+}
+]
+},
+{
+"title": "بایگانی",
+"note": "نگه داشته‌ایم ولی روزمره نیست",
+"items": [
+{
+"path": "simorgh/par/old/full-game-shahrivar.html",
+"label": "نسخهٔ شهریور ۱۴۰۵",
+"note": "متن کامل قدیمی، با پروپوزال"
+},
+{
+"path": "simorgh/par/docs/story-text.html",
+"label": "افسریه: فقط متن",
+"note": "همان داستان، بدون تصویر"
+},
+{
+"path": "simorgh/par/docs/didgah.html",
+"label": "دیدگاه‌های رسانه‌ای",
+"note": "دفترچهٔ منابع"
+},
+{
+"path": "simorgh/par/docs/masterplan.html",
+"label": "نقشهٔ کلان: خلاصهٔ زنده",
+"note": ""
+},
+{
+"path": "simorgh/par/downloads.html",
+"label": "دانلود و منابع",
+"note": ""
+},
+{
+"path": "simorgh/par/index.html",
+"label": "نمایهٔ پَرِ سیمرغ",
+"note": "فهرست قدیمی"
+},
+{
+"path": "simorgh/archive.html",
+"label": "همهٔ پَرِ سیمرغ",
+"note": "فهرست قدیمی"
+},
+{
+"path": "simorgh/index.html",
+"label": "ویکی سیمرغ",
+"note": "صفحهٔ اول قدیمی"
+},
+{
+"path": "core/repos.html",
+"label": "مخزن‌های تازه",
+"note": ""
+},
+{
+"path": "core/need.html",
+"label": "چیزهایی که باید بگیریم",
+"note": ""
+}
+]
+}
+],
+"hide": [
+"simorgh/par/nights.html",
+"simorgh/par/players.html",
+"simorgh/par/rules.html",
+"simorgh/par/en/nights.html",
+"simorgh/par/en/players.html",
+"simorgh/par/en/rules.html",
+"simorgh/entries.html",
+"atlas/coverage.html",
+"atlas/sitemap.html",
+"atlas/story.html"
+]
+}

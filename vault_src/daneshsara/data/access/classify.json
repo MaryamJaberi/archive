@@ -2,10 +2,10 @@
 "built": "2026-11-24",
 "model_version": 1,
 "counts": {
-"0": 2432,
+"0": 2555,
 "1": 40,
 "2": 157,
-"3": 40,
+"3": 41,
 "4": 7
 },
 "rows": [
@@ -529,7 +529,7 @@
 "why": "فهرست همهٔ صفحه‌های خصوصی",
 "manual": false,
 "title": "همهٔ پَرِ سیمرغ",
-"bytes": 8237
+"bytes": 8105
 },
 {
 "path": "simorgh/birds.html",
@@ -655,7 +655,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "دانلود و منابع",
-"bytes": 8222
+"bytes": 7778
 },
 {
 "path": "simorgh/par/eraee-rahbordi.html",
@@ -1018,15 +1018,6 @@
 "bytes": 15435
 },
 {
-"path": "simorgh/par/files/voice2text.html",
-"level": 2,
-"area": "par",
-"why": "پیش‌نویس‌ها و نسخه‌های قدیمی پَرِ سیمرغ",
-"manual": false,
-"title": "صدا به متن",
-"bytes": 20679
-},
-{
 "path": "simorgh/par/docs/didgah.html",
 "level": 2,
 "area": "par",
@@ -1195,7 +1186,7 @@
 "why": "خودِ تنظیمات دسترسی",
 "manual": false,
 "title": "",
-"bytes": 501831
+"bytes": 504110
 },
 {
 "path": "data/access/model.json",
@@ -2089,6 +2080,15 @@
 "bytes": 8504
 },
 {
+"path": "build/nav_vault.py",
+"level": 3,
+"area": "work",
+"why": "ابزار ساخت",
+"manual": false,
+"title": "",
+"bytes": 9374
+},
+{
 "path": "build/need_page.py",
 "level": 3,
 "area": "work",
@@ -2242,6 +2242,15 @@
 "bytes": 49824
 },
 {
+"path": "core/nav.json",
+"level": 2,
+"area": "work",
+"why": "مشترک",
+"manual": false,
+"title": "",
+"bytes": 8322
+},
+{
 "path": "core/need.html",
 "level": 2,
 "area": "work",
@@ -2257,7 +2266,7 @@
 "why": "پنل دسترسی",
 "manual": false,
 "title": "پنل دسترسی",
-"bytes": 57876
+"bytes": 58224
 },
 {
 "path": "core/repos.html",
@@ -2358,6 +2367,126 @@
 "public": true
 },
 {
+"path": "iran/aces-prevalence.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/air-pollution-deaths.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/child-labour.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/child-marriage.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/child-sexual-abuse.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/consanguinity.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/corruption-perceptions.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/cost-of-living-2026.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/deserted-villages.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/drug-use-disorders.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/electricity-deficit.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/emigration.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "iran/entries.html",
 "level": 0,
 "area": "par",
@@ -2368,7 +2497,297 @@
 "public": true
 },
 {
+"path": "iran/executions-2025.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/fertility.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/genetic-heterogeneity.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/gini.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/groundwater-depletion.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/happiness-rank.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "iran/index.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/inflation.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/internet-shutdown-2026.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/iranome.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/lake-urmia.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/land-subsidence.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/mental-disorder-prevalence.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/out-of-school-children.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/political-attitudes-2026.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/poverty-rate.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/press-freedom.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/religiosity.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/road-deaths.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/social-trust.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/steppe-ancestry.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/suicide-rate.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/tehran-water-2025.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/thalassemia-screening.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/urbanization.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/values-shift.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/violence-against-women.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/world-heritage.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/zagros-neolithic.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "iran/zagros-oak-decline.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -9449,6 +9868,826 @@
 },
 {
 "path": "data/tabar/concepts/zagros-neolithic.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/order.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/action.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/argmap.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/audit.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/backlog.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/birds-1.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/birds-2.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/birds-3.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/birds-30.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/birds-4.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/birds-5.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/birds-6.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/characters-city.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/characters-indie.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/characters-mafia.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/circle-table.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/claims-demography.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/claims-economy.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/claims-history.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/claims-iran-israel.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/claims-model.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/claims-politics.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/claims-resistance.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/claims-security.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/cost-model.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/covenantal-transition.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/current-situation.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/dataset-84.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/dataset-health.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/europe-deck.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/evidence.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/exit-voice.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/gamaan-2026.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/game-reality-map.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/game-rules-v2.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/game.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/history-roots.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/history.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/inspect-claim.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/liberation-day.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/library-after-fall.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/library-collapse.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/library-data-myth.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/library-honesty.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/library-iran.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/library-power.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/library-transition.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/master-plan.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/metaphor.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/my-share.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/nine-faction-critique.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/page-map.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/pillars-of-support.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/poll-integrity.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/population-groups.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/pre-mortem.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/problems-map.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/products-19.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/project.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/pulse-poll.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/roles-47.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/roles-citizen.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/roles-independent.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/roles-ruling.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/ruins-ledger.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/safety-first.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/sciences-26.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/seven-nights.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/simorgh.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/step-cards.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/strategy-paper.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/strategy.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/ten-turn-game.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/ten-unbuilt-roles.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/three-feathers.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/three-paths.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/threshold-indicators.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/threshold-simulator.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/timeline-tool.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/tools-directory.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/transition-risks.json",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "data/simorgh/concepts/why-not-january.json",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
