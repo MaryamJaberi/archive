@@ -49,7 +49,7 @@ label.row input[type=checkbox]{flex:none;margin:2px 0 0}
 .gp{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
 @media (max-width:520px){.mx th{font-size:.74rem;padding:2px}.mx th[scope=row]{width:36%}.mc{min-height:44px}}
 </style>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <style id="ds-crumbs-css">.ds-crumbs{font:400 .82rem/1.7 inherit;padding:7px max(16px,env(safe-area-inset-right,0px)) 7px max(16px,env(safe-area-inset-left,0px));border-bottom:1px solid var(--line,var(--rule,#e5e1d8));background:var(--paper,var(--bg,#faf8f3));color:var(--ink-3,var(--muted,#8a8578));display:flex;flex-wrap:wrap;gap:6px;align-items:baseline}.ds-crumbs a{color:var(--ink-2,var(--muted,#5c574c));text-decoration:none}.ds-crumbs a:hover{text-decoration:underline}.ds-crumbs i{font-style:normal;opacity:.5}.ds-crumbs b{font-weight:600;color:var(--ink,#2b2922)}@media (prefers-color-scheme:dark){.ds-crumbs{border-color:var(--line,var(--rule,#33312c));background:var(--paper,var(--bg,#1b1a17))}}</style><nav class="ds-crumbs" aria-label="مسیر صفحه"><a href="../../index.html">دانش‌سرا</a><i>›</i><a href="../../index.html#layers">لایهٔ ایران</a><i>›</i><a href="../../iran/">ویکی ایران</a><i>›</i><a href="../../iran/tools/">ابزارها</a><i>›</i><b>ماتریس مسئله × رشته</b></nav><script src="../../core/nav.js" defer></script>
 <header class="top"><div class="wrap">
@@ -138,8 +138,8 @@ function render() {
     const p = Math.round(14 + 44 * Math.sqrt(n / MAX));
     return `<td><button type="button" class="mc" data-i="${i}" data-w="${w}" aria-pressed="${on}" style="background:color-mix(in srgb,${SH.FAM[w]} ${p}%,var(--surface))" aria-label="${DS.esc(r.l)}، ${DS.esc(DS.WIKI[w])}: ${DS.faDigits(n)} مفهوم">${DS.faDigits(n)}</button></td>`;
   }).join("") + `</tr>`).join("");
-  document.getElementById("out").innerHTML = `<div class="card" style="padding:12px 8px"><div class="scroll"><table class="mx"><thead><tr><th><span class="sr">مسئله</span></th>${SH.WIKIS.map(w => `<th scope="col" style="text-align:center"><span class="chip ${w}">${DS.esc(DS.WIKI[w])}</span></th>`).join("")}</tr></thead><tbody>${rows}</tbody>
-   <tfoot><tr><th scope="row">کل مفاهیم ایرانی</th>${SH.WIKIS.map(w => `<td>${DS.faDigits(tot[w])}</td>`).join("")}</tr></tfoot></table></div></div>
+  document.getElementById("out").innerHTML = `<div class="card" style="padding:12px 8px"><div class="scroll"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table class="mx"><thead><tr><th><span class="sr">مسئله</span></th>${SH.WIKIS.map(w => `<th scope="col" style="text-align:center"><span class="chip ${w}">${DS.esc(DS.WIKI[w])}</span></th>`).join("")}</tr></thead><tbody>${rows}</tbody>
+   <tfoot><tr><th scope="row">کل مفاهیم ایرانی</th>${SH.WIKIS.map(w => `<td>${DS.faDigits(tot[w])}</td>`).join("")}</tr></tfoot></table></div></div></div>
    <div class="note" style="margin-top:14px"><b>${DS.faDigits(gaps.length)} شکاف</b> از ${DS.faDigits(ROWS.length * 4)} خانه (و ${DS.faDigits(few)} خانهٔ کم‌مایه با ۱ یا ۲ مفهوم). «شکاف» یعنی در جستجوی واژگانی هیچ مفهوم ایرانی با این موضوع در آن ویکی نیست؛ ممکن است مطلب با واژه‌های دیگری نوشته شده باشد.
    <div class="gp">${gaps.map(g => `<button type="button" class="cb" data-i="${g.i}" data-w="${g.w}" style="min-height:36px;font-size:.85rem">${DS.esc(ROWS[g.i].l)} · ${DS.esc(DS.WIKI[g.w])}</button>`).join("") || "هیچ شکافی نیست."}</div></div>`;
   panel();
@@ -164,5 +164,5 @@ SH.guard(d => {
 });
 
 </script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="timeline.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">خط زمانی ایران</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="lens.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ایران از دید هر رشته</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: ویکی ایران · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

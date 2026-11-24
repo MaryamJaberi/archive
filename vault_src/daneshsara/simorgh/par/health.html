@@ -19,13 +19,13 @@
 <script defer src="assets/argdata.js"></script>
 <script defer src="assets/art.js"></script>
 <script defer src="assets/shell.js"></script>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <div class="wrap">
 <header class="hero db">
   <div class="txt">
     <p class="kick">ابزار · ممیزی</p>
-    <h1>سلامتِ دیتاست</h1>
+    <h1>سلامتِ دیتاست</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">شمارنده‌ها</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">آیا عددهای سایت هنوز با داده می‌خوانند؟</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">موضوع × رده</a> · <a href="#ds-s4" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">تمرکزِ منابع</a> · <a href="#ds-s5" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">هر صفحه روی چه ایستاده؟</a> · <a href="#ds-s6" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">پلِ تحلیل به کنش: کدام کارت پشتوانه دارد؟</a> · <a href="#ds-s7" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">بارِ سنگین روی پایهٔ سست</a> · <a href="#ds-s8" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">شرط‌های ابطالی که باید دوباره نوشته شوند</a></nav>
     <p class="dek">دفترِ ممیزی را آدم نوشته؛ این صفحه را خودِ داده می‌نویسد. هر بار که باز می‌شود،
       <a href="files/claims-dataset.json">فایلِ دیتاست</a> را می‌خواند و می‌شمارد — پس اگر سطری اضافه یا کم شود،
       این‌جا بی‌آنکه کسی دست بزند عوض می‌شود.</p>
@@ -36,38 +36,38 @@
 </header>
 
 <section class="blk" id="shomar"><div class="wrap">
-  <h2>شمارنده‌ها</h2>
+  <h2 id="ds-s1">شمارنده‌ها</h2>
   <div class="tiles" id="tiles"><div class="tile"><b>…</b><span>در حالِ خواندنِ دیتاست</span></div></div>
 </div></section>
 
 <section class="blk" id="sazgari"><div class="wrap">
-  <h2>آیا عددهای سایت هنوز با داده می‌خوانند؟</h2>
+  <h2 id="ds-s2">آیا عددهای سایت هنوز با داده می‌خوانند؟</h2>
   <p class="lede">هر سطر یک عدد است که جایی از سایت با دست نوشته شده، کنارِ همان عدد که از دیتاست حساب می‌شود.</p>
   <div class="chk" id="chk"><p class="note">در حالِ خواندنِ صفحه‌ها…</p></div>
 </div></section>
 
 <section class="blk" id="radeh"><div class="wrap">
-  <h2>موضوع × رده</h2>
+  <h2 id="ds-s3">موضوع × رده</h2>
   <p class="lede">کجای پروژه روی سندِ اولیه ایستاده و کجا روی برآورد. خانه‌های پررنگ‌تر، سطرِ بیشتر.</p>
-  <div class="tblw"><table class="hm" id="hm"></table></div>
+  <div class="tblw"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table class="hm" id="hm"></table></div></div>
 </div></section>
 
 <section class="blk" id="manba"><div class="wrap">
-  <h2>تمرکزِ منابع</h2>
+  <h2 id="ds-s4">تمرکزِ منابع</h2>
   <p class="lede">یافتهٔ <a href="audit.html#f-1">f-1</a> از همین‌جا آمد: وقتی بخشِ بزرگی از دیتاست به یک منبع بند است،
     سقوطِ آن منبع یعنی سقوطِ همه. هر منبعی که بیش از ۱۰٪ سطرها را حمل کند، قرمز می‌شود.</p>
   <div class="bars" id="src"></div>
 </div></section>
 
 <section class="blk" id="safhe"><div class="wrap">
-  <h2>هر صفحه روی چه ایستاده؟</h2>
+  <h2 id="ds-s5">هر صفحه روی چه ایستاده؟</h2>
   <p class="lede">برای هر صفحه، سطرهایی که به آن ارجاع داده‌اند و ترکیبِ رده‌شان.
     <span class="tp t1">ردهٔ ۱</span> <span class="tp t2">ردهٔ ۲</span> <span class="tp t3">ردهٔ ۳</span></p>
   <div class="bars" id="pages"></div>
 </div></section>
 
 <section class="blk" id="kart"><div class="wrap">
-  <h2>پلِ تحلیل به کنش: کدام کارت پشتوانه دارد؟</h2>
+  <h2 id="ds-s6">پلِ تحلیل به کنش: کدام کارت پشتوانه دارد؟</h2>
   <p class="lede">صفحهٔ <a href="gam.html">قدمِ تو</a> جایی است که تحلیل باید به قدمِ مشخص برسد. هر کارتی که
     به هیچ سطرِ داده‌ای وصل نیست، یعنی پژوهشی که پشتش گفته شده هنوز در دیتاست ثبت نشده — نه اینکه غلط است،
     بلکه اینکه <b>هنوز بازرسی‌پذیر نیست</b>.</p>
@@ -75,14 +75,14 @@
 </div></section>
 
 <section class="blk" id="sangin"><div class="wrap">
-  <h2>بارِ سنگین روی پایهٔ سست</h2>
+  <h2 id="ds-s7">بارِ سنگین روی پایهٔ سست</h2>
   <p class="lede">سطرهای ردهٔ ۳ یا مناقشه‌داری که مستقیماً بارِ یک گره از <a href="argmap.html">نقشهٔ استدلال</a> را می‌کشند.
     این‌ها بهترین جا برای بازرسیِ بعدی‌اند.</p>
   <div class="flist" id="heavy"></div>
 </div></section>
 
 <section class="blk" id="ebtal"><div class="wrap">
-  <h2>شرط‌های ابطالی که باید دوباره نوشته شوند</h2>
+  <h2 id="ds-s8">شرط‌های ابطالی که باید دوباره نوشته شوند</h2>
   <p class="lede">شرطِ ابطالِ خوب می‌گوید <b>چه مشاهده‌ای</b> ادعا را رد می‌کند. این فهرست با یک قاعدهٔ سادهٔ ماشینی ساخته شده
     — شرط‌های خیلی کوتاه، یا آن‌ها که به‌جای مشاهده، «به‌روزرسانی» را توصیه می‌کنند — و قضاوتِ نهایی با آدم است.</p>
   <div class="flist" id="fals"></div>
@@ -236,5 +236,5 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="status.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">وضعیتِ سند</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="audit.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">دفترِ ممیزی</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: شواهد و بازرسی · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

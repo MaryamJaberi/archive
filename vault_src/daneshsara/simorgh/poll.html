@@ -51,10 +51,10 @@ td:first-child{font-weight:700;white-space:nowrap}
 .go{display:flex;flex-wrap:wrap;gap:8px;margin-top:28px}
 .go a{padding:8px 16px;border-radius:99px;border:1px solid var(--line-strong);text-decoration:none;color:var(--ink);background:var(--surface)}
 </style>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <main class="wrap">
-<h1>نبضِ میز</h1>
+<h1>نبضِ میز</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">چرا رأی‌دادن به این پرسش برای هیچ‌کس اتهام نیست</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">بازیِ حدس: چرا حدسِ راست کم‌ضررترین حرکت برای هر گروه است</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">نتیجه: هر کانال یک ایالت</a> · <a href="#ds-s4" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">دفترِ تقلب: حرکتِ بعدیِ تقلب چیست و چطور خنثی می‌شود</a></nav>
 <p class="lead">سیمرغ از مردم فقط یک چیز می‌پرسد، ماهی یک بار. نه نظرتان را، فقط حدستان را. جوابِ همه با هم نشان می‌دهد ما چقدر از هم بی‌خبریم.</p>
 
 <div class="q">
@@ -63,7 +63,7 @@ td:first-child{font-weight:700;white-space:nowrap}
 <div class="where" id="where"></div>
 </div>
 
-<h2>چرا رأی‌دادن به این پرسش برای هیچ‌کس اتهام نیست</h2>
+<h2 id="ds-s1">چرا رأی‌دادن به این پرسش برای هیچ‌کس اتهام نیست</h2>
 <ul class="safe">
 <li><b>حدس است، نه نظر</b>هر گزینه را هم موافقِ حکومت می‌تواند بزند هم مخالفش. از رأیِ شما نمی‌شود فهمید کدام طرفید.</li>
 <li><b>ناشناس</b>در نظرسنجیِ کانالِ تلگرام نه مدیرِ کانال می‌بیند کی چه زده نه دیگران. در X هم رأی به کسی نشان داده نمی‌شود.</li>
@@ -71,35 +71,35 @@ td:first-child{font-weight:700;white-space:nowrap}
 <li><b>چیزی نگه نمی‌داریم</b>این صفحه فقط جمعِ رأی‌ها را در هر ماه دارد؛ هیچ نام، حساب یا نشانی‌ای.</li>
 </ul>
 
-<h2>بازیِ حدس: چرا حدسِ راست کم‌ضررترین حرکت برای هر گروه است</h2>
+<h2 id="ds-s2">بازیِ حدس: چرا حدسِ راست کم‌ضررترین حرکت برای هر گروه است</h2>
 <p class="lead">این پرسش یک بازی است و قاعده‌هایش علنی است، جدولِ تفسیر هم. سه قاعده آن را طوری می‌سازد که برای هر گروه، بهترین پاسخ به حرکتِ بقیه همان حدسِ راست باشد؛ یعنی تعادلِ نش در راستگویی.</p>
 <ul class="safe">
 <li><b>۱. پیامِ ثابت</b>هر نتیجه‌ای بیاید، یک پیام منتشر می‌شود: «این حدسِ شما بود، این عددِ مستقل است». نتیجه پیام را عوض نمی‌کند، پس دست‌کاری در رأی هیچ پیامی نمی‌خرد.</li>
 <li><b>۲. امتیازِ درست‌حدس‌زدن</b>بعد از هر پیمایشِ مستقل اعلام می‌شود چند درصد درست حدس زدند. تنها راهِ «بُردن» در این بازی حدسِ واقعی است.</li>
 <li><b>۳. یک رأی، هیچ اثر</b>در میانِ هزاران رأی، رأیِ هیچ‌کس نتیجه را تعیین نمی‌کند؛ پس دروغ‌گفتن برای هیچ فردی سودی ندارد و تنها چیزی که می‌ماند درست‌بودن است. رأیِ سازمان‌یافته را مقایسهٔ تلگرام و X و قاعدهٔ «دو قله» نشان می‌دهد.</li>
 </ul>
-<div class="tbl"><table>
+<div class="tbl"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead><tr><th>گروه</th><th>اگر عمداً کم بزند</th><th>اگر عمداً زیاد بزند</th><th>اگر راست بزند</th></tr></thead>
 <tbody>
 <tr><td>خواهانِ تغییر</td><td>پیام همان است؛ فقط امتیازِ درست‌حدس‌زدن را می‌بازد</td><td>پیام همان است؛ امتیاز را می‌بازد</td><td>اگر خودش را کم دیده، همین شمرده می‌شود و فاصله با عددِ مستقل دیده می‌شود: کم‌ضررترین</td></tr>
 <tr><td>موافقِ وضعِ موجود</td><td>پیام همان است؛ امتیاز را می‌بازد</td><td>پیام همان است؛ امتیاز را می‌بازد</td><td>تصویرِ درستی از جایگاهِ گروهش می‌گیرد: کم‌ضررترین</td></tr>
 <tr><td>مردد</td><td>امتیاز را می‌بازد</td><td>امتیاز را می‌بازد</td><td>اگر جواب‌ها پخش باشد، خودِ خلأ دیده می‌شود: کم‌ضررترین</td></tr>
-</tbody></table></div>
+</tbody></table></div></div>
 <p class="muted">پشتوانهٔ نظری: سازوکارهایی که راستگویی را «سازگار با انگیزه» می‌کنند، مثل قاعده‌های امتیازدهیِ درست برای پیش‌بینی و «سرمِ حقیقتِ بیزی» پرلک (۲۰۰۴). نسخهٔ ما ساده‌ترین شکل است: امتیاز در برابرِ یک عددِ مستقل که رأی‌ها آن را نمی‌سازند.</p>
 
-<h2>نتیجه: هر کانال یک ایالت</h2>
+<h2 id="ds-s3">نتیجه: هر کانال یک ایالت</h2>
 <p class="lead">هر کانال یا حسابی که پرسش را اجرا می‌کند یک «ایالت» است و جدا شمرده می‌شود. رنگِ هر خانه پرطرفدارترین گزینهٔ آن ایالت است و کم‌رنگی یعنی اعتبارِ کمتر. جمعِ کل با فرمولی ساخته می‌شود که همین‌جا نوشته شده.</p>
 <div class="res" id="res"></div>
-<h2>دفترِ تقلب: حرکتِ بعدیِ تقلب چیست و چطور خنثی می‌شود</h2>
+<h2 id="ds-s4">دفترِ تقلب: حرکتِ بعدیِ تقلب چیست و چطور خنثی می‌شود</h2>
 <p class="lead">این یک بازی است: هر بار حرکتِ بعدیِ تقلب را پیدا می‌کنیم و با داده خنثی‌اش می‌کنیم. همهٔ قاعده‌ها علنی است، چون تقلبی که دیده شود دیگر کار نمی‌کند.</p>
-<div class="tbl"><table><thead><tr><th>حرکتِ تقلب</th><th>ردی که در داده می‌گذارد</th><th>پاسخِ ما</th><th>وضع</th></tr></thead><tbody id="ledger"></tbody></table></div>
+<div class="tbl"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table><thead><tr><th>حرکتِ تقلب</th><th>ردی که در داده می‌گذارد</th><th>پاسخِ ما</th><th>وضع</th></tr></thead><tbody id="ledger"></tbody></table></div></div>
 
 <details open>
 <summary>جدولِ تفسیر: هر نتیجه چه معنایی می‌تواند داشته باشد</summary>
-<div class="tbl"><table>
+<div class="tbl"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead><tr><th>بیشترِ رأی‌ها</th><th>محتمل‌ترین معنی</th><th>معنیِ دیگرِ ممکن</th><th>برای تحلیل</th></tr></thead>
 <tbody id="tbody"></tbody>
-</table>
+</table></div>
 <p class="muted">برای مقایسه: پیمایشِ گمان (تیر ۱۴۰۵، ۳۱٬۴۵۰ پاسخ‌دهنده در ایران، نمونهٔ آنلاین) حدود ۷۰٪ را خواهانِ تغییرِ نظام یا گذار، و حدود ۹ تا ۱۹٪ را طرفدارِ اصولِ حکومت یا اصلاح از درون یافت. نتیجهٔ این نظرسنجی نظرِ کسانی است که رأی داده‌اند، نه همهٔ ایرانیان؛ و نمی‌دانیم هر رأی‌دهنده خودش چه نظری دارد.</p></div>
 </details>
 
@@ -172,5 +172,5 @@ if (!MONTHS.length) {
 }
 </script>
 <script src="../core/nav.js" defer></script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="transitions.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">گذار در کشورهای دیگر</a> <span style="opacity:.6">(قبلی)</span> <a href="birds.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">کارت‌های سی مرغ</a> <span style="opacity:.6">(اول این بخش)</span><br><span style="opacity:.6;font-size:.85em">بخش: سیمرغ · بازی و سنجش · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

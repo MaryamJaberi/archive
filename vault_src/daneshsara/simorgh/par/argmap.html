@@ -19,7 +19,7 @@
 <script defer src="assets/argdata.js"></script>
 <script defer src="assets/art.js"></script>
 <script defer src="assets/shell.js"></script>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <div class="wrap">
 <header class="hero db">
@@ -238,7 +238,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     } else h += '<p class="rel">دیتاست بار نشد — اگر فایل را از روی دیسک باز کرده‌اید، روی نسخهٔ منتشرشده ببینید.</p>';
     panel.innerHTML = h;
-    if (push && history.replaceState) history.replaceState(null, "", "#node-" + id);
+    try { if (push && history.replaceState) history.replaceState(null, "", "#node-" + id); } catch (e) {}
   }
   panel.addEventListener("click", function (e) {
     var a = e.target.closest("[data-node]");
@@ -335,5 +335,5 @@ document.addEventListener("DOMContentLoaded", function () {
   if (!/^#node-/.test(location.hash) && window.innerWidth < 700) view("compact");
 });
 </script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="inspect.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">بازرسیِ ادعا</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="data.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">میزِ داده</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: شواهد و بازرسی · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

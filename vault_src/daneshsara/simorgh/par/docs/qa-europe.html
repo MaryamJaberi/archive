@@ -6,13 +6,13 @@ main{max-width:52rem;margin:0 auto;padding:24px max(16px,env(safe-area-inset-lef
 h1,h2,h3{line-height:1.4;text-wrap:balance}h1{font-size:1.7rem}h2{font-size:1.3rem;border-top:1px solid var(--line);padding-top:18px;margin-top:30px}
 a{color:var(--accent)}.back{font-size:.9rem}table{border-collapse:collapse;width:100%;font-size:.92rem}.t{overflow-x:auto}
 td,th{border:1px solid var(--line);padding:6px 9px;vertical-align:top;text-align:right}th{background:color-mix(in srgb,var(--line) 45%,transparent)}
-code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);margin:0;padding:0 14px;color:var(--dim)}</style></head><body><main><p class="back"><a href="../index.html">← پَرِ سیمرغ</a></p><h1>سند QA — پَرِ سیمرغ (ارائهٔ اروپا)</h1>
+code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);margin:0;padding:0 14px;color:var(--dim)}</style><style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head><body><main><p class="back"><a href="../index.html">← پَرِ سیمرغ</a></p><h1>سند QA — پَرِ سیمرغ (ارائهٔ اروپا)</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۱ · چه چیزی تست شد</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۲ · ماتریسِ تست — نتایج واقعی</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۳ · باگ‌هایی که پیدا و رفع شد</a> · <a href="#ds-s4" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۴ · تصمیم‌های محتوایی که باید بدانید</a> · <a href="#ds-s5" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۵ · محدودیت‌های شناخته‌شده (صادقانه)</a> · <a href="#ds-s6" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۶ · چطور خودتان تست بگیرید</a> · <a href="#ds-s7" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۷ · چک‌لیستِ شبِ ارائه</a></nav>
 <p><strong>نسخه:</strong> ۱.۰.۰ · <strong>تاریخ اجرا:</strong> ۳ سپتامبر ۲۰۲۶
 <strong>نتیجهٔ نهایی:</strong> ۵۱ از ۵۱ تستِ خودکار سبز + ۱۶ تستِ درون‌برنامه‌ای سبز + آزمونِ PWA سبز
 <strong>حکم:</strong> آمادهٔ ارائه.</p>
 <hr />
-<h2>۱ · چه چیزی تست شد</h2>
-<div class="t"><table>
+<h2 id="ds-s1">۱ · چه چیزی تست شد</h2>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>فایل</th>
@@ -42,10 +42,10 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td><code>node test-deck.js</code> — کدِ خروج ۱ اگر یک تست بیفتد</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <hr />
-<h2>۲ · ماتریسِ تست — نتایج واقعی</h2>
-<div class="t"><table>
+<h2 id="ds-s2">۲ · ماتریسِ تست — نتایج واقعی</h2>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>گروه</th>
@@ -134,9 +134,9 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td>جملهٔ تفکیکِ «دولت، نه دین» در هر دو زبان · وجودِ اسلایدِ سؤال‌های سخت · چارچوبِ رفراندوم (نه تحمیلِ نهاد) · هیچ نقلِ‌قولِ بی‌منبع</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <h3>اندازه‌های تست‌شده</h3>
-<div class="t"><table>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>نام</th>
@@ -183,9 +183,9 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td>✅</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <h3>آزمونِ PWA (جدا)</h3>
-<div class="t"><table>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>بند</th>
@@ -210,10 +210,10 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td>✅</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <hr />
-<h2>۳ · باگ‌هایی که پیدا و رفع شد</h2>
-<div class="t"><table>
+<h2 id="ds-s3">۳ · باگ‌هایی که پیدا و رفع شد</h2>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>#</th>
@@ -253,9 +253,9 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td>حذفِ صریح + گاردِ دائمی در <code>build-artifact.js</code></td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <hr />
-<h2>۴ · تصمیم‌های محتوایی که باید بدانید</h2>
+<h2 id="ds-s4">۴ · تصمیم‌های محتوایی که باید بدانید</h2>
 <p>اینها انتخابِ سرمقاله‌ای‌اند، نه باگ. اگر با هرکدام موافق نیستید بگویید تا عوض کنم.</p>
 <p><strong>الف · «رفراندوم» به‌جای «بازگرداندنِ پادشاهی».</strong>
 موضعِ رسمیِ خودِ شاهزاده رضا پهلوی این است: گذار «از راهِ رفراندومِ ملی و مجلس مؤسسان» و «من نسبت به نتیجهٔ نهایی بی‌طرفم، به شرطی که یک دموکراسیِ سکولار باشد». ارائه همین را می‌گوید و بعد رأیِ شخصیِ شما (پادشاهیِ مشروطه) را صریح اعلام می‌کند. شنوندهٔ اروپایی «بازگرداندنِ نهاد» را «رژیمِ تحمیلی» می‌شنود و می‌بندد؛ «رفراندوم، و رأیِ من این است» هم صادقانه‌تر است هم برنده‌تر.</p>
@@ -266,8 +266,8 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <p><strong>ت · هیچ عددِ ساختگی، هیچ نقلِ‌قولِ ساختگی.</strong>
 هر رقم منبع دارد و منبعش پایینِ صفحه لینک است. دو نقلِ‌قولِ مستقیم (DGSI و شاهزاده) عیناً از منبع آمده‌اند. یک تستِ خودکار چک می‌کند هر بندِ گیومه‌دار در اسلایدی باشد که منبعش ذکر شده.</p>
 <hr />
-<h2>۵ · محدودیت‌های شناخته‌شده (صادقانه)</h2>
-<div class="t"><table>
+<h2 id="ds-s5">۵ · محدودیت‌های شناخته‌شده (صادقانه)</h2>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>محدودیت</th>
@@ -302,9 +302,9 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td>قبل از ارائه یک بار منابع را چک کنید — همه لینک‌دارند</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <hr />
-<h2>۶ · چطور خودتان تست بگیرید</h2>
+<h2 id="ds-s6">۶ · چطور خودتان تست بگیرید</h2>
 <p><strong>قبل از هر ارائهٔ مهم، درونِ خودِ اپ:</strong> دکمهٔ <strong>تست</strong> → <strong>اجرای تست‌ها</strong>. ۱۶ بند باید سبز باشد. این کار ۲ ثانیه است و بعد از هر ویرایشی در پنل ارزشش را دارد — مخصوصاً چک می‌کند فارسی و انگلیسی هم‌تعداد بند داشته باشند و هیچ اسلایدی بی‌یادداشت نمانده باشد.</p>
 <p><strong>مجموعهٔ کامل (توسعه‌ای):</strong>
 <code>node test-deck.js          # ۵۱ تست؛ کدِ خروج ۱ اگر چیزی بیفتد</code>
@@ -312,7 +312,7 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <p><strong>بعد از هر تغییر در محتوا یا کد:</strong>
 <code>node build.js &amp;&amp; node build-artifact.js &amp;&amp; node test-deck.js</code></p>
 <hr />
-<h2>۷ · چک‌لیستِ شبِ ارائه</h2>
+<h2 id="ds-s7">۷ · چک‌لیستِ شبِ ارائه</h2>
 <ul>
 <li>[ ] اپ را یک بار <strong>با اینترنت</strong> باز کنید تا فونت‌ها کش شوند</li>
 <li>[ ] دکمهٔ <strong>تست</strong> → همه سبز</li>
@@ -322,4 +322,4 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <li>[ ] <strong>تمام‌صفحه</strong> را قبل از شروع بزنید، نه وسطِ ارائه</li>
 <li>[ ] اسلایدِ <strong>سؤال‌های سخت</strong> را از ارائهٔ رسمی مخفی کنید (پنل → مخفی) و برای پرسش‌وپاسخ نگه دارید</li>
 <li>[ ] یک <strong>PDF چاپی</strong> هم بگیرید و روی گوشی داشته باشید — اگر لپ‌تاپ خراب شد، ارائه از دست نمی‌رود</li>
-</ul></main></body></html>
+</ul></main><nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="qa-site.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">پرسش و پاسخِ سایت</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="../europe.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ارائهٔ اروپا</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: پَرِ سیمرغ · سند راهبردی · آخرین بررسی: 2026-11-24</span></nav></body></html>

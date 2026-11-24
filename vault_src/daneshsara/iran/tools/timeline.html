@@ -54,14 +54,14 @@ label.row input[type=checkbox]{flex:none;margin:2px 0 0}
 .und{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
 .dated-note{font-size:.8rem}
 </style>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <style id="ds-crumbs-css">.ds-crumbs{font:400 .82rem/1.7 inherit;padding:7px max(16px,env(safe-area-inset-right,0px)) 7px max(16px,env(safe-area-inset-left,0px));border-bottom:1px solid var(--line,var(--rule,#e5e1d8));background:var(--paper,var(--bg,#faf8f3));color:var(--ink-3,var(--muted,#8a8578));display:flex;flex-wrap:wrap;gap:6px;align-items:baseline}.ds-crumbs a{color:var(--ink-2,var(--muted,#5c574c));text-decoration:none}.ds-crumbs a:hover{text-decoration:underline}.ds-crumbs i{font-style:normal;opacity:.5}.ds-crumbs b{font-weight:600;color:var(--ink,#2b2922)}@media (prefers-color-scheme:dark){.ds-crumbs{border-color:var(--line,var(--rule,#33312c));background:var(--paper,var(--bg,#1b1a17))}}</style><nav class="ds-crumbs" aria-label="مسیر صفحه"><a href="../../index.html">دانش‌سرا</a><i>›</i><a href="../../index.html#layers">لایهٔ ایران</a><i>›</i><a href="../../iran/">ویکی ایران</a><i>›</i><a href="../../iran/tools/">ابزارها</a><i>›</i><b>خط زمانی ایران</b></nav><script src="../../core/nav.js" defer></script>
 <header class="top"><div class="wrap">
  <a class="muted" href="index.html">همهٔ ابزارهای ایران</a>
 </div></header>
 <main class="wrap">
- <h1>خط زمانی ایران</h1>
+ <h1>خط زمانی ایران</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">${DS.esc(b.l)} ${DS.faDigits(b.ev.length)} مورد</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">بدون تاریخ دقیق در داده ${DS.faDigits(und.length)} مدخل</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">یادداشت‌های آماری ایران، به ترتیب سال ${DS.faDigits(ns.length)} یادداشت</a></nav>
  <p class="tip">رویدادها و ادعاهای تاریخ‌دارِ مربوط به ایران را که در دانش‌سرا آمده‌اند، از ده‌ها هزار سال پیش تا امروز، با ردهٔ اعتبار و پیوند به مدخل می‌بینید؛ آنچه سال ندارد جدا مانده است.</p>
  <div id="app" aria-live="polite">
 <div class="card" style="margin-bottom:18px">
@@ -199,16 +199,16 @@ function render() {
   let h = "";
   if (!bands.length) h += `<div class="empty">با این فیلترها رویدادی نیست. فیلتر رشته یا ردهٔ منبع را شل کنید.</div>`;
   else {
-    const inner = bands.map(b => `<section class="band" aria-label="${DS.esc(b.l)}"><h2>${DS.esc(b.l)} <span class="muted">${DS.faDigits(b.ev.length)} مورد</span></h2>` + (ST.v === "h"
+    const inner = bands.map(b => `<section class="band" aria-label="${DS.esc(b.l)}"><h2 id="ds-s1">${DS.esc(b.l)} <span class="muted">${DS.faDigits(b.ev.length)} مورد</span></h2>` + (ST.v === "h"
       ? `<div class="evs">${b.ev.map(e => `<div class="ev">${evCard(e)}</div>`).join("")}</div>`
       : `<ol class="vt">${b.ev.map(e => `<li>${evCard(e)}</li>`).join("")}</ol>`) + `</section>`).join("");
     h += ST.v === "h" ? `<div class="hzw" tabindex="0" aria-label="محور افقی؛ با اسکرول افقی یا کلیدهای جهت‌دار جابه‌جا شوید"><div class="hz">${inner}</div></div>` : inner;
   }
   const und = UNDATED.map(id => D.byId[id]).filter(c => c && ST.w.has(c.w));
-  h += `<section class="band" style="margin-top:30px"><h2>بدون تاریخ دقیق در داده <span class="muted">${DS.faDigits(und.length)} مدخل</span></h2><p class="muted" style="margin-top:0">مدخل‌های تاریخی ایران که متنشان سال یا بازهٔ روشنی ندارد. جایشان را از خودمان حدس نمی‌زنیم؛ عنوان مدخل تنها سرنخ دوره است.</p><div class="und">${und.map(c => `<article class="card cc"><h3><a href="${DS.url(D, c)}">${DS.esc(c.t.fa)}</a></h3><div class="meta">${SH.conceptMeta(c)}</div><p class="sn">${DS.esc(SH.cut(c.s.fa, 150))}</p></article>`).join("") || '<div class="empty">برای این فیلتر موردی نیست.</div>'}</div></section>`;
+  h += `<section class="band" style="margin-top:30px"><h2 id="ds-s2">بدون تاریخ دقیق در داده <span class="muted">${DS.faDigits(und.length)} مدخل</span></h2><p class="muted" style="margin-top:0">مدخل‌های تاریخی ایران که متنشان سال یا بازهٔ روشنی ندارد. جایشان را از خودمان حدس نمی‌زنیم؛ عنوان مدخل تنها سرنخ دوره است.</p><div class="und">${und.map(c => `<article class="card cc"><h3><a href="${DS.url(D, c)}">${DS.esc(c.t.fa)}</a></h3><div class="meta">${SH.conceptMeta(c)}</div><p class="sn">${DS.esc(SH.cut(c.s.fa, 150))}</p></article>`).join("") || '<div class="empty">برای این فیلتر موردی نیست.</div>'}</div></section>`;
   if (ST.nt) {
     const ns = D.iran.filter(n => ST.w.has(n.domain)).slice().sort((a, b) => a.year - b.year);
-    h += `<section class="band" style="margin-top:30px"><h2>یادداشت‌های آماری ایران، به ترتیب سال <span class="muted">${DS.faDigits(ns.length)} یادداشت</span></h2><p class="muted" style="margin-top:0">این سال، سال داده یا انتشار است، نه سال رویداد.</p><div class="und">${ns.map(n => `<div class="card">${SH.noteBox(n)}</div>`).join("")}</div></section>`;
+    h += `<section class="band" style="margin-top:30px"><h2 id="ds-s3">یادداشت‌های آماری ایران، به ترتیب سال <span class="muted">${DS.faDigits(ns.length)} یادداشت</span></h2><p class="muted" style="margin-top:0">این سال، سال داده یا انتشار است، نه سال رویداد.</p><div class="und">${ns.map(n => `<div class="card">${SH.noteBox(n)}</div>`).join("")}</div></section>`;
   }
   out.innerHTML = h;
   DS.hash.set({ v: ST.v, w: [...ST.w].join("."), s: ST.strong ? "1" : "0", n: ST.nt ? "1" : "0" });
@@ -228,5 +228,5 @@ SH.guard(d => {
 });
 
 </script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="matrix.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ماتریس مسئله × رشته</a> <span style="opacity:.6">(قبلی)</span> <a href="../index.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ویکی ایران</a> <span style="opacity:.6">(اول این بخش)</span><br><span style="opacity:.6;font-size:.85em">بخش: ویکی ایران · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

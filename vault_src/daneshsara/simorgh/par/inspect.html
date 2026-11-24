@@ -19,7 +19,7 @@
 <script defer src="assets/argdata.js"></script>
 <script defer src="assets/art.js"></script>
 <script defer src="assets/shell.js"></script>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <div class="wrap">
 <header class="hero db">
@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var c = C.filter(function (x) { return x.id === id; })[0];
     if (!c) return;
     cur = c; $("sel").value = id;
-    if (history.replaceState) history.replaceState(null, "", "#" + id);
+    try { if (history.replaceState) history.replaceState(null, "", "#" + id); } catch (e) {}
     var nodes = A.nodesFor(c);
     $("card").innerHTML =
       '<article class="cl" style="margin:4px 0 0"><div class="cl-h">' +
@@ -254,5 +254,5 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="audit.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">دفترِ ممیزی</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="argmap.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">نقشهٔ استدلال</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: شواهد و بازرسی · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

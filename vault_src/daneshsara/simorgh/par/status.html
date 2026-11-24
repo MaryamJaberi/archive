@@ -18,13 +18,13 @@
 <script>window.SHELL_BASE="";window.SHELL_ASSETS="assets/";window.SHELL_OTHER=null;</script>
 <script defer src="assets/art.js"></script>
 <script defer src="assets/shell.js"></script>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <div class="wrap">
 <header class="hero db">
   <div class="txt">
     <p class="kick">لایهٔ داده · وضعیت</p>
-    <h1>وضعیتِ سند</h1>
+    <h1>وضعیتِ سند</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">اکنون</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">آنچه پوشش داده نشده</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">بخش‌هایی که روی فرضِ قدیمی سوارند</a> · <a href="#ds-s4" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">تاریخچهٔ بازبینی</a> · <a href="#ds-s5" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">قاعدهٔ به‌روزرسانی</a></nav>
     <p class="dek">هر تحلیلی از روزی که نوشته می‌شود شروع به کهنه‌شدن می‌کند. این صفحه می‌گوید
       <b>این سند تا کجا را می‌بیند</b>، آخرین بار کِی بازبینی شد، چه رویدادی را هنوز پوشش نداده،
       و کدام بخش‌هایش روی فرضی سوارند که دیگر بدیهی نیست.</p>
@@ -34,32 +34,32 @@
 </header>
 
 <section class="blk" id="aknoon"><div class="wrap">
-  <h2>اکنون</h2>
+  <h2 id="ds-s1">اکنون</h2>
   <div class="tiles" id="sttiles"></div>
   <p class="note" id="stnote"></p>
 </div></section>
 
 <section class="blk" id="napooshide"><div class="wrap">
-  <h2>آنچه پوشش داده نشده</h2>
+  <h2 id="ds-s2">آنچه پوشش داده نشده</h2>
   <p class="lede">این فهرست فقط چیزهایی را می‌آورد که خودِ پروژه می‌داند کم دارد. اگر رویدادی را می‌شناسید که
     باید این‌جا باشد، <a id="ghnew" href="#">گزارشش کنید</a>.</p>
   <ul class="tl-st" id="uncov"></ul>
 </div></section>
 
 <section class="blk" id="fariz"><div class="wrap">
-  <h2>بخش‌هایی که روی فرضِ قدیمی سوارند</h2>
+  <h2 id="ds-s3">بخش‌هایی که روی فرضِ قدیمی سوارند</h2>
   <p class="lede"><a href="audit.html#f-2">یافتهٔ f-2</a> در ممیزی گفته بود «تا بازنویسی، هر جا آن فرض به کار رفته باید علامت بخورد».
     حالا علامت خورده‌اند: هر کدام از این بخش‌ها در خودِ صفحه یک پرچمِ <span style="color:var(--s-shangarf)">⚑</span> دارد که به همین‌جا برمی‌گردد.</p>
   <ul class="tl-st" id="stale"></ul>
 </div></section>
 
 <section class="blk" id="tarikhche"><div class="wrap">
-  <h2>تاریخچهٔ بازبینی</h2>
+  <h2 id="ds-s4">تاریخچهٔ بازبینی</h2>
   <ul class="tl-st" id="log"></ul>
 </div></section>
 
 <section class="blk" id="ghaede"><div class="wrap">
-  <h2>قاعدهٔ به‌روزرسانی</h2>
+  <h2 id="ds-s5">قاعدهٔ به‌روزرسانی</h2>
   <p class="lede">هر بار که سند بازبینی می‌شود: تاریخِ بالای این صفحه عوض می‌شود؛ هر رویدادِ تازه یا به یک سطرِ داده تبدیل می‌شود
     یا به فهرستِ «پوشش داده نشده» می‌رود؛ و هیچ پرچمی برداشته نمی‌شود مگر بخشِ زیرش واقعاً بازنویسی شده باشد.
     <a href="health.html">سلامتِ دیتاست</a> بعد از هر تغییر نشان می‌دهد عددهای سایت هنوز با داده می‌خوانند یا نه.</p>
@@ -104,5 +104,5 @@ document.addEventListener("DOMContentLoaded", function () {
     encodeURIComponent("**رویداد:**\n\n**تاریخ:**\n\n**کدام بخشِ سند را تغییر می‌دهد:**\n\n**منبع:**\n");
 });
 </script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="problems.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">نقشهٔ مشکل‌ها</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="health.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">سلامتِ دیتاست</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: شواهد و بازرسی · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

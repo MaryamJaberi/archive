@@ -65,7 +65,7 @@ footer.foot{border-top:1px solid var(--line);padding-block:var(--s8);color:var(-
 @media (prefers-color-scheme: dark){:root:not([data-theme=light]) .flag{background:#3A3010;color:#F0D78A;border-color:#6B5A2A}}
 :root[data-theme=dark] .flag{background:#3A3010;color:#F0D78A;border-color:#6B5A2A}
 </style>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <header class="top"><div class="wrap">
  <a class="brand" href="../"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 7l8-4 8 4-8 4-8-4z"/><path d="M4 12l8 4 8-4"/><path d="M4 17l8 4 8-4"/></svg><span>دانش‌سرا</span></a>
@@ -193,5 +193,5 @@ document.querySelector(".lang").addEventListener("click", ev => { const b = ev.t
 i18n();
 if (location.hash) setTimeout(() => { const e = document.getElementById(location.hash.slice(1)); if (e) { e.scrollIntoView({block: "start"}); e.style.outline = "2px solid var(--primary)"; } }, 50);
 </script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="tools/index.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ابزارها</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="index.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ویکی ایران</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: ویکی ایران · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

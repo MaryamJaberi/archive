@@ -18,12 +18,12 @@
 <script>window.SHELL_BASE="";window.SHELL_ASSETS="assets/";window.SHELL_OTHER="en/gam.html";</script>
 <script defer src="assets/art.js"></script>
 <script defer src="assets/shell.js"></script>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <div class="hero"><div class="wrap"><div class="grid">
   <div>
     <div class="eyebrow">یک قدم</div>
-    <h1>قدمِ تو چیست؟</h1>
+    <h1>قدمِ تو چیست؟</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">چهار چیزی که پژوهش می‌گوید</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">آمار، به زبانِ ساده</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">قدمِ تو</a> · <a href="#ds-s4" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">خطر — این بخش را رد نکنید</a> · <a href="#ds-s5" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">کسانی که با این صفحه مخالف‌اند</a> · <a href="#ds-s6" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">کوچک‌ترین قدمِ ممکن</a></nav>
     <p class="dek">این صفحه به شما نمی‌گوید چه کار کنید. می‌گوید در <b>۳۲۳ خیزشِ ثبت‌شدهٔ تاریخ</b>
       چه چیزی کار کرد و چه چیزی نکرد — و می‌گذارد خودتان دربارهٔ کوچه و خانه و جانِ خودتان تصمیم بگیرید.
       هیچ‌کس جز شما وضعِ شما را نمی‌داند.</p>
@@ -44,7 +44,7 @@
     <span class="hint" id="readhint" hidden>اگر خواندن برایتان سخت است، این دکمه متن را بلند می‌خواند.</span>
   </div>
 
-  <h2>چهار چیزی که پژوهش می‌گوید</h2>
+  <h2 id="ds-s1">چهار چیزی که پژوهش می‌گوید</h2>
   <p class="lede">این چهار مورد از پژوهش‌های دانشگاهی دربارهٔ صدها خیزش در صد سال گذشته می‌آید.
     زیر هرکدام نوشته‌ام از کجا آمده، تا اگر خواستید خودتان بروید سراغش.</p>
 
@@ -96,7 +96,7 @@
 </div></section>
 
 <section class="blk" id="amar"><div class="wrap">
-  <h2>آمار، به زبانِ ساده</h2>
+  <h2 id="ds-s2">آمار، به زبانِ ساده</h2>
   <p class="lede">هر عددی که اینجا می‌بینید منبع دارد و منبعش نوشته شده. هر جا عددی نداشتیم،
     ننوشتیم — به‌جای اینکه از خودمان دربیاوریم.</p>
 
@@ -106,9 +106,9 @@
       <figcaption>
         از ۳۲۳ خیزشِ ثبت‌شده میانِ ۱۹۰۰ و ۲۰۰۶، خیزش‌های <b>خشونت‌پرهیز ۵۳٪</b> و
         خیزش‌های <b>مسلحانه ۲۶٪</b> به هدفِ اعلام‌شده‌شان رسیدند.
-        <table><thead><tr><th>نوعِ خیزش</th><th>به هدف رسید</th></tr></thead>
+        <div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table><thead><tr><th>نوعِ خیزش</th><th>به هدف رسید</th></tr></thead>
         <tbody><tr><td>خشونت‌پرهیز</td><td>۵۳٪</td></tr>
-        <tr><td>مسلحانه</td><td>۲۶٪</td></tr></tbody></table>
+        <tr><td>مسلحانه</td><td>۲۶٪</td></tr></tbody></table></div>
         منبع: چنووث و استفان، دادهٔ NAVCO.
       </figcaption>
     </figure>
@@ -142,7 +142,7 @@
 </div></section>
 
 <section class="blk" id="who"><div class="wrap">
-  <h2>قدمِ تو</h2>
+  <h2 id="ds-s3">قدمِ تو</h2>
   <p class="lede">پایین، برای هر جور آدمی یک کارت هست. هر کارت می‌گوید <b>پژوهش دربارهٔ نقشِ تو چه می‌گوید</b>،
     و بعد چند کارِ مشخص. کارها از کم‌خطر به پرخطر مرتب شده‌اند. لازم نیست همه‌شان را بکنید؛
     لازم نیست هیچ‌کدام را بکنید.</p>
@@ -503,7 +503,7 @@
 </div></section>
 
 <section class="blk" id="khatar"><div class="wrap">
-  <h2>خطر — این بخش را رد نکنید</h2>
+  <h2 id="ds-s4">خطر — این بخش را رد نکنید</h2>
   <div class="warn">
     <h3>این صفحه وضعِ شما را نمی‌داند</h3>
     <p>همین حالا در ایران مردم اعدام می‌شوند. گزارش‌های سازمان ملل از ادامهٔ اجرای احکام
@@ -524,7 +524,7 @@
 </div></section>
 
 <section id="کسانی-که-با-این-صفحه-مخالفاند" class="blk"><div class="wrap">
-  <h2>کسانی که با این صفحه مخالف‌اند</h2>
+  <h2 id="ds-s5">کسانی که با این صفحه مخالف‌اند</h2>
   <p class="lede">اگر فقط دلایلِ موافق را می‌آوردیم، این تبلیغ بود نه تحلیل.
     این‌ها جدی‌ترین نقدهای علمی به چیزی است که بالا خواندید.</p>
   <div class="agst">
@@ -565,7 +565,7 @@
 </div></section>
 
 <section id="کوچکترین-قدم-ممکن" class="blk"><div class="wrap">
-  <h2>کوچک‌ترین قدمِ ممکن</h2>
+  <h2 id="ds-s6">کوچک‌ترین قدمِ ممکن</h2>
   <div class="two">
     <div>
       <p style="font-size:1.06rem;line-height:2.05;max-width:60ch">
@@ -665,5 +665,5 @@ document.addEventListener("click",function(e){
   if(a){e.preventDefault();var b=document.getElementById("tb-menu");if(b)b.click();}
 });
 </script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="roles.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">میز مافیای ایران</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="game.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">متنِ کامل بازی</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: پَرِ سیمرغ · متن اصلی · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

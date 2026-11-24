@@ -6,15 +6,15 @@ main{max-width:52rem;margin:0 auto;padding:24px max(16px,env(safe-area-inset-lef
 h1,h2,h3{line-height:1.4;text-wrap:balance}h1{font-size:1.7rem}h2{font-size:1.3rem;border-top:1px solid var(--line);padding-top:18px;margin-top:30px}
 a{color:var(--accent)}.back{font-size:.9rem}table{border-collapse:collapse;width:100%;font-size:.92rem}.t{overflow-x:auto}
 td,th{border:1px solid var(--line);padding:6px 9px;vertical-align:top;text-align:right}th{background:color-mix(in srgb,var(--line) 45%,transparent)}
-code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);margin:0;padding:0 14px;color:var(--dim)}</style></head><body><main><p class="back"><a href="../index.html">← پَرِ سیمرغ</a></p><h1>سند QA — سایتِ پَرِ سیمرغ</h1>
+code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);margin:0;padding:0 14px;color:var(--dim)}</style><style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head><body><main><p class="back"><a href="../index.html">← پَرِ سیمرغ</a></p><h1>سند QA — سایتِ پَرِ سیمرغ</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۱ · بازطراحیِ این دور</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۲ · چه چیزی تازه است</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۳ · باگ‌هایی که این دور پیدا و رفع شد</a> · <a href="#ds-s4" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۴ · نتایج تست — ۹۷ مورد</a> · <a href="#ds-s5" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۵ · محدودیت‌های باقی‌مانده</a> · <a href="#ds-s6" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۶ · دستورها</a> · <a href="#ds-s7" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۷ · دورِ «دو ایران» (۱۱ سپتامبر)</a> · <a href="#ds-s8" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۸ · بازچینیِ معماری — لایهٔ داده (۱۴ سپتامبر)</a> · <a href="#ds-s9" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">۹ · یکپارچه‌سازیِ صفحه‌های قدیمی</a></nav>
 <p><strong>تاریخ اجرا:</strong> ۱۴ سپتامبر ۲۰۲۶ · <strong>نتیجه:</strong> ۱۰۷ از ۱۰۷ سبز · <strong>حکم:</strong> منتشر شد</p>
 <hr />
-<h2>۱ · بازطراحیِ این دور</h2>
+<h2 id="ds-s1">۱ · بازطراحیِ این دور</h2>
 <p>پیش از این، سایت سه پروژهٔ متفاوت زیرِ یک پوسته بود: لایهٔ بازی (که با آنالوژیِ مافیا
 کار می‌کرد)، لایهٔ استدلال (ارائهٔ اروپا)، و لایهٔ تازهٔ کنش (کارت‌ها، کتابخانه، اشتراکات)
 که آنالوژی را کنار گذاشته بود. هیچ ستونِ روایی مشترکی نداشتند.</p>
 <p><strong>تصمیم:</strong> آنالوژیِ <strong>میزِ مافیا و کارت‌ها</strong> ستونِ کلِ سایت شد. پنج پله:</p>
-<div class="t"><table>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>پله</th>
@@ -49,11 +49,11 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td>۱۸ کارت — امشب چه می‌شود کرد</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <p>نکتهٔ کلیدیِ این بازطراحی: <strong><code>gam.html</code> از قبل یک دستِ کارتِ نقش بود</strong> — هجده کارت —
 و فقط اسمِ آنالوژی رویش گذاشته نشده بود. حالا هست.</p>
 <hr />
-<h2>۲ · چه چیزی تازه است</h2>
+<h2 id="ds-s2">۲ · چه چیزی تازه است</h2>
 <p><strong>پوستهٔ تازه (<code>shell.js</code> + <code>shell.css</code>)</strong> — به‌جای یک دکمهٔ شناور:
 - <strong>نوارِ چسبانِ بالا</strong> با «همهٔ مطالب»، مسیرِ «خانه › ① میز»، دکمهٔ اشتراک، و کلیدِ زبان
 - <strong>نوارِ پنج پله</strong> که همیشه می‌گوید کجایید و فقط یکی «جاری» است
@@ -68,8 +68,8 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 - کلیدِ زبان روی هر صفحه، و <strong>رفت‌وبرگشتش تست می‌شود</strong> (۷ جفت)
 - جست‌وجو زبان‌آگاه است: <code>search-index.json</code> فیلدِ <code>lang</code> دارد و زبان‌ها قاطی نمی‌شوند</p>
 <hr />
-<h2>۳ · باگ‌هایی که این دور پیدا و رفع شد</h2>
-<div class="t"><table>
+<h2 id="ds-s3">۳ · باگ‌هایی که این دور پیدا و رفع شد</h2>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>#</th>
@@ -99,13 +99,13 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td>تست جدید</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <p>و سه <strong>باگِ خودِ تست</strong> که سایت را بی‌گناه قرمز می‌کرد: تست مسیرهای نسبی را به‌جای
 پوشهٔ خودِ صفحه به ریشهٔ سایت می‌چسباند، پس <code>../index.html</code> از <code>en/</code> را گم می‌کرد؛
 و انتظار داشت همهٔ صفحه‌ها <code>fa/rtl</code> باشند. هر سه اصلاح شد.</p>
 <hr />
-<h2>۴ · نتایج تست — ۹۷ مورد</h2>
-<div class="t"><table>
+<h2 id="ds-s4">۴ · نتایج تست — ۹۷ مورد</h2>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>گروه</th>
@@ -180,13 +180,13 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td>فایل‌های Pages · بدونِ مسیرِ مطلق · <code>fa/rtl</code> و <code>en/ltr</code> هر دو درست</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <p><strong>تعهدهایی که در تست قفل شده‌اند</strong> (نه فقط در متن): کارتِ «نمی‌خواهم یا می‌ترسم»،
 ارجاعِ خطر به نهادهای متخصص، حداقل چهار نقدِ علمیِ مخالف، قیدِ فلسطین،
 و ردِ صریحِ عددِ ۱۵۰۰ در پروندهٔ سرداری — <strong>در هر دو زبان</strong>.</p>
 <hr />
-<h2>۵ · محدودیت‌های باقی‌مانده</h2>
-<div class="t"><table>
+<h2 id="ds-s5">۵ · محدودیت‌های باقی‌مانده</h2>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>محدودیت</th>
@@ -215,9 +215,9 @@ code{font-size:.85em}blockquote{border-inline-start:3px solid var(--accent);marg
 <td>بعد از انتشار، چند دقیقه ممکن است نسخهٔ قدیمِ <code>assets/</code> سرو شود</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <hr />
-<h2>۶ · دستورها</h2>
+<h2 id="ds-s6">۶ · دستورها</h2>
 <p><code>bash
 node build-site.js     # می‌سازد site/  (fa در ریشه، en در en/)
 node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیفتد</code></p>
@@ -225,7 +225,7 @@ node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیف
 در دو دورِ آخر، بدترین باگ‌ها (تصویرهای نامرئی، برچسبِ بریده، نوارِ سرریز)
 همه از تست‌ها رد شده بودند و فقط با نگاه‌کردن پیدا شدند.</p>
 <hr />
-<h2>۷ · دورِ «دو ایران» (۱۱ سپتامبر)</h2>
+<h2 id="ds-s7">۷ · دورِ «دو ایران» (۱۱ سپتامبر)</h2>
 <p>جستارِ مستقلِ <strong>«دو ایران»</strong> به سایت وارد شد: <code>two-irans.html</code>.</p>
 <p><strong>چطور وارد شد.</strong> جستار CSS و پالتِ خودش را داشت و اسمِ کلاس‌هایش با سایت یکی بود.
 بیلد حالا یک <strong>واردکنندهٔ جستار</strong> دارد که:</p>
@@ -240,7 +240,7 @@ node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیف
 <strong>پاراگراف</strong> است و در <code>page.css</code> سایت یک <strong>قابِ صفحه</strong> با <code>padding:34px 0 90px</code>.
 تصادمِ اسمِ کلاس. پیشوندِ <code>e-</code> همین را حل کرد.</p>
 <p><strong>تصحیح‌هایی که جستار به <code>shared.html</code> تحمیل کرد</strong> (در هر دو زبان، و در تست قفل شده):</p>
-<div class="t"><table>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>ادعای قبلی</th>
@@ -261,18 +261,18 @@ node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیف
 <td><strong>تلمودِ بابلی در خاکِ ساسانی نوشته شد</strong> — محکم‌ترین فاکتِ این رشته، که نداشتیم</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <p><strong>۴ تستِ تازه:</strong> سالم‌بودنِ واردکردن (۹ بخشِ لنگردار، پوسته دست‌نخورده)
 و حضورِ هر سه تصحیح در فارسی و انگلیسی.</p>
 <p><strong>تصویرِ تازه:</strong> <code>twoPoles</code> — دو ستون روی یک زمین، با رشته‌ای میانشان.</p>
 <hr />
-<h2>۸ · بازچینیِ معماری — لایهٔ داده (۱۴ سپتامبر)</h2>
+<h2 id="ds-s8">۸ · بازچینیِ معماری — لایهٔ داده (۱۴ سپتامبر)</h2>
 <p><strong>مسئله.</strong> سایت یک ستونِ پنج‌پله‌ای داشت و زیرِ آن دو گروهِ درختی.
 سه صفحهٔ «قاعده‌ها»، «بازیکن‌ها» و «هفت شب» <strong>کلمه‌به‌کلمه</strong> خلاصهٔ فصل‌های
 ۱ تا ۳ متنِ کامل بودند: یک محتوا در سه جا، با خطرِ واگرایی.
 و ادعاهای عددی در دلِ پاراگراف‌ها پخش بودند، بعضی با منبع و بعضی بی‌منبع.</p>
 <p><strong>تصمیم.</strong> گروه‌بندی برداشته شد. جایش:</p>
-<div class="t"><table>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>لایه</th>
@@ -297,7 +297,7 @@ node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیف
 <td>سه صفحهٔ خلاصه حذف و به لنگرِ متنِ کامل ریدایرکت شدند</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <p><strong>ردهٔ اعتبار.</strong> ۱ = دادهٔ اولیه یا سندِ نهادی · ۲ = پژوهشِ منتشرشده ·
 ۳ = برآورد، گزارش یا مدل. توزیع: <strong>۲۰ / ۲۵ / ۳۱</strong>. یعنی ۴۱٪ ادعاهای پروژه
 ردهٔ ۳‌اند — و این حالا روی صفحهٔ اول نوشته شده، نه پنهان.</p>
@@ -314,7 +314,7 @@ node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیف
 قیدِ اصلی در تست قفل شده: <strong>جایگاهِ نقطه‌ها چارچوبِ آموزشی است، نه برآوردِ آماری</strong>،
 و این صفحه برخلافِ میزِ داده ادعای عددی نمی‌کند.</p>
 <p><strong>باگ‌هایی که فقط اسکرین‌شات پیدا کرد</strong> — باز هم، با تست‌های سبز:</p>
-<div class="t"><table>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>باگ</th>
@@ -343,7 +343,7 @@ node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیف
 <td>نقطه‌ها بدونِ تغییرِ ربع جابه‌جا شدند</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <p><strong>۱۰ تستِ تازه</strong> (۹۵ → ۱۰۵): سلامتِ دیتاست، واقعی‌بودنِ هر ارجاعِ «کجای سایت»،
 دقتِ غربالِ رده، قیدِ مقیاسِ خطِ زمان، وجودِ یافته و راهِ‌حل در ممیزی،
 قیدِ نقشهٔ مشکل‌ها، نبودِ ستونِ پله، سالم‌بودنِ ریدایرکت‌ها، تختیِ نمایه، و غربالِ کشو.</p>
@@ -351,12 +351,12 @@ node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیف
 ممیزی و نقشهٔ مشکل‌ها در منوی انگلیسی «Persian only» علامت خورده‌اند.
 نمایه اما دوزبانه است، چون ناوبری است نه محتوا.</p>
 <hr />
-<h2>۹ · یکپارچه‌سازیِ صفحه‌های قدیمی</h2>
+<h2 id="ds-s9">۹ · یکپارچه‌سازیِ صفحه‌های قدیمی</h2>
 <p><strong>گزارشِ کاربر:</strong> «می‌زنم روی میزِ نقد، یهو وارد یه جای دیگه می‌شه که اونجا هم
 یه سری تبِ جدید هست.» درست بود. چهار صفحهٔ <code>game</code>, <code>roles</code>, <code>map</code>, <code>europe</code>
 اپ‌های مستقلِ قدیمی بودند که فقط پوسته رویشان گذاشته شده بود.</p>
 <p><strong>سه ریشه، که با هم آن حس را می‌ساختند:</strong></p>
-<div class="t"><table>
+<div class="t"><div data-ds="scroll" style="overflow-x:auto;max-width:100%"><table>
 <thead>
 <tr>
 <th>#</th>
@@ -381,7 +381,7 @@ node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیف
 <td>لینکِ عمیق حالا اول ناوبریِ خودِ صفحه را صدا می‌زند، بعد اسکرول</td>
 </tr>
 </tbody>
-</table></div>
+</table></div></div>
 <p>ریشهٔ سوم مهم‌ترین بود: هر لینکِ عمیق — از جمله «میزِ نقد» — روی <strong>فصلِ یکم</strong>
 فرود می‌آمد، نه مقصد. کاربر بی‌آنکه بداند کجاست، وسطِ سندی ۳۳۶ کیلوبایتی رها می‌شد.</p>
 <p><strong>به‌علاوه:</strong> مسیرِ بالا حالا <strong>پلهٔ سوم</strong> دارد — نامِ بخشی که کاربر واقعاً در
@@ -391,4 +391,4 @@ node test-site.js      # ۹۷ تست؛ کدِ خروج ۱ اگر چیزی بیف
 ترتیبِ استایل‌ها هم قبل از <code>&lt;style&gt;</code> خودِ صفحه می‌آمد. هر دو رفع شد — حالا
 آخرین استایلِ سند است.</p>
 <p><strong>۲ تستِ تازه</strong> (۱۰۵ → ۱۰۷): هم‌رنگیِ هر چهار صفحه با سایت، و اینکه
-<code>game.html#naghd</code> واقعاً فصلِ درست را باز می‌کند، ریل علامتش می‌زند و مسیر نامش را می‌گوید.</p></main></body></html>
+<code>game.html#naghd</code> واقعاً فصلِ درست را باز می‌کند، ریل علامتش می‌زند و مسیر نامش را می‌گوید.</p></main><nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="qa-europe.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">پرسش و پاسخِ اروپا</a> <span style="opacity:.6">(قبلی)</span> <a href="../sanad-rahbordi.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">تشخیص، گزینه‌ها، مسیر</a> <span style="opacity:.6">(اول این بخش)</span><br><span style="opacity:.6;font-size:.85em">بخش: پَرِ سیمرغ · سند راهبردی · آخرین بررسی: 2026-11-24</span></nav></body></html>

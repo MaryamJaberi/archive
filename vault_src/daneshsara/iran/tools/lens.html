@@ -35,14 +35,14 @@ html{scroll-padding-top:72px}
 label.row{flex-wrap:nowrap;align-items:flex-start}
 label.row input[type=checkbox]{flex:none;margin:2px 0 0}
 .grid>section .card{padding:14px}.nt{margin-top:2px}</style>
-</head>
+<style data-ds="fix">:where(p,li,td,th,dd,dt,figcaption,blockquote,code,a,h1,h2,h3){overflow-wrap:break-word}:where(img,svg,video,iframe){max-width:100%}</style></head>
 <body>
 <style id="ds-crumbs-css">.ds-crumbs{font:400 .82rem/1.7 inherit;padding:7px max(16px,env(safe-area-inset-right,0px)) 7px max(16px,env(safe-area-inset-left,0px));border-bottom:1px solid var(--line,var(--rule,#e5e1d8));background:var(--paper,var(--bg,#faf8f3));color:var(--ink-3,var(--muted,#8a8578));display:flex;flex-wrap:wrap;gap:6px;align-items:baseline}.ds-crumbs a{color:var(--ink-2,var(--muted,#5c574c));text-decoration:none}.ds-crumbs a:hover{text-decoration:underline}.ds-crumbs i{font-style:normal;opacity:.5}.ds-crumbs b{font-weight:600;color:var(--ink,#2b2922)}@media (prefers-color-scheme:dark){.ds-crumbs{border-color:var(--line,var(--rule,#33312c));background:var(--paper,var(--bg,#1b1a17))}}</style><nav class="ds-crumbs" aria-label="مسیر صفحه"><a href="../../index.html">دانش‌سرا</a><i>›</i><a href="../../index.html#layers">لایهٔ ایران</a><i>›</i><a href="../../iran/">ویکی ایران</a><i>›</i><a href="../../iran/tools/">ابزارها</a><i>›</i><b>ایران از دید هر رشته</b></nav><script src="../../core/nav.js" defer></script>
 <header class="top"><div class="wrap">
  <a class="muted" href="index.html">همهٔ ابزارهای ایران</a>
 </div></header>
 <main class="wrap">
- <h1>ایران از دید هر رشته</h1>
+ <h1>ایران از دید هر رشته</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">یادداشت‌های آماری ایران (${DS.faDigits(D.iran.length)})</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">یادداشت‌های آماری مرتبط (${DS.faDigits(notes.length)})</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">مفاهیم به تفکیک رشته (${DS.faDigits(total)})</a></nav>
  <p class="tip">یک موضوع (مثل خانواده، دین یا مهاجرت) را بزنید تا ببینید روان، جامعه، فلسفه و تبار دربارهٔ آن در ایران چه می‌گویند؛ با یادداشت‌های آماری ایران در بالا.</p>
  <div id="app" aria-live="polite">
 <div class="card" style="margin-bottom:18px">
@@ -122,7 +122,7 @@ function render() {
   const out = document.getElementById("out"); const T = terms();
   document.querySelectorAll("#chips button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.k === ST.chip)));
   if (!T.t.length) {
-    out.innerHTML = `<div class="empty">یک موضوع بنویسید یا از چیپ‌ها یکی را بزنید تا ستون‌های روان، جامعه، فلسفه و تبار را کنار هم ببینید.</div><h2>یادداشت‌های آماری ایران <span class="muted">(${DS.faDigits(D.iran.length)})</span></h2><div class="grid">${D.iran.map(n => `<div class="card">${SH.noteBox(n)}</div>`).join("")}</div>`;
+    out.innerHTML = `<div class="empty">یک موضوع بنویسید یا از چیپ‌ها یکی را بزنید تا ستون‌های روان، جامعه، فلسفه و تبار را کنار هم ببینید.</div><h2 id="ds-s1">یادداشت‌های آماری ایران <span class="muted">(${DS.faDigits(D.iran.length)})</span></h2><div class="grid">${D.iran.map(n => `<div class="card">${SH.noteBox(n)}</div>`).join("")}</div>`;
     return;
   }
   const res = {}; SH.WIKIS.forEach(w => res[w] = []);
@@ -134,9 +134,9 @@ function render() {
   D.iran.forEach(n => { const h = T.t.filter(w => SH.tp(n._t, w) || n._t.includes(w)).length; if (T.mode === "and" ? h === T.t.length : h > 0) nm.set(n.id, { n, s: h + 2 }); });
   SH.WIKIS.forEach(w => res[w].forEach(x => { if (x.c.ir && T.t.some(t => SH.tp(x.c._nt, t) || SH.tp(x.c._ns, t)) && D.notesById[x.c.ir] && !nm.has(x.c.ir)) nm.set(x.c.ir, { n: D.notesById[x.c.ir], s: 1 }); }));
   const notes = [...nm.values()].sort((a, b) => b.s - a.s).map(x => x.n);
-  let h = `<h2>یادداشت‌های آماری مرتبط <span class="muted">(${DS.faDigits(notes.length)})</span></h2>`;
+  let h = `<h2 id="ds-s2">یادداشت‌های آماری مرتبط <span class="muted">(${DS.faDigits(notes.length)})</span></h2>`;
   h += notes.length ? `<div class="grid">${notes.map(n => `<div class="card">${SH.noteBox(n)}</div>`).join("")}</div>` : `<div class="empty">یادداشت آماری ایرانی با این موضوع پیدا نشد. این یعنی «هنوز در داده نیست»، نه «چیزی وجود ندارد».</div>`;
-  h += `<h2>مفاهیم به تفکیک رشته <span class="muted">(${DS.faDigits(total)})</span></h2>`;
+  h += `<h2 id="ds-s3">مفاهیم به تفکیک رشته <span class="muted">(${DS.faDigits(total)})</span></h2>`;
   if (!total) h += `<div class="empty">مفهومی پیدا نشد. ${ST.io ? "تیک «فقط مفاهیم ایرانی» را بردارید یا" : ""} واژهٔ دیگری امتحان کنید.</div>`;
   else {
     h += `<div class="grid" style="align-items:start">` + SH.WIKIS.map(w => {
@@ -164,5 +164,5 @@ SH.guard(d => {
 });
 
 </script>
-</body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="matrix.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ماتریس مسئله × رشته</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="guess.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">اول حدس بزن</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: ویکی ایران · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>
