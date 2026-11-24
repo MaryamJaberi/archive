@@ -33,7 +33,10 @@ for sec, p, label in pages:
                  'words': len(body.split()),
                  'h1': len(re.findall(r'<h1', h)), 'h2': len(re.findall(r'<h2', h)),
                  'lead': lead, 'leadlen': len(lead), 'out': len(out),
-                 'toc': 'data-ds="toc"' in h,
+                 'toc': ('data-ds="toc"' in h) or bool([1 for m in re.finditer(
+                     r'(?is)<(nav|div|ul|ol|p|section)[^>]*>(.{0,3000}?)</\1>',
+                     re.sub(r'(?is)<(script|style)[^>]*>.*?</\1>', ' ', h))
+                     if len(re.findall(r'href="#[^"]+"', m.group(2))) >= 3]),
                  'filter': bool(re.search(r'type="search"|placeholder="[^"]*جستجو|oninput|addEventListener\("input"', h)),
                  'i18n': bool(re.search(r'<p[^>]*data-i="lead"', hraw)),
                  'date': bool(re.search(r'۱۴۰[۰-۹]|۲۰۲[۰-۹]|202[0-9]', body))})

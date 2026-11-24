@@ -11,9 +11,12 @@ TODAY = datetime.date.today().isoformat()
 DP = f'{V}/data/access/dates.json'
 DATES = json.load(open(DP, encoding='utf-8')) if os.path.exists(DP) else {}
 
-CSS = ('font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;'
-       'border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9')
-LINK = 'color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)'
+# رنگ‌ها از خودِ صفحه گرفته می‌شوند تا روی صفحه‌های تیره و روشن یکسان بنشینند
+CSS = ('font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;line-height:1.9;'
+       'border:1px solid color-mix(in srgb, currentColor 26%, transparent);'
+       'background:color-mix(in srgb, currentColor 6%, transparent)')
+LINK = ('color:inherit;text-decoration:none;'
+        'border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)')
 
 def rel(frm, to):
     r = os.path.relpath(to, os.path.dirname(frm))
@@ -43,7 +46,15 @@ def add_fix(h):
 def esc(s):
     return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
 
+def has_own_nav(h):
+    """صفحه‌ای که خودش فهرست لنگری دارد، فهرست دوم نمی‌خواهد."""
+    body = re.sub(r'(?is)<(script|style)[^>]*>.*?</\1>', ' ', h)
+    for m in re.finditer(r'(?is)<(nav|div|ul|ol|p|section)[^>]*>(.{0,3000}?)</\1>', body):
+        if len(re.findall(r'href="#[^"]+"', m.group(2))) >= 3: return True
+    return False
+
 def toc(h, path):
+    if has_own_nav(h): return h, False
     hs = re.findall(r'(?is)<h2\b([^>]*)>(.*?)</h2>', h)
     if len(hs) < 3: return h, False
     items, n = [], 0
@@ -62,9 +73,13 @@ def toc(h, path):
     lis = ' · '.join(f'<a href="#{i}" style="{LINK}">{esc(t)}</a>' for i, t in items[:14])
     block = (f'<nav data-ds="toc" style="{CSS};margin:1.2rem 0 1.6rem">'
              f'<b>در این صفحه</b><br>{lis}</nav>')
-    m = re.search(r'(?is)</h1>', new)
-    if not m: return new, False
-    return new[:m.end()] + block + new[m.end():], True
+    # پیش از نخستین h2 بنشیند، نه وسط سرصفحهٔ طراحی‌شده
+    m = re.search(r'(?is)<h2\b', new)
+    if not m:
+        m = re.search(r'(?is)</h1>', new)
+        if not m: return new, False
+        return new[:m.end()] + block + new[m.end():], True
+    return new[:m.start()] + block + new[m.start():], True
 
 def main():
     secs = NAV['sections']

@@ -61,7 +61,7 @@ label.row input[type=checkbox]{flex:none;margin:2px 0 0}
  <a class="muted" href="index.html">همهٔ ابزارهای ایران</a>
 </div></header>
 <main class="wrap">
- <h1>خط زمانی ایران</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">${DS.esc(b.l)} ${DS.faDigits(b.ev.length)} مورد</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">بدون تاریخ دقیق در داده ${DS.faDigits(und.length)} مدخل</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">یادداشت‌های آماری ایران، به ترتیب سال ${DS.faDigits(ns.length)} یادداشت</a></nav>
+ <h1>خط زمانی ایران</h1>
  <p class="tip">رویدادها و ادعاهای تاریخ‌دارِ مربوط به ایران را که در دانش‌سرا آمده‌اند، از ده‌ها هزار سال پیش تا امروز، با ردهٔ اعتبار و پیوند به مدخل می‌بینید؛ آنچه سال ندارد جدا مانده است.</p>
  <div id="app" aria-live="polite">
 <div class="card" style="margin-bottom:18px">
@@ -199,7 +199,7 @@ function render() {
   let h = "";
   if (!bands.length) h += `<div class="empty">با این فیلترها رویدادی نیست. فیلتر رشته یا ردهٔ منبع را شل کنید.</div>`;
   else {
-    const inner = bands.map(b => `<section class="band" aria-label="${DS.esc(b.l)}"><h2 id="ds-s1">${DS.esc(b.l)} <span class="muted">${DS.faDigits(b.ev.length)} مورد</span></h2>` + (ST.v === "h"
+    const inner = bands.map(b => `<section class="band" aria-label="${DS.esc(b.l)}"><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;line-height:1.9;border:1px solid color-mix(in srgb, currentColor 26%, transparent);background:color-mix(in srgb, currentColor 6%, transparent);margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">${DS.esc(b.l)} ${DS.faDigits(b.ev.length)} مورد</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">بدون تاریخ دقیق در داده ${DS.faDigits(und.length)} مدخل</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">یادداشت‌های آماری ایران، به ترتیب سال ${DS.faDigits(ns.length)} یادداشت</a></nav><h2 id="ds-s1">${DS.esc(b.l)} <span class="muted">${DS.faDigits(b.ev.length)} مورد</span></h2>` + (ST.v === "h"
       ? `<div class="evs">${b.ev.map(e => `<div class="ev">${evCard(e)}</div>`).join("")}</div>`
       : `<ol class="vt">${b.ev.map(e => `<li>${evCard(e)}</li>`).join("")}</ol>`) + `</section>`).join("");
     h += ST.v === "h" ? `<div class="hzw" tabindex="0" aria-label="محور افقی؛ با اسکرول افقی یا کلیدهای جهت‌دار جابه‌جا شوید"><div class="hz">${inner}</div></div>` : inner;
@@ -228,5 +228,5 @@ SH.guard(d => {
 });
 
 </script>
-<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="matrix.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ماتریس مسئله × رشته</a> <span style="opacity:.6">(قبلی)</span> <a href="../index.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ویکی ایران</a> <span style="opacity:.6">(اول این بخش)</span><br><span style="opacity:.6;font-size:.85em">بخش: ویکی ایران · آخرین بررسی: 2026-11-24</span></nav></body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;line-height:1.9;border:1px solid color-mix(in srgb, currentColor 26%, transparent);background:color-mix(in srgb, currentColor 6%, transparent)"><b>بعد از این</b><br><a href="matrix.html" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">ماتریس مسئله × رشته</a> <span style="opacity:.6">(قبلی)</span> <a href="../index.html" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">ویکی ایران</a> <span style="opacity:.6">(اول این بخش)</span><br><span style="opacity:.6;font-size:.85em">بخش: ویکی ایران · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

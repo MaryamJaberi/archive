@@ -42,7 +42,7 @@ label.row input[type=checkbox]{flex:none;margin:2px 0 0}
  <a class="muted" href="index.html">همهٔ ابزارهای ایران</a>
 </div></header>
 <main class="wrap">
- <h1>ایران از دید هر رشته</h1><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9;margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">یادداشت‌های آماری ایران (${DS.faDigits(D.iran.length)})</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">یادداشت‌های آماری مرتبط (${DS.faDigits(notes.length)})</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">مفاهیم به تفکیک رشته (${DS.faDigits(total)})</a></nav>
+ <h1>ایران از دید هر رشته</h1>
  <p class="tip">یک موضوع (مثل خانواده، دین یا مهاجرت) را بزنید تا ببینید روان، جامعه، فلسفه و تبار دربارهٔ آن در ایران چه می‌گویند؛ با یادداشت‌های آماری ایران در بالا.</p>
  <div id="app" aria-live="polite">
 <div class="card" style="margin-bottom:18px">
@@ -122,7 +122,7 @@ function render() {
   const out = document.getElementById("out"); const T = terms();
   document.querySelectorAll("#chips button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.k === ST.chip)));
   if (!T.t.length) {
-    out.innerHTML = `<div class="empty">یک موضوع بنویسید یا از چیپ‌ها یکی را بزنید تا ستون‌های روان، جامعه، فلسفه و تبار را کنار هم ببینید.</div><h2 id="ds-s1">یادداشت‌های آماری ایران <span class="muted">(${DS.faDigits(D.iran.length)})</span></h2><div class="grid">${D.iran.map(n => `<div class="card">${SH.noteBox(n)}</div>`).join("")}</div>`;
+    out.innerHTML = `<div class="empty">یک موضوع بنویسید یا از چیپ‌ها یکی را بزنید تا ستون‌های روان، جامعه، فلسفه و تبار را کنار هم ببینید.</div><nav data-ds="toc" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;line-height:1.9;border:1px solid color-mix(in srgb, currentColor 26%, transparent);background:color-mix(in srgb, currentColor 6%, transparent);margin:1.2rem 0 1.6rem"><b>در این صفحه</b><br><a href="#ds-s1" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">یادداشت‌های آماری ایران (${DS.faDigits(D.iran.length)})</a> · <a href="#ds-s2" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">یادداشت‌های آماری مرتبط (${DS.faDigits(notes.length)})</a> · <a href="#ds-s3" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">مفاهیم به تفکیک رشته (${DS.faDigits(total)})</a></nav><h2 id="ds-s1">یادداشت‌های آماری ایران <span class="muted">(${DS.faDigits(D.iran.length)})</span></h2><div class="grid">${D.iran.map(n => `<div class="card">${SH.noteBox(n)}</div>`).join("")}</div>`;
     return;
   }
   const res = {}; SH.WIKIS.forEach(w => res[w] = []);
@@ -164,5 +164,5 @@ SH.guard(d => {
 });
 
 </script>
-<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;border:1px solid rgba(128,120,105,.35);background:rgba(128,120,105,.06);line-height:1.9"><b>بعد از این</b><br><a href="matrix.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">ماتریس مسئله × رشته</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="guess.html" style="color:inherit;text-decoration:none;border-bottom:1px solid rgba(128,120,105,.5)">اول حدس بزن</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: ویکی ایران · آخرین بررسی: 2026-11-24</span></nav></body>
+<nav data-ds="after" style="font:inherit;margin:2.2rem 0 0;padding:1rem 1.1rem;border-radius:12px;line-height:1.9;border:1px solid color-mix(in srgb, currentColor 26%, transparent);background:color-mix(in srgb, currentColor 6%, transparent)"><b>بعد از این</b><br><a href="matrix.html" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">ماتریس مسئله × رشته</a> <span style="opacity:.6">(بعدی در همین بخش)</span> <a href="guess.html" style="color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb, currentColor 45%, transparent)">اول حدس بزن</a> <span style="opacity:.6">(قبلی)</span><br><span style="opacity:.6;font-size:.85em">بخش: ویکی ایران · آخرین بررسی: 2026-11-24</span></nav></body>
 </html>

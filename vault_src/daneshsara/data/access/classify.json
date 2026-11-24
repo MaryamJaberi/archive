@@ -16,7 +16,7 @@
 "why": "میز کار و روز بعد: برنامهٔ اجرا",
 "manual": false,
 "title": "روز بعد",
-"bytes": 18300
+"bytes": 17762
 },
 {
 "path": "sakht/index.html",
@@ -25,7 +25,7 @@
 "why": "ساخت ایران: محتوای نیمه‌تمام",
 "manual": false,
 "title": "ساخت ایران",
-"bytes": 222205
+"bytes": 220922
 },
 {
 "path": "sakht/map.html",
@@ -34,7 +34,7 @@
 "why": "ساخت ایران: محتوای نیمه‌تمام",
 "manual": false,
 "title": "نقشهٔ خرابی‌ها",
-"bytes": 13316
+"bytes": 13600
 },
 {
 "path": "sakht/work.html",
@@ -43,7 +43,7 @@
 "why": "میز کار و روز بعد: برنامهٔ اجرا",
 "manual": false,
 "title": "میز کار",
-"bytes": 112778
+"bytes": 111922
 },
 {
 "path": "iran/aces-prevalence.json",
@@ -160,7 +160,7 @@
 "why": "ویکی ایران",
 "manual": false,
 "title": "برای ایران",
-"bytes": 145950
+"bytes": 146063
 },
 {
 "path": "iran/executions-2025.json",
@@ -223,7 +223,7 @@
 "why": "ویکی ایران",
 "manual": false,
 "title": "ویکی ایران",
-"bytes": 28148
+"bytes": 26947
 },
 {
 "path": "iran/inflation.json",
@@ -439,7 +439,7 @@
 "why": "ویکی ایران",
 "manual": false,
 "title": "راستی‌آزمای ادعا",
-"bytes": 17819
+"bytes": 17932
 },
 {
 "path": "iran/tools/guess.html",
@@ -448,7 +448,7 @@
 "why": "ویکی ایران",
 "manual": false,
 "title": "اول حدس بزن: ایران در عدد",
-"bytes": 24166
+"bytes": 24279
 },
 {
 "path": "iran/tools/index.html",
@@ -457,7 +457,7 @@
 "why": "ویکی ایران",
 "manual": false,
 "title": "ابزارها",
-"bytes": 12758
+"bytes": 13071
 },
 {
 "path": "iran/tools/lens.html",
@@ -466,7 +466,7 @@
 "why": "ویکی ایران",
 "manual": false,
 "title": "ایران از دید هر رشته",
-"bytes": 17362
+"bytes": 17617
 },
 {
 "path": "iran/tools/matrix.html",
@@ -475,7 +475,7 @@
 "why": "ویکی ایران",
 "manual": false,
 "title": "ماتریس مسئله × رشته",
-"bytes": 17767
+"bytes": 17880
 },
 {
 "path": "iran/tools/timeline.html",
@@ -484,7 +484,7 @@
 "why": "ویکی ایران",
 "manual": false,
 "title": "خط زمانی ایران",
-"bytes": 24695
+"bytes": 24950
 },
 {
 "path": "wellbeing/monday.html",
@@ -493,7 +493,7 @@
 "why": "کار با همکاران",
 "manual": false,
 "title": "برگهٔ جلسهٔ همکاری",
-"bytes": 25170
+"bytes": 23550
 },
 {
 "path": "atlas/coverage.html",
@@ -529,7 +529,7 @@
 "why": "فهرست همهٔ صفحه‌های خصوصی",
 "manual": false,
 "title": "همهٔ پَرِ سیمرغ",
-"bytes": 10390
+"bytes": 10790
 },
 {
 "path": "simorgh/birds.html",
@@ -538,7 +538,7 @@
 "why": "ویکی سیمرغ",
 "manual": false,
 "title": "کارت‌های سی مرغ",
-"bytes": 27980
+"bytes": 28064
 },
 {
 "path": "simorgh/circle.html",
@@ -547,7 +547,7 @@
 "why": "میز حلقه",
 "manual": false,
 "title": "میز حلقه",
-"bytes": 24786
+"bytes": 23160
 },
 {
 "path": "simorgh/entries.html",
@@ -565,7 +565,7 @@
 "why": "ویکی سیمرغ",
 "manual": false,
 "title": "ویکی سیمرغ",
-"bytes": 18452
+"bytes": 17280
 },
 {
 "path": "simorgh/plan.html",
@@ -574,7 +574,7 @@
 "why": "نقشهٔ کلان و تصمیم‌های نگرفته",
 "manual": false,
 "title": "نقشهٔ کلان سیمرغ",
-"bytes": 107094
+"bytes": 104955
 },
 {
 "path": "simorgh/poll.html",
@@ -583,7 +583,7 @@
 "why": "نظرسنجی: روش و دفتر یکجا",
 "manual": false,
 "title": "نبض میز",
-"bytes": 26678
+"bytes": 26962
 },
 {
 "path": "simorgh/sim.html",
@@ -592,7 +592,7 @@
 "why": "ویکی سیمرغ",
 "manual": false,
 "title": "شهر: بازی ده‌نوبته",
-"bytes": 15050
+"bytes": 15163
 },
 {
 "path": "simorgh/transitions.html",
@@ -601,7 +601,7 @@
 "why": "ویکی سیمرغ",
 "manual": false,
 "title": "گذار در کشورهای دیگر",
-"bytes": 19077
+"bytes": 19332
 },
 {
 "path": "simorgh/why.html",
@@ -610,7 +610,7 @@
 "why": "ویکی سیمرغ",
 "manual": false,
 "title": "چرا؟ علم پشت هر نقش",
-"bytes": 28300
+"bytes": 28413
 },
 {
 "path": "simorgh/par/README.md",
@@ -628,7 +628,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "نقشهٔ استدلال",
-"bytes": 21475
+"bytes": 21588
 },
 {
 "path": "simorgh/par/audit.html",
@@ -637,7 +637,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "دفترِ ممیزی",
-"bytes": 15125
+"bytes": 15238
 },
 {
 "path": "simorgh/par/data.html",
@@ -646,7 +646,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "میزِ داده",
-"bytes": 186687
+"bytes": 186771
 },
 {
 "path": "simorgh/par/downloads.html",
@@ -655,7 +655,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "دانلود و منابع",
-"bytes": 9355
+"bytes": 9610
 },
 {
 "path": "simorgh/par/eraee-rahbordi.html",
@@ -664,7 +664,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "ایران: تشخیص، گزینه‌ها، و مسیر",
-"bytes": 31920
+"bytes": 32494
 },
 {
 "path": "simorgh/par/europe.html",
@@ -673,7 +673,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "پَرِ سیمرغ",
-"bytes": 73719
+"bytes": 74643
 },
 {
 "path": "simorgh/par/gam.html",
@@ -682,7 +682,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "کارتِ تو",
-"bytes": 54539
+"bytes": 53498
 },
 {
 "path": "simorgh/par/game.html",
@@ -691,7 +691,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "پَرِ سیمرغ",
-"bytes": 301449
+"bytes": 306679
 },
 {
 "path": "simorgh/par/health.html",
@@ -700,7 +700,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "سلامتِ دیتاست",
-"bytes": 20491
+"bytes": 20891
 },
 {
 "path": "simorgh/par/index.html",
@@ -709,7 +709,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "پَرِ سیمرغ",
-"bytes": 23633
+"bytes": 23888
 },
 {
 "path": "simorgh/par/inspect.html",
@@ -718,7 +718,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "بازرسیِ ادعا",
-"bytes": 17872
+"bytes": 17985
 },
 {
 "path": "simorgh/par/library.html",
@@ -727,7 +727,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "کتابخانه",
-"bytes": 31940
+"bytes": 30425
 },
 {
 "path": "simorgh/par/map.html",
@@ -736,7 +736,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "کجای میز ایستاده‌ای؟",
-"bytes": 66869
+"bytes": 70682
 },
 {
 "path": "simorgh/par/nights.html",
@@ -763,7 +763,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "نقشهٔ مشکل‌ها",
-"bytes": 34845
+"bytes": 35100
 },
 {
 "path": "simorgh/par/roles.html",
@@ -772,7 +772,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "میز مافیای ایران",
-"bytes": 103905
+"bytes": 104218
 },
 {
 "path": "simorgh/par/rules.html",
@@ -790,7 +790,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "ایران: تشخیص، گزینه‌ها، و مسیر",
-"bytes": 123937
+"bytes": 121898
 },
 {
 "path": "simorgh/par/shared.html",
@@ -799,7 +799,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "ایرانیان و اسرائیلی‌ها",
-"bytes": 25657
+"bytes": 24611
 },
 {
 "path": "simorgh/par/status.html",
@@ -808,7 +808,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "وضعیتِ سند",
-"bytes": 9717
+"bytes": 10030
 },
 {
 "path": "simorgh/par/story.html",
@@ -817,7 +817,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "خانه‌ای در افسریه",
-"bytes": 21318
+"bytes": 21689
 },
 {
 "path": "simorgh/par/timeline.html",
@@ -826,7 +826,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "خطِ زمان",
-"bytes": 69161
+"bytes": 69416
 },
 {
 "path": "simorgh/par/two-irans.html",
@@ -835,7 +835,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "دو ایران",
-"bytes": 96749
+"bytes": 97678
 },
 {
 "path": "simorgh/par/en/gam.html",
@@ -844,7 +844,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "Your Card",
-"bytes": 38128
+"bytes": 37179
 },
 {
 "path": "simorgh/par/en/index.html",
@@ -853,7 +853,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "Par-e Simorgh",
-"bytes": 13285
+"bytes": 13369
 },
 {
 "path": "simorgh/par/en/library.html",
@@ -862,7 +862,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "Library",
-"bytes": 26083
+"bytes": 24669
 },
 {
 "path": "simorgh/par/en/nights.html",
@@ -898,7 +898,7 @@
 "why": "پَرِ سیمرغ: همان نسخهٔ اشتراکی",
 "manual": false,
 "title": "Iranians & Israelis",
-"bytes": 19945
+"bytes": 18978
 },
 {
 "path": "simorgh/par/assets/argdata.js",
@@ -1024,7 +1024,7 @@
 "why": "پیش‌نویس‌ها و نسخه‌های قدیمی پَرِ سیمرغ",
 "manual": false,
 "title": "دیدگاه‌ها و روایت‌های رسانه‌ای: دفترچهٔ منابع",
-"bytes": 10711
+"bytes": 10966
 },
 {
 "path": "simorgh/par/docs/manabe.html",
@@ -1033,7 +1033,7 @@
 "why": "پیش‌نویس‌ها و نسخه‌های قدیمی پَرِ سیمرغ",
 "manual": false,
 "title": "منابعِ پیشنهادی برای پَرِ سیمرغ",
-"bytes": 31166
+"bytes": 31682
 },
 {
 "path": "simorgh/par/docs/masterplan.html",
@@ -1042,7 +1042,7 @@
 "why": "پیش‌نویس‌ها و نسخه‌های قدیمی پَرِ سیمرغ",
 "manual": false,
 "title": "نقشهٔ کلان: خلاصهٔ زنده",
-"bytes": 9177
+"bytes": 9519
 },
 {
 "path": "simorgh/par/docs/qa-europe.html",
@@ -1051,7 +1051,7 @@
 "why": "پیش‌نویس‌ها و نسخه‌های قدیمی پَرِ سیمرغ",
 "manual": false,
 "title": "پرسش و پاسخِ ارائهٔ اروپا",
-"bytes": 18639
+"bytes": 19010
 },
 {
 "path": "simorgh/par/docs/qa-site.html",
@@ -1060,7 +1060,7 @@
 "why": "پیش‌نویس‌ها و نسخه‌های قدیمی پَرِ سیمرغ",
 "manual": false,
 "title": "پرسش و پاسخِ سایت",
-"bytes": 25704
+"bytes": 26133
 },
 {
 "path": "simorgh/par/docs/story-text.html",
@@ -1069,7 +1069,7 @@
 "why": "پیش‌نویس‌ها و نسخه‌های قدیمی پَرِ سیمرغ",
 "manual": false,
 "title": "خانه‌ای در افسریه: متن",
-"bytes": 20037
+"bytes": 20408
 },
 {
 "path": "simorgh/par/old/full-game-shahrivar.html",
@@ -1078,7 +1078,7 @@
 "why": "پیش‌نویس‌ها و نسخه‌های قدیمی پَرِ سیمرغ",
 "manual": false,
 "title": "متنِ کاملِ بازی (نسخهٔ شهریور ۱۴۰۵، با بخشِ پروپوزال)",
-"bytes": 347172
+"bytes": 347659
 },
 {
 "path": "data/coverage.json",
@@ -1186,7 +1186,7 @@
 "why": "خودِ تنظیمات دسترسی",
 "manual": false,
 "title": "",
-"bytes": 526830
+"bytes": 526831
 },
 {
 "path": "data/access/dates.json",
@@ -1213,7 +1213,7 @@
 "why": "خودِ تنظیمات دسترسی",
 "manual": false,
 "title": "",
-"bytes": 33359
+"bytes": 33358
 },
 {
 "path": "data/access/server.json",
@@ -2122,7 +2122,7 @@
 "why": "ابزار ساخت",
 "manual": false,
 "title": "",
-"bytes": 3831
+"bytes": 4099
 },
 {
 "path": "build/panel.py",
@@ -2149,7 +2149,7 @@
 "why": "ابزار ساخت",
 "manual": false,
 "title": "",
-"bytes": 5509
+"bytes": 6398
 },
 {
 "path": "build/sakht_day.py",
@@ -2275,7 +2275,7 @@
 "why": "مشترک",
 "manual": false,
 "title": "دفتر پروژه",
-"bytes": 51731
+"bytes": 52044
 },
 {
 "path": "core/nav.json",
@@ -2293,7 +2293,7 @@
 "why": "مشترک",
 "manual": false,
 "title": "چیزهایی که باید بگیریم",
-"bytes": 15903
+"bytes": 16016
 },
 {
 "path": "core/panel.html",
@@ -2302,7 +2302,7 @@
 "why": "پنل دسترسی",
 "manual": false,
 "title": "پنل دسترسی",
-"bytes": 59530
+"bytes": 59614
 },
 {
 "path": "core/repos.html",
@@ -2311,7 +2311,7 @@
 "why": "مشترک",
 "manual": false,
 "title": "مخزن‌های تازه",
-"bytes": 7800
+"bytes": 8142
 },
 {
 "path": "core/tests.html",
@@ -2320,7 +2320,7 @@
 "why": "صفحهٔ تست‌ها",
 "manual": false,
 "title": "تست‌ها",
-"bytes": 54489
+"bytes": 55063
 },
 {
 "path": "call.html",
