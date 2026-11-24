@@ -1,0 +1,16 @@
+{
+  "note": "پایگاه‌دادهٔ دسترسی‌های سیمرغ. این دو مقدار عمومی‌اند و رمز نیستند؛ بدون حسابِ تأییدشده هیچ ردیفی خوانده نمی‌شود.",
+  "project": "simorgh",
+  "ref": "wohfdenjiyolfchhnozb",
+  "url": "https://wohfdenjiyolfchhnozb.supabase.co",
+  "publishable_key": "sb_publishable_0Orqe8Fw7SS_VCbAZz54ag_qxUZOZAt",
+  "region": "eu-central-1 (فرانکفورت)",
+  "created": "2026-11-24",
+  "schema": "access؛ نماهای acc_* در public برای API",
+  "rules": [
+    "جدول‌ها فقط فهرست مسیرها و سطح‌ها را دارند، نه محتوای صفحه‌ها.",
+    "سطح ۴ با یک قید در خود پایگاه‌داده ممنوع است: constraint no_level_4_on_server.",
+    "anon هیچ دسترسی‌ای ندارد؛ نه به schema، نه به نماها.",
+    "هر کس با کد یک‌بارمصرف حسابش را به ردیف خودش وصل می‌کند (تابع claim)."
+  ]
+}

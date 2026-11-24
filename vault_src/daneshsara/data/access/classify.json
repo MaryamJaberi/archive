@@ -2,11 +2,11 @@
 "built": "2026-11-24",
 "model_version": 1,
 "counts": {
-"0": 2421,
+"0": 2432,
 "1": 40,
 "2": 157,
-"3": 38,
-"4": 6
+"3": 40,
+"4": 7
 },
 "rows": [
 {
@@ -556,7 +556,7 @@
 "why": "فهرست مدخل‌های خصوصی",
 "manual": false,
 "title": "سیمرغ",
-"bytes": 685905
+"bytes": 686778
 },
 {
 "path": "simorgh/index.html",
@@ -1195,7 +1195,7 @@
 "why": "خودِ تنظیمات دسترسی",
 "manual": false,
 "title": "",
-"bytes": 501522
+"bytes": 501831
 },
 {
 "path": "data/access/model.json",
@@ -1205,6 +1205,15 @@
 "manual": false,
 "title": "",
 "bytes": 5205
+},
+{
+"path": "data/access/server.json",
+"level": 4,
+"area": "access",
+"why": "خودِ تنظیمات دسترسی",
+"manual": false,
+"title": "",
+"bytes": 1037
 },
 {
 "path": "data/simorgh/cheat-ledger.json",
@@ -2095,7 +2104,7 @@
 "why": "ابزار ساخت",
 "manual": false,
 "title": "پنل دسترسی",
-"bytes": 14159
+"bytes": 19863
 },
 {
 "path": "build/plan_page.py",
@@ -2206,6 +2215,24 @@
 "bytes": 18964
 },
 {
+"path": "build/supabase/001_access.sql",
+"level": 3,
+"area": "work",
+"why": "ابزار ساخت",
+"manual": false,
+"title": "",
+"bytes": 6871
+},
+{
+"path": "build/supabase/seed.py",
+"level": 3,
+"area": "work",
+"why": "ابزار ساخت",
+"manual": false,
+"title": "",
+"bytes": 2889
+},
+{
 "path": "core/log.html",
 "level": 2,
 "area": "work",
@@ -2230,7 +2257,7 @@
 "why": "پنل دسترسی",
 "manual": false,
 "title": "پنل دسترسی",
-"bytes": 51933
+"bytes": 57876
 },
 {
 "path": "core/repos.html",
@@ -2272,6 +2299,16 @@
 },
 {
 "path": "vault.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "zaban/index.html",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -2472,6 +2509,26 @@
 },
 {
 "path": "phil/tools/thinkers.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "phil/tools/thinking-lab.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "miyan/aces-columns.html",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -21111,6 +21168,26 @@
 "public": true
 },
 {
+"path": "soc/stories/preference-falsification.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "soc/tools/compass.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "soc/tools/cooperation.html",
 "level": 0,
 "area": "par",
@@ -21172,6 +21249,16 @@
 },
 {
 "path": "soc/tools/political-map.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "soc/tools/rules-lab.html",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",
@@ -26161,6 +26248,16 @@
 "public": true
 },
 {
+"path": "core/archive.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "core/ask.html",
 "level": 0,
 "area": "par",
@@ -26181,7 +26278,47 @@
 "public": true
 },
 {
+"path": "core/ideas.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "core/insights.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "core/library.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
 "path": "core/log.html",
+"level": 0,
+"area": "par",
+"why": "روی سایت عمومی است",
+"manual": false,
+"title": "",
+"bytes": 0,
+"public": true
+},
+{
+"path": "core/map.html",
 "level": 0,
 "area": "par",
 "why": "روی سایت عمومی است",

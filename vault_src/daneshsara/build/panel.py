@@ -50,12 +50,26 @@ section[hidden]{display:none}
 <button data-t="people">آدم‌ها</button>
 <button data-t="content">محتوا</button>
 <button data-t="out">خروجی</button>
+<button data-t="srv">سرور</button>
 </nav>
 
 <section id="levels"></section>
 <section id="roles" hidden></section>
 <section id="people" hidden></section>
 <section id="content" hidden></section>
+<section id="srv" hidden>
+  <div class="card"><b>سرور دسترسی‌ها</b>
+   <p class="mut">رول‌ها، آدم‌ها و سطح هر صفحه روی پایگاه‌دادهٔ سیمرغ می‌نشینند تا بشود دسترسی کسی را همان لحظه لغو کرد. محتوای صفحه‌ها آن‌جا نمی‌رود؛ فقط فهرست مسیرها تا سطح ۳.</p>
+   <p id="who" class="mut">وارد نشده‌ای.</p>
+   <div id="login"><div class="row"><input id="em" class="grow" type="email" placeholder="ایمیل" autocomplete="username">
+    <input id="pw" type="password" placeholder="رمز" autocomplete="current-password"></div>
+    <p class="row"><button class="b p" id="si">ورود</button><button class="b" id="su">ساخت حساب</button></p></div>
+   <div id="claimbox" hidden><div class="row"><input id="cc" class="grow" placeholder="کد یک‌بارمصرفِ وصل‌شدن">
+    <button class="b p" id="cl">وصل کن</button></div></div>
+   <div id="sync" hidden><p class="row"><button class="b p" id="push">بفرست به سرور</button>
+    <button class="b" id="pull">بخوان از سرور</button><button class="b" id="so">خروج</button></p></div>
+   <p id="smsg" class="mut"></p></div>
+</section>
 <section id="out" hidden>
   <div class="card"><p class="mut">این دو متن را کپی کن و در گفت‌وگو به کلاد بده؛ خودش در صندوق می‌گذارد و بسته‌ها را از نو می‌سازد. تا وقتی این کار نشود، تغییرهایت فقط در همین مرورگر می‌ماند.</p>
   <p class="row"><button class="b p" id="cp1">کپی تنظیمات</button><button class="b" id="cp2">کپی تغییرهای سطح فایل‌ها</button><button class="b" id="rst">برگرد به حالت ذخیره‌شده</button></p>
@@ -167,10 +181,61 @@ function out(){
   document.getElementById('rst').onclick=()=>{localStorage.removeItem(KEY);S={model:structuredClone(MODEL),over:{}};levels();roles();people();content();out()};
 }
 
+
+const SB='https://wohfdenjiyolfchhnozb.supabase.co';
+const AK='sb_publishable_0Orqe8Fw7SS_VCbAZz54ag_qxUZOZAt';
+let TOK=sessionStorage.getItem('ds-sb')||'';
+const msg=t=>{const e=document.getElementById('smsg');if(e)e.textContent=t};
+async function api(path,opt){opt=opt||{};const h={apikey:AK,'Content-Type':'application/json'};
+  Object.assign(h,opt.headers||{});if(TOK)h.Authorization='Bearer '+TOK;
+  const r=await fetch(SB+path,Object.assign({},opt,{headers:h}));
+  const t=await r.text();let j=null;try{j=t?JSON.parse(t):null}catch(e){j=t}
+  if(!r.ok)throw new Error((j&&(j.message||j.msg||j.error_description||j.error))||('خطای '+r.status));
+  return j}
+async function whoami(){
+  if(!TOK){document.getElementById('who').textContent='وارد نشده‌ای.';
+    document.getElementById('login').hidden=false;document.getElementById('sync').hidden=true;
+    document.getElementById('claimbox').hidden=true;return}
+  document.getElementById('login').hidden=true;
+  try{const me=await api('/rest/v1/rpc/my_access',{method:'POST',body:'{}'});
+    if(me&&me.length){const m=me[0];
+      document.getElementById('who').textContent='وارد شده‌ای به‌عنوان «'+m.label+'» با رول '+m.role_fa+' (تا سطح '+fa(Math.max.apply(null,m.levels))+')';
+      document.getElementById('sync').hidden=false;document.getElementById('claimbox').hidden=true}
+    else{document.getElementById('who').textContent='حساب ساخته شد ولی هنوز به هیچ ردیفی وصل نیست. کد یک‌بارمصرف را بزن.';
+      document.getElementById('claimbox').hidden=false;document.getElementById('sync').hidden=true}
+  }catch(e){document.getElementById('who').textContent='خطا: '+e.message}}
+function srv(){
+  document.getElementById('si').onclick=async()=>{try{msg('…');
+    const r=await api('/auth/v1/token?grant_type=password',{method:'POST',body:JSON.stringify(
+      {email:document.getElementById('em').value.trim(),password:document.getElementById('pw').value})});
+    TOK=r.access_token;sessionStorage.setItem('ds-sb',TOK);msg('وارد شدی');whoami()}catch(e){msg('خطا: '+e.message)}};
+  document.getElementById('su').onclick=async()=>{try{msg('…');
+    await api('/auth/v1/signup',{method:'POST',body:JSON.stringify(
+      {email:document.getElementById('em').value.trim(),password:document.getElementById('pw').value})});
+    msg('حساب ساخته شد. اگر ایمیل تأیید آمد، اول تأییدش کن، بعد «ورود» را بزن.')}catch(e){msg('خطا: '+e.message)}};
+  document.getElementById('cl').onclick=async()=>{try{msg('…');
+    const r=await api('/rest/v1/rpc/claim',{method:'POST',body:JSON.stringify({code:document.getElementById('cc').value.trim()})});
+    msg('وصل شد: '+(r&&r[0]?r[0].label:''));whoami()}catch(e){msg('خطا: '+e.message)}};
+  document.getElementById('so').onclick=()=>{TOK='';sessionStorage.removeItem('ds-sb');msg('بیرون آمدی');whoami()};
+  document.getElementById('push').onclick=async()=>{try{msg('می‌فرستم…');
+    const up=(t,b)=>api('/rest/v1/'+t,{method:'POST',headers:{Prefer:'resolution=merge-duplicates,return=minimal'},body:JSON.stringify(b)});
+    await up('acc_levels',S.model.levels);
+    await up('acc_areas',S.model.areas.map(a=>({key:a.key,fa:a.fa})));
+    await up('acc_actions',S.model.actions.map(a=>({key:a.key,fa:a.fa,note:a.note||''})));
+    await up('acc_roles',S.model.roles.map(r=>({key:r.key,fa:r.fa,note:r.note||'',levels:r.levels,actions:r.actions,areas:r.areas==='*'?null:r.areas})));
+    const rows=ROWS.map(r=>({path:r.path,level:lvlOf(r.path),area:r.area==='—'?null:r.area,title:r.title||'',why:'',manual:!!S.over[r.path]}))
+                   .filter(r=>r.level<=3);
+    for(let i=0;i<rows.length;i+=100)await up('acc_content',rows.slice(i,i+100));
+    msg('فرستاده شد: '+fa(rows.length)+' مسیر تا سطح ۳. سطح ۴ نرفت.')}catch(e){msg('خطا: '+e.message)}};
+  document.getElementById('pull').onclick=async()=>{try{msg('می‌خوانم…');
+    const rs=await api('/rest/v1/acc_roles?select=*',{});const ps=await api('/rest/v1/acc_people?select=label,role_key,status',{});
+    msg('روی سرور: '+fa(rs.length)+' رول، '+fa(ps.length)+' آدم ('+ps.map(p=>p.label).join('، ')+')')}catch(e){msg('خطا: '+e.message)}};
+  whoami()}
+
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
   document.querySelectorAll('nav button').forEach(x=>x.setAttribute('aria-current',x===b));
-  ['levels','roles','people','content','out'].forEach(id=>document.getElementById(id).hidden=(id!==b.dataset.t));
-  if(b.dataset.t==='out')out();if(b.dataset.t==='content')content();});
+  ['levels','roles','people','content','out','srv'].forEach(id=>document.getElementById(id).hidden=(id!==b.dataset.t));
+  if(b.dataset.t==='out')out();if(b.dataset.t==='content')content();if(b.dataset.t==='srv')srv();});
 levels();roles();people();content();
 </script></body></html>"""
 
