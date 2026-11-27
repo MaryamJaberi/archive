@@ -29,6 +29,11 @@ open(f'{DST}/simorgh/index.html', 'w', encoding='utf-8').write(
  'h1{font-size:1.2rem}a{display:block;background:#fff;border:1px solid #e3ddd2;border-radius:10px;'
  'padding:.5rem .8rem;margin:.4rem 0;color:#1C1915;text-decoration:none}'
  '@media(prefers-color-scheme:dark){body{background:#141210;color:#ece7df}a{background:#1e1b18;border-color:#35302a;color:#ece7df}}'
- '</style></head><body><h1>پَرِ سیمرغ</h1><p>تحلیل و بازی. نسخهٔ اشتراکی.</p>'
- + ''.join(f'<a href="{h}">{t}</a>' for h, t in pages) + '</body></html>')
+ 'a.first{border:2px solid #a8791c;padding:.9rem 1rem;font-weight:700}a.first small{display:block;font-weight:400;opacity:.75}'
+ 'h2{font-size:.9rem;opacity:.7;margin:1.4rem 0 .2rem}'
+ '</style></head><body><h1>پَرِ سیمرغ</h1>'
+ '<a class="first" href="par/parvande.html">از این‌جا شروع کن: پروندهٔ سیمرغ'
+ '<small>هجده پرسش، جواب کوتاه. اگر فقط همین را بخوانی کل ماجرا را می‌دانی.</small></a>'
+ '<h2>بقیهٔ صفحه‌ها، برای وقتی که بخواهی عمیق‌تر ببینی</h2>'
+ + ''.join(f'<a href="{h}">{t}</a>' for h, t in pages if not h.endswith('parvande.html')) + '</body></html>')
 print(f'{n} فایل تا سطح {MAX} انتخاب شد؛ {len(pages)} صفحه در فهرست')
